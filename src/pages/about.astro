@@ -1,38 +1,291 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+
+const SKILLS = ['閱讀', 'Python', 'AI 應用', '健康科學', '個人理財', 'SEO', '產品思維'];
+
+const FEATURED = [
+	{ title: '地中海飲食：個人推薦給父母的飲食方式', slug: 'health/mediterranean-diet', emoji: '🌿' },
+	{ title: 'AutoEncoder 自動編碼器來建構生成模型', slug: 'ai/autoencoder', emoji: '🤖' },
+	{ title: '如何掌握思考框架：《造局者》', slug: 'ai/decision-maker', emoji: '📖' },
+];
+
+const SOCIAL = [
+	{ label: 'Email', href: 'mailto:lenny0929@gmail.com', icon: '✉️' },
+	{ label: 'RSS', href: '/rss.xml', icon: '📡' },
+];
 ---
 
-<Layout
-	title="關於懶泥陳"
-	description="懶泥陳的閱讀書房 — 透過輸出轉化自己的閱讀，也希望能讓偶然逛到這裡的你能更喜歡閱讀。"
-	pubDate={new Date('2024-01-01')}
->
-	<h2>嗨，我是懶泥陳 👋</h2>
-	<p>
-		歡迎來到<strong>懶泥陳的閱讀書房</strong>。這裡是我的閱讀輸出基地，我相信透過輸出能夠更深刻地吸收閱讀的內容，也希望這些文章能讓偶然逛到這裡的你，能更喜歡閱讀。
-	</p>
+<!doctype html>
+<html lang="zh-TW">
+	<head>
+		<BaseHead
+			title={`關於懶泥陳 | ${SITE_TITLE}`}
+			description="懶泥陳的閱讀書房 — 透過輸出轉化自己的閱讀，也希望能讓偶然逛到這裡的你能更喜歡閱讀。"
+			pubDate={new Date('2024-01-01')}
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Profile Card -->
+			<section class="profile-section">
+				<div class="avatar">
+					<span class="avatar-emoji">🧑‍💻</span>
+				</div>
+				<div class="profile-info">
+					<h1>懶泥陳 <span class="handle">Lenny Chen</span></h1>
+					<p class="bio">
+						閱讀愛好者、業餘寫作者。相信透過輸出能更深刻地吸收知識。<br />
+						這個書房是我消化閱讀、整理思考的地方，也希望這裡的文字能讓你更喜歡閱讀。
+					</p>
+					<div class="skills">
+						{SKILLS.map(s => <span class="skill-tag">{s}</span>)}
+					</div>
+					<div class="social-links">
+						{SOCIAL.map(s => (
+							<a href={s.href} class="social-btn">{s.icon} {s.label}</a>
+						))}
+					</div>
+				</div>
+			</section>
 
-	<h2>為什麼寫閱讀筆記？</h2>
-	<p>
-		閱讀一本書容易，但真正吸收、內化書中的知識卻很難。我發現，當我嘗試用自己的話寫出書的重點時，才真正理解了什麼。這個過程強迫我思考：「我真的懂了嗎？」。
-	</p>
-	<p>
-		費曼學習法告訴我們，能夠用簡單的語言解釋，才算是真正學會。所以這個部落格不只是書摘，而是我消化後的想法、我的觀點、以及對生活的啟發。
-	</p>
+			<div class="about-grid">
+				<!-- 主要內容 -->
+				<div class="about-content prose">
+					<h2>為什麼寫閱讀筆記？</h2>
+					<p>
+						閱讀一本書容易，但真正吸收、內化書中的知識卻很難。我發現，當我嘗試用自己的話寫出書的重點時，才真正理解了什麼。這個過程強迫我思考：「我真的懂了嗎？」
+					</p>
+					<p>
+						費曼學習法告訴我們，能夠用簡單的語言解釋，才算是真正學會。所以這個部落格不只是書摘，而是我消化後的想法、我的觀點、以及對生活的啟發。
+					</p>
 
-	<h2>這裡有什麼？</h2>
-	<ul>
-		<li><strong>📖 閱讀筆記</strong> — 書籍讀後心得與重點整理</li>
-		<li><strong>🌿 健康</strong> — 飲食、運動、睡眠科學</li>
-		<li><strong>🧠 學習</strong> — 學習方法、思維框架</li>
-		<li><strong>💼 工作與職場</strong> — 生產力、職涯發展</li>
-		<li><strong>💰 理財</strong> — 個人財務、投資觀念</li>
-		<li><strong>💻 技術</strong> — 程式、AI、數位工具</li>
-	</ul>
+					<h2>這裡有什麼？</h2>
+					<ul>
+						<li><strong>📖 閱讀筆記</strong> — 書籍讀後心得與重點整理</li>
+						<li><strong>🌿 健康</strong> — 飲食、運動、睡眠科學</li>
+						<li><strong>🧠 學習</strong> — 學習方法、思維框架</li>
+						<li><strong>💼 工作與職場</strong> — 生產力、職涯發展</li>
+						<li><strong>💰 理財</strong> — 個人財務、投資觀念</li>
+						<li><strong>💻 技術</strong> — 程式、AI、數位工具</li>
+					</ul>
 
-	<h2>聯絡我</h2>
-	<p>
-		如果你對文章有任何想法或建議，歡迎透過 Email 與我聯絡：
-		<a href="mailto:lenny0929@gmail.com">lenny0929@gmail.com</a>
-	</p>
-</Layout>
+					<h2>聯絡我</h2>
+					<p>
+						如果你對文章有任何想法或建議，歡迎透過 Email 與我聯絡：
+						<a href="mailto:lenny0929@gmail.com">lenny0929@gmail.com</a>
+					</p>
+				</div>
+
+				<!-- 側邊：精選文章 -->
+				<aside class="about-sidebar">
+					<div class="sidebar-card">
+						<h3 class="sidebar-heading">精選文章</h3>
+						<ul class="featured-list">
+							{FEATURED.map(f => (
+								<li>
+									<a href={`/blog/${f.slug}/`} class="featured-link">
+										<span class="featured-emoji">{f.emoji}</span>
+										<span>{f.title}</span>
+									</a>
+								</li>
+							))}
+						</ul>
+						<a href="/blog" class="all-posts-btn">查看所有文章 →</a>
+					</div>
+				</aside>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+main {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 4rem 1.5rem 6rem;
+}
+
+/* ── Profile ────────────────────────────────────────────────────── */
+.profile-section {
+	display: flex;
+	gap: 2.5rem;
+	align-items: flex-start;
+	margin-bottom: 3.5rem;
+	padding-bottom: 3rem;
+	border-bottom: 1px solid var(--color-border);
+}
+
+@media (max-width: 640px) {
+	.profile-section {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+}
+
+.avatar {
+	flex-shrink: 0;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	background: linear-gradient(135deg, #dbeafe, #ede9fe);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+@media (prefers-color-scheme: dark) {
+	.avatar { background: linear-gradient(135deg, #1e3a8a, #312e81); }
+}
+.avatar-emoji { font-size: 3.5rem; line-height: 1; }
+
+.profile-info { flex: 1; }
+
+.profile-info h1 {
+	font-size: 2rem;
+	font-weight: 900;
+	letter-spacing: -0.04em;
+	color: var(--color-text-primary);
+	margin: 0 0 0.25rem;
+}
+
+.handle {
+	font-size: 1.1rem;
+	font-weight: 500;
+	color: var(--color-text-muted);
+	letter-spacing: 0;
+}
+
+.bio {
+	font-size: 1rem;
+	color: var(--color-text-secondary);
+	line-height: 1.7;
+	margin: 0.75rem 0 1.25rem;
+}
+
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.4rem;
+	margin-bottom: 1.25rem;
+}
+.skill-tag {
+	background: var(--color-bg-secondary);
+	border: 1px solid var(--color-border);
+	color: var(--color-text-secondary);
+	font-size: 0.8rem;
+	font-weight: 600;
+	padding: 0.25rem 0.75rem;
+	border-radius: 9999px;
+}
+
+.social-links {
+	display: flex;
+	gap: 0.6rem;
+	flex-wrap: wrap;
+}
+.social-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.35rem;
+	padding: 0.45rem 1rem;
+	border-radius: 9999px;
+	border: 1px solid var(--color-border);
+	background: var(--color-bg-card);
+	color: var(--color-text-secondary);
+	font-size: 0.85rem;
+	font-weight: 600;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.social-btn:hover {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+
+/* ── About Grid ─────────────────────────────────────────────────── */
+.about-grid {
+	display: grid;
+	grid-template-columns: 1fr 280px;
+	gap: 3rem;
+	align-items: start;
+}
+
+@media (max-width: 800px) {
+	.about-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* ── Sidebar ────────────────────────────────────────────────────── */
+.sidebar-card {
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 16px;
+	padding: 1.5rem;
+	position: sticky;
+	top: 5.5rem;
+}
+
+.sidebar-heading {
+	font-size: 0.75rem;
+	font-weight: 800;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: var(--color-text-muted);
+	margin: 0 0 1rem;
+}
+
+.featured-list {
+	list-style: none;
+	padding: 0;
+	margin: 0 0 1.25rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.featured-link {
+	display: flex;
+	align-items: flex-start;
+	gap: 0.6rem;
+	font-size: 0.875rem;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	padding: 0.5rem;
+	border-radius: 8px;
+	transition: all 0.15s ease;
+	line-height: 1.45;
+}
+.featured-link:hover {
+	background: var(--color-accent-light);
+	color: var(--color-accent);
+	text-decoration: none;
+}
+.featured-emoji { font-size: 1.1rem; flex-shrink: 0; margin-top: 0.05rem; }
+
+.all-posts-btn {
+	display: block;
+	text-align: center;
+	padding: 0.6rem;
+	background: var(--color-accent-light);
+	border: 1px solid var(--color-accent-border);
+	border-radius: 9999px;
+	color: var(--color-accent);
+	font-size: 0.85rem;
+	font-weight: 700;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.all-posts-btn:hover {
+	background: var(--color-accent);
+	color: #fff;
+	text-decoration: none;
+}
+</style>

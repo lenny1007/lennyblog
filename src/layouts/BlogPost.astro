@@ -9,9 +9,29 @@ type Props = CollectionEntry<'blog'>['data'] & {
 	prevPost?: CollectionEntry<'blog'> | null;
 	nextPost?: CollectionEntry<'blog'> | null;
 	readingTime?: number;
+	relatedPosts?: CollectionEntry<'blog'>[];
 };
 
-const { title, description, pubDate, updatedDate, heroImage, category, subcategories, tags, prevPost, nextPost, readingTime } = Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	category,
+	subcategories,
+	tags,
+	prevPost,
+	nextPost,
+	readingTime,
+	relatedPosts,
+} = Astro.props;
+
+const CATEGORY_EMOJI: Record<string, string> = {
+	'閱讀筆記': '📖', '健康': '🌿', '技術': '💻', 'AI': '🤖', '學習': '🧠',
+	'創業': '🚀', '理財': '💰', '數位生活': '📱', '工作': '💼', '生活智慧': '✨',
+	'產品': '🎯', 'Python': '🐍', 'SEO': '🔍', '人際': '👥',
+};
 ---
 
 <html lang="zh-TW">
@@ -20,116 +40,295 @@ const { title, description, pubDate, updatedDate, heroImage, category, subcatego
 	</head>
 
 	<body>
+		<!-- 閱讀進度條 -->
+		<div id="reading-progress" role="progressbar" aria-label="閱讀進度"></div>
+
 		<Header />
 		<main>
-			<article>
-				<!-- Hero Image -->
-				{heroImage && (
-					<div class="hero-image">
-						<img src={heroImage} alt={title} loading="eager" />
-					</div>
-				)}
-
-				<!-- Title Section -->
-				<div class="title-section">
-					<!-- Meta badges -->
-					<div class="meta-badges">
-						{category && (
-							<a href={`/blog/category/${encodeURIComponent(category)}`} class="badge badge-cat">{category}</a>
-						)}
-						{subcategories && subcategories.map((sub) => (
-							<span class="badge badge-sub">{sub}</span>
-						))}
-					</div>
-
-					<h1>{title}</h1>
-
-					<div class="date-row">
-						<span class="date">
-							📅 <FormattedDate date={pubDate} />
-						</span>
-						{updatedDate && (
-							<span class="date updated">
-								・ 更新於 <FormattedDate date={updatedDate} />
-							</span>
-						)}
-						{readingTime && (
-							<span class="reading-time">・ 約 {readingTime} 分鐘閱讀</span>
-						)}
-					</div>
-
-					{tags && tags.length > 0 && (
-						<div class="tag-row">
-							{tags.map((tag) => (
-								<a href={`/blog/tag/${encodeURIComponent(tag)}`} class="badge badge-tag">{tag}</a>
-							))}
+			<div class="post-layout">
+				<article>
+					<!-- Hero Image -->
+					{heroImage && (
+						<div class="hero-image">
+							<img src={heroImage} alt={title} loading="eager" />
 						</div>
 					)}
-				</div>
 
-				<!-- Post Body -->
-				<div class="prose">
-					<slot />
-				</div>
+					<!-- Title Section -->
+					<div class="title-section">
+						<div class="meta-badges">
+							{category && (
+								<a href={`/blog/category/${encodeURIComponent(category)}`} class="badge badge-cat">{category}</a>
+							)}
+							{subcategories && subcategories.map((sub) => (
+								<span class="badge badge-sub">{sub}</span>
+							))}
+						</div>
 
-				<!-- Broken image handler: hide failed images, show placeholder -->
-				<script>
-				document.querySelectorAll('.prose img').forEach((img) => {
-					const el = img as HTMLImageElement;
-					if (el.complete && el.naturalWidth === 0) {
-						el.replaceWith(makePlaceholder(el.alt));
-					} else {
-						el.addEventListener('error', () => el.replaceWith(makePlaceholder(el.alt)));
+						<h1>{title}</h1>
+
+						<div class="date-row">
+							<span class="date">
+								📅 <FormattedDate date={pubDate} />
+							</span>
+							{updatedDate && (
+								<span class="date updated">
+									・ 更新於 <FormattedDate date={updatedDate} />
+								</span>
+							)}
+							{readingTime && (
+								<span class="reading-time">・ 約 {readingTime} 分鐘閱讀</span>
+							)}
+						</div>
+
+						{tags && tags.length > 0 && (
+							<div class="tag-row">
+								{tags.map((tag) => (
+									<a href={`/blog/tag/${encodeURIComponent(tag)}`} class="badge badge-tag">{tag}</a>
+								))}
+							</div>
+						)}
+					</div>
+
+					<!-- Post Body -->
+					<div class="prose">
+						<slot />
+					</div>
+
+					<!-- 分享按鈕 -->
+					<div class="share-section">
+						<span class="share-label">分享文章</span>
+						<div class="share-buttons">
+							<a id="share-twitter" class="share-btn share-twitter" href="#" target="_blank" rel="noopener" aria-label="分享到 Twitter">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+								Twitter
+							</a>
+							<a id="share-facebook" class="share-btn share-facebook" href="#" target="_blank" rel="noopener" aria-label="分享到 Facebook">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+								Facebook
+							</a>
+							<a id="share-line" class="share-btn share-line" href="#" target="_blank" rel="noopener" aria-label="分享到 LINE">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63h2.386c.349 0 .63.285.63.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.627-.63.349 0 .631.285.631.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg>
+								LINE
+							</a>
+						</div>
+					</div>
+
+					<!-- Broken image handler -->
+					<script>
+					document.querySelectorAll('.prose img').forEach((img) => {
+						const el = img as HTMLImageElement;
+						if (el.complete && el.naturalWidth === 0) {
+							el.replaceWith(makePlaceholder(el.alt));
+						} else {
+							el.addEventListener('error', () => el.replaceWith(makePlaceholder(el.alt)));
+						}
+					});
+					function makePlaceholder(alt: string) {
+						const div = document.createElement('div');
+						div.className = 'broken-img-placeholder';
+						div.innerHTML = `<span class="broken-img-icon">🖼️</span><span class="broken-img-alt">${alt || '圖片無法顯示'}</span>`;
+						return div;
 					}
-				});
-				function makePlaceholder(alt: string) {
-					const div = document.createElement('div');
-					div.className = 'broken-img-placeholder';
-					div.innerHTML = `<span class="broken-img-icon">🖼️</span><span class="broken-img-alt">${alt || '圖片無法顯示'}</span>`;
-					return div;
-				}
-				</script>
+					</script>
 
-				<!-- Prev / Next Navigation -->
-				{(prevPost || nextPost) && (
-					<nav class="post-nav">
-						<div class="post-nav-item prev">
-							{prevPost ? (
-								<a href={`/blog/${prevPost.id}/`} class="post-nav-link">
-									<span class="nav-label">← 上一篇</span>
-									<span class="nav-title">{prevPost.data.title}</span>
-								</a>
-							) : <span />}
-						</div>
-						<div class="post-nav-item next">
-							{nextPost ? (
-								<a href={`/blog/${nextPost.id}/`} class="post-nav-link">
-									<span class="nav-label">下一篇 →</span>
-									<span class="nav-title">{nextPost.data.title}</span>
-								</a>
-							) : <span />}
-						</div>
-					</nav>
-				)}
+					<!-- 相關文章 -->
+					{relatedPosts && relatedPosts.length > 0 && (
+						<section class="related-posts">
+							<h3 class="related-title">相關文章</h3>
+							<ul class="related-grid">
+								{relatedPosts.map((p) => {
+									const emoji = CATEGORY_EMOJI[p.data.category ?? ''] ?? '✨';
+									return (
+										<li>
+											<a href={`/blog/${p.id}/`} class="related-card">
+												<div class="related-img-wrap">
+													{p.data.heroImage ? (
+														<img
+															src={p.data.heroImage}
+															alt={p.data.title}
+															loading="lazy"
+															onerror={`this.style.display='none';this.nextElementSibling.style.display='flex'`}
+														/>
+													) : null}
+													<div class="related-placeholder" style={p.data.heroImage ? 'display:none' : ''}>
+														<span>{emoji}</span>
+													</div>
+												</div>
+												<div class="related-body">
+													{p.data.category && <span class="badge badge-cat">{p.data.category}</span>}
+													<p class="related-post-title">{p.data.title}</p>
+												</div>
+											</a>
+										</li>
+									);
+								})}
+							</ul>
+						</section>
+					)}
 
-				<!-- Back link -->
-				<div class="back-row">
-					<a href="/blog" class="back-link">← 回到文章列表</a>
-				</div>
-			</article>
+					<!-- Prev / Next Navigation -->
+					{(prevPost || nextPost) && (
+						<nav class="post-nav">
+							<div class="post-nav-item prev">
+								{prevPost ? (
+									<a href={`/blog/${prevPost.id}/`} class="post-nav-link">
+										<span class="nav-label">← 上一篇</span>
+										<span class="nav-title">{prevPost.data.title}</span>
+									</a>
+								) : <span />}
+							</div>
+							<div class="post-nav-item next">
+								{nextPost ? (
+									<a href={`/blog/${nextPost.id}/`} class="post-nav-link">
+										<span class="nav-label">下一篇 →</span>
+										<span class="nav-title">{nextPost.data.title}</span>
+									</a>
+								) : <span />}
+							</div>
+						</nav>
+					)}
+
+					<!-- Back link -->
+					<div class="back-row">
+						<a href="/blog" class="back-link">← 回到文章列表</a>
+					</div>
+				</article>
+
+				<!-- TOC 側邊欄 -->
+				<aside class="toc-sidebar" aria-label="文章目錄">
+					<div class="toc-inner">
+						<p class="toc-heading">目錄</p>
+						<nav id="toc-nav"></nav>
+					</div>
+				</aside>
+			</div>
 		</main>
+
 		<Footer />
+
+		<!-- 閱讀進度條 JS -->
+		<script>
+		(function () {
+			const bar = document.getElementById('reading-progress') as HTMLElement;
+			if (!bar) return;
+			const onScroll = () => {
+				const scrollTop = window.scrollY;
+				const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+				if (docHeight <= 0) return;
+				bar.style.width = Math.min(100, (scrollTop / docHeight) * 100) + '%';
+			};
+			window.addEventListener('scroll', onScroll, { passive: true });
+			onScroll();
+		})();
+		</script>
+
+		<!-- TOC 生成 JS -->
+		<script>
+		(function () {
+			const nav = document.getElementById('toc-nav');
+			const sidebar = document.querySelector('.toc-sidebar') as HTMLElement;
+			if (!nav || !sidebar) return;
+
+			const headings = Array.from(document.querySelectorAll('.prose h2, .prose h3')) as HTMLElement[];
+			if (headings.length < 2) {
+				sidebar.style.display = 'none';
+				return;
+			}
+
+			const ul = document.createElement('ul');
+			headings.forEach(h => {
+				// 確保 heading 有 id
+				if (!h.id) {
+					h.id = h.textContent?.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fff-]/g, '') ?? '';
+				}
+				const li = document.createElement('li');
+				const a = document.createElement('a');
+				a.href = '#' + h.id;
+				a.textContent = h.textContent ?? '';
+				a.className = h.tagName === 'H3' ? 'toc-h3' : 'toc-h2';
+				a.addEventListener('click', (e) => {
+					e.preventDefault();
+					document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+					history.replaceState(null, '', '#' + h.id);
+				});
+				li.appendChild(a);
+				ul.appendChild(li);
+			});
+			nav.appendChild(ul);
+
+			// IntersectionObserver 高亮目前段落
+			const links = Array.from(nav.querySelectorAll('a')) as HTMLAnchorElement[];
+			const observer = new IntersectionObserver(
+				(entries) => {
+					entries.forEach(entry => {
+						if (entry.isIntersecting) {
+							links.forEach(l => l.classList.remove('active'));
+							const link = nav.querySelector(`a[href="#${entry.target.id}"]`);
+							link?.classList.add('active');
+						}
+					});
+				},
+				{ rootMargin: '-5% 0px -80% 0px' }
+			);
+			headings.forEach(h => observer.observe(h));
+		})();
+		</script>
+
+		<!-- 分享按鈕 JS -->
+		<script>
+		(function () {
+			const url = encodeURIComponent(window.location.href);
+			const text = encodeURIComponent(document.title);
+			const twitter = document.getElementById('share-twitter') as HTMLAnchorElement;
+			const facebook = document.getElementById('share-facebook') as HTMLAnchorElement;
+			const line = document.getElementById('share-line') as HTMLAnchorElement;
+			if (twitter) twitter.href = `https://twitter.com/intent/tweet?url=${url}&text=${text}`;
+			if (facebook) facebook.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+			if (line) line.href = `https://social-plugins.line.me/lineit/share?url=${url}`;
+		})();
+		</script>
 	</body>
 </html>
 
 <style>
+/* ── 閱讀進度條 ─────────────────────────────────────────────────── */
+#reading-progress {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 3px;
+	width: 0%;
+	background: var(--color-accent);
+	z-index: 200;
+	transition: width 0.1s linear;
+}
+
+/* ── Layout ─────────────────────────────────────────────────────── */
 main {
-	max-width: 860px;
+	max-width: 1180px;
 	margin: 0 auto;
 	padding: 3rem 1.5rem 5rem;
 }
 
+.post-layout {
+	display: grid;
+	grid-template-columns: minmax(0, 860px) 256px;
+	gap: 3.5rem;
+	align-items: start;
+}
+
+@media (max-width: 1100px) {
+	.post-layout {
+		grid-template-columns: 1fr;
+	}
+	.toc-sidebar {
+		display: none;
+	}
+}
+
 article {
+	min-width: 0;
 	display: flex;
 	flex-direction: column;
 	gap: 0;
@@ -252,12 +451,166 @@ article {
 	width: 100%;
 }
 
+/* ── 分享按鈕 ───────────────────────────────────────────────────── */
+.share-section {
+	margin-top: 3rem;
+	padding-top: 2rem;
+	border-top: 1px solid var(--color-border);
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+}
+
+.share-label {
+	font-size: 0.875rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	margin-right: 0.25rem;
+}
+
+.share-buttons {
+	display: flex;
+	gap: 0.6rem;
+	flex-wrap: wrap;
+}
+
+.share-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.4rem;
+	padding: 0.45rem 1rem;
+	border-radius: 9999px;
+	font-size: 0.82rem;
+	font-weight: 600;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	border: 1px solid transparent;
+}
+.share-twitter {
+	background: #000;
+	color: #fff;
+}
+.share-twitter:hover {
+	background: #1a1a1a;
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+.share-facebook {
+	background: #1877f2;
+	color: #fff;
+}
+.share-facebook:hover {
+	background: #166fe5;
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+.share-line {
+	background: #06c755;
+	color: #fff;
+}
+.share-line:hover {
+	background: #05b34d;
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.share-twitter { background: #fff; color: #000; }
+	.share-twitter:hover { background: #e2e8f0; }
+}
+
+/* ── 相關文章 ───────────────────────────────────────────────────── */
+.related-posts {
+	margin-top: 3rem;
+	padding-top: 2rem;
+	border-top: 1px solid var(--color-border);
+}
+
+.related-title {
+	font-size: 1.2rem;
+	font-weight: 800;
+	letter-spacing: -0.02em;
+	margin: 0 0 1.25rem;
+	color: var(--color-text-primary);
+}
+
+.related-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 1rem;
+}
+
+.related-card {
+	display: flex;
+	flex-direction: column;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 12px;
+	overflow: hidden;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.related-card:hover {
+	border-color: #93c5fd;
+	transform: translateY(-3px);
+	box-shadow: 0 8px 16px rgba(37, 99, 235, 0.1);
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.related-card:hover { border-color: #3b82f6; }
+}
+
+.related-img-wrap {
+	position: relative;
+	width: 100%;
+	height: 110px;
+	flex-shrink: 0;
+}
+.related-img-wrap img {
+	width: 100%;
+	height: 110px;
+	object-fit: cover;
+	display: block;
+}
+.related-placeholder {
+	width: 100%;
+	height: 110px;
+	background: var(--color-bg-secondary);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 2rem;
+}
+
+.related-body {
+	padding: 0.75rem 1rem 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.4rem;
+}
+
+.related-post-title {
+	font-size: 0.875rem;
+	font-weight: 600;
+	color: var(--color-text-primary);
+	margin: 0;
+	line-height: 1.45;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+.related-card:hover .related-post-title { color: var(--color-accent); }
+
 /* ── Post Nav ───────────────────────────────────────────────────── */
 .post-nav {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 1rem;
-	margin-top: 4rem;
+	margin-top: 3rem;
 	padding-top: 2rem;
 	border-top: 1px solid var(--color-border);
 }
@@ -325,4 +678,69 @@ article {
 	transition: var(--transition);
 }
 .back-link:hover { text-decoration: underline; }
+
+/* ── TOC 側邊欄 ─────────────────────────────────────────────────── */
+.toc-sidebar {
+	position: sticky;
+	top: 5.5rem;
+	max-height: calc(100vh - 7rem);
+	overflow-y: auto;
+}
+
+.toc-inner {
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 14px;
+	padding: 1.25rem 1.25rem 1.5rem;
+}
+
+.toc-heading {
+	font-size: 0.72rem;
+	font-weight: 800;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: var(--color-text-muted);
+	margin: 0 0 0.9rem;
+}
+
+#toc-nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.1rem;
+}
+
+#toc-nav a {
+	display: block;
+	font-size: 0.83rem;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	padding: 0.3rem 0.5rem;
+	border-radius: 6px;
+	border-left: 2px solid transparent;
+	transition: all 0.15s ease;
+	line-height: 1.45;
+}
+#toc-nav a:hover {
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	border-left-color: var(--color-accent);
+}
+#toc-nav a.active {
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	border-left-color: var(--color-accent);
+	font-weight: 600;
+}
+#toc-nav a.toc-h3 {
+	padding-left: 1.25rem;
+	font-size: 0.8rem;
+}
+
+/* TOC scrollbar 細化 */
+.toc-sidebar::-webkit-scrollbar { width: 4px; }
+.toc-sidebar::-webkit-scrollbar-track { background: transparent; }
+.toc-sidebar::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 9999px; }
 </style>

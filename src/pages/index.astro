@@ -6,7 +6,8 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-const posts = (await getCollection('blog'))
+const allPosts = await getCollection('blog');
+const posts = allPosts
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 9);
 
@@ -19,7 +20,23 @@ const CATEGORY_EMOJI: Record<string, string> = {
 	'創業':     '🚀',
 	'理財':     '💰',
 	'數位生活': '📱',
+	'工作':     '💼',
+	'生活智慧': '✨',
+	'產品':     '🎯',
+	'Python':   '🐍',
+	'SEO':      '🔍',
+	'人際':     '👥',
 };
+
+// 統計每個分類的文章數
+const categoryCounts: Record<string, number> = {};
+allPosts.forEach(p => {
+	if (p.data.category) {
+		categoryCounts[p.data.category] = (categoryCounts[p.data.category] ?? 0) + 1;
+	}
+});
+const categories = Object.entries(categoryCounts)
+	.sort((a, b) => b[1] - a[1]);
 ---
 
 <!doctype html>
@@ -44,6 +61,27 @@ const CATEGORY_EMOJI: Record<string, string> = {
 					<a href="/blog" class="btn-primary">瀏覽所有文章</a>
 					<a href="/about" class="btn-secondary">關於作者</a>
 				</div>
+			</div>
+		</section>
+
+		<!-- 分類區塊 -->
+		<section class="categories-section">
+			<div class="categories-inner">
+				<h2 class="section-title">探索主題</h2>
+				<ul class="categories-grid">
+					{categories.map(([cat, count]) => {
+						const emoji = CATEGORY_EMOJI[cat] ?? '✨';
+						return (
+							<li>
+								<a href={`/blog/category/${encodeURIComponent(cat)}`} class="cat-card">
+									<span class="cat-emoji">{emoji}</span>
+									<span class="cat-name">{cat}</span>
+									<span class="cat-count">{count} 篇</span>
+								</a>
+							</li>
+						);
+					})}
+				</ul>
 			</div>
 		</section>
 
@@ -194,6 +232,71 @@ const CATEGORY_EMOJI: Record<string, string> = {
 @media (prefers-color-scheme: dark) {
 	.btn-secondary { color: #94a3b8; border-color: #334155; }
 	.btn-secondary:hover { background: #1e293b; color: #f8fafc; }
+}
+
+/* ── 分類區塊 ───────────────────────────────────────────────────── */
+.categories-section {
+	background: var(--color-bg-secondary);
+	border-bottom: 1px solid var(--color-border);
+	padding: 4rem 1.5rem;
+}
+
+.categories-inner {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.categories-inner .section-title {
+	font-size: 1.8rem;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	margin: 0 0 2rem;
+}
+
+.categories-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	gap: 1rem;
+}
+
+.cat-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 1.5rem 1rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 16px;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	text-align: center;
+}
+.cat-card:hover {
+	border-color: #93c5fd;
+	transform: translateY(-4px);
+	box-shadow: 0 8px 16px rgba(37, 99, 235, 0.1);
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.cat-card:hover { border-color: #3b82f6; }
+}
+
+.cat-emoji { font-size: 2rem; line-height: 1; }
+
+.cat-name {
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: var(--color-text-primary);
+}
+
+.cat-count {
+	font-size: 0.78rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
 }
 
 /* ── Main / Posts ───────────────────────────────────────────────── */

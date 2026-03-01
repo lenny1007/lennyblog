@@ -1,6 +1,23 @@
 ---
 import { SITE_AUTHOR, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 const today = new Date();
+
+const CATEGORIES = [
+	{ name: '閱讀筆記', emoji: '📖' },
+	{ name: '健康',     emoji: '🌿' },
+	{ name: 'AI',       emoji: '🤖' },
+	{ name: '技術',     emoji: '💻' },
+	{ name: '學習',     emoji: '🧠' },
+	{ name: '理財',     emoji: '💰' },
+	{ name: '數位生活', emoji: '📱' },
+	{ name: '工作',     emoji: '💼' },
+	{ name: '創業',     emoji: '🚀' },
+	{ name: '生活智慧', emoji: '✨' },
+	{ name: '產品',     emoji: '🎯' },
+	{ name: 'Python',   emoji: '🐍' },
+	{ name: 'SEO',      emoji: '🔍' },
+	{ name: '人際',     emoji: '👥' },
+];
 ---
 
 <footer>
@@ -10,15 +27,19 @@ const today = new Date();
 			<p>{SITE_DESCRIPTION}</p>
 		</div>
 		<div class="footer-links">
-			<div class="footer-col">
-				<span class="col-title">內容</span>
-				<a href="/blog">所有文章</a>
-				<a href="/blog?category=reading-notes">閱讀筆記</a>
-				<a href="/blog?category=health">健康</a>
-				<a href="/blog?category=tech">技術</a>
+			<div class="footer-col footer-col-categories">
+				<span class="col-title">所有主題</span>
+				{CATEGORIES.map(cat => (
+					<a href={`/blog/category/${encodeURIComponent(cat.name)}`}>
+						{cat.emoji} {cat.name}
+					</a>
+				))}
 			</div>
 			<div class="footer-col">
-				<span class="col-title">關於</span>
+				<span class="col-title">瀏覽</span>
+				<a href="/blog">所有文章</a>
+				<a href="/blog/archive">文章歸檔</a>
+				<span class="col-title" style="margin-top:1rem">關於</span>
 				<a href="/about">關於我</a>
 				<a href="/rss.xml">RSS 訂閱</a>
 			</div>
@@ -67,6 +88,16 @@ const today = new Date();
 	.footer-links {
 		display: flex;
 		gap: 3rem;
+		align-items: flex-start;
+	}
+
+	.footer-col-categories {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 0.5rem 2rem;
+	}
+	.footer-col-categories .col-title {
+		grid-column: 1 / -1;
 	}
 
 	.footer-col {
