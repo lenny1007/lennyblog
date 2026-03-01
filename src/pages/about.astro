@@ -33,7 +33,12 @@ const SOCIAL = [
 			<!-- Profile Card -->
 			<section class="profile-section">
 				<div class="avatar">
-					<span class="avatar-emoji">🧑‍💻</span>
+					<img
+						src="https://secure.gravatar.com/avatar/5c818cf9caad1c8209dc4822c829e374?s=192&d=mm&r=g"
+						alt="懶泥陳 Lenny Chen"
+						width="120"
+						height="120"
+					/>
 				</div>
 				<div class="profile-info">
 					<h1>懶泥陳 <span class="handle">Lenny Chen</span></h1>
@@ -133,15 +138,16 @@ main {
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
-	background: linear-gradient(135deg, #dbeafe, #ede9fe);
-	display: flex;
-	align-items: center;
-	justify-content: center;
+	overflow: hidden;
+	border: 3px solid var(--color-border);
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
-@media (prefers-color-scheme: dark) {
-	.avatar { background: linear-gradient(135deg, #1e3a8a, #312e81); }
+.avatar img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
 }
-.avatar-emoji { font-size: 3.5rem; line-height: 1; }
 
 .profile-info { flex: 1; }
 
