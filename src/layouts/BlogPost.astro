@@ -128,7 +128,38 @@ const {
 					}
 					</script>
 
-					<!-- 相關文章 -->
+					<!-- 程式碼複製按鈕 -->
+				<script>
+				(function () {
+					document.querySelectorAll('.prose pre').forEach((pre) => {
+						const btn = document.createElement('button');
+						btn.className = 'copy-btn';
+						btn.setAttribute('aria-label', '複製程式碼');
+						btn.textContent = '複製';
+						pre.style.position = 'relative';
+						pre.appendChild(btn);
+
+						btn.addEventListener('click', async () => {
+							const code = pre.querySelector('code');
+							const text = code?.textContent ?? '';
+							try {
+								await navigator.clipboard.writeText(text);
+								btn.textContent = '已複製！';
+								btn.classList.add('copied');
+								setTimeout(() => {
+									btn.textContent = '複製';
+									btn.classList.remove('copied');
+								}, 2000);
+							} catch {
+								btn.textContent = '失敗';
+								setTimeout(() => { btn.textContent = '複製'; }, 2000);
+							}
+						});
+					});
+				})();
+				</script>
+
+				<!-- 相關文章 -->
 					{relatedPosts && relatedPosts.length > 0 && (
 						<section class="related-posts">
 							<h3 class="related-title">相關文章</h3>
@@ -202,6 +233,11 @@ const {
 		</main>
 
 		<Footer />
+
+		<!-- 回到頂部按鈕 -->
+		<button id="back-to-top" aria-label="回到頂部" title="回到頂部">
+			<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg>
+		</button>
 
 		<!-- 閱讀進度條 JS -->
 		<script>
@@ -284,6 +320,20 @@ const {
 			if (line) line.href = `https://social-plugins.line.me/lineit/share?url=${url}`;
 		})();
 		</script>
+
+		<!-- 回到頂部 JS -->
+		<script>
+		(function () {
+			const btn = document.getElementById('back-to-top') as HTMLButtonElement;
+			if (!btn) return;
+			window.addEventListener('scroll', () => {
+				btn.classList.toggle('visible', window.scrollY > 400);
+			}, { passive: true });
+			btn.addEventListener('click', () => {
+				window.scrollTo({ top: 0, behavior: 'smooth' });
+			});
+		})();
+		</script>
 	</body>
 </html>
 
@@ -345,8 +395,9 @@ article {
 	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 @media (prefers-color-scheme: dark) {
-	.hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
+	:root:not([data-theme="light"]) .hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
 }
+[data-theme="dark"] .hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
 
 /* ── Title Section ──────────────────────────────────────────────── */
 .title-section {
@@ -378,16 +429,18 @@ article {
 	border: 1px solid var(--color-accent-border);
 }
 @media (prefers-color-scheme: dark) {
-	.badge-cat { color: #60a5fa; }
+	:root:not([data-theme="light"]) .badge-cat { color: #60a5fa; }
 }
+[data-theme="dark"] .badge-cat { color: #60a5fa; }
 .badge-sub {
 	background: #f0fdf4;
 	color: #16a34a;
 	border: 1px solid #bbf7d0;
 }
 @media (prefers-color-scheme: dark) {
-	.badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
+	:root:not([data-theme="light"]) .badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
 }
+[data-theme="dark"] .badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
 .badge-tag {
 	background: #f1f5f9;
 	color: #475569;
@@ -400,9 +453,11 @@ article {
 	color: var(--color-accent);
 }
 @media (prefers-color-scheme: dark) {
-	.badge-tag { background: #334155; color: #cbd5e1; }
-	.badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
+	:root:not([data-theme="light"]) .badge-tag { background: #334155; color: #cbd5e1; }
+	:root:not([data-theme="light"]) .badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
 }
+[data-theme="dark"] .badge-tag { background: #334155; color: #cbd5e1; }
+[data-theme="dark"] .badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
 
 .title-section h1 {
 	font-size: clamp(1.8rem, 4vw, 2.6rem);
@@ -511,9 +566,11 @@ article {
 	text-decoration: none;
 }
 @media (prefers-color-scheme: dark) {
-	.share-twitter { background: #fff; color: #000; }
-	.share-twitter:hover { background: #e2e8f0; }
+	:root:not([data-theme="light"]) .share-twitter { background: #fff; color: #000; }
+	:root:not([data-theme="light"]) .share-twitter:hover { background: #e2e8f0; }
 }
+[data-theme="dark"] .share-twitter { background: #fff; color: #000; }
+[data-theme="dark"] .share-twitter:hover { background: #e2e8f0; }
 
 /* ── 相關文章 ───────────────────────────────────────────────────── */
 .related-posts {
@@ -556,8 +613,9 @@ article {
 	text-decoration: none;
 }
 @media (prefers-color-scheme: dark) {
-	.related-card:hover { border-color: #3b82f6; }
+	:root:not([data-theme="light"]) .related-card:hover { border-color: #3b82f6; }
 }
+[data-theme="dark"] .related-card:hover { border-color: #3b82f6; }
 
 .related-img-wrap {
 	position: relative;
@@ -633,8 +691,9 @@ article {
 	transform: translateY(-2px);
 }
 @media (prefers-color-scheme: dark) {
-	.post-nav-link:hover { border-color: #3b82f6; }
+	:root:not([data-theme="light"]) .post-nav-link:hover { border-color: #3b82f6; }
 }
+[data-theme="dark"] .post-nav-link:hover { border-color: #3b82f6; }
 
 .nav-label {
 	font-size: 0.78rem;
@@ -739,4 +798,40 @@ article {
 .toc-sidebar::-webkit-scrollbar { width: 4px; }
 .toc-sidebar::-webkit-scrollbar-track { background: transparent; }
 .toc-sidebar::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 9999px; }
+
+/* ── 回到頂部按鈕 ───────────────────────────────────────────────── */
+#back-to-top {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+	width: 2.75rem;
+	height: 2.75rem;
+	border-radius: 9999px;
+	background: var(--color-accent);
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(8px);
+	transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.25s ease, background 0.2s ease;
+	z-index: 150;
+}
+#back-to-top.visible {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
+}
+#back-to-top:hover {
+	background: #1d4ed8;
+	transform: translateY(-2px);
+	box-shadow: 0 6px 16px rgba(37, 99, 235, 0.5);
+}
+@media (max-width: 640px) {
+	#back-to-top { bottom: 1.25rem; right: 1.25rem; width: 2.5rem; height: 2.5rem; }
+}
 </style>

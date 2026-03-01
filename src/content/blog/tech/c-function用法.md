@@ -3,6 +3,7 @@ title: "[C++] function用法"
 description: "function 是一個舊用法新用， 主要可以用來取代舊有的 Function pointer 以及 Function object的寫法。 簡單的理解是可以把函式拿來像變數使用， 傳入其他的函式中。 function 的基本用法 標頭檔 ： #include &lt; functional &gt; 範例： 宣告一個 function, 可以傳入一個 bool, 一個float當變數， 以及傳回"
 pubDate: "2018-02-09"
 category: "技術"
+featured: true
 tags: ["C++"]
 heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5BC%2B%2B%5D%20function?width=1200&height=630&seed=5013&model=flux&nologo=true"
 ---
