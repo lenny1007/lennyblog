@@ -5,7 +5,7 @@ pubDate: "2024-03-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["RAIN", "七個習慣", "好奇心", "正念", "焦慮", "獎勵機制", "賈德森．布魯爾"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/6x2ikgi6spu-1024x683.jpg"
+heroImage: "/wp-images/2024/03/6x2ikgi6spu-1024x683.jpg"
 ---
 
 閱讀對許多人來說是一種放鬆和豐富心靈的活動，然而，在當今快節奏和高壓力的生活中，即便是愛書人也可能會被焦慮所困擾。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/6x2ikgi6spu-1024x68
 
 焦慮的習慣可能是長期以來在壓力、不確定性和恐懼驅動下形成的。
 
-![man beside white frame window](https://lennychen.com/wp-content/uploads/2024/03/6x2ikgi6spu-1024x683.jpg)
+![man beside white frame window](/wp-images/2024/03/6x2ikgi6spu-1024x683.jpg)
 
 《釋放你的焦慮習慣》一書的作者Judson Brewer是一位成癮精神病學家和神經科學家，他通過科學實證的方法，幫助我們了解焦慮背後的焦慮習慣迴圈，並提供了一系列的步驟來處理這些焦慮問題。
 
@@ -34,7 +34,7 @@ Brewer博士指出，焦慮往往是一個自我強化的循環：
 
 ## RAIN方法：從認知到自由
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_462.jpg)
+![](/wp-images/2024/02/rp_files_462.jpg)
 
 在《釋放你的焦慮習慣》中，Brewer博士提出了一套名為「RAIN」的方法來幫助人們處理焦慮。
 
@@ -49,7 +49,7 @@ Brewer博士指出，焦慮往往是一個自我強化的循環：
 
 認知即是意識到我們正處於焦慮的狀態中。
 
-![the word discover spelled out in scrabble letters](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-19802197.jpeg)Photo by Markus Winkler on [Pexels.com](<https://www.pexels.com/photo/the-word-discover-spelled-out-in-scrabble-letters-19802197/>)
+![the word discover spelled out in scrabble letters](/wp-images/2024/02/pexels-photo-19802197.jpeg)Photo by Markus Winkler on [Pexels.com](<https://www.pexels.com/photo/the-word-discover-spelled-out-in-scrabble-letters-19802197/>)
 
 在書中，Brewer博士提到，要管理焦慮，我們首先需要認知到自己的感受和行為。
 
@@ -59,7 +59,7 @@ Brewer博士指出，焦慮往往是一個自我強化的循環：
 
 包括深呼吸、冥想或是簡單的伸展運動。
 
-![man wearing black cap with eyes closed under cloudy sky](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775.jpeg)
+![man wearing black cap with eyes closed under cloudy sky](/wp-images/2024/02/pexels-photo-810775.jpeg)
 
 這一步驟對於打斷焦慮的迴圈非常關鍵。
 
@@ -73,7 +73,7 @@ Brewer博士指出，焦慮往往是一個自我強化的循環：
 
 這種接受可以幫助我們減少對焦慮的恐懼，並開始從一個更客觀的角度來看待它。
 
-![person in gray pants on brown and green grass field under white clouds during daytime](https://lennychen.com/wp-content/uploads/2024/02/a9khttbjpwy-683x1024.jpg)
+![person in gray pants on brown and green grass field under white clouds during daytime](/wp-images/2024/02/a9khttbjpwy-683x1024.jpg)
 
 ### 調查（Investigate）
 
@@ -97,7 +97,7 @@ Brewer博士指出，焦慮往往是一個自我強化的循環：
 
 透過練習正念，我們可以學習如何對生活作出響應，而不是反應。
 
-![meditating with candles and incense](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-3822621.jpeg)Photo by Elina Fairytale on [Pexels.com](<https://www.pexels.com/photo/meditating-with-candles-and-incense-3822621/>)
+![meditating with candles and incense](/wp-images/2024/02/pexels-photo-3822621.jpeg)Photo by Elina Fairytale on [Pexels.com](<https://www.pexels.com/photo/meditating-with-candles-and-incense-3822621/>)
 
 此外，Brewer博士在書中強調了好奇心的重要性。
 

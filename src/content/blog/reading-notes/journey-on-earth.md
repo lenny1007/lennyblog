@@ -5,7 +5,7 @@ pubDate: "2024-07-13"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["MBTI", "TED演講", "故事溝通", "深度思考", "火星爺爺", "筆記方法", "自傳"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_133.jpg"
+heroImage: "/wp-images/2024/02/rp_files_133.jpg"
 ---
 
 閱讀不僅是一種娛樂，更是一種深度思考和自我成長的工具。
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_133.jpg"
 
 ### 職業生涯的多樣性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_133.jpg)
+![](/wp-images/2024/02/rp_files_133.jpg)
 
 火星爺爺的職業生涯同樣多采多姿。
 
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=j_t0XlFoCjU
 
 通過閱讀和旅行，火星爺爺意識到，與那些開始探索內在、保持謙虛和開放心態的人相處，能夠帶來心靈上的滿足和快樂。
 
-![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](/wp-images/2024/03/xmnel_otvws-1-683x1024.jpg)
 
 這種深入的人際交往，也使他更加珍視每一次的溝通和交流。
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=j_t0XlFoCjU
 
 他的成功證明了思考的力量，能夠幫助我們從困境中找到出路。
 
-![selective focus photo of boy at the bridge near body of water](https://lennychen.com/wp-content/uploads/2024/03/a6qepnxe8uo-1024x683.jpg)
+![selective focus photo of boy at the bridge near body of water](/wp-images/2024/03/a6qepnxe8uo-1024x683.jpg)
 
 ### 3\. 跨文化交流的重要性
 
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=j_t0XlFoCjU
 
 有效的溝通技巧是成功的關鍵。
 
-![three men laughing while looking in the laptop inside room](https://lennychen.com/wp-content/uploads/2024/03/xkkcui44im0-1024x683.jpg)
+![three men laughing while looking in the laptop inside room](/wp-images/2024/03/xkkcui44im0-1024x683.jpg)
 
 火星爺爺的自傳中多次提到了他如何透過講述故事來提升溝通能力。
 

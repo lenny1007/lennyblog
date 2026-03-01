@@ -4,7 +4,7 @@ description: "在近年來的科技潮流中，「元宇宙」無疑是引人注
 pubDate: "2024-04-03"
 category: "閱讀筆記"
 tags: ["VR技術", "元宇宙", "商業應用", "時間革命", "未來趨勢", "李丞桓", "社會影響", "科技革命", "空間革命", "虛擬實境"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x682.jpg"
+heroImage: "/wp-images/2024/02/deyfdybvqha-1024x682.jpg"
 ---
 
 在近年來的科技潮流中，「元宇宙」無疑是引人注目的焦點之一。
@@ -29,7 +29,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 透過VR眼鏡和觸感手套，我們不僅能夠視覺上進入另一個世界，還能在那裡感受到觸覺。
 
-![boy wearing black and white VR headset](https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x682.jpg)
+![boy wearing black and white VR headset](/wp-images/2024/02/deyfdybvqha-1024x682.jpg)
 
 這讓虛擬世界的體驗變得前所未有的真實。
 
@@ -37,7 +37,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 ### 元宇宙對空間的革命
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_503.jpg)
+![](/wp-images/2024/02/rp_files_503.jpg)
 
 元宇宙帶來了對空間概念的全新解讀。
 
@@ -45,7 +45,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 在《元宇宙》一書中提到的範例，如防彈少年團在遊戲平台《要塞英雄》上的演唱會，以及在虛擬空間舉辦的火人節活動，都顯示了虛擬空間如何打破地理限制，讓參與者無論身在何處都能共享同一時刻的體驗。
 
-![concert photos](https://lennychen.com/wp-content/uploads/2024/02/ncdg9mk3pby-1024x683.jpg)
+![concert photos](/wp-images/2024/02/ncdg9mk3pby-1024x683.jpg)
 
 ### 元宇宙對時間的革命
 

@@ -5,7 +5,7 @@ pubDate: "2024-02-19"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["健康飲食", "專家依賴", "專業之死", "心智模式", "投資策略", "紳士神偷阿波羅．羅賓斯", "綜合整理", "自主思考", "資訊超載", "跨領域學習", "通才"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
+heroImage: "/wp-images/2024/02/rp_files_528.jpg"
 ---
 
 資訊超載的我們經常面臨著何去何從的困惑。
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
 
 ## 為什麼自主思考如此重要？
 
-![為什麼自主思考如此重要？](https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg)
+![為什麼自主思考如此重要？](/wp-images/2024/02/rp_files_528.jpg)
 
 我們每天都會接收到海量的數據和消息。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
 
 跨領域學習可以幫助我們建立更為全面的視角，使我們能夠從不同領域的知識中獲得洞察力，進而形成獨立的見解。
 
-![woman in gray top](https://lennychen.com/wp-content/uploads/2024/02/wjk_ssqce4-1024x683.jpg)
+![woman in gray top](/wp-images/2024/02/wjk_ssqce4-1024x683.jpg)
 
 維克拉姆·曼沙拉瑪尼提倡通過學習不同領域的知識來培養**自主思考** 的能力。
 
@@ -68,7 +68,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
 
 這樣我們才能避免盲從他人的意見，並保持思想的獨立性。
 
-![man in gray button up shirt](https://lennychen.com/wp-content/uploads/2024/02/b9ybnbaemmi-683x1024.jpg)
+![man in gray button up shirt](/wp-images/2024/02/b9ybnbaemmi-683x1024.jpg)
 
 ### 3\. 自我反省與意識覺醒
 
@@ -92,7 +92,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
 
 提問是學習和發展**自主思考** 的關鍵，它可以激發我們對於已知事實的好奇心，並推動我們去探索未知的領域。
 
-![grayscale photography of two people raising their hands](https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x1024.jpg)
+![grayscale photography of two people raising their hands](/wp-images/2024/02/0cvhq62gwy8-683x1024.jpg)
 
 **好問題往往比好的答案還要能帶來收穫。**
 

@@ -5,7 +5,7 @@ pubDate: "2024-07-14"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["九宮格筆記", "再訪性", "卡片盒筆記法", "原子化", "可擴展性", "子彈筆記", "康奈爾筆記", "筆記格式", "筆記系統", "連結性", "麥肯錫筆記"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_132.jpg"
+heroImage: "/wp-images/2024/02/rp_files_132.jpg"
 ---
 
 學得越多，如何高效地管理和利用知識變得尤其重要。
@@ -40,7 +40,7 @@ Connecting the dots.
 
 ### 原子化：把知識分解到最小單位
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_132.jpg)
+![](/wp-images/2024/02/rp_files_132.jpg)
 
 卡片盒筆記法中的每一張卡片代表一個知識原子，它是知識的最小單位，獨立而完整。
 
@@ -56,7 +56,7 @@ Connecting the dots.
 
 隨著你繼續學習，卡片盒筆記法能夠自然而然地擴展。
 
-![yellow sticky notes on gray wall](https://lennychen.com/wp-content/uploads/2024/03/8rx3w79_ute-1024x683.jpg)
+![yellow sticky notes on gray wall](/wp-images/2024/03/8rx3w79_ute-1024x683.jpg)
 
 新的卡片可以無縫地添加到現有的體系中，並與其他卡片建立聯繫。
 

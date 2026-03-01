@@ -5,7 +5,7 @@ pubDate: "2024-08-21"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["劉潤", "加減乘除", "商業模式", "商業顧問", "底層邏輯2", "數學原理", "機率", "簡單數學", "統計學應用", "賽局理論"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_70.jpg"
+heroImage: "/wp-images/2024/02/rp_files_70.jpg"
 ---
 
 商場上，數字不僅是結果的展現，更是指導決策和策略的根據。
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_70.jpg"
 
 ### 數字思維與商業決策
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_70.jpg)
+![](/wp-images/2024/02/rp_files_70.jpg)
 
 數字思維不僅是對數據的分析和計算，更是一種能夠深入事物表象，探索本質的能力。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_70.jpg"
 
 賽局理論的應用則使企業在談判和市場競爭中佔據有利位置。
 
-![grayscale photo of person holding glass](https://lennychen.com/wp-content/uploads/2024/03/iq9sajezkoe-1024x683.jpg)
+![grayscale photo of person holding glass](/wp-images/2024/03/iq9sajezkoe-1024x683.jpg)
 
 ### 數學原理的限制與挑戰
 

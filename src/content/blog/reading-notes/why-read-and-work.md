@@ -5,7 +5,7 @@ pubDate: "2024-05-17"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["人生哲學", "人生意義", "創意工作", "多重職業", "更快樂的選擇", "池上彰", "漫畫", "社會安全網", "讀書共和國", "隼人"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_312.jpg"
+heroImage: "/wp-images/2024/02/rp_files_312.jpg"
 ---
 
 閱讀不僅是一種休閒活動，它對於個人成長與職業發展具有深遠的影響。
@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_312.jpg"
 
 ### 閱讀對社會的影響
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_312.jpg)
+![](/wp-images/2024/02/rp_files_312.jpg)
 
 閱讀不僅限於個人層面的影響，它還對社會整體有著深遠的影響。
 
@@ -43,7 +43,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_312.jpg"
 
 通過閱讀，人們可以學習到不同的生活方式和思考模式，這有助於增進社會成員之間的理解與和諧。
 
-![person holding book sitting on brown surface](https://lennychen.com/wp-content/uploads/2024/03/zmrlzh40kms-1024x768.jpg)
+![person holding book sitting on brown surface](/wp-images/2024/03/zmrlzh40kms-1024x768.jpg)
 
 ## 工作：不只是為了生存
 
@@ -59,7 +59,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_312.jpg"
 
 從傳統的9到5辦公室工作，到與生活緊密相連的農業勞作，再到具有時間自由的自由職業者，如作家或漫畫家，每種工作都有其獨特的地方和挑戰。
 
-![person walking holding brown leather bag](https://lennychen.com/wp-content/uploads/2024/03/6dw3xyqvcye-1024x683.jpg)
+![person walking holding brown leather bag](/wp-images/2024/03/6dw3xyqvcye-1024x683.jpg)
 
 ### 從興趣中找到工作的方向
 

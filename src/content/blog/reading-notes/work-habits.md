@@ -5,7 +5,7 @@ pubDate: "2024-03-03"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["主管期待", "人際關係", "工作效率", "工作習慣", "思考框架", "情緒管理", "時間管理", "準時下班", "高產出"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
+heroImage: "/wp-images/2024/02/rp_files_471.jpg"
 ---
 
 當代職場環境要求員工不僅要準時下班，更要追求高效的工作表現。
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
 
 ### 人際關係
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg)
+![](/wp-images/2024/02/rp_files_471.jpg)
 
 在職場中，良好的人際關係對於高效工作至關重要。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
 
 **工作習慣** 中的人際關係管理，是指如何建立和維持與同事、上司和客戶之間的良好關係。
 
-![photo of people holding each other s hands](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-3184423.jpeg)Photo by fauxels on [Pexels.com](<https://www.pexels.com/photo/photo-of-people-holding-each-other-s-hands-3184423/>)
+![photo of people holding each other s hands](/wp-images/2024/02/pexels-photo-3184423.jpeg)Photo by fauxels on [Pexels.com](<https://www.pexels.com/photo/photo-of-people-holding-each-other-s-hands-3184423/>)
 
 ### 工作效率
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
 
 這意味著我們應該用正面積極的態度面對問題，並且能夠從更高的角度思考問題的本質，這有助於我們做出更好的決策。
 
-![man in black long sleeve shirt sitting on black chair](https://lennychen.com/wp-content/uploads/2024/03/zcb1peosu3m-1024x683.jpg)
+![man in black long sleeve shirt sitting on black chair](/wp-images/2024/03/zcb1peosu3m-1024x683.jpg)
 
 思考框架對於剛進職場的人來說，其實並不好掌握。
 
@@ -86,7 +86,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
 
 負面情緒或許可以達到短時間的效率更好，但長時間下來對於工作的效率跟職場上的環境氛圍，都是毒藥。
 
-![three men sitting while using laptops and watching man beside whiteboard](https://lennychen.com/wp-content/uploads/2024/03/wd1lrb9oeeo-2-1024x768.jpg)
+![three men sitting while using laptops and watching man beside whiteboard](/wp-images/2024/03/wd1lrb9oeeo-2-1024x768.jpg)
 
 如果身為主管，創造出不太需要讓員工管理情緒的職場環境，是可以讓團隊工作效率提高的。
 

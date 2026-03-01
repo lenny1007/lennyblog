@@ -5,7 +5,7 @@ pubDate: "2024-03-20"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["不敗學習力", "劉軒", "學習力", "專注力", "恆毅力", "情緒管理", "拖延症", "時間管理", "筆記力", "複習力", "記憶力", "閱讀力", "高成長思維"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
+heroImage: "/wp-images/2024/02/rp_files_433.jpg"
 ---
 
 **學霸是怎麼練成的?**
@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
 
 ### 1\. 學習技巧
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg)
+![](/wp-images/2024/02/rp_files_433.jpg)
 
 學習技巧是提升學習力的基石。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
 
 劉軒建議我們設定清晰的學習目標，制定計畫，並通過時間管理和自我激勵來持續進步。
 
-![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](/wp-images/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 有效的自我管理能夠幫助我們避免拖延，並保持學習的連續性和穩定性。
 
@@ -58,7 +58,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
 
 這些方法可以幫助我們將新知識有效地轉化為長期記憶，從而提高學習的效果。
 
-![white cat sleeps under white comforter](https://lennychen.com/wp-content/uploads/2024/02/uy5t-cjuik4-1024x691.jpg)
+![white cat sleeps under white comforter](/wp-images/2024/02/uy5t-cjuik4-1024x691.jpg)
 
 **記憶力的前提是確保睡眠，沒有充足的睡眠，是無法好好地將資訊轉化為長期記憶的。**
 
@@ -94,7 +94,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
 
 **教學相長，教別人永遠是加深印象最好的方法。**
 
-![man standing infront of group of people](https://lennychen.com/wp-content/uploads/2024/02/q7wgvnbuwj0-1024x683.jpg)
+![man standing infront of group of people](/wp-images/2024/02/q7wgvnbuwj0-1024x683.jpg)
 
 這些複習技巧能夠幫助我們將知識內化為自己的一部分。
 
@@ -112,7 +112,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
 
 書中提倡通過環境控制、冥想訓練等方法來提高專注力。
 
-![man wearing black cap with eyes closed under cloudy sky](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
+![man wearing black cap with eyes closed under cloudy sky](/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
 
 當我們能夠專注於學習任務時，學習效率將會大大提高。
 

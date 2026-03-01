@@ -5,7 +5,7 @@ pubDate: "2024-02-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["一人公司", "企業成長", "保羅·賈維斯", "客戶成功", "工作型態", "工匠思維", "熱情與勇氣", "生活型態自由"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg"
+heroImage: "/wp-images/2024/02/rp_files_475.jpg"
 ---
 
 在快速變遷的時代，傳統的工作模式已漸漸不適應新世代的需求。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg"
 
 保羅·賈維斯認為，這種工作方式更能夠適應個人需求，並為生活帶來真正的滿足感。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg)
+![](/wp-images/2024/02/rp_files_475.jpg)
 
 與此同時，大企業試圖模仿小公司的靈活性和創新能力，這是為了更快速地回應市場變化。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg"
 
 這並不是說熱情不重要，但熱情應該是在有了清晰目標之後的推動力。
 
-![man holding incandescent bulb](https://lennychen.com/wp-content/uploads/2024/03/7e2pe9wjl9m-1024x821.jpg)
+![man holding incandescent bulb](/wp-images/2024/03/7e2pe9wjl9m-1024x821.jpg)
 
 這樣的思維方式可以幫助一人公司的創業者更有方向性地達成成功，而不是在熱情消退後迷失方向。
 
@@ -68,7 +68,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg"
 
 一人公司的創業者必須專注於他們的核心技能和服務的質量，從而在市場上建立自己的品牌和聲譽。
 
-![woman sitting on yoga mat with in front of girl during daytime](https://lennychen.com/wp-content/uploads/2024/03/hhxdpg_etiq-1024x707.jpg)
+![woman sitting on yoga mat with in front of girl during daytime](/wp-images/2024/03/hhxdpg_etiq-1024x707.jpg)
 
 ## 一人公司的實際案例
 

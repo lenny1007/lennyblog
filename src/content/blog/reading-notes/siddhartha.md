@@ -5,7 +5,7 @@ pubDate: "2024-05-29"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["創造對話", "問題解決", "心理治療", "悉達多", "流浪者之歌", "讀書會", "赫曼．赫塞"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_291.jpg"
+heroImage: "/wp-images/2024/02/rp_files_291.jpg"
 ---
 
 當代的閱讀不僅是一種單純的娛樂活動，它更是一個深入探討自我與世界的過程。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_291.jpg"
 
 ## 赫爾曼·黑塞與《流浪者之歌》的文學地位
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_291.jpg)
+![](/wp-images/2024/02/rp_files_291.jpg)
 
 《流浪者之歌》的作者赫爾曼·黑塞，是一位融合東方哲學思想與西方文化的作家。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_291.jpg"
 
 黑塞的文學成就不僅為他贏得了諾貝爾文學獎，更讓他的作品成為了世代讀者心中的經典。
 
-![a coin with a horse on it](https://lennychen.com/wp-content/uploads/2024/03/hrpax-7rl4q-683x1024.jpg)
+![a coin with a horse on it](/wp-images/2024/03/hrpax-7rl4q-683x1024.jpg)
 
 《流浪者之歌》以其深刻的心靈洞察和哲學思考，成為了文學史上一個不朽的里程碑。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_291.jpg"
 
 悉達多試圖通過藝術、文學、音樂等途徑來理解世界，這一過程不僅對於19世紀的讀者有意義，對於今天的我們同樣具有深遠的啟發。
 
-![brown wooden puzzle game board](https://lennychen.com/wp-content/uploads/2024/03/d44kht8ex14-1024x768.jpg)
+![brown wooden puzzle game board](/wp-images/2024/03/d44kht8ex14-1024x768.jpg)
 
 悉達多的故事告訴我們，生活不僅僅是日復一日的例行公事，而是一場尋找個人意義與幸福的冒險。
 

@@ -5,7 +5,7 @@ pubDate: "2024-06-26"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人成長", "好習慣", "心理學", "改變習慣", "生活改變", "習慣紅利", "艾爾文", "行為經濟學"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/wi30grrfbne-768x1024.jpg"
+heroImage: "/wp-images/2024/03/wi30grrfbne-768x1024.jpg"
 ---
 
 習慣，塑造著我們的人生。
@@ -27,7 +27,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/wi30grrfbne-768x102
   * **持續** （保持新習慣的穩定性）
   * **追蹤** （評估習慣的成效）  
 
-![white book](https://lennychen.com/wp-content/uploads/2024/03/wi30grrfbne-768x1024.jpg)
+![white book](/wp-images/2024/03/wi30grrfbne-768x1024.jpg)
 
 ### 習慣紅利的正面影響
 
@@ -39,7 +39,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/wi30grrfbne-768x102
 
 ### 習慣紅利的挑戰
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_208.jpg)
+![](/wp-images/2024/02/rp_files_208.jpg)
 
 然而，**習慣紅利** 並非一蹴而就，它需要我們在行為改變上持續努力。
 

@@ -5,7 +5,7 @@ pubDate: "2024-08-22"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["內容策略", "激勵人心", "管理者", "領導者", "願景", "願景劇本", "麥可．海亞特"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x683.jpg"
+heroImage: "/wp-images/2024/03/z0nvqfroqwa-1-1024x683.jpg"
 ---
 
 在商業世界中，**領導者的願景** 不僅是引導團隊前進的方向燈塔，更是激發部屬共鳴與創造力的核心力量。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x
 
 願景的魅力在於它能夠超越當前的困境，為人們描繪一幅光明的未來畫卷。
 
-![person sitting on top of gray rock overlooking mountain during daytime](https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x683.jpg)
+![person sitting on top of gray rock overlooking mountain during daytime](/wp-images/2024/03/z0nvqfroqwa-1-1024x683.jpg)
 
 ### 清晰的願景是如何連接人心的？
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x
 
 ## 願景劇本：七個步驟的力量
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_63.jpg)
+![](/wp-images/2024/02/rp_files_63.jpg)
 
 在《讓部屬甘心跟著你》一書中，海特提供了一套詳細的**願景劇本** ，包含七個步驟，幫助領導者塑造並傳達他們的願景。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x
 
 一個清晰的願景是抽象的，它描述了一個理想狀態，激起人們的情感和渴望。
 
-![yellow and black hiking bag on brown field near gray and white mountain during daytime](https://lennychen.com/wp-content/uploads/2024/03/zvmd7efvjfi-1024x768.jpg)
+![yellow and black hiking bag on brown field near gray and white mountain during daytime](/wp-images/2024/03/zvmd7efvjfi-1024x768.jpg)
 
 相反，策略是具體的，它涉及到實際的行動計劃，指出如何一步步達到願景所描述的未來。
 
@@ -76,7 +76,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x
 
 而管理者則是執行者，他們確保願景變爲現實，通過組織和監督來維護日常運作。
 
-![brown game pieces on white surface](https://lennychen.com/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
+![brown game pieces on white surface](/wp-images/2024/03/qozzjpfz2lg-1024x683.jpg)
 
 這兩種角色都是組織成功的關鍵，但它們的職責和重點有所不同。
 

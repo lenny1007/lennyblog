@@ -5,7 +5,7 @@ pubDate: "2024-01-23"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["大衛．哥金斯", "心靈勵志", "教學理念", "讀書筆記", "魚油"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
+heroImage: "/wp-images/2024/01/rp_files_4.png"
 ---
 
 閱讀不僅是一種休閒娛樂，更是一種心靈的食糧，能夠給予我們力量和靈感。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
 
 ### 啟發一 : 突破自我設限來自我超越 
 
-![](https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png)
+![](/wp-images/2024/01/rp_files_4.png)
 
 **大衛‧哥金斯（David Goggins）** 的故事告訴我們，任何人都能夠超越自我，達成看似不可能的目標。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
 
 它提醒我們要不斷地挑戰自己，永不滿足於現狀。
 
-![silhouette photography of person](https://lennychen.com/wp-content/uploads/2024/02/ompaz-dn-9i-1024x683.jpg)
+![silhouette photography of person](/wp-images/2024/02/ompaz-dn-9i-1024x683.jpg)
 
 ### 啟發二： 從挫敗中學習
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
 
 這種態度對於任何追求卓越的人來說都是必不可少的。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/02/nd2ffckxwtw-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/02/nd2ffckxwtw-1024x768.jpg)
 
 失敗是成功的媽媽這件事大家都清楚，但坦白說，沒人喜歡失敗。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
 
 透過自我對話和正面思考，大衛·哥金斯加強了自己的心理防禦機制，這對於任何面對壓力和挑戰的人都是一個寶貴的案例。
 
-![person in gray pants on brown and green grass field under white clouds during daytime](https://lennychen.com/wp-content/uploads/2024/02/a9khttbjpwy-683x1024.jpg)
+![person in gray pants on brown and green grass field under white clouds during daytime](/wp-images/2024/02/a9khttbjpwy-683x1024.jpg)
 
 #### 面對挑戰：40% 法則
 
@@ -96,7 +96,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_4.png"
 
 當我們將所學知識用自己的話語寫下來時，其實是在進行二次學習，這個過程能夠加深對知識點的理解和記憶。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/02/s9cc2skysjm-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/02/s9cc2skysjm-1024x683.jpg)
 
 ### 筆記作為反思工具
 

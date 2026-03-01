@@ -4,7 +4,7 @@ description: "人們總是忙於追求科技進步和物質享受。"
 pubDate: "2024-01-24"
 category: "閱讀筆記"
 tags: ["理性與感性", "生活哲學", "禪與摩托車維修的藝術", "讀後心得", "質素"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585.png"
+heroImage: "/wp-images/2024/01/rp_files_5-1024x585.png"
 ---
 
 人們總是忙於追求科技進步和物質享受。
@@ -27,7 +27,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585
 
 ## 「質量」的多維解讀
 
-![](https://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585.png)
+![](/wp-images/2024/01/rp_files_5-1024x585.png)
 
 在《禪與摩托車維修的藝術》中，「質量」是一個核心概念。
 
@@ -45,7 +45,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585
 
 旅行過程的享受勝過達到終點，這個觀點在生活中告訴我們應該欣賞並享受過程本身。
 
-![man with red backpack standing on cliff facing mountains under white sky during daytime](https://lennychen.com/wp-content/uploads/2024/02/hvpb-ucammu-1024x683.jpg)
+![man with red backpack standing on cliff facing mountains under white sky during daytime](/wp-images/2024/02/hvpb-ucammu-1024x683.jpg)
 
 ## 科技與內心平靜
 

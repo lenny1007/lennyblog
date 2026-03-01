@@ -5,7 +5,7 @@ pubDate: "2024-09-03"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["儲蓄", "投資問答", "投資理財", "投資金律", "指數型基金", "提早退休", "股票投資", "複利效應"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x585.jpg"
+heroImage: "/wp-images/2024/02/rp_files_441-1024x585.jpg"
 ---
 
 投資理財是追求財富自由的人的必備技能。
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 ### 選擇最適合的投資標的
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_441-1024x585.jpg)
 
 在眾多的投資選項中，找到最適合自己的投資標的十分關鍵。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 因此，對於大多數投資者而言，追求選股技巧可能不如選擇成本較低的指數型基金來得實在。
 
-![black and silver laptop computer](https://lennychen.com/wp-content/uploads/2024/03/mcauhlgirvs-1024x683.jpg)
+![black and silver laptop computer](/wp-images/2024/03/mcauhlgirvs-1024x683.jpg)
 
 ### 投資股票的策略
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 過度頻繁地檢查投資組合會導致對短期市場波動的過度反應，因此建議投資者應該減少檢查頻率，專注於長期的投資目標。
 
-![Investment Scrabble text](https://lennychen.com/wp-content/uploads/2024/03/olsgcrlsykw-1024x576.jpg)
+![Investment Scrabble text](/wp-images/2024/03/olsgcrlsykw-1024x576.jpg)
 
 ### 早期投資的重要性
 

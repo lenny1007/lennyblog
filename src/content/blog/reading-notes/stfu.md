@@ -5,7 +5,7 @@ pubDate: "2024-07-01"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["創造力", "同理心", "社交媒體", "耐力", "聆聽", "閉嘴的藝術"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x1024.jpg"
+heroImage: "/wp-images/2024/03/1grn4afhiee-819x1024.jpg"
 ---
 
 在社交媒體的時代，學會在適當時機保持沉默，或許是一種與眾不同的智慧。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x102
 
 在數位時代，這樣的能力變得尤為珍貴，能讓我們在聲音的洪流中保持自己的立場和清晰的思考。
 
-![man in black hoodie wearing silver framed eyeglasses](https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x1024.jpg)
+![man in black hoodie wearing silver framed eyeglasses](/wp-images/2024/03/1grn4afhiee-819x1024.jpg)
 
 ### 同理心的培養
 
@@ -47,7 +47,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x102
 
 ### 創造力的啟迪
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_185.jpg)
+![](/wp-images/2024/02/rp_files_185.jpg)
 
 閉嘴不僅有助於培養同理心，同時也是激發創造力的關鍵。
 
@@ -63,7 +63,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x102
 
 這種深度聆聽可以促進溝通，並使我們對談話內容有更深刻的理解。
 
-![side view of man's face](https://lennychen.com/wp-content/uploads/2024/03/ckt0ojl9vmi-1024x683.jpg)
+![side view of man's face](/wp-images/2024/03/ckt0ojl9vmi-1024x683.jpg)
 
 ### 耐力的考驗
 

@@ -4,7 +4,7 @@ description: "當我們在人生的旅程中攀爬，我們經常會遇到分岔
 pubDate: "2024-03-11"
 category: "閱讀筆記"
 tags: ["人生意義", "個人主義", "喜樂", "大衛．布魯克斯", "承諾", "最佳貢獻者", "第二座山", "自我超越", "關係主義"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg"
+heroImage: "/wp-images/2024/02/rp_files_455.jpg"
 ---
 
 當我們在人生的旅程中攀爬，我們經常會遇到分岔路口，需要我們做出選擇：
@@ -37,7 +37,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg"
 
 ### 關係主義與第二座山的轉變
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg)
+![](/wp-images/2024/02/rp_files_455.jpg)
 
 **相較之下，第二座山的攀登者尋求的是一種深層次的連結和歸屬感。**
 
@@ -57,7 +57,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg"
 
 **當一個人願意與另一個人共同生活時，他們學會了犧牲、理解和成長。**
 
-![woman touch man's hand](https://lennychen.com/wp-content/uploads/2024/02/n1cznum_fd8-1024x684.jpg)
+![woman touch man's hand](/wp-images/2024/02/n1cznum_fd8-1024x684.jpg)
 
 婚姻不僅僅是兩個人的結合，更是一種價值觀的融合，這種關係的深度為人生帶來更豐富的意義。
 
@@ -87,7 +87,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg"
 
 ## 《第二座山》對讀者的啟示
 
-![man with red backpack standing on cliff facing mountains under white sky during daytime](https://lennychen.com/wp-content/uploads/2024/02/hvpb-ucammu-1024x683.jpg)
+![man with red backpack standing on cliff facing mountains under white sky during daytime](/wp-images/2024/02/hvpb-ucammu-1024x683.jpg)
 
 《第二座山》不僅是大衛·布魯克斯的個人故事，它也是對那些在人生道路上尋找深層意義的讀者的指引。
 

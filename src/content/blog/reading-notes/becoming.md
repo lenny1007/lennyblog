@@ -5,7 +5,7 @@ pubDate: "2024-04-23"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["Netflix紀錄片", "回憶錄", "教育", "知識啟發", "第一夫人", "蜜雪兒·歐巴馬"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x683.jpg"
+heroImage: "/wp-images/2024/02/8cqdvpuo_ki-1024x683.jpg"
 ---
 
 瞬息萬變的時代中，個人故事的力量經常成為啟發和驅動變革的關鍵。
@@ -30,11 +30,11 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x68
 
 她強調，無論出身如何，教育都是改變命運的關鍵。
 
-![group of fresh graduates students throwing their academic hat in the air](https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x683.jpg)
+![group of fresh graduates students throwing their academic hat in the air](/wp-images/2024/02/8cqdvpuo_ki-1024x683.jpg)
 
 ### 成為我們：婚姻與社會責任
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_357.jpg)
+![](/wp-images/2024/02/rp_files_357.jpg)
 
 作為奧巴馬總統的夫人，蜜雪兒在書中坦誠地分享了她如何與丈夫共同成長，以及她如何在公共生活中找到自己的角色。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x68
 
 她不斷地重塑自我，不畏懼挑戰，並勇於在社會改革中發揮作用。
 
-![photo of woman climbing mountain](https://lennychen.com/wp-content/uploads/2024/02/n4qtbfnq8nk-678x1024.jpg)
+![photo of woman climbing mountain](/wp-images/2024/02/n4qtbfnq8nk-678x1024.jpg)
 
 她的生命故事告訴我們，每個人都擁有超越限制、實現夢想的潛力。
 
@@ -82,7 +82,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x68
 
 蜜雪兒在公共生活中經歷了許多批評和挑戰，但她始終保持高尚的回應和品格。
 
-![silhouette of personr](https://lennychen.com/wp-content/uploads/2024/02/tzvn0xqhwaq-819x1024.jpg)
+![silhouette of personr](/wp-images/2024/02/tzvn0xqhwaq-819x1024.jpg)
 
 她的態度啟示我們，在面對外界的壓力時，堅持自己的價值觀和原則是至關重要的。
 

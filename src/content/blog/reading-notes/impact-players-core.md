@@ -5,7 +5,7 @@ pubDate: "2024-05-27"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["學習經驗", "專注度", "影響力習慣", "職場影響力", "自我學習"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg"
+heroImage: "/wp-images/2024/02/rp_files_293.jpg"
 ---
 
 在當今競爭激烈的職場環境中，擁有強大的**職場影響力** 是每位職場人士期望達成的目標。
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg"
 
 ## 三、職場影響力的實際運用
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg)
+![](/wp-images/2024/02/rp_files_293.jpg)
 
 在職場中，擁有影響力意味著能夠驅動團隊和組織向前發展。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg"
 
 在個人發展的不同階段，**專注度** 的培養也至關重要。
 
-![person in blue denim jeans sitting on bed with laptop](https://lennychen.com/wp-content/uploads/2024/03/pmu6-i4iyne-1024x683.jpg)
+![person in blue denim jeans sitting on bed with laptop](/wp-images/2024/03/pmu6-i4iyne-1024x683.jpg)
 
 我們應該先追求經驗的廣度，然後再追求深度，這是一種循序漸進的過程。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg"
 
 透過不斷的學習，我們能夠適應變化迅速的工作環境，保持競爭力。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/03/ndjauqvb7ue-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/03/ndjauqvb7ue-1024x768.jpg)
 
 ## 六、結語
 

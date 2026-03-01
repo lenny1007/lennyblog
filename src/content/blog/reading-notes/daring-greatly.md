@@ -5,7 +5,7 @@ pubDate: "2024-05-18"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["《被討厭的勇氣》", "信任", "同理心", "團隊凝聚力", "布芮尼．布朗", "脆弱", "領導力"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x677.jpg"
+heroImage: "/wp-images/2024/03/tub9a0rb04k-1024x677.jpg"
 ---
 
 在快速變遷的時代，一個人的勇氣和領導力對於個人成長與團隊發展都顯得格外重要。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x67
 
 布雷妮·布朗認為勇氣與脆弱是密不可分的，真正的領導力來自於學會與脆弱共處。
 
-![man standing on gray concrete dock facing body of water and mountains at daytime](https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x677.jpg)
+![man standing on gray concrete dock facing body of water and mountains at daytime](/wp-images/2024/03/tub9a0rb04k-1024x677.jpg)
 
 **領導者必須勇於面對自己的不完美，才能夠激發出團隊的向心力和創造力。**
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x67
 
 這種開放的態度能夠促進團隊成員之間的同理心，並鼓勵他們也同樣展現脆弱。這種情感上的交流是團隊凝聚力的基石。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_311.jpg)
+![](/wp-images/2024/02/rp_files_311.jpg)
 
 優點：**透過面對脆弱，領導者能建立更真誠的人際關係，提升團隊成員的忠誠度和工作滿意度** 。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x67
 
 具有勇氣的領導者知道如何堅持自己的方向，但同時也願意聆聽他人的意見。
 
-![three men sitting while using laptops and watching man beside whiteboard](https://lennychen.com/wp-content/uploads/2024/03/wd1lrb9oeeo-1024x768.jpg)
+![three men sitting while using laptops and watching man beside whiteboard](/wp-images/2024/03/wd1lrb9oeeo-1024x768.jpg)
 
 這種平衡能力讓領導者能夠在保持決策獨立性的同時，不斷進行自我修正和成長。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x67
 
 這不僅對自己的成長至關重要，也會激勵團隊成員在面對失敗時展現韌性。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/03/nd2ffckxwtw-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/03/nd2ffckxwtw-1024x768.jpg)
 
 優點：這種態度有助於培養一種正面的失敗文化，讓團隊成員不畏懼挑戰，敢於創新。
 

@@ -5,7 +5,7 @@ pubDate: "2024-02-25"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["創造力", "化輸入為輸出", "學習方法", "樺澤紫苑", "行動力", "記憶", "輸出比重"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hcfwew744z4-1024x683.jpg"
+heroImage: "/wp-images/2024/03/hcfwew744z4-1024x683.jpg"
 ---
 
 學習新知識很重要。
@@ -40,13 +40,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hcfwew744z4-1024x68
 
 無論是在社交媒體上定期發布內容，還是持續的書籍創作，都體現了她高效的輸出能力。
 
-![person using laptop computer](https://lennychen.com/wp-content/uploads/2024/03/hcfwew744z4-1024x683.jpg)
+![person using laptop computer](/wp-images/2024/03/hcfwew744z4-1024x683.jpg)
 
 她通過每天投入數小時的寫作，以及不斷的社群互動，成功地將自己的想法和知識轉化為影響力。  
 
 ## 如何提升輸出力？
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_500.jpg)
+![](/wp-images/2024/02/rp_files_500.jpg)
 
 在《最高學以致用法》中，橫澤紫苑提出了多種提升輸出力的方法。下面我們就來具體看看這些方法。
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hcfwew744z4-1024x68
 
 為了提升記憶力，橫澤紫苑建議透過「說」的輸出方式，例如與他人分享學習內容或自我提問，這有助於加強記憶和理解。
 
-![woman sitting in front of laptop](https://lennychen.com/wp-content/uploads/2024/03/lvooqvkjljw-1024x768.jpg)
+![woman sitting in front of laptop](/wp-images/2024/03/lvooqvkjljw-1024x768.jpg)
 
 ### 增強創造力的輸出方法
 

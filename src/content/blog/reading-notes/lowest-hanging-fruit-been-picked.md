@@ -5,7 +5,7 @@ pubDate: "2024-06-17"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["人生智慧", "創意工作", "創新", "台灣", "投資自己", "教育改革", "歷史學習", "民主政治", "經濟成長", "顏擇雅"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x554.jpg"
+heroImage: "/wp-images/2024/03/au3cybd7vcu-1024x554.jpg"
 ---
 
 在台灣這片土地上，我們如何從經濟成長的快車道中謙卑地踏出一條新路？
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 台灣的經濟成長故事是一段傳奇。
 
-![city building during daytime](https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x554.jpg)
+![city building during daytime](/wp-images/2024/03/au3cybd7vcu-1024x554.jpg)
 
 從農業社會轉型為工業強國，再到今日的資訊技術重鎮，台灣已成功地在全球經濟中占有一席之地。
 
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 ## 《最低的水果摘完之後》的啟示
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_231.jpg)
+![](/wp-images/2024/02/rp_files_231.jpg)
 
 顏擇雅在《最低的水果摘完之後》一書中深入剖析台灣經濟成長的宏觀環境，以及台灣需要面對的六大挑戰。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 台灣人民在經濟快速成長後，開始追求小確幸，尋找生活中的小樂趣。
 
-![floating green leaf plant on person's hand](https://lennychen.com/wp-content/uploads/2024/03/adus32i0jc-1024x575.jpg)
+![floating green leaf plant on person's hand](/wp-images/2024/03/adus32i0jc-1024x575.jpg)
 
 這種心態有助於提升生活品質，但也可能使人們忽視了更大的社會與經濟問題。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 創新與創業是推動經濟發展的重要動力。
 
-![people sitting on chair](https://lennychen.com/wp-content/uploads/2024/03/5u_28ojjgms-1024x576.jpg)
+![people sitting on chair](/wp-images/2024/03/5u_28ojjgms-1024x576.jpg)
 
 台灣需要培養更多具有創新思維和願意冒險的年輕人才，以便在全球市場中開拓新的商機。
 
@@ -84,7 +84,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 了解歷史對於國家的未來發展至關重要。
 
-![book lot on black wooden shelf](https://lennychen.com/wp-content/uploads/2024/03/zeh-ljawhtg-1024x683.jpg)
+![book lot on black wooden shelf](/wp-images/2024/03/zeh-ljawhtg-1024x683.jpg)
 
 學習歷史不僅可以幫助我們理解過去，也能夠預測未來的趨勢。
 
@@ -116,7 +116,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/au3cybd7vcu-1024x55
 
 教育改革不僅僅是調整教學方法或課程內容，更重要的是改變教育觀念，將重點放在培養學生的創新思維和實踐能力。
 
-![group of fresh graduates students throwing their academic hat in the air](https://lennychen.com/wp-content/uploads/2024/03/8cqdvpuo_ki-1024x683.jpg)
+![group of fresh graduates students throwing their academic hat in the air](/wp-images/2024/03/8cqdvpuo_ki-1024x683.jpg)
 
 台灣需要提供多元化的教育選擇，並確保每個孩子都能接受到高質量的教育。
 

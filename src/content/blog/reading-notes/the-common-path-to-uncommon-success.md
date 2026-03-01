@@ -5,7 +5,7 @@ pubDate: "2024-02-21"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["Apple Podcasts", "內化成功", "內容創作者", "品格", "專注力", "挑戰活動", "財富自由"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_174-1024x585.jpg"
+heroImage: "/wp-images/2024/02/rp_files_174-1024x585.jpg"
 ---
 
 在內容創作者需要不斷尋求創新的時代，《普通人的財富自由之道》是專為那些渴望尋得自己一席之地的內容創作者們量身打造的指南。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_174-1024x5
 
 在這本書中，內容創作者可以學習到如何利用自身的專業知識和經驗，創造出能夠觸動人心的作品。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_174-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_174-1024x585.jpg)
 
 ## 內容創作的優勢與挑戰
 
@@ -46,13 +46,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_174-1024x5
 
 ### 為什麼這本書對內容創作者如此重要？
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_510.jpg)
+![](/wp-images/2024/02/rp_files_510.jpg)
 
 《普通人的財富自由之道》是一本能夠激勵內容創作者內化知識、追尋卓越的好書。
 
 這本書的核心理念在於如何將平凡的行為透過專注和品格堆砌成非凡的成就。
 
-![woman wearing jacket holding camera](https://lennychen.com/wp-content/uploads/2024/02/otspc4delrs-711x1024.jpg)
+![woman wearing jacket holding camera](/wp-images/2024/02/otspc4delrs-711x1024.jpg)
 
 對於內容創作者而言，這不僅是關於財富自由，更是關於知識的自由和創作的自由。
 
@@ -80,7 +80,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_174-1024x5
 
 這種專注不僅能幫助創作者創造出優質的內容，還能幫助他們在繁忙的信息流中保持清晰的思路。
 
-![person writing bucket list on book](https://lennychen.com/wp-content/uploads/2024/03/rlw-uc03gwc-1024x682.jpg)
+![person writing bucket list on book](/wp-images/2024/03/rlw-uc03gwc-1024x682.jpg)
 
 ### 系統化與團隊建設
 

@@ -5,7 +5,7 @@ pubDate: "2024-04-19"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["AI寫作", "人生挑戰", "專注力", "幸福感", "心流", "目標受眾", "米哈里·奇克森特米海伊", "職場技能"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-1-684x1024.jpg"
+heroImage: "/wp-images/2024/02/8esrc43qdro-1-684x1024.jpg"
 ---
 
 在快速變化的社會中，人們不斷尋求提升個人幸福感和生產力的方法。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-1-684x1
 
 寫作是一項獨特的活動，它不僅能夠幫助我們表達自我，同時也是達到心流狀態的絕佳途徑。
 
-![a person writing on a piece of paper with a pen](https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-1-684x1024.jpg)
+![a person writing on a piece of paper with a pen](/wp-images/2024/02/8esrc43qdro-1-684x1024.jpg)
 
 當我們沉浸在寫作中時，時間似乎消失了，我們對外界的干擾變得不再敏感，進入了一個無我、單純創造的狀態。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-1-684x1
 
 ### 寫作中的心流體驗對人的好處
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_361.jpg)
+![](/wp-images/2024/02/rp_files_361.jpg)
 
 心流體驗能顯著提升個人的幸福感、堅持目標和積極心態。
 

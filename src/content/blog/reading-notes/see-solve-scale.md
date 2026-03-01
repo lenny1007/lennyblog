@@ -5,7 +5,7 @@ pubDate: "2024-07-26"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["丹尼．沃謝", "企業家精神", "創業", "商業思考", "問題解決", "擴展", "案例分析", "洞察", "結構化進程"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg"
+heroImage: "/wp-images/2024/02/rp_files_111.jpg"
 ---
 
 談論**創業** 時，很容易聯想到那些天才型的企業家，如喬布斯或馬斯克，他們似乎憑藉著與生俱來的直覺和創造力，將創意轉化為了革命性的產品和服務。
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg"
 
 ### 洞察：發現問題
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg)
+![](/wp-images/2024/02/rp_files_111.jpg)
 
 **洞察** 階段是創業的起點。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg"
 
 例如，Tide洗衣粉的故事告訴我們，從用戶的實際行為中觀察，可以揭露出真正的需求。
 
-![man in blue crew neck t-shirt sitting beside woman in black tank top](https://lennychen.com/wp-content/uploads/2024/03/vwlcr5bt4fc-1024x684.jpg)
+![man in blue crew neck t-shirt sitting beside woman in black tank top](/wp-images/2024/03/vwlcr5bt4fc-1024x684.jpg)
 
 ### 擴展：規模化解決方案
 

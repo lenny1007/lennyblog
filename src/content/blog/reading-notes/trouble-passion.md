@@ -5,7 +5,7 @@ pubDate: "2024-05-16"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["員工剝削", "寫作熱情", "社會學研究", "職場不平等", "職涯策略", "艾琳・賽克", "雇主"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueecyjamlnc-683x1024.jpg"
+heroImage: "/wp-images/2024/03/ueecyjamlnc-683x1024.jpg"
 ---
 
 熱情，一個在職場中極富爭議的詞匯。
@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueecyjamlnc-683x102
 
 艾琳·賽克在《失控的熱情》中詳細分析了熱情在職場中的影響。
 
-![man in gray jacket and gray pants sitting on chair](https://lennychen.com/wp-content/uploads/2024/03/ueecyjamlnc-683x1024.jpg)
+![man in gray jacket and gray pants sitting on chair](/wp-images/2024/03/ueecyjamlnc-683x1024.jpg)
 
 書中指出，那些處於社經地位較高的群體，如擁有大學文憑的工作者，更傾向於信仰熱情原則，並將其作為職場成功的重要因素。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueecyjamlnc-683x102
 
 在《失控的熱情》中，謝克提出了對策，鼓勵人們將熱情視為一種不平等的優勢。
 
-![selective focus photo of boy at the bridge near body of water](https://lennychen.com/wp-content/uploads/2024/03/a6qepnxe8uo-1024x683.jpg)
+![selective focus photo of boy at the bridge near body of water](/wp-images/2024/03/a6qepnxe8uo-1024x683.jpg)
 
 而為了避免熱情導致的職場不平等，我們需要從以下幾個方面進行思考和行動：  
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueecyjamlnc-683x102
   2. **公平的獎勵制度** ：公司應建立一套公平的報酬和晉升制度，以確保員工的額外努力得到相應的認可。
   3. **適度的熱情** ：個人應該學會平衡工作與生活，避免將熱情變成自我犧牲的代名詞。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_316.jpg)
+![](/wp-images/2024/02/rp_files_316.jpg)
 
 ## 結論
 

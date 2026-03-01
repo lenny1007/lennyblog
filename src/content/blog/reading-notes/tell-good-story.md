@@ -5,7 +5,7 @@ pubDate: "2024-04-24"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["三幕劇架構", "使命故事", "價值故事", "創辦人故事", "故事的力量", "顧客故事", "顧客溝通"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x1024.jpg"
+heroImage: "/wp-images/2024/02/5difvvwe6wk-683x1024.jpg"
 ---
 
 說故事的力量，是人類從動物脫穎而出的超能力。
@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x102
 
 霍爾在書中提出的"三幕劇結構"，包括常態、爆炸性發展和新常態，這一結構為敘述提供了一個清晰的輪廓，使聽眾能夠輕易跟隨故事情節，並在過程中與故事中的情感產生共鳴。
 
-![person holding torch in building interior](https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x1024.jpg)
+![person holding torch in building interior](/wp-images/2024/02/5difvvwe6wk-683x1024.jpg)
 
 **透過故事，我們得以與他人分享我們的經驗、價值觀，甚至是我們的夢想和恐懼。**
 
@@ -40,7 +40,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x102
 
 ### 故事如何深植人心
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_362.jpg)
+![](/wp-images/2024/02/rp_files_362.jpg)
 
 故事的力量還體現在它們能夠深植人心的能力上。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x102
 
 這種共鳴不僅能夠使故事更加難忘，而且還能夠驅使聽眾採取行動。
 
-![silhouette photo of man jumping on body of water during golden hour](https://lennychen.com/wp-content/uploads/2024/02/7vslk_9ghwa-1024x768.jpg)
+![silhouette photo of man jumping on body of water during golden hour](/wp-images/2024/02/7vslk_9ghwa-1024x768.jpg)
 
 這就是為什麼好的廣告經常講述一個故事，而不僅僅是列出產品特性的原因。
 
@@ -73,7 +73,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/5difvvwe6wk-683x102
 
 從孩提時代的睡前故事到成年後的社交對話，故事一直是我們理解世界、表達自我和建立人際關係的重要工具。
 
-![a brown leather couch sitting in front of a white wall](https://lennychen.com/wp-content/uploads/2024/02/6nsgg3iw37c-983x1024.jpg)
+![a brown leather couch sitting in front of a white wall](/wp-images/2024/02/6nsgg3iw37c-983x1024.jpg)
 
 故事激發我們的想像，同時也是我們學習和成長的媒介。
 

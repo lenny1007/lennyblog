@@ -5,7 +5,7 @@ pubDate: "2024-03-27"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人性偏見", "忙碌謬誤", "批判思考", "理性思考", "網路暴民", "虛假平衡", "虛幻優越感", "邏輯缺陷", "陰謀論"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
+heroImage: "/wp-images/2024/02/rp_files_505.jpg"
 ---
 
 在假訊息當道的現在，「批判性思考」已成為我們在信息洪流中辨別真偽、抵禦謬誤與偏見侵襲的重要技能。
@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
 
 ## 批判性思考的挑戰
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg)
+![](/wp-images/2024/02/rp_files_505.jpg)
 
 然而，批判性思考在實踐中面臨著諸多挑戰。
 
 其中之一便是「網路暴民」現象的興起。
 
-![man showing thumbs down](https://lennychen.com/wp-content/uploads/2024/02/pmvbryy9f3s-1024x1024.jpg)
+![man showing thumbs down](/wp-images/2024/02/pmvbryy9f3s-1024x1024.jpg)
 
 網路暴民通常在網絡上對他人進行道德批判，認為強烈譴責對方的錯誤行為可以提高自己的道德地位。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
 
 這包括質疑所呈現的資訊來源、探究論述背後的假設以及尋找支持和反對的證據。
 
-![man in gray button up shirt](https://lennychen.com/wp-content/uploads/2024/02/b9ybnbaemmi-683x1024.jpg)
+![man in gray button up shirt](/wp-images/2024/02/b9ybnbaemmi-683x1024.jpg)
 
 葛萊姆斯認為，通過檢驗證據和推理，追踪論證的邏輯路徑，我們可以有效地培養理性思考能力。
 

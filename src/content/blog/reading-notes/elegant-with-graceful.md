@@ -5,7 +5,7 @@ pubDate: "2024-04-04"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["僧人心態", "優雅", "內心平靜", "墜馬意外", "心靈成長", "成長經歷", "時間的考驗", "林志玲", "自我價值", "面對批評", "韌度"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x1024.jpg"
+heroImage: "/wp-images/2024/02/53xgbtbiaxk-683x1024.jpg"
 ---
 
 快速變遷的生活中，志玲姐姐的新書《剛剛好的優雅》宛若一股清流，為我們帶來了不同的啟示。
@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x102
 
 優雅並不僅僅是外在的裝扮和氣質的展現，更是一種內心的修為。
 
-![woman crossing the street among pigeons](https://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x1024.jpg)
+![woman crossing the street among pigeons](/wp-images/2024/02/53xgbtbiaxk-683x1024.jpg)
 
 林志玲姐姐在書中分享了許多關於如何面對批評與挑戰的心得。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x102
 
 ## 優雅的實踐：面對批評與內心的平靜
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_408.jpg)
+![](/wp-images/2024/02/rp_files_408.jpg)
 
 在書中，林志玲姐姐也談到了如何維持內心的平靜。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x102
 
 這不僅是一種優雅的心態，也是一種心靈成長的過程。
 
-![woman in blue denim jacket standing near body of water during daytime](https://lennychen.com/wp-content/uploads/2024/02/01htj6kyvio-1024x682.jpg)
+![woman in blue denim jacket standing near body of water during daytime](/wp-images/2024/02/01htj6kyvio-1024x682.jpg)
 
 在2005年經歷了驚險的跌馬意外後，林志玲姐姐選擇了“放下”，給予自己從情緒的混亂中解脫的機會。
 

@@ -5,7 +5,7 @@ pubDate: "2024-08-27"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["因果關係", "心智工具", "李查．尼茲比", "決策", "統計學應用", "行為經濟學", "辯證推理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_40.jpg"
+heroImage: "/wp-images/2024/02/rp_files_40.jpg"
 ---
 
 在資訊過載的時代，做出精準而睿智的決策很重要。
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_40.jpg"
 
 ## 作者的背景
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_40.jpg)
+![](/wp-images/2024/02/rp_files_40.jpg)
 
 理查·尼斯比特，一位在心理學界享有盛名的學者，他不僅有著扎實的專業背景，還擁有將複雜概念普及給大眾的能力。他的這本書，讓我們能夠以更科學的方式來進行日常決策。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_40.jpg"
 
 在書中，尼斯比特提供了多種心智工具，例如利用無意識的力量、理解沉沒成本概念以及重視實驗的重要性來驗證因果關係。
 
-![person holding book with sketch](https://lennychen.com/wp-content/uploads/2024/03/x6czgpjbi8u-1024x683.jpg)
+![person holding book with sketch](/wp-images/2024/03/x6czgpjbi8u-1024x683.jpg)
 
 這些工具的共通點在於它們都能幫助我們更合理地思考，減少決策過程中的誤差。
 

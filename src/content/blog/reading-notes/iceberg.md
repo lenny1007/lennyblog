@@ -5,7 +5,7 @@ pubDate: "2024-08-20"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人際溝通", "冰山理論", "深度溝通", "職場溝通", "自我連結", "薩提爾模式"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg"
+heroImage: "/wp-images/2024/02/rp_files_71.jpg"
 ---
 
 我們每天都在與家人、朋友、同事交流意見，但你是否有時感到彼此之間似乎存在一道無形的障礙，使得真正的理解與連結變得困難？
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg"
 
 ### 冰山理論在日常生活中的應用
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg)
+![](/wp-images/2024/02/rp_files_71.jpg)
 
 不僅在職場，冰山理論同樣適用於家庭和社交場合。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg"
 
 ## 如何進行深度溝通？
 
-![two men talking](https://lennychen.com/wp-content/uploads/2024/02/w3jl3jrepdy-1024x683.jpg)
+![two men talking](/wp-images/2024/02/w3jl3jrepdy-1024x683.jpg)
 
 深度溝通需要我們不斷地練習和反思。
 
@@ -68,7 +68,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg"
 
 但通過深度溝通，我們可能發現他其實有許多有價值的想法，只是缺乏表達的信心。透過鼓勵和支持，我們可以幫助這位員工克服障礙，讓他的聲音被聽見。
 
-![photo of iceberg](https://lennychen.com/wp-content/uploads/2024/03/m-ewsrl8bk8-1024x768.jpg)
+![photo of iceberg](/wp-images/2024/03/m-ewsrl8bk8-1024x768.jpg)
 
 ## 冰山理論的常見誤解
 

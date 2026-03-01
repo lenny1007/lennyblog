@@ -5,7 +5,7 @@ pubDate: "2024-02-24"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["優勢與陷阱", "史考特．蓋洛威", "失敗模式", "幸福人生", "成功公式"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_492.jpg"
+heroImage: "/wp-images/2024/02/rp_files_492.jpg"
 ---
 
 在追尋幸福人生的道路上，我們經常面臨各式各樣的選擇和挑戰。
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=qMW6xgPgY4s
 
 ### 第一個家和物質享受：蓋洛威的警示
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_492.jpg)
+![](/wp-images/2024/02/rp_files_492.jpg)
 
 蓋洛威在書中警告讀者，不應將購買第一個家視為成功的象徵，而應該將**焦點放在生活質量和長期的財務安全** 上。
 
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=qMW6xgPgY4s
 
 雖然學歷不是衡量一個人全部的標準，但它在某種程度上代表了個人的學習能力和知識水平。
 
-![group of fresh graduates students throwing their academic hat in the air](https://lennychen.com/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x683.jpg)
+![group of fresh graduates students throwing their academic hat in the air](/wp-images/2024/02/8cqdvpuo_ki-1024x683.jpg)
 
 ## 幸福人生的多維度解析
 
@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=qMW6xgPgY4s
 
 從教育學的角度來看，終身學習是個人發展和適應快速變化社會的關鍵。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/03/w7sij-m5xyc-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/03/w7sij-m5xyc-1024x768.jpg)
 
 蓋洛威所謂的「幸福人生」不僅涉及職業成功，而且與個人的成長息息相關。
 

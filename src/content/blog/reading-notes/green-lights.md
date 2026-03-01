@@ -5,7 +5,7 @@ pubDate: "2024-04-17"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["《綠燈》", "人生哲學", "人生挑戰", "企業成長", "奧斯卡影帝", "自傳", "馬修．麥康納"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x628.jpg"
+heroImage: "/wp-images/2024/02/azbzunpu1ag-1024x628.jpg"
 ---
 
 在生命旅程中，每個人都會面臨無數的紅燈和黃燈，它們象徵著挑戰與困難。
@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x62
 
 馬修在面對挑戰時，從未放棄追求那些綠燈，即便是在最艱難的時刻，他仍保持著對生命的熱愛與樂觀。
 
-![man standing on hill under white sky at daytime](https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x628.jpg)
+![man standing on hill under white sky at daytime](/wp-images/2024/02/azbzunpu1ag-1024x628.jpg)
 
 ## 從挑戰中學習與成長
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x62
 
 然而，正是這種勇於面對未知的精神，使他能夠在好萊塢站穩腳跟，最終成為一名奧斯卡影帝。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_476.jpg)
+![](/wp-images/2024/02/rp_files_476.jpg)
 
 在為《藥命俱樂部》做準備時，馬修更是經歷了極端的體重變化，從82公斤減至61公斤，這種對角色的全身心投入，展現了他對於表演的專業與熱情。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x62
 
 當他遇到困難，他會尋求信仰的指引，並從中獲得安慰與勇氣。
 
-![brown wooden cross on mountain during daytime](https://lennychen.com/wp-content/uploads/2024/02/x3jqi5z8sk0-657x1024.jpg)
+![brown wooden cross on mountain during daytime](/wp-images/2024/02/x3jqi5z8sk0-657x1024.jpg)
 
 ## 要素二：對家庭的期待
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x62
 
 不論他身處事業的高峰或低谷，家庭始終是他最堅實的後盾。
 
-![a person holding a baby](https://lennychen.com/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg)
+![a person holding a baby](/wp-images/2024/02/3orzref1vgc-768x1024.jpg)
 
 在父親早逝、家庭意外和成為父親等人生轉折點上，馬修都重新審視了自己的人生價值和優先順序。
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x62
 
 對未來的自己充滿期待，是驅使馬修不斷前進的關鍵。
 
-![man on grass field looking at sky](https://lennychen.com/wp-content/uploads/2024/02/jrz1ye1pjq0-1024x683.jpg)
+![man on grass field looking at sky](/wp-images/2024/02/jrz1ye1pjq0-1024x683.jpg)
 
 他始終相信，只要持續努力，就能夠達到自己設定的目標。
 

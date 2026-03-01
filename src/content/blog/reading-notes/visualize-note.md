@@ -5,7 +5,7 @@ pubDate: "2024-03-10"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "7C 溝通策略", "DRAW四步驟", "創作天賦", "口語表達", "好問題", "筆記效率", "視覺化筆記", "視覺框架", "邱奕霖"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
+heroImage: "/wp-images/2024/02/rp_files_457.jpg"
 ---
 
 閱讀越多、看的書越多，如何有效整理書中資訊和傳達自己的想法就成為一項挑戰。
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
 
 **也就是說一圖勝過千文，尤其是自己整理的圖形、圖表。**  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg)
+![](/wp-images/2024/02/rp_files_457.jpg)
 
 邱奕霖在她的著作中介紹了六種視覺框架和 DRAW四步驟法視覺筆記流程。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
 
 視覺化筆記的另一個重要優勢是它能夠促進創意發想。
 
-![person holding silver macbook on black surface](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-669609.jpeg)Photo by Lukas on [Pexels.com](<https://www.pexels.com/photo/person-holding-silver-macbook-on-black-surface-669609/>)
+![person holding silver macbook on black surface](/wp-images/2024/02/pexels-photo-669609.jpeg)Photo by Lukas on [Pexels.com](<https://www.pexels.com/photo/person-holding-silver-macbook-on-black-surface-669609/>)
 
 當你在筆記時使用圖像和視覺元素，你的大腦會被激活進入一種更具創造性的思考模式。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
 
 比如，並不是每個人都擁有繪畫或設計的天分，這可能會讓一些人在嘗試視覺化筆記時感到沮喪。
 
-![white printer paper with sketch of woman](https://lennychen.com/wp-content/uploads/2024/03/hucekxh5o3y-683x1024.jpg)
+![white printer paper with sketch of woman](/wp-images/2024/03/hucekxh5o3y-683x1024.jpg)
 
 此外，過於複雜的視覺化筆記可能會導致信息的混亂，反而影響學習和理解。
 
@@ -74,7 +74,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
 
 我們也可以看到，評論家和思想領袖們通過視覺化筆記來強化他們的批判性思維。
 
-![black and gray click pen on white printer paper](https://lennychen.com/wp-content/uploads/2024/03/2zg65ayldim-683x1024.jpg)
+![black and gray click pen on white printer paper](/wp-images/2024/03/2zg65ayldim-683x1024.jpg)
 
 ## 視覺化筆記與問題導向學習
 

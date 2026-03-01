@@ -5,7 +5,7 @@ pubDate: "2024-03-25"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["AI寫作", "Austin Kleon", "創作方法", "創作靈感", "創意工作", "模仿學習", "藝術創作"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/mdu-53qrvr4-1024x684.jpg"
+heroImage: "/wp-images/2024/02/mdu-53qrvr4-1024x684.jpg"
 ---
 
 創意，一個在藝術與文化領域被反覆討論的話題。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/mdu-53qrvr4-1024x68
 
 Kleon的理念是，創作不應該被視為一種孤立無援的過程，而是一種連接過去與未來，將不同元素重新組合的實踐。
 
-![person holding yellow sticky notes](https://lennychen.com/wp-content/uploads/2024/02/mdu-53qrvr4-1024x684.jpg)
+![person holding yellow sticky notes](/wp-images/2024/02/mdu-53qrvr4-1024x684.jpg)
 
 ### 從模仿到創新：學習的必經之路
 
@@ -40,7 +40,7 @@ Austin Kleon在書中強調了模仿在創意過程中的重要性。
 
 ### 創作方法：九種啟發創意的方式
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_418.jpg)
+![](/wp-images/2024/02/rp_files_418.jpg)
 
 書中提供了九種創意的觸發方法，這些方法適用於各種創作人，包括作家、畫家、音樂家等。
 
@@ -63,7 +63,7 @@ Austin Kleon在書中強調了模仿在創意過程中的重要性。
 
 Austin Kleon鼓勵創作者將創意融入日常生活中。
 
-![man and girl sitting on brown dock near boat and two white ducks during daytime](https://lennychen.com/wp-content/uploads/2024/02/rppvroqmr2s-816x1024.jpg)
+![man and girl sitting on brown dock near boat and two white ducks during daytime](/wp-images/2024/02/rppvroqmr2s-816x1024.jpg)
 
 無論是透過觀察周遭的環境，還是與不同領域的人交流，都能夠激發新的思考和創意。
 

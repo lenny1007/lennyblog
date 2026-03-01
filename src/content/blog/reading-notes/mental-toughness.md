@@ -4,7 +4,7 @@ description: "在充斥著各種挑戰和壓力的時代，我們往往被迫面
 pubDate: "2024-04-18"
 category: "閱讀筆記"
 tags: ["不完美", "個人成長", "內化成功", "心理復原力", "心理韌性", "戴蒙．札哈里斯", "挫折", "自我批判"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg"
+heroImage: "/wp-images/2024/02/rp_files_364.jpg"
 ---
 
 在充斥著各種挑戰和壓力的時代，我們往往被迫面對自己的不完美。
@@ -33,7 +33,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg"
 
 ### **心理韌性** 與**心理復原力** 的區別
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg)
+![](/wp-images/2024/02/rp_files_364.jpg)
 
 在理解**心理韌性** 的同時，我們也需要區分它和**心理復原力** 。
 
@@ -49,7 +49,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg"
 
 這不僅包括接納個人的缺陷，還包括接受生活中的不完美狀態。
 
-![woman spreading her arms](https://lennychen.com/wp-content/uploads/2024/02/r2njpbeyusq-1024x925.jpg)
+![woman spreading her arms](/wp-images/2024/02/r2njpbeyusq-1024x925.jpg)
 
 這種接納能夠讓我們在面對困難時更加客觀，從而找到更合適的解決方案。
 
@@ -59,7 +59,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg"
 
 將自己視為一位朋友，用一種支持和鼓勵的方式來看待自己的成長過程。
 
-![woman holding pot of succulent plant](https://lennychen.com/wp-content/uploads/2024/02/atpt0kck-18-683x1024.jpg)
+![woman holding pot of succulent plant](/wp-images/2024/02/atpt0kck-18-683x1024.jpg)
 
 這種方法有助於我們從負面情緒中解脫出來，並且更加積極地面對自己的不足。
 

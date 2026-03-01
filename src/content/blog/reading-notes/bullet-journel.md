@@ -5,7 +5,7 @@ pubDate: "2024-05-07"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "子彈筆記", "手寫與數位平衡", "時間管理", "生活規劃", "筆記實踐", "自我意識"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg"
+heroImage: "/wp-images/2024/02/rp_files_331.jpg"
 ---
 
 在這個時代，人們面臨著各種生活與工作上的壓力，學習**子彈筆記** 是一個幫助人們有效管理時間、提升自我意識和生活規劃的重要工具。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg"
 
 ## 子彈筆記的實踐與工具選擇
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg)
+![](/wp-images/2024/02/rp_files_331.jpg)
 
 作者選擇了PAPERIDEAS筆記本來進行**子彈筆記** 。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg"
 
 這種個性化設計使筆記更加高效和符合個人使用習慣。
 
-![blue marker on white printer paper](https://lennychen.com/wp-content/uploads/2024/02/zeqkumimxmi-1024x685.jpg)
+![blue marker on white printer paper](/wp-images/2024/02/zeqkumimxmi-1024x685.jpg)
 
 ## 子彈筆記六個月實踐的心得與收穫
 

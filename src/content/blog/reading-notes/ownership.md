@@ -5,7 +5,7 @@ pubDate: "2024-04-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人成長", "創造力", "寫作技巧", "模仿學習", "海豹部隊", "自學", "領導管理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_426.jpg"
+heroImage: "/wp-images/2024/02/rp_files_426.jpg"
 ---
 
 在競爭激烈的時代，**領導管理** 的藝術比以往任何時候都顯得更為重要。
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_426.jpg"
 
 ## 模仿與創造力：平衡學習與創新
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_426.jpg)
+![](/wp-images/2024/02/rp_files_426.jpg)
 
 當我們在學習新技能或知識時，常常會面臨一個問題：
 
@@ -42,11 +42,11 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_426.jpg"
 
 模仿可以讓我們迅速掌握基礎，但唯有透過不斷的嘗試與錯誤，結合個人獨特的視角，我們才能創造出真正屬於自己的作品。
 
-![person writing on white paper](https://lennychen.com/wp-content/uploads/2024/02/kl1gc0ve620-683x1024.jpg)
+![person writing on white paper](/wp-images/2024/02/kl1gc0ve620-683x1024.jpg)
 
 **領導管理** 的核心在於能否激勵人心並促進團隊成員之間的合作。
 
-![three person pointing the silver laptop computer](https://lennychen.com/wp-content/uploads/2024/02/2fpjlaymqta-1024x683.jpg)
+![three person pointing the silver laptop computer](/wp-images/2024/02/2fpjlaymqta-1024x683.jpg)
 
 Willink 和 Babin 在書中分享的經驗教訓，提供了一系列實戰中練就的領導原則和策略，這些原則不僅在軍隊中有效，在商業世界中同樣適用。
 
