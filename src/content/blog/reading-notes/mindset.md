@@ -5,7 +5,7 @@ pubDate: "2024-02-18"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["卡蘿．杜維克", "定型心態", "心態致勝", "成長心態", "教育孩子", "自我成長"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_488.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_488.jpg"
 ---
 
 在當今這個競爭激烈的社會中，如何培養一個正確的心態，成為了每個人不得不面對的挑戰。

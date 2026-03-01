@@ -5,7 +5,7 @@ pubDate: "2024-03-14"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["7C 溝通策略", "DiSC人格特質", "張忘形", "忘形流簡報", "情緒處理", "科學共識", "降低成本"]
-heroImage: "/wp-content/uploads/2024/02/m9jrkdxoqou-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x683.jpg"
 ---
 
 溝通，一個看似簡單卻蘊含無限學問的藝術。

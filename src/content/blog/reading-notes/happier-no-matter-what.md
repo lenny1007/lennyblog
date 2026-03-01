@@ -5,7 +5,7 @@ pubDate: "2024-06-21"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["價值與價格", "全人的幸福", "善待自己", "塔爾．班夏哈", "思維改變", "更快樂的選擇", "正向心理學", "行為習慣"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_181-1024x585.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x585.jpg"
 ---
 
 當我們在書店的書架間徘徊，尋找能給予內心啟發的書籍時，《更快樂的選擇》總是能吸引那些渴望生活中更多幸福感的讀者。

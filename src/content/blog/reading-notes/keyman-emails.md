@@ -5,7 +5,7 @@ pubDate: "2024-06-23"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["保險諮詢", "傑出校友", "心靈療癒", "林育聖", "競爭對手", "職場工作", "電子信"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_94.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_94.jpg"
 ---
 
 我們每個人都是自己故事的主角，每一刻的努力都應該被記錄和肯定。

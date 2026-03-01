@@ -4,7 +4,7 @@ description: "在探討人類文明進程的典籍中，《槍炮、病菌與鋼
 pubDate: "2024-04-21"
 category: "閱讀筆記"
 tags: ["Jared Diamond", "動物馴化", "國家形成", "地理環境論", "文明進程", "歷史差異", "農業發展"]
-heroImage: "/wp-content/uploads/2024/02/sceywlgwj2e-681x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/sceywlgwj2e-681x1024.jpg"
 ---
 
 在探討人類文明進程的典籍中，《槍炮、病菌與鋼鐵》無疑是一顆閃耀的明星。

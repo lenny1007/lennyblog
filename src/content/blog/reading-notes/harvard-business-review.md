@@ -5,7 +5,7 @@ pubDate: "2024-06-10"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["哈佛商業評論", "彼得．杜拉克", "管理領導技巧", "經典文章", "自我管理"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_257.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 ---
 
 《哈佛商業評論》所收錄的最有影響力的30篇文章，讓你從經典的管理智慧中，尋求靈感。

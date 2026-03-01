@@ -5,7 +5,7 @@ pubDate: "2024-08-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["Emily", "個人價值", "工作自由", "熱情追求", "生活哲學", "職場挑戰", "職涯規劃"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_58.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_58.jpg"
 ---
 
 我們如何在工作中找到自由與個人價值的實現？

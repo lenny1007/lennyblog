@@ -5,7 +5,7 @@ pubDate: "2024-06-24"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["包子", "夢想", "強項", "恐懼", "時間管理", "福穀樂", "閱讀技巧"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_100.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_100.jpg"
 ---
 
 擁有高效的時間管理技巧，不僅能幫助我們更好地實現夢想，也能在面對恐懼時保持冷靜。

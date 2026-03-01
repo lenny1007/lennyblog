@@ -4,7 +4,7 @@ description: "活到老，學到老，現在是一個最好的時代，學習已
 pubDate: "2024-02-28"
 category: "閱讀筆記"
 tags: ["互動學習", "學習原理", "學習指南", "教學實踐", "教學策略", "記憶技巧"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_467.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg"
 ---
 
 活到老，學到老，現在是一個最好的時代，學習已不再是學生的專利，而是一種可以終身受益的關鍵能力。

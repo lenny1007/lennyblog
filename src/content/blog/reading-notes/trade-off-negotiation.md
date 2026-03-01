@@ -5,7 +5,7 @@ pubDate: "2024-08-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["劉必榮", "孫子兵法", "策略思維", "線上課程", "職場應用", "談判學"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_102.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_102.jpg"
 ---
 
 古代的軍事經典《孫子兵法》怎麼用在競爭激烈的商業世界與複雜多變的職場環境中?

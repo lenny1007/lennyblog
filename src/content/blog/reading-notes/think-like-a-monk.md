@@ -5,7 +5,7 @@ pubDate: "2024-08-08"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "數位生活"]
 tags: ["付出", "個人成長", "傑．謝帝", "僧人心態", "內心平靜", "吠陀教", "心靈導師", "放下", "數位時代", "道場經驗"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_78.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_78.jpg"
 ---
 
 在快節奏的數位時代，人們常被外界的繁瑣事務所困擾，尋求內心平靜成為了許多人的渴望。

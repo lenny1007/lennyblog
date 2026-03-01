@@ -5,7 +5,7 @@ pubDate: "2024-07-21"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["Esor", "三層待辦清單法", "人物專訪", "學習心得", "拖延", "時間管理", "目標設定"]
-heroImage: "/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg"
 ---
 
 **時間管理後，多出來的時間，你要拿來做什麼?**

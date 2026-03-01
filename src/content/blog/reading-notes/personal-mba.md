@@ -5,7 +5,7 @@ pubDate: "2024-04-11"
 category: "閱讀筆記"
 subcategories: ["創業", "學習", "工作、職場"]
 tags: ["MBA學位", "不花錢讀名校MBA", "商業實務", "商業模式", "商業知識", "喬許．考夫曼", "職涯發展", "自學MBA", "華頓商學院"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_501.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_501.jpg"
 ---
 
 在這個時代，商業知識對於職場人士來說越來越重要。

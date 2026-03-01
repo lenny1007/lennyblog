@@ -5,7 +5,7 @@ pubDate: "2024-04-25"
 category: "閱讀筆記"
 subcategories: ["工作、職場", "數位生活"]
 tags: ["NotPetya", "影子仲介商", "數位軍火", "網路安全", "網路戰爭", "資安事件", "零時差攻擊", "震網病毒"]
-heroImage: "/wp-content/uploads/2024/02/w7zyugynprq-1024x768.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/w7zyugynprq-1024x768.jpg"
 ---
 
 在這個資訊數位化的時代，**零時差攻擊** （Zero Day Attack）已成為全球網路安全的巨大威脅。

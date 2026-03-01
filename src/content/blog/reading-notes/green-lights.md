@@ -5,7 +5,7 @@ pubDate: "2024-04-17"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["《綠燈》", "人生哲學", "人生挑戰", "企業成長", "奧斯卡影帝", "自傳", "馬修．麥康納"]
-heroImage: "/wp-content/uploads/2024/02/azbzunpu1ag-1024x628.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/azbzunpu1ag-1024x628.jpg"
 ---
 
 在生命旅程中，每個人都會面臨無數的紅燈和黃燈，它們象徵著挑戰與困難。

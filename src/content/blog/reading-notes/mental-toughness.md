@@ -4,7 +4,7 @@ description: "在充斥著各種挑戰和壓力的時代，我們往往被迫面
 pubDate: "2024-04-18"
 category: "閱讀筆記"
 tags: ["不完美", "個人成長", "內化成功", "心理復原力", "心理韌性", "戴蒙．札哈里斯", "挫折", "自我批判"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_364.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_364.jpg"
 ---
 
 在充斥著各種挑戰和壓力的時代，我們往往被迫面對自己的不完美。

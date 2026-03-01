@@ -5,7 +5,7 @@ pubDate: "2024-07-31"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "數位生活"]
 tags: ["主動愛", "創造性取向", "埃里希．佛洛姆", "愛的本質", "愛的藝術", "技藝與能力", "資本主義影響"]
-heroImage: "/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg"
 ---
 
 繁忙的日常，愛是我們都追求卻又難以捉摸的概念。

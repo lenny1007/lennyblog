@@ -5,7 +5,7 @@ pubDate: "2024-03-18"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "健康"]
 tags: ["一個反轉", "內心糾結", "四個提問", "心靈導師", "心靈自由", "智慧選擇", "賴佩霞", "轉念"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_439.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_439.jpg"
 ---
 
 在當代社會中，人們經常被各種壓力和煩惱所困擾，心靈自由成為了許多人追求的目標。

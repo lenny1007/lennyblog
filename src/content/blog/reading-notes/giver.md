@@ -5,7 +5,7 @@ pubDate: "2024-02-29"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["互利者", "亞當．格蘭特", "人脈經營", "團隊合作", "柔軟溝通", "索取者", "給予者", "職場成功", "辨別人才", "避免精疲力竭"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_527.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_527.jpg"
 ---
 
 在現代職場中，一個人的成功不僅取決於個人的努力和才能，更在於他們如何與他人互動和貢獻。

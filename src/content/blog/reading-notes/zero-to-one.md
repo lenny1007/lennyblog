@@ -5,7 +5,7 @@ pubDate: "2024-06-02"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["判斷力", "博客來", "商業價值", "商業洞察", "年度百大", "拖延", "最糟建議", "痛點", "簽書會", "自我反思"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_283.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_283.jpg"
 ---
 
 今天將探討一本對商業價值有深刻見解的作品——《從0到1》，它由美國創業家兼風險投資家彼得·提爾（Peter Thiel）所著，提供了對商業創新的獨特視角。

@@ -5,7 +5,7 @@ pubDate: "2024-06-07"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["《教練》", "做事篇", "團隊發展", "帶人篇", "心態篇", "管理者", "管理領導技巧", "賴婷婷", "領導力", "領導者"]
-heroImage: "/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg"
 ---
 
 在快速變遷的商業環境中，一個組織的成功與否往往取決於其領導力的質量。

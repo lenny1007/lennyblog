@@ -4,7 +4,7 @@ description: "健康是人們最為關注的話題之一，然而在網絡資訊
 pubDate: "2024-01-31"
 category: "閱讀筆記"
 tags: ["YouTube", "健康指導", "維他命C抗癌", "衛生當局", "醫療錯誤信息"]
-heroImage: "/wp-content/uploads/2024/01/pl_files_34-1024x585.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/01/pl_files_34-1024x585.jpg"
 ---
 
 健康是人們最為關注的話題之一，然而在網絡資訊橫流的今天，真假難辨的醫療信息充斥在我們的生活中。2023年8月15日，YouTube發布了有關其醫療錯誤信息政策的長期願景，宣布將刪除違背衛生當局指導的錯誤醫療信息，特別是關於癌症治療的錯誤信息，例如宣傳維他命C抗癌的內容。YouTube將在未來幾週內逐步實施這些變更，並持續監控衛生當局的指導以調整其政策。

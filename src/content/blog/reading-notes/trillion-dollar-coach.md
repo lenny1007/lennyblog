@@ -5,7 +5,7 @@ pubDate: "2024-07-20"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["《教練》", "人際關係", "比爾．坎貝爾", "管理智慧", "職涯教練", "蓋洛普優勢測驗", "領導力"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_120.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_120.jpg"
 ---
 
 當管理的人、團隊大到一定的程度，你會發現，很難再用原本小團隊的方式去管理公司。

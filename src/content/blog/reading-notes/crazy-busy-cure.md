@@ -4,7 +4,7 @@ description: "在這個快節奏的時代，「時間管理」已經成為人們
 pubDate: "2024-04-28"
 category: "閱讀筆記"
 tags: ["Zena Everett", "工作效率", "拖延", "時間管理", "精力管理", "自我批判"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_363.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_363.jpg"
 ---
 
 在這個快節奏的時代，「時間管理」已經成為人們提升工作效率、保持生活平衡的重要技能。

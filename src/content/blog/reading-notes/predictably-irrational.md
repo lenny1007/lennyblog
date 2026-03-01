@@ -5,7 +5,7 @@ pubDate: "2024-03-24"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["Amazon聯盟行銷", "人生決策", "底層思維", "消費行為", "理性與感性", "行為經濟學", "銷售", "非理性"]
-heroImage: "/wp-content/uploads/2024/02/hnprwoh2z8u-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/hnprwoh2z8u-1024x683.jpg"
 ---
 
 行為經濟學以其獨特的視角探討理性與非理性的消費行為，一直以來都吸引著廣大的讀者群。

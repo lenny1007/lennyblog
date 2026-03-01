@@ -4,7 +4,7 @@ description: "隨著健康意識的提升，人們對改善睡眠品質的追求
 pubDate: "2024-01-16"
 category: "健康"
 tags: ["CBD", "FDA", "保健食品效能", "偽科學", "大麻二酚", "枕頭", "睡眠障礙", "透皮吸收"]
-heroImage: "/wp-content/uploads/2024/01/pl_files_7.png"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/01/pl_files_7.png"
 ---
 
 隨著健康意識的提升，人們對改善睡眠品質的追求似乎也越來越熱切。市場上出現了各種產品，聲稱能夠帶來更好的睡眠體驗，其中一項新穎的商品便是蘊含大麻二酚（CBD）的枕頭。但這些含CBD的枕頭真的能有效幫助睡眠嗎？這是很多對健康充滿關切的消費者心中的疑問。本文將從科學的角度，探討CBD枕頭的真實功效，FDA對於CBD產品的立場，以及專業網站對這些產品的看法。

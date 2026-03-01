@@ -5,7 +5,7 @@ pubDate: "2024-03-22"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "理財"]
 tags: ["《被討厭的勇氣》", "FIRE理財族", "不動產投資", "提早退休", "消費主義", "節約", "簡約生活", "財務自由"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_372.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_372.jpg"
 ---
 
 在這個消費主義盛行的社會裡，**FIRE理財族** 逐漸成為了追求財務自由人士的標籤。

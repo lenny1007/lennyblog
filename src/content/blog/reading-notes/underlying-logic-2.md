@@ -5,7 +5,7 @@ pubDate: "2024-08-21"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["劉潤", "加減乘除", "商業模式", "商業顧問", "底層邏輯2", "數學原理", "機率", "簡單數學", "統計學應用", "賽局理論"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_70.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_70.jpg"
 ---
 
 商場上，數字不僅是結果的展現，更是指導決策和策略的根據。

@@ -5,7 +5,7 @@ pubDate: "2024-04-08"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["Jim Collins", "企業管理", "創新", "台積電", "恆久卓越的修煉", "持續進步", "領導力"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_396.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_396.jpg"
 ---
 
 在競爭激烈的商業環境中，企業如何能夠持續卓越並且長盛不衰，一直是管理學界和實務界關注的焦點。

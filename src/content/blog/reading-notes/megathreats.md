@@ -5,7 +5,7 @@ pubDate: "2024-06-08"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["《大威脅》", "人口高齡化", "債務危機", "勞動市場", "去全球化", "社會安全網", "科技進步", "經濟衰退", "通膨", "魯比尼"]
-heroImage: "/wp-content/uploads/2024/03/3agz7a97qwa-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-1024x683.jpg"
 ---
 
 在充滿不確定性的時代，《大威脅》一書為我們提供了一個全面而深刻的視角去探討未來可能面臨的經濟與社會風險。

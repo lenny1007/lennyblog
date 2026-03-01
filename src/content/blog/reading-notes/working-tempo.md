@@ -4,7 +4,7 @@ description: "在當今快速變遷的社會中，找到適合自己的工作節
 pubDate: "2024-02-22"
 category: "閱讀筆記"
 tags: ["個人成長", "工作態度", "時間管理", "松浦彌太郎", "生活手帖", "職場溝通", "職涯設計"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_516.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_516.jpg"
 ---
 
 在當今快速變遷的社會中，找到適合自己的工作節奏，並在職場中保持幸福感與成就感，已成為許多人的追求。

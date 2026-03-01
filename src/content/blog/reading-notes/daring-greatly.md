@@ -5,7 +5,7 @@ pubDate: "2024-05-18"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["《被討厭的勇氣》", "信任", "同理心", "團隊凝聚力", "布芮尼．布朗", "脆弱", "領導力"]
-heroImage: "/wp-content/uploads/2024/03/tub9a0rb04k-1024x677.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/tub9a0rb04k-1024x677.jpg"
 ---
 
 在快速變遷的時代，一個人的勇氣和領導力對於個人成長與團隊發展都顯得格外重要。

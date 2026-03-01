@@ -5,7 +5,7 @@ pubDate: "2024-07-25"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["Logseq", "數位筆記工具", "涂子沛", "知識管理", "第二大腦", "資訊爆炸", "阿里巴巴"]
-heroImage: "/wp-content/uploads/2024/03/fhnnjk1yj7y-1024x768.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/fhnnjk1yj7y-1024x768.jpg"
 ---
 
 如何有效管理和內化日益增長的知識庫存成為許多愛書人和知識工作者的挑戰。

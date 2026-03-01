@@ -5,7 +5,7 @@ pubDate: "2024-06-26"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人成長", "好習慣", "心理學", "改變習慣", "生活改變", "習慣紅利", "艾爾文", "行為經濟學"]
-heroImage: "/wp-content/uploads/2024/03/wi30grrfbne-768x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/wi30grrfbne-768x1024.jpg"
 ---
 
 習慣，塑造著我們的人生。

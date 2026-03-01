@@ -5,7 +5,7 @@ pubDate: "2024-07-14"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["九宮格筆記", "再訪性", "卡片盒筆記法", "原子化", "可擴展性", "子彈筆記", "康奈爾筆記", "筆記格式", "筆記系統", "連結性", "麥肯錫筆記"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_132.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_132.jpg"
 ---
 
 學得越多，如何高效地管理和利用知識變得尤其重要。

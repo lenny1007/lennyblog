@@ -5,7 +5,7 @@ pubDate: "2024-07-29"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["內在探索", "成為自己", "自我實現", "閱讀的意義", "面對期許"]
-heroImage: "/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg"
 ---
 
 從小到大，人們經常追求外在的成就與認同。

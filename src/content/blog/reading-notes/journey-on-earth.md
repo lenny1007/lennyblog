@@ -5,7 +5,7 @@ pubDate: "2024-07-13"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["MBTI", "TED演講", "故事溝通", "深度思考", "火星爺爺", "筆記方法", "自傳"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_133.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_133.jpg"
 ---
 
 閱讀不僅是一種娛樂，更是一種深度思考和自我成長的工具。

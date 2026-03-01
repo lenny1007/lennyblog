@@ -5,7 +5,7 @@ pubDate: "2024-08-04"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["人性的弱點", "人際關係", "戴爾．卡內基", "生活意義", "自信", "自我成長"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_103.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg"
 ---
 
 每個人都在尋找成長的道路，希望能夠超越自己的人性弱點，活出更好的自我。

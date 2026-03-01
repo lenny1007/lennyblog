@@ -5,7 +5,7 @@ pubDate: "2024-06-11"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["Apple Podcasts", "LinkedIn", "企業規模擴張", "倖存者偏差", "創業", "規模大師", "雷德．霍夫曼", "高成長思維"]
-heroImage: "/wp-content/uploads/2024/03/hqq_ohvlvvk-768x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hqq_ohvlvvk-768x1024.jpg"
 ---
 
 LinkedIn創始人雷德·霍夫曼的著作《高成長思維》（The Startup of You）為我們提供了一個深入了解世界頂尖企業家如何擴大企業規模和思維的機會。

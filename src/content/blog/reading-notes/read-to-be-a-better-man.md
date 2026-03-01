@@ -5,7 +5,7 @@ pubDate: "2024-07-12"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["Kobo電子書閱讀器", "人格培養", "專業知識", "思考力", "生命的意義", "齋藤孝"]
-heroImage: "/wp-content/uploads/2024/03/5iyjopxtd4o-1-1024x684.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/5iyjopxtd4o-1-1024x684.jpg"
 ---
 
 在這個時代，**閱讀** 已經成為一種選擇，而非必要。

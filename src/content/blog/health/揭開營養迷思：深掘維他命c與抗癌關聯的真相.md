@@ -4,7 +4,7 @@ description: "健康是現代人生活中的重要課題，而在眾多保健策
 pubDate: "2024-01-16"
 category: "健康"
 tags: ["抗癌之王", "癌症預防", "硒", "硒攝取量", "科學研究", "膳食補充劑", "隨機對照試驗"]
-heroImage: "/wp-content/uploads/2024/01/pl_files_2.png"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/01/pl_files_2.png"
 ---
 
 健康是現代人生活中的重要課題，而在眾多保健策略中，維他命C（以下簡稱「維C」）的作用一直備受關注。維C曾被冠以“抗癌之王”的美譽，但近來的科學研究已逐漸揭開了這層迷霧。

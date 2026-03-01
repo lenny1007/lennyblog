@@ -5,7 +5,7 @@ pubDate: "2024-09-02"
 category: "閱讀筆記"
 subcategories: ["創業", "理財"]
 tags: ["Kobo電子書閱讀器", "人生智慧", "人脈網絡", "快樂", "槓桿", "決策", "真誠自我", "納瓦爾．拉維肯", "自主富有", "致富", "複利效應", "財富自由"]
-heroImage: "/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x683.jpg"
 ---
 
 當談到人生的智慧、自由、快樂以及財富積累，很少有人能像納瓦爾·拉維坎特（Naval Ravikant）那樣，以其獨到的見解和生活哲學影響了無數人。

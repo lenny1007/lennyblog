@@ -5,7 +5,7 @@ pubDate: "2024-05-19"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["《被討厭的勇氣》", "個人洞見", "團隊向心力", "天賦", "持續性", "深度對話", "脆弱", "資訊轉化", "領導力"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_310.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_310.jpg"
 ---
 
 在充滿挑戰的工作環境中，一個組織的成功與否往往取決於其領導者的領導力與團隊向心力。

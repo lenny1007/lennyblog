@@ -4,7 +4,7 @@ description: "當代生活節奏加快，人們面臨的壓力愈來愈大，心
 pubDate: "2024-02-23"
 category: "閱讀筆記"
 tags: ["EQ", "心理治療", "心理諮商", "溝通分析", "自我狀態", "自我認知", "蛤蟆先生"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_25.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg"
 ---
 
 當代生活節奏加快，人們面臨的壓力愈來愈大，心理健康問題逐漸受到重視。

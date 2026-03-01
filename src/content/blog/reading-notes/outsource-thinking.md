@@ -5,7 +5,7 @@ pubDate: "2024-02-19"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["健康飲食", "專家依賴", "專業之死", "心智模式", "投資策略", "紳士神偷阿波羅．羅賓斯", "綜合整理", "自主思考", "資訊超載", "跨領域學習", "通才"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_528.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_528.jpg"
 ---
 
 資訊超載的我們經常面臨著何去何從的困惑。

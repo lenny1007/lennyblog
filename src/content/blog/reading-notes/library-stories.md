@@ -5,7 +5,7 @@ pubDate: "2024-08-01"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["公共圖書館", "土庫鎮", "彭冠綸", "教育", "療心圖書館", "閱讀推廣"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_96.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg"
 ---
 
 閱讀推廣一直是各個社區和教育機構努力的方向。

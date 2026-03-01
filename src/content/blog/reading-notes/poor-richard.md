@@ -4,7 +4,7 @@ description: "人們對於知識的渴求從未停止。"
 pubDate: "2024-05-04"
 category: "閱讀筆記"
 tags: ["勤奮", "班傑明·富蘭克林", "窮理查年鑑", "節儉", "財富之路", "開源節流"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_345.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_345.jpg"
 ---
 
 人們對於知識的渴求從未停止。

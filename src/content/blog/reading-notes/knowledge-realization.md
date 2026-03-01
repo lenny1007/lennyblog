@@ -5,7 +5,7 @@ pubDate: "2024-06-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人品牌", "內容創作", "專家形象", "知識工作者", "知識累積", "知識複利筆記術", "知識複損", "知識變現", "策略實踐"]
-heroImage: "/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x683.jpg"
 ---
 
 在這個時代，知識不僅是力量，更是塑造個人品牌和實現事業發展的關鍵。

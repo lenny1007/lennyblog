@@ -5,7 +5,7 @@ pubDate: "2024-08-18"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["信息過載", "心智影響", "新聞消費", "深度閱讀", "選擇性資訊"]
-heroImage: "/wp-content/uploads/2024/03/ueqvutrs224-1024x768.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x768.jpg"
 ---
 
 看新聞是許多人生活中不可或缺的一部分。

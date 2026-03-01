@@ -4,7 +4,7 @@ description: "當我們在人生的旅程中攀爬，我們經常會遇到分岔
 pubDate: "2024-03-11"
 category: "閱讀筆記"
 tags: ["人生意義", "個人主義", "喜樂", "大衛．布魯克斯", "承諾", "最佳貢獻者", "第二座山", "自我超越", "關係主義"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_455.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_455.jpg"
 ---
 
 當我們在人生的旅程中攀爬，我們經常會遇到分岔路口，需要我們做出選擇：

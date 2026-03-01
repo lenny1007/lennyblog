@@ -5,7 +5,7 @@ pubDate: "2024-05-23"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["定著因素", "少數原則", "引爆趨勢", "環境力量", "行為傳染", "讀書習慣", "閱讀動力", "麥爾坎·葛拉威爾"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_302.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_302.jpg"
 ---
 
 閱讀一直是知識傳承和個人成長的重要途徑。

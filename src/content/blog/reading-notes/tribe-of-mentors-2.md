@@ -5,7 +5,7 @@ pubDate: "2024-06-25"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["Timothy Ferriss", "人生智慧", "人生給的答案", "失敗", "最糟建議", "自我成長", "頂尖人物"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_209.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_209.jpg"
 ---
 
 人都在追尋成功的秘訣，而關於成功，常常伴隨著的是無數的失敗與嘗試。

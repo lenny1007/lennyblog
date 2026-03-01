@@ -5,7 +5,7 @@ pubDate: "2024-07-09"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["Axios", "數位時代", "溝通法則", "白話文", "聰明簡潔", "讀者至上"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_145.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_145.jpg"
 ---
 
 在數位時代，如何有效地進行溝通是重要的藝術。

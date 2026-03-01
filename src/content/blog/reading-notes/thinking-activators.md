@@ -5,7 +5,7 @@ pubDate: "2024-06-28"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["PressPlay Academy", "先問，為什麼？", "冒牌者症候群", "化輸入為輸出", "思考馬達", "曾培祐", "極度吸睛", "祈念之樹"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_203.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_203.jpg"
 ---
 
 《思考馬達》： 即使在如此快速變化的社會中，深度思考的能力仍然是決定個人成長和成功的關鍵因素。

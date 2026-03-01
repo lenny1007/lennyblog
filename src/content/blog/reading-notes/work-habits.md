@@ -5,7 +5,7 @@ pubDate: "2024-03-03"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["主管期待", "人際關係", "工作效率", "工作習慣", "思考框架", "情緒管理", "時間管理", "準時下班", "高產出"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_471.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_471.jpg"
 ---
 
 當代職場環境要求員工不僅要準時下班，更要追求高效的工作表現。

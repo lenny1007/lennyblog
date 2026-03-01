@@ -5,7 +5,7 @@ pubDate: "2024-09-04"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["溝通技巧", "社會影響", "約拿．博格", "行為改變", "語言影響力", "說服術", "魔法文字"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_19.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_19.jpg"
 ---
 
 有效的溝通技巧，在充滿雜音的現代，更顯重要。

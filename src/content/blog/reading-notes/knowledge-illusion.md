@@ -5,7 +5,7 @@ pubDate: "2024-05-01"
 category: "閱讀筆記"
 subcategories: ["學習", "數位生活"]
 tags: ["同溫層", "無知", "理解的假象", "知識共同體", "知識地圖", "謙卑", "集體智慧"]
-heroImage: "/wp-content/uploads/2024/02/i79wwvfyheq-1024x598.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x598.jpg"
 ---
 
 我們每天都被各式各樣的知識所包圍。

@@ -5,7 +5,7 @@ pubDate: "2024-05-11"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["亞當·格蘭特", "情緒智商", "挑戰信念", "科學家思考方式", "逆思維", "重新思考"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_326.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_326.jpg"
 ---
 
 《逆思維》一書由亞當·格蘭特撰寫，是一本引人入勝能給人帶來新視角的作品。

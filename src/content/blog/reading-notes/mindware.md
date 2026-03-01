@@ -5,7 +5,7 @@ pubDate: "2024-08-27"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["因果關係", "心智工具", "李查．尼茲比", "決策", "統計學應用", "行為經濟學", "辯證推理"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_40.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_40.jpg"
 ---
 
 在資訊過載的時代，做出精準而睿智的決策很重要。

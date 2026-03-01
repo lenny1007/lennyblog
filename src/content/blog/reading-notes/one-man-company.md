@@ -5,7 +5,7 @@ pubDate: "2024-02-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["一人公司", "企業成長", "保羅·賈維斯", "客戶成功", "工作型態", "工匠思維", "熱情與勇氣", "生活型態自由"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_475.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_475.jpg"
 ---
 
 在快速變遷的時代，傳統的工作模式已漸漸不適應新世代的需求。

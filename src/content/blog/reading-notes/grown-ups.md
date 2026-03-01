@@ -5,7 +5,7 @@ pubDate: "2024-07-18"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人際關係", "心理學", "情緒管理", "成長心態", "溝通技巧", "玻璃心", "社群媒體", "自我探索", "自我設限"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_124.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg"
 ---
 
 在社會中，人與人之間的互動充斥著各種挑戰和機遇。

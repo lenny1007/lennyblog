@@ -5,7 +5,7 @@ pubDate: "2024-08-20"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人際溝通", "冰山理論", "深度溝通", "職場溝通", "自我連結", "薩提爾模式"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_71.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_71.jpg"
 ---
 
 我們每天都在與家人、朋友、同事交流意見，但你是否有時感到彼此之間似乎存在一道無形的障礙，使得真正的理解與連結變得困難？

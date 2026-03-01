@@ -5,7 +5,7 @@ pubDate: "2024-03-21"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["商業策略", "心智模式", "投資原則", "查理·蒙格", "終身學習", "美好人生", "跨領域學習"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_402.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
 ---
 
 你是否曾經思考過閱讀可以如何影響你的人生哲學、商業策略乃至於投資決策？

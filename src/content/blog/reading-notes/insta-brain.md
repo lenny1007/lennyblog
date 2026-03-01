@@ -5,7 +5,7 @@ pubDate: "2024-03-02"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["多巴胺", "大腦健康", "安德斯・韓森", "專注力", "手機使用指南", "睡眠品質", "科技依賴", "自制力"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_481.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_481.jpg"
 ---
 
 隨著手機成為我們生活中不可或缺的一部分，了解其對我們大腦健康的影響，以及如何健康地與之共存變得至關重要。

@@ -5,7 +5,7 @@ pubDate: "2024-03-18"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["FBI談判協商術", "克里斯．佛斯", "同理心", "談判技巧", "談判策略"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_398.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg"
 ---
 
 在快節奏且充滿不確定性的現代生活中，談判技巧顯得尤為重要。

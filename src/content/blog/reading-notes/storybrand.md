@@ -4,7 +4,7 @@ description: "如何讓品牌脫穎而出，成為業界的一大挑戰。"
 pubDate: "2024-07-05"
 category: "閱讀筆記"
 tags: ["StoryBrand", "七大黃金法則", "內容行銷", "唐納·米勒", "故事行銷", "網站首頁", "顧客為中心"]
-heroImage: "/wp-content/uploads/2024/03/ynasz-e7qss-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ynasz-e7qss-1024x683.jpg"
 ---
 
 如何讓品牌脫穎而出，成為業界的一大挑戰。

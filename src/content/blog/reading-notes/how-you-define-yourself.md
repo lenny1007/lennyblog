@@ -5,7 +5,7 @@ pubDate: "2024-06-09"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人方向", "查爾斯．韓第", "生命價值", "管理思想", "組合式生活", "自傳", "自我定義", "跳蚤工作者"]
-heroImage: "/wp-content/uploads/2024/03/mv4gwtdd8tw-768x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x1024.jpg"
 ---
 
 在當今社會，不斷有聲音告訴我們，成功的關鍵在於高薪的職位和社會地位的提升。

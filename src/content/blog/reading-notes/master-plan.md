@@ -5,7 +5,7 @@ pubDate: "2024-06-22"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["培訓系統", "天才類型", "行動計劃", "財富流", "財富階段", "順流致富GPS"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_220.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_220.jpg"
 ---
 
 在當今社會，財富的創造與管理是許多人關注的焦點。

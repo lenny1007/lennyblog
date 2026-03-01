@@ -4,7 +4,7 @@ description: "在數位資訊爆炸的時代，我們的大腦面臨著前所未
 pubDate: "2024-09-23"
 category: "人生智慧"
 tags: ["丹尼．沃謝", "擴展", "洞察", "療心圖書館", "結構化進程", "處世哲學", "財務目標"]
-heroImage: "/wp-content/uploads/2024/08/rp_files_669f56ac25c18432b957faa6.png"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/08/rp_files_669f56ac25c18432b957faa6.png"
 ---
 
 ## 閱讀的重要性：破解侷限信念，解鎖無限潛力

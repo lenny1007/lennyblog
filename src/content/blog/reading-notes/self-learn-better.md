@@ -5,7 +5,7 @@ pubDate: "2024-03-01"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["學習方法", "科學驗證", "自學", "萬維鋼", "蓋洛普優勢測驗", "記憶力", "通才", "高手學習"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_469.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_469.jpg"
 ---
 
 如何更好的學習，尤其是自學，在知識唾手可得的現在，尤其顯得重要。

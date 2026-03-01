@@ -5,7 +5,7 @@ pubDate: "2024-03-17"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "理財"]
 tags: ["FIRE", "投資工具", "提早退休", "湯雅·海斯特", "理財計畫", "生活型態自由", "財務獨立", "退休規劃"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_370.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_370.jpg"
 ---
 
 當代年輕人對於工作與生活的平衡越來越重視，「提早退休」這個概念也隨之成為熱門話題。

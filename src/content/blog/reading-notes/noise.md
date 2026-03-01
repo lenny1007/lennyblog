@@ -5,7 +5,7 @@ pubDate: "2024-03-26"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人生決策", "決策保健", "準確度", "直覺偏誤", "統計學應用", "誤差", "雜訊"]
-heroImage: "/wp-content/uploads/2024/02/quynet9qhkq-1-1024x768.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/quynet9qhkq-1-1024x768.jpg"
 ---
 
 這個時代我們每天都要做出無數決策，從選擇早餐吃什麼，到決定職業發展的方向。

@@ -5,7 +5,7 @@ pubDate: "2024-08-13"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["共贏思維", "天使投資", "思維轉換", "經營管理", "處世哲學", "親子養育", "黃冠華"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_87.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_87.jpg"
 ---
 
 在競爭激烈的社會，如何保持個人核心價值的同時，創造一個和諧共贏的局面？

@@ -5,7 +5,7 @@ pubDate: "2024-03-06"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["不平等優勢", "創業", "自我對話", "閱讀技巧"]
-heroImage: "/wp-content/uploads/2024/03/c_rnpbsyvfm-1024x683.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/c_rnpbsyvfm-1024x683.jpg"
 ---
 
 在一個充滿激烈競爭的商業世界中，每個人都在尋找自己的一席之地。

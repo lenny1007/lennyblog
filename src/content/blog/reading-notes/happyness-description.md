@@ -5,7 +5,7 @@ pubDate: "2024-05-15"
 category: "閱讀筆記"
 subcategories: ["健康"]
 tags: ["兒童成長", "創造力", "壓力緩解", "大腦健康", "失智症", "安德斯‧韓森", "專注力", "憂鬱症", "記憶力", "運動健康"]
-heroImage: "/wp-content/uploads/2024/03/0wra5yyvqje-1024x684.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/0wra5yyvqje-1024x684.jpg"
 ---
 
 在當今社會，運動已經被證實是一種對身心都有顯著好處的活動。

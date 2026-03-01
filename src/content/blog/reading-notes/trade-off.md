@@ -5,7 +5,7 @@ pubDate: "2024-04-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人生如戰爭", "個人成長", "商業領導", "孫子兵法", "核心競爭力", "權衡", "經典閱讀", "胡川安", "虛實應用", "認識自己"]
-heroImage: "/wp-content/uploads/2024/02/0cvhq62gwy8-683x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x1024.jpg"
 ---
 
 在繁雜多變的世界中，我們經常會遇到各種挑戰和競爭，不論是個人成長、商業領導，還是日常生活中的微妙互動，「權謀」一詞總是不經意地出現在我們的生活中。

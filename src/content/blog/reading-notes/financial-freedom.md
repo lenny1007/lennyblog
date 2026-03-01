@@ -5,7 +5,7 @@ pubDate: "2024-03-30"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["FIRE", "不動產投資", "創業", "複利效應", "財務自由", "開源節流"]
-heroImage: "/wp-content/uploads/2024/02/pexels-photo-259027-1024x682.jpeg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-259027-1024x682.jpeg"
 ---
 
 財務自由（Financial Independence）是許多人夢寐以求的目標，但究竟能如何到達這個看似遙不可及的境地呢？

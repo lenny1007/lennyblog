@@ -4,7 +4,7 @@ description: "人們總是忙於追求科技進步和物質享受。"
 pubDate: "2024-01-24"
 category: "閱讀筆記"
 tags: ["理性與感性", "生活哲學", "禪與摩托車維修的藝術", "讀後心得", "質素"]
-heroImage: "/wp-content/uploads/2024/01/rp_files_5-1024x585.png"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585.png"
 ---
 
 人們總是忙於追求科技進步和物質享受。

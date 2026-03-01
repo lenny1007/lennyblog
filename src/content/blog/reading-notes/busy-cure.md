@@ -5,7 +5,7 @@ pubDate: "2024-05-20"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["優先順序", "團隊管理", "工作效率", "忙碌謬誤", "時間管理", "生產力", "領導力"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_308.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_308.jpg"
 ---
 
 「時間管理」成為許多人追求工作與生活平衡的重要技能。

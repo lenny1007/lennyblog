@@ -5,7 +5,7 @@ pubDate: "2024-07-08"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人成長", "創新", "快樂", "華特·艾薩克森", "財富心態", "馬斯克傳"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_149.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_149.jpg"
 ---
 
 **創新** 是推動社會進步的不竭動力。

@@ -5,7 +5,7 @@ pubDate: "2024-05-02"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["《被討厭的勇氣》", "七個習慣", "五秒法則", "執行力", "改變人生", "梅爾．羅賓斯", "行動法則", "身分認同"]
-heroImage: "/wp-content/uploads/2024/02/rimkv_jc0y8-683x1024.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x1024.jpg"
 ---
 
 當腦中有個想法，如何讓自己立刻行動不拖延？ 具體提升行動力的策略——「五秒法則」。

@@ -5,7 +5,7 @@ pubDate: "2024-06-30"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["《被討厭的勇氣》", "Email 管理", "職場工作", "自我成長", "變革領導", "貢獻感"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_190.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_190.jpg"
 ---
 
 當閱讀完《被討厭的勇氣》及其續集後，無法不對書中的一些觀點產生共鳴，特別是與職場相關的理論。

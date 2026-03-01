@@ -5,7 +5,7 @@ pubDate: "2024-07-07"
 category: "閱讀筆記"
 subcategories: ["健康"]
 tags: ["伊森．克洛斯", "內心聲音", "心理學", "情緒管理", "正面影響", "自我對話", "負面小對話"]
-heroImage: "/wp-content/uploads/2024/02/rp_files_151.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_151.jpg"
 ---
 
 焦慮和壓力是社會普遍存在的心理狀態，如何透過**自我對話** 來管理這些情緒 ? 

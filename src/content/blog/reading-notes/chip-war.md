@@ -5,7 +5,7 @@ pubDate: "2024-08-14"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["中國", "克里斯・米勒", "冷戰", "半導體", "台積電", "晶片戰爭", "晶片法案", "科技發展", "美國", "軍事"]
-heroImage: "/wp-content/uploads/2024/03/s4jsvchycos-1024x682.jpg"
+heroImage: "https://lennychen.com/wp-content/uploads/2024/03/s4jsvchycos-1024x682.jpg"
 ---
 
 在由科技驅動的時代，**半導體** 不僅是現代電子設備的心臟，更是國家戰略布局的關鍵。
