@@ -2,10 +2,13 @@
 
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
 export default defineConfig({
-	site: 'https://lennyblog.vercel.app', // Update this to your actual domain once deployed
+	site: 'https://lennychen.com',
 	integrations: [mdx(), sitemap()],
+	vite: {
+		plugins: [tailwindcss()],
+	},
 });

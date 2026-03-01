@@ -1,0 +1,28 @@
+---
+title: "[ C++ ]  對整數型別賦值"
+description: "基礎物件的型別決定了物件能夠存放的值。"
+pubDate: "2018-02-09"
+category: "技術"
+tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5B%20C%2B%2B%20%5D?width=1200&height=630&seed=3269&model=flux&nologo=true"
+---
+
+基礎物件的型別決定了物件能夠存放的值。
+
+所以如果將超出某型別允許範圍的值指派給一個該型別的物件。
+
+ex. 32bit 的作業系統 中的 int 可容納 2³² 的數值範圍 = -2,147,483,648 ~ 2,147,483,647。
+
+Q: 所以如果將 5,000,000,000 丟到 int 中會發生什麼事 ？
+
+A: 會得到 5,000,000,000 % 2³² 的餘數 **705,032,704** 。 這是編譯器預設的行為， 目前許多編譯器會對此一指派賦值給予警告事件。
+
+**warning: implicit conversion from ‘long’ to ‘int’ changes value**
+
+Q: 如果將**負數** 指派給 unsigned 型別的物件， 會怎麼樣？
+
+  * ex. unsigned int i = -100;
+
+A: i 的值會等於 (-100+2³²)%2³²
+
+小結： 由於 c++ 對於指派超出範圍的值給內建型別是合法的， 編譯器會決定所指定的值為何， 所以在指定或者初始化內建型別的時候， 必須注意是否超出所指定的範圍， 不然很容易會造成邏輯上數值的錯誤。

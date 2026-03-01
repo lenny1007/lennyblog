@@ -1,0 +1,243 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import { SITE_TITLE } from '../../consts';
+
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+// 依年份分組
+const byYear: Record<number, typeof allPosts> = {};
+allPosts.forEach(post => {
+	const year = post.data.pubDate.getFullYear();
+	if (!byYear[year]) byYear[year] = [];
+	byYear[year].push(post);
+});
+
+const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+
+const CATEGORY_EMOJI: Record<string, string> = {
+	'閱讀筆記': '📖', '健康': '🌿', '技術': '💻', 'AI': '🤖', '學習': '🧠',
+	'創業': '🚀', '理財': '💰', '數位生活': '📱', '工作': '💼', '生活智慧': '✨',
+	'產品': '🎯', 'Python': '🐍', 'SEO': '🔍', '人際': '👥',
+};
+---
+
+<!doctype html>
+<html lang="zh-TW">
+	<head>
+		<BaseHead
+			title={`文章歸檔 | ${SITE_TITLE}`}
+			description={`共 ${allPosts.length} 篇文章的完整歸檔，依年份整理。`}
+			pubDate={new Date()}
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<h1>文章歸檔</h1>
+				<p class="subtitle">共 <strong>{allPosts.length}</strong> 篇文章</p>
+			</div>
+
+			<!-- 年份快速跳轉 -->
+			<nav class="year-nav" aria-label="年份跳轉">
+				{years.map(y => (
+					<a href={`#year-${y}`} class="year-pill">{y} <span class="year-count">({byYear[y].length})</span></a>
+				))}
+			</nav>
+
+			<!-- 依年份列出 -->
+			{years.map(year => (
+				<section id={`year-${year}`} class="year-section">
+					<h2 class="year-heading">
+						<span class="year-num">{year}</span>
+						<span class="year-badge">{byYear[year].length} 篇</span>
+					</h2>
+					<ul class="post-list">
+						{byYear[year].map(post => {
+							const emoji = CATEGORY_EMOJI[post.data.category ?? ''] ?? '✨';
+							return (
+								<li class="post-row">
+									<span class="post-date-col">
+										<FormattedDate date={post.data.pubDate} />
+									</span>
+									<span class="post-cat-col">
+										<a href={`/blog/category/${encodeURIComponent(post.data.category ?? '')}`} class="cat-chip">
+											{emoji} {post.data.category}
+										</a>
+									</span>
+									<a href={`/blog/${post.id}/`} class="post-title-link">
+										{post.data.title}
+									</a>
+								</li>
+							);
+						})}
+					</ul>
+				</section>
+			))}
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+main {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 3rem 1.5rem 6rem;
+}
+
+/* ── Page Header ────────────────────────────────────────────────── */
+.page-header {
+	margin-bottom: 2.5rem;
+}
+.page-header h1 {
+	font-size: clamp(2rem, 5vw, 3rem);
+	font-weight: 900;
+	letter-spacing: -0.04em;
+	color: var(--color-text-primary);
+	margin: 0 0 0.5rem;
+}
+.subtitle {
+	font-size: 1rem;
+	color: var(--color-text-muted);
+	margin: 0;
+}
+
+/* ── Year Nav ───────────────────────────────────────────────────── */
+.year-nav {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	margin-bottom: 3rem;
+}
+.year-pill {
+	padding: 0.4rem 1rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 9999px;
+	font-size: 0.875rem;
+	font-weight: 700;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.year-pill:hover {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	text-decoration: none;
+}
+.year-count {
+	font-weight: 400;
+	color: var(--color-text-muted);
+}
+
+/* ── Year Section ───────────────────────────────────────────────── */
+.year-section {
+	margin-bottom: 3rem;
+}
+
+.year-heading {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	margin: 0 0 1rem;
+	padding-bottom: 0.75rem;
+	border-bottom: 2px solid var(--color-border);
+}
+
+.year-num {
+	font-size: 1.5rem;
+	font-weight: 900;
+	color: var(--color-text-primary);
+	letter-spacing: -0.03em;
+}
+
+.year-badge {
+	font-size: 0.8rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	background: var(--color-bg-secondary);
+	border: 1px solid var(--color-border);
+	padding: 0.15rem 0.6rem;
+	border-radius: 9999px;
+}
+
+/* ── Post List ──────────────────────────────────────────────────── */
+.post-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0;
+}
+
+.post-row {
+	display: grid;
+	grid-template-columns: 100px 130px 1fr;
+	gap: 1rem;
+	align-items: center;
+	padding: 0.65rem 0.5rem;
+	border-bottom: 1px solid var(--color-border);
+	transition: background 0.15s ease;
+}
+.post-row:hover {
+	background: var(--color-bg-secondary);
+	border-radius: 8px;
+}
+
+.post-date-col {
+	font-size: 0.8rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+	white-space: nowrap;
+}
+
+.cat-chip {
+	font-size: 0.75rem;
+	font-weight: 700;
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	border: 1px solid var(--color-accent-border);
+	padding: 0.2rem 0.6rem;
+	border-radius: 9999px;
+	text-decoration: none;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: block;
+}
+.cat-chip:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+	.cat-chip { color: #60a5fa; }
+}
+
+.post-title-link {
+	font-size: 0.95rem;
+	font-weight: 600;
+	color: var(--color-text-primary);
+	text-decoration: none;
+	line-height: 1.4;
+	transition: color 0.15s;
+}
+.post-title-link:hover {
+	color: var(--color-accent);
+	text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+	.post-row {
+		grid-template-columns: 1fr;
+		gap: 0.25rem;
+		padding: 0.75rem 0.5rem;
+	}
+	.post-date-col { font-size: 0.75rem; }
+}
+</style>

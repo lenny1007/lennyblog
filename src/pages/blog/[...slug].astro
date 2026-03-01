@@ -3,18 +3,51 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
-	return posts.map((post) => ({
+	const posts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+	);
+
+	return posts.map((post, index) => ({
 		params: { slug: post.id },
-		props: post,
+		props: {
+			post,
+			prevPost: index + 1 < posts.length ? posts[index + 1] : null,
+			nextPost: index > 0 ? posts[index - 1] : null,
+		},
 	}));
 }
-type Props = CollectionEntry<'blog'>;
 
-const post = Astro.props;
+type Props = {
+	post: CollectionEntry<'blog'>;
+	prevPost: CollectionEntry<'blog'> | null;
+	nextPost: CollectionEntry<'blog'> | null;
+};
+
+const { post, prevPost, nextPost } = Astro.props;
 const { Content } = await render(post);
+
+// 閱讀時間估算：中文約 350 字/分，英文約 200 詞/分
+const body = post.body ?? '';
+const chineseChars = (body.match(/[\u4e00-\u9fff\u3400-\u4dbf]/g) ?? []).length;
+const englishWords = (body.replace(/[\u4e00-\u9fff\u3400-\u4dbf]/g, '').match(/\b\w+\b/g) ?? []).length;
+const readingTime = Math.max(1, Math.ceil(chineseChars / 350 + englishWords / 200));
+
+// 相關文章：同分類 +3 分，每個共同 tag +2 分，取前 4 篇
+const allPosts = await getCollection('blog');
+const currentTags = post.data.tags ?? [];
+const relatedPosts = allPosts
+	.filter(p => p.id !== post.id)
+	.map(p => {
+		const sharedTags = (p.data.tags ?? []).filter(t => currentTags.includes(t)).length;
+		const sameCategory = p.data.category === post.data.category ? 3 : 0;
+		return { post: p, score: sharedTags * 2 + sameCategory };
+	})
+	.filter(({ score }) => score > 0)
+	.sort((a, b) => b.score - a.score)
+	.slice(0, 4)
+	.map(({ post }) => post);
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} prevPost={prevPost} nextPost={nextPost} readingTime={readingTime} relatedPosts={relatedPosts}>
 	<Content />
 </BlogPost>

@@ -4,18 +4,53 @@
 import '../styles/global.css';
 import type { ImageMetadata } from 'astro';
 import FallbackImage from '../assets/blog-placeholder-1.jpg';
-import { SITE_TITLE } from '../consts';
+import { SITE_AUTHOR, SITE_TITLE } from '../consts';
 
 interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata;
+	pubDate?: Date;
+	updatedDate?: Date;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image = FallbackImage, pubDate, updatedDate } = Astro.props;
+
+const jsonLd = pubDate ? JSON.stringify({
+	'@context': 'https://schema.org',
+	'@type': 'BlogPosting',
+	headline: title,
+	description,
+	image: new URL(image.src, Astro.url).toString(),
+	url: canonicalURL.toString(),
+	datePublished: pubDate.toISOString(),
+	...(updatedDate ? { dateModified: updatedDate.toISOString() } : {}),
+	author: {
+		'@type': 'Person',
+		name: SITE_AUTHOR,
+		url: new URL('/about', Astro.site).toString(),
+	},
+	publisher: {
+		'@type': 'Person',
+		name: SITE_AUTHOR,
+		url: Astro.site?.toString(),
+	},
+}) : null;
 ---
+
+<!-- Dark mode: apply stored preference before paint to avoid flash -->
+<script is:inline>
+(function() {
+	var t = localStorage.getItem('theme');
+	if (t === 'dark') {
+		document.documentElement.setAttribute('data-theme', 'dark');
+	} else if (t === 'light') {
+		document.documentElement.setAttribute('data-theme', 'light');
+	}
+})();
+</script>
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
@@ -31,9 +66,9 @@ const { title, description, image = FallbackImage } = Astro.props;
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- Font preloads -->
-<link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
-<link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
+<!-- Google Fonts: Inter -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
@@ -56,3 +91,6 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+
+<!-- JSON-LD Structured Data -->
+{jsonLd && <script type="application/ld+json" set:html={jsonLd} />}

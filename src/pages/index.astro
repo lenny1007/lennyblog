@@ -1,49 +1,445 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const allPosts = await getCollection('blog');
+const posts = allPosts
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 9);
+
+const CATEGORY_EMOJI: Record<string, string> = {
+	'閱讀筆記': '📖',
+	'健康':     '🌿',
+	'技術':     '💻',
+	'AI':       '🤖',
+	'學習':     '🧠',
+	'創業':     '🚀',
+	'理財':     '💰',
+	'數位生活': '📱',
+	'工作':     '💼',
+	'生活智慧': '✨',
+	'產品':     '🎯',
+	'Python':   '🐍',
+	'SEO':      '🔍',
+	'人際':     '👥',
+};
+
+// 統計每個分類的文章數
+const categoryCounts: Record<string, number> = {};
+allPosts.forEach(p => {
+	if (p.data.category) {
+		categoryCounts[p.data.category] = (categoryCounts[p.data.category] ?? 0) + 1;
+	}
+});
+const categories = Object.entries(categoryCounts)
+	.sort((a, b) => b[1] - a[1]);
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="zh-TW">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
+
+		<!-- Hero -->
+		<section class="hero">
+			<div class="hero-inner">
+				<h1>
+					閱讀，是<br />
+					<span class="gradient-text">最好的投資</span>
+				</h1>
+				<p class="hero-desc">
+					透過輸出轉化自己的閱讀，也希望能讓偶然逛到這裡的你能更喜歡閱讀。
+				</p>
+				<div class="hero-actions">
+					<a href="/blog" class="btn-primary">瀏覽所有文章</a>
+					<a href="/about" class="btn-secondary">關於作者</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- 分類區塊 -->
+		<section class="categories-section">
+			<div class="categories-inner">
+				<h2 class="section-title">探索主題</h2>
+				<ul class="categories-grid">
+					{categories.map(([cat, count]) => {
+						const emoji = CATEGORY_EMOJI[cat] ?? '✨';
+						return (
+							<li>
+								<a href={`/blog/category/${encodeURIComponent(cat)}`} class="cat-card">
+									<span class="cat-emoji">{emoji}</span>
+									<span class="cat-name">{cat}</span>
+									<span class="cat-count">{count} 篇</span>
+								</a>
+							</li>
+						);
+					})}
+				</ul>
+			</div>
+		</section>
+
+		<!-- Recent Posts -->
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
+			<div class="section-header">
+				<h2 class="section-title">最新文章</h2>
+				<a href="/blog" class="view-all">查看全部 →</a>
+			</div>
+
+			<ul class="post-grid">
+				{posts.map((post) => {
+					const emoji = CATEGORY_EMOJI[post.data.category ?? ''] ?? '✨';
+					return (
+						<li>
+							<a href={`/blog/${post.id}/`} class="post-card">
+								<div class="card-img-wrap">
+									{post.data.heroImage && (
+										<img
+											class="card-img"
+											src={post.data.heroImage}
+											alt={post.data.title}
+											loading="lazy"
+											decoding="async"
+											onerror={`this.style.display='none';this.nextElementSibling.style.display='flex'`}
+										/>
+									)}
+									<div class="card-img-placeholder" style={post.data.heroImage ? 'display:none' : ''}>
+										<span class="card-emoji">{emoji}</span>
+									</div>
+								</div>
+								<div class="card-body">
+									{post.data.category && (
+										<span class="badge badge-cat">{post.data.category}</span>
+									)}
+									<h3 class="card-title">{post.data.title}</h3>
+									<p class="card-desc">{post.data.description}</p>
+									<div class="card-meta">
+										<FormattedDate date={post.data.pubDate} />
+									</div>
+								</div>
+							</a>
+						</li>
+					);
+				})}
 			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
 		</main>
+
 		<Footer />
 	</body>
 </html>
+
+<style>
+/* ── Hero ───────────────────────────────────────────────────────── */
+.hero {
+	background: linear-gradient(180deg, #e0f2fe 0%, #f8fafc 100%);
+	border-bottom: 1px solid #e2e8f0;
+	padding: 7rem 1.5rem 5rem;
+	text-align: center;
+}
+@media (prefers-color-scheme: dark) {
+	.hero {
+		background: linear-gradient(180deg, #1e3a8a 0%, #0f172a 100%);
+		border-bottom-color: #334155;
+	}
+}
+
+.hero-inner {
+	max-width: 680px;
+	margin: 0 auto;
+}
+
+.hero h1 {
+	font-size: clamp(2.5rem, 6vw, 4rem);
+	font-weight: 900;
+	letter-spacing: -0.05em;
+	line-height: 1.1;
+	margin-bottom: 1.5rem;
+	color: #0f172a;
+}
+@media (prefers-color-scheme: dark) {
+	.hero h1 { color: #f8fafc; }
+}
+
+.gradient-text {
+	background: linear-gradient(90deg, #3b82f6, #06b6d4);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+.hero-desc {
+	font-size: 1.2rem;
+	font-weight: 500;
+	color: #475569;
+	max-width: 540px;
+	margin: 0 auto 2.5rem;
+	line-height: 1.7;
+}
+@media (prefers-color-scheme: dark) {
+	.hero-desc { color: #94a3b8; }
+}
+
+.hero-actions {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	flex-wrap: wrap;
+}
+
+.btn-primary {
+	background: #0f172a;
+	color: #fff;
+	padding: 0.75rem 2rem;
+	border-radius: 9999px;
+	font-weight: 600;
+	font-size: 1rem;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.btn-primary:hover {
+	background: #1e293b;
+	transform: translateY(-2px);
+	box-shadow: 0 10px 15px -3px rgba(0,0,0,0.15);
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.btn-primary { background: #f8fafc; color: #0f172a; }
+	.btn-primary:hover { background: #e2e8f0; }
+}
+
+.btn-secondary {
+	background: transparent;
+	color: #475569;
+	padding: 0.75rem 2rem;
+	border-radius: 9999px;
+	border: 1px solid #e2e8f0;
+	font-weight: 600;
+	font-size: 1rem;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.btn-secondary:hover {
+	background: #f8fafc;
+	text-decoration: none;
+	transform: translateY(-2px);
+}
+@media (prefers-color-scheme: dark) {
+	.btn-secondary { color: #94a3b8; border-color: #334155; }
+	.btn-secondary:hover { background: #1e293b; color: #f8fafc; }
+}
+
+/* ── 分類區塊 ───────────────────────────────────────────────────── */
+.categories-section {
+	background: var(--color-bg-secondary);
+	border-bottom: 1px solid var(--color-border);
+	padding: 4rem 1.5rem;
+}
+
+.categories-inner {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.categories-inner .section-title {
+	font-size: 1.8rem;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	margin: 0 0 2rem;
+}
+
+.categories-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	gap: 1rem;
+}
+
+.cat-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 1.5rem 1rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 16px;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	text-align: center;
+}
+.cat-card:hover {
+	border-color: #93c5fd;
+	transform: translateY(-4px);
+	box-shadow: 0 8px 16px rgba(37, 99, 235, 0.1);
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.cat-card:hover { border-color: #3b82f6; }
+}
+
+.cat-emoji { font-size: 2rem; line-height: 1; }
+
+.cat-name {
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: var(--color-text-primary);
+}
+
+.cat-count {
+	font-size: 0.78rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+}
+
+/* ── Main / Posts ───────────────────────────────────────────────── */
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 4rem 1.5rem 5rem;
+}
+
+.section-header {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	margin-bottom: 2rem;
+}
+.section-title {
+	font-size: 1.8rem;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	margin: 0;
+}
+.view-all {
+	font-size: 0.9rem;
+	font-weight: 600;
+	color: var(--color-accent);
+	text-decoration: none;
+}
+.view-all:hover { text-decoration: underline; }
+
+/* ── Post Grid ──────────────────────────────────────────────────── */
+.post-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+	gap: 2rem;
+}
+
+.post-card {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 16px;
+	overflow: hidden;
+	text-decoration: none;
+	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+.post-card:hover {
+	transform: translateY(-6px);
+	box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.1);
+	border-color: #93c5fd;
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.post-card { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3); }
+	.post-card:hover { border-color: #3b82f6; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.15); }
+}
+
+.card-img-wrap {
+	position: relative;
+	width: 100%;
+	height: 160px;
+	flex-shrink: 0;
+}
+
+.card-img {
+	width: 100%;
+	height: 160px;
+	object-fit: cover;
+	display: block;
+}
+
+.card-img-placeholder {
+	width: 100%;
+	height: 160px;
+	background: var(--color-bg-secondary);
+	border-bottom: 1px solid var(--color-border);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card-emoji { font-size: 3rem; }
+
+.card-body {
+	padding: 1.25rem 1.5rem 1.5rem;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	gap: 0.6rem;
+}
+
+.badge {
+	display: inline-block;
+	font-size: 0.75rem;
+	font-weight: 700;
+	padding: 0.25rem 0.75rem;
+	border-radius: 9999px;
+	width: fit-content;
+}
+.badge-cat {
+	background: var(--color-accent-light);
+	color: #2563eb;
+	border: 1px solid var(--color-accent-border);
+}
+@media (prefers-color-scheme: dark) {
+	.badge-cat { color: #60a5fa; }
+}
+
+.card-title {
+	font-size: 1.05rem;
+	font-weight: 700;
+	color: var(--color-text-primary);
+	line-height: 1.4;
+	margin: 0;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+.post-card:hover .card-title { color: var(--color-accent); }
+
+.card-desc {
+	font-size: 0.875rem;
+	color: var(--color-text-secondary);
+	line-height: 1.6;
+	margin: 0;
+	flex: 1;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.card-meta {
+	font-size: 0.8rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+	margin-top: auto;
+	padding-top: 0.75rem;
+	border-top: 1px solid var(--color-border);
+}
+</style>
