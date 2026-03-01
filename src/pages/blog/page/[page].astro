@@ -1,19 +1,35 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseHead from '../../components/BaseHead.astro';
-import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
-import Header from '../../components/Header.astro';
-import Pagination from '../../components/Pagination.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import BaseHead from '../../../components/BaseHead.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+import Header from '../../../components/Header.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../../consts';
 
-const PAGE_SIZE = 18;
+export async function getStaticPaths() {
+	const PAGE_SIZE = 18;
+	const allPosts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	);
+	const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
 
-const allPosts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
-const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
-const posts = allPosts.slice(0, PAGE_SIZE);
+	// Pages 2+ (page 1 is handled by blog/index.astro)
+	return Array.from({ length: totalPages - 1 }, (_, i) => {
+		const page = i + 2;
+		return {
+			params: { page: String(page) },
+			props: {
+				currentPage: page,
+				totalPages,
+				posts: allPosts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE),
+				totalPosts: allPosts.length,
+			},
+		};
+	});
+}
+
+const { currentPage, totalPages, posts, totalPosts } = Astro.props;
 
 const CATEGORY_EMOJI: Record<string, string> = {
 	'閱讀筆記': '📖',
@@ -35,7 +51,10 @@ const CATEGORY_EMOJI: Record<string, string> = {
 <!doctype html>
 <html lang="zh-TW">
 	<head>
-		<BaseHead title={`文章列表 | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead
+			title={`文章列表 第 ${currentPage} 頁 | ${SITE_TITLE}`}
+			description={SITE_DESCRIPTION}
+		/>
 	</head>
 	<body>
 		<Header />
@@ -43,7 +62,7 @@ const CATEGORY_EMOJI: Record<string, string> = {
 			<!-- Page Header -->
 			<div class="page-header">
 				<h1 class="page-title">所有文章</h1>
-				<p class="page-subtitle">共 {allPosts.length} 篇文章，涵蓋閱讀、健康、技術等主題</p>
+				<p class="page-subtitle">共 {totalPosts} 篇文章 ・ 第 {currentPage} / {totalPages} 頁</p>
 			</div>
 
 			<!-- Post Grid -->
@@ -91,7 +110,7 @@ const CATEGORY_EMOJI: Record<string, string> = {
 				})}
 			</ul>
 
-			<Pagination currentPage={1} totalPages={totalPages} />
+			<Pagination currentPage={currentPage} totalPages={totalPages} />
 		</main>
 		<Footer />
 	</body>
@@ -121,7 +140,6 @@ main {
 	margin: 0;
 }
 
-/* ── Grid ───────────────────────────────────────────────────────── */
 .post-grid {
 	list-style: none;
 	padding: 0;
@@ -131,7 +149,6 @@ main {
 	gap: 2rem;
 }
 
-/* ── Card ───────────────────────────────────────────────────────── */
 .post-card {
 	display: flex;
 	flex-direction: column;
@@ -155,21 +172,18 @@ main {
 	.post-card:hover { border-color: #3b82f6; }
 }
 
-/* ── Card image ─────────────────────────────────────────────────── */
 .card-img-wrap {
 	position: relative;
 	width: 100%;
 	height: 160px;
 	flex-shrink: 0;
 }
-
 .card-img {
 	width: 100%;
 	height: 160px;
 	object-fit: cover;
 	display: block;
 }
-
 .card-img-placeholder {
 	width: 100%;
 	height: 160px;
@@ -184,7 +198,6 @@ main {
 @media (prefers-color-scheme: dark) {
 	.post-card:hover .card-img-placeholder { background: rgba(37, 99, 235, 0.08); }
 }
-
 .card-emoji { font-size: 3rem; }
 
 .card-body {
@@ -195,7 +208,6 @@ main {
 	gap: 0.5rem;
 }
 
-/* ── Badges ─────────────────────────────────────────────────────── */
 .card-badges {
 	display: flex;
 	flex-wrap: wrap;
@@ -224,7 +236,6 @@ main {
 	.badge-tag { background: #334155; color: #cbd5e1; }
 }
 
-/* ── Card Content ───────────────────────────────────────────────── */
 .card-title {
 	font-size: 1.05rem;
 	font-weight: 800;

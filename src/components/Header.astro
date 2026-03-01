@@ -12,6 +12,13 @@ import { SITE_TITLE } from '../consts';
 			<a href="/" class="nav-link">首頁</a>
 			<a href="/blog" class="nav-link">文章</a>
 			<a href="/about" class="nav-link">關於</a>
+			<a href="/search" class="nav-link icon-btn" aria-label="搜尋文章">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+			</a>
+			<button id="theme-toggle" class="nav-link icon-btn" aria-label="切換深色/淺色模式">
+				<svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+				<svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+			</button>
 		</div>
 	</nav>
 </header>
@@ -92,9 +99,52 @@ import { SITE_TITLE } from '../consts';
 		.nav-link:hover { color: #f8fafc; background: #334155; }
 	}
 
+	.icon-btn {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.5rem;
+		background: none;
+		border: none;
+		cursor: pointer;
+		font-size: inherit;
+	}
+
+	/* Show sun in dark mode, moon in light mode */
+	.icon-sun { display: none; }
+	.icon-moon { display: block; }
+
+	@media (prefers-color-scheme: dark) {
+		.icon-sun { display: block; }
+		.icon-moon { display: none; }
+	}
+	[data-theme="dark"] .icon-sun { display: block; }
+	[data-theme="dark"] .icon-moon { display: none; }
+	[data-theme="light"] .icon-sun { display: none; }
+	[data-theme="light"] .icon-moon { display: block; }
+
 	@media (max-width: 600px) {
 		.nav-links { gap: 0; }
 		.nav-link { padding: 0.5rem; font-size: 0.9rem; }
 		.logo { font-size: 1rem; }
 	}
 </style>
+
+<script>
+const btn = document.getElementById('theme-toggle');
+const root = document.documentElement;
+
+function getEffectiveDark() {
+	const stored = localStorage.getItem('theme');
+	if (stored === 'dark') return true;
+	if (stored === 'light') return false;
+	return window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+
+btn?.addEventListener('click', () => {
+	const isDark = getEffectiveDark();
+	const next = isDark ? 'light' : 'dark';
+	localStorage.setItem('theme', next);
+	root.setAttribute('data-theme', next);
+});
+</script>
