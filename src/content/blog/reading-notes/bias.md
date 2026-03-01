@@ -35,7 +35,7 @@ tags: ["克服偏見", "潔西卡．諾黛兒", "社會文化", "神經科學", 
 
 ### 社會文化因素
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_286.jpg)
+![](/wp-content/uploads/2024/02/rp_files_286.jpg)
 
 社會文化是形成隱性偏見的另一大因素。
 
@@ -55,7 +55,7 @@ tags: ["克服偏見", "潔西卡．諾黛兒", "社會文化", "神經科學", 
 
 巴雷斯的故事反映了性別偏見如何深刻地影響一個人的專業認可和社會互動。
 
-![gray scale photo of man wearing eyeglasses](http://lennychen.com/wp-content/uploads/2024/03/zxgwtqvv470-683x1024.jpg)
+![gray scale photo of man wearing eyeglasses](/wp-content/uploads/2024/03/zxgwtqvv470-683x1024.jpg)
 
 ### 對社會的影響
 
@@ -65,7 +65,7 @@ tags: ["克服偏見", "潔西卡．諾黛兒", "社會文化", "神經科學", 
 
 《隱性偏見》書中提供的醫療領域的例子，凸顯了女性和少數族裔在尋求醫療服務時可能遭受的偏見和誤判。
 
-![a woman getting her hair brushed by a hair stylist](http://lennychen.com/wp-content/uploads/2024/03/xjtmjcqc4ne-682x1024.jpg)
+![a woman getting her hair brushed by a hair stylist](/wp-content/uploads/2024/03/xjtmjcqc4ne-682x1024.jpg)
 
 ## 克服隱性偏見的途徑
 

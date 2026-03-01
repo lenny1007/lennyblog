@@ -23,11 +23,11 @@ tags: ["Day 1 理念", "世界遺憾調查", "丹尼爾·品克", "創業", "後
 
 **後悔是一種複雜而強大的心理機能，提示我們反思和學習，從而做出更好的決策。**
 
-![man covering his face with both hands](http://lennychen.com/wp-content/uploads/2024/03/buku-vhzw-s-1024x576.jpg)
+![man covering his face with both hands](/wp-content/uploads/2024/03/buku-vhzw-s-1024x576.jpg)
 
 透過對「世界遺憾調查」（World Regret Survey）的分析，品克發現，在超過105個國家、超過1.5萬人的遺憾故事當中，後悔能夠激發人們作出更明智的選擇。
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_224.jpg)
+![](/wp-content/uploads/2024/02/rp_files_224.jpg)
 
 ### 時間的旅人：後悔與自我進化
 
@@ -41,7 +41,7 @@ tags: ["Day 1 理念", "世界遺憾調查", "丹尼爾·品克", "創業", "後
 
 ### 後悔的積極面：成為更好的自己
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_91.jpg)
+![](/wp-content/uploads/2024/02/rp_files_91.jpg)
 
 雖然後悔會帶來痛苦和不適，但品克認為，透過合理地處理後悔情緒，我們能夠從中學習並成長。
 
@@ -51,7 +51,7 @@ tags: ["Day 1 理念", "世界遺憾調查", "丹尼爾·品克", "創業", "後
 
 例如，在創業過程中，一次失敗的投資可能會帶來深刻的後悔感，但這種情緒可以轉化為更謹慎評估風險的能力，從而在未來的決策中避免同樣的錯誤。
 
-![brown wooden letter blocks on white surface](http://lennychen.com/wp-content/uploads/2024/03/s4tm-mox-xq-1024x768.jpg)
+![brown wooden letter blocks on white surface](/wp-content/uploads/2024/03/s4tm-mox-xq-1024x768.jpg)
 
 ### 針對「有為遺憾」的行動方案
 

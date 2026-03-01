@@ -17,7 +17,7 @@ tags: ["兒童成長", "創造力", "壓力緩解", "大腦健康", "失智症",
 
 《真正的快樂處方》提到運動不僅能夠緩解壓力、提升專注力、改善情緒、增強記憶力、激發創造力，還能促進兒童成長、延緩老年失智症的發生。
 
-![woman in black tank top sitting on brown wooden bench](http://lennychen.com/wp-content/uploads/2024/03/0wra5yyvqje-1024x684.jpg)
+![woman in black tank top sitting on brown wooden bench](/wp-content/uploads/2024/03/0wra5yyvqje-1024x684.jpg)
 
 這些都是運動對大腦健康的直接益處，但書中指出，運動的重要性遠超過現代人常忽略的程度，它應該成為日常生活中不可或缺的一部分。
 
@@ -43,7 +43,7 @@ tags: ["兒童成長", "創造力", "壓力緩解", "大腦健康", "失智症",
 
 ## 為什麼運動對兒童和青少年尤為重要？
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_327.jpg)
+![](/wp-content/uploads/2024/02/rp_files_327.jpg)
 
 運動對於兒童和青少年的大腦發展有著不可忽視的影響。
 
@@ -59,7 +59,7 @@ tags: ["兒童成長", "創造力", "壓力緩解", "大腦健康", "失智症",
 
 這些運動應該包括至少二十分鐘的有氧訓練，例如快走、慢跑或游泳。
 
-![two men running at park](http://lennychen.com/wp-content/uploads/2024/03/v62urdkndca-1024x576.jpg)
+![two men running at park](/wp-content/uploads/2024/03/v62urdkndca-1024x576.jpg)
 
 此外，作者還建議早上進行運動可以更有效地提高專注力和記憶力，因為這樣可以讓大腦在一天中最需要集中的時候處於最佳狀態。
 

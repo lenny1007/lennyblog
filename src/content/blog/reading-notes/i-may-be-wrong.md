@@ -24,7 +24,7 @@ tags: ["人生挑戰", "心靈成長", "智慧錦囊", "比約恩．納提科．
 
 在《我可能錯了》中，比約恩提出我們無法選擇自己的念頭，但可以選擇是否相信這些念頭。
 
-![person in gray pants on brown and green grass field under white clouds during daytime](http://lennychen.com/wp-content/uploads/2024/02/a9khttbjpwy-683x1024.jpg)
+![person in gray pants on brown and green grass field under white clouds during daytime](/wp-content/uploads/2024/02/a9khttbjpwy-683x1024.jpg)
 
 這表示我們不必對每一個腦海中閃過的想法負責，而是應該學會辨識哪些想法值得我們的信任與跟隨。
 
@@ -32,7 +32,7 @@ tags: ["人生挑戰", "心靈成長", "智慧錦囊", "比約恩．納提科．
 
 ### **謙遜的力量**
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_27-1024x585.jpg)
+![](/wp-content/uploads/2024/02/rp_files_27-1024x585.jpg)
 
 “我可能錯了”這句簡單的話語，鼓勵我們在人際溝通中保持開放性，意識到自己的有限性。
 
@@ -44,7 +44,7 @@ tags: ["人生挑戰", "心靈成長", "智慧錦囊", "比約恩．納提科．
 
 這種自我對話的真誠是對自己負責，也是對生活中他人負責的表現。
 
-![woman in blue denim jacket standing near body of water during daytime](http://lennychen.com/wp-content/uploads/2024/02/01htj6kyvio-1024x682.jpg)
+![woman in blue denim jacket standing near body of water during daytime](/wp-content/uploads/2024/02/01htj6kyvio-1024x682.jpg)
 
 ### **接受並珍惜當下**
 
@@ -68,7 +68,7 @@ tags: ["人生挑戰", "心靈成長", "智慧錦囊", "比約恩．納提科．
 
 《我可能錯了》中的智慧可以幫助我們學會放下對他人的不切實際的期待，學會欣賞並接納彼此的差異與特色。
 
-![woman spreading her arms](http://lennychen.com/wp-content/uploads/2024/02/r2njpbeyusq-1024x925.jpg)
+![woman spreading her arms](/wp-content/uploads/2024/02/r2njpbeyusq-1024x925.jpg)
 
 ### **社交場合中的實踐**
 

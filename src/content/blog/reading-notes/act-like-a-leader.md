@@ -23,7 +23,7 @@ tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱
 
 這種方法不僅能夠幫助領導者克服對未知的恐懼，還能促進創新思維的產生，從而在實踐中學習和成長。
 
-![man saying act now painting](http://lennychen.com/wp-content/uploads/2024/03/eervj2rhkw0-1024x616.jpg)
+![man saying act now painting](/wp-content/uploads/2024/03/eervj2rhkw0-1024x616.jpg)
 
 ### 為何人們容易落入能力陷阱？
 
@@ -33,7 +33,7 @@ tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱
 
 ### 「破框力」幫助個人如何轉變？
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_289.jpg)
+![](/wp-content/uploads/2024/02/rp_files_289.jpg)
 
 作者提出了三種行動來幫助個人實現轉變：
 
@@ -45,7 +45,7 @@ tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱
 
 轉變的循環階段包括發現差異、增量改進、混亂迷茫、修正方向和內化。
 
-![woman sitting on land](http://lennychen.com/wp-content/uploads/2024/03/kkcig7ebfoa-1024x683.jpg)
+![woman sitting on land](/wp-content/uploads/2024/03/kkcig7ebfoa-1024x683.jpg)
 
 每一階段都是一個重要的學習過程，幫助人們識別自己的成長軌跡和需要改進的地方。
 
@@ -69,7 +69,7 @@ tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱
 
 成功的領導者懂得主動建立和維護廣泛的人際關係網絡。
 
-![group of people tossing wine glass](http://lennychen.com/wp-content/uploads/2024/03/tah2ca_bl5g-1024x683.jpg)
+![group of people tossing wine glass](/wp-content/uploads/2024/03/tah2ca_bl5g-1024x683.jpg)
 
 他們不僅僅滿足於與熟悉的同事交流，還會主動接觸不同背景和領域的人士，這有助於拓展視野，促進創新思維的碰撞。
 
@@ -93,7 +93,7 @@ tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱
 
 此外，領導者還應該保持開放的心態，勇於接受不同的意見和觀點，這將有助於他們在多元化的環境下，做出更加全面和明智的決策。
 
-![woman spreading her arms](http://lennychen.com/wp-content/uploads/2024/03/r2njpbeyusq-1024x925.jpg)
+![woman spreading her arms](/wp-content/uploads/2024/03/r2njpbeyusq-1024x925.jpg)
 
 ### 「破框力」與組織文化
 

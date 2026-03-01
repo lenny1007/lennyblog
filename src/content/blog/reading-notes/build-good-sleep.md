@@ -17,7 +17,7 @@ tags: ["吳家碩心理師", "失眠問題評估表", "好眠訣竅", "生理時
 
 ## 認識吳家碩心理學家的睡眠治療之路
 
-![身體喜歡你這樣睡](https://lennychen.com/wp-content/uploads/2024/01/a9hj8-xc7sr.png)
+![身體喜歡你這樣睡](/wp-content/uploads/2024/01/a9hj8-xc7sr.png)
 
 吳家碩心理學家不僅有著20年的行為睡眠醫學經驗，還曾舉辦超過500場睡眠相關講座，主要倡導非藥物治療的重要性。
 
@@ -31,7 +31,7 @@ tags: ["吳家碩心理師", "失眠問題評估表", "好眠訣竅", "生理時
 
 ### 2\. 選擇合適的非藥物治療
 
-![](http://lennychen.com/wp-content/uploads/2024/01/rp_files_1.png)
+![](/wp-content/uploads/2024/01/rp_files_1.png)
 
 根據不同的失眠類型，選擇合適的非藥物治療方法，如放鬆訓練、認知治療等。
 
@@ -39,7 +39,7 @@ tags: ["吳家碩心理師", "失眠問題評估表", "好眠訣竅", "生理時
 
 人體的生理時鐘影響睡眠覺醒周期。通過合理安排日夜活動，確保光照和運動等因素能有效調整生理時鐘。
 
-![round analog wall clock pointing at 10:09](http://lennychen.com/wp-content/uploads/2024/02/l0xotanv94y-1024x683.jpg)
+![round analog wall clock pointing at 10:09](/wp-content/uploads/2024/02/l0xotanv94y-1024x683.jpg)
 
 ### 4\. 建立睡前儀式
 
@@ -49,7 +49,7 @@ tags: ["吳家碩心理師", "失眠問題評估表", "好眠訣竅", "生理時
 
 咖啡因是一種常見的刺激物，過量攝取會影響睡眠。了解並控制自己的咖啡因攝入量是關鍵。
 
-![flat lay photography of eight coffee latte in mugs on round table](http://lennychen.com/wp-content/uploads/2024/02/pmw4jzelqcw-683x1024.jpg)
+![flat lay photography of eight coffee latte in mugs on round table](/wp-content/uploads/2024/02/pmw4jzelqcw-683x1024.jpg)
 
 ### 6\. 控制午睡時間
 
@@ -63,7 +63,7 @@ tags: ["吳家碩心理師", "失眠問題評估表", "好眠訣竅", "生理時
 
 創造一個安靜、舒適且適宜的睡眠環境，可以提高入睡的效率和睡眠的質量。
 
-![white cat sleeps under white comforter](http://lennychen.com/wp-content/uploads/2024/02/uy5t-cjuik4-1024x691.jpg)
+![white cat sleeps under white comforter](/wp-content/uploads/2024/02/uy5t-cjuik4-1024x691.jpg)
 
 ### 9\. 進行放鬆練習
 

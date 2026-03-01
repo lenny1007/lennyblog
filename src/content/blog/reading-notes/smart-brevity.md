@@ -27,7 +27,7 @@ Axios創辦人在《聰明簡潔的溝通》中提出了“讀者至上”的原
 
 ### 白話文的運用
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_145.jpg)
+![](/wp-content/uploads/2024/02/rp_files_145.jpg)
 
 在《聰明簡潔的溝通》中推崇使用白話文來進行溝通。
 

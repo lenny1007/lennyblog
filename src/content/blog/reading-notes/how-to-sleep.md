@@ -33,7 +33,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 ## 打破**睡眠迷思** ：從科學角度看待常見誤解
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_227.jpg)
+![](/wp-content/uploads/2024/02/rp_files_227.jpg)
 
 在我們的文化中，有許多關於**睡眠** 的迷思和錯誤觀點。
 
@@ -43,7 +43,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 還有人誤以為喝酒可以幫助入睡。
 
-![a group of people sitting around a table with drinks](http://lennychen.com/wp-content/uploads/2024/03/izd0kta6g5a-1024x683.jpg)
+![a group of people sitting around a table with drinks](/wp-content/uploads/2024/03/izd0kta6g5a-1024x683.jpg)
 
 透過閱讀《為什麼要睡覺？》，我們可以理解這些迷思背後的科學原理，進而更正我們的**睡眠** 習慣。
 
@@ -67,7 +67,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 這些建議並非難以實行，但卻能在改善**睡眠品質** 方面產生顯著的效果。
 
-![white cat sleeps under white comforter](http://lennychen.com/wp-content/uploads/2024/03/uy5t-cjuik4-1024x691.jpg)
+![white cat sleeps under white comforter](/wp-content/uploads/2024/03/uy5t-cjuik4-1024x691.jpg)
 
 接下來，我們將詳細探討《為什麼要睡覺？》中提到的一些關鍵觀點，以及如何在我們的生活中應用這些知識來提升**睡眠品質** 。
 
@@ -77,7 +77,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 研究顯示，良好的**睡眠** 可以幫助大腦清除毒素，穩固記憶，並促進情緒穩定。
 
-![a man with a white beard and mustache wearing a hat](http://lennychen.com/wp-content/uploads/2024/03/frpbqvawy10-1024x683.jpg)
+![a man with a white beard and mustache wearing a hat](/wp-content/uploads/2024/03/frpbqvawy10-1024x683.jpg)
 
 而**睡眠不足** 則會導致心血管疾病、肥胖、抑鬱等健康問題的風險增加。
 
@@ -105,7 +105,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 在此，我們不妨進一步分析一些具體的**睡眠** 改善方法，以及它們背後的科學原理。
 
-![pink bell alarm clock showing 2:10](http://lennychen.com/wp-content/uploads/2024/03/i84vguygutq-1024x683.jpg)
+![pink bell alarm clock showing 2:10](/wp-content/uploads/2024/03/i84vguygutq-1024x683.jpg)
 
 #### 規律的睡眠時間
 
@@ -119,7 +119,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 咖啡因和尼古丁是兩種常見的刺激性物質，它們會干擾我們的睡眠。
 
-![three person holding beverage cups](http://lennychen.com/wp-content/uploads/2024/03/6vhpy27jdps-1024x683.jpg)
+![three person holding beverage cups](/wp-content/uploads/2024/03/6vhpy27jdps-1024x683.jpg)
 
 咖啡因可以在體內停留長達數小時，因此，專家建議在下午晚些時候避免攝入含有咖啡因的食物和飲料。
 
@@ -129,7 +129,7 @@ tags: ["健康功效", "理財迷思", "睡眠品質", "睡眠建議", "馬修·
 
 藍光，特別是來自手機、平板電腦和電腦螢幕的藍光，已被證明會抑制褪黑激素的產生，這是一種幫助調節睡眠-覺醒周期的荷爾蒙。
 
-![a woman laying on a bed next to a coffee cup](http://lennychen.com/wp-content/uploads/2024/03/9umdyiqrvnu-1024x683.jpg)
+![a woman laying on a bed next to a coffee cup](/wp-content/uploads/2024/03/9umdyiqrvnu-1024x683.jpg)
 
 因此，專家建議在睡前一小時內避免使用這些設備，以促進更好的睡眠。
 

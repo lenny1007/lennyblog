@@ -31,7 +31,7 @@ tags: ["4P模型", "故事九宮格", "敘事技巧", "洪震宇", "溝通策略
 
 ### 「故事九宮格」的策略
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_104.jpg)
+![](/wp-content/uploads/2024/02/rp_files_104.jpg)
 
 「故事九宮格」則是將故事分為九個部分，包括開始、發展、轉折等階段，幫助講者有條不紊地發展情節。
 
@@ -47,7 +47,7 @@ tags: ["4P模型", "故事九宮格", "敘事技巧", "洪震宇", "溝通策略
 
 這種**故事的威力在於其真實性，它們往往比虛構的情節更具有說服力和吸引力** 。
 
-![a black and white photo of a man and a woman](http://lennychen.com/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg)
+![a black and white photo of a man and a woman](/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg)
 
 ### 真實故事與數位科技的關係
 
@@ -65,7 +65,7 @@ tags: ["4P模型", "故事九宮格", "敘事技巧", "洪震宇", "溝通策略
 
 這種承諾增加了故事的吸引力，使其更加生動和有力。
 
-![greyscale photo of woman standing behind woman sitting on chair](http://lennychen.com/wp-content/uploads/2024/03/iifldqmxpiw-1024x683.jpg)
+![greyscale photo of woman standing behind woman sitting on chair](/wp-content/uploads/2024/03/iifldqmxpiw-1024x683.jpg)
 
 ## 洪震宇的獨特講述方法
 

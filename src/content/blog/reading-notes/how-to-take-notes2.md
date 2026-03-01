@@ -39,7 +39,7 @@ Connecting the dots.
 
 ### 原子化：把知識分解到最小單位
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_132.jpg)
+![](/wp-content/uploads/2024/02/rp_files_132.jpg)
 
 卡片盒筆記法中的每一張卡片代表一個知識原子，它是知識的最小單位，獨立而完整。
 
@@ -55,7 +55,7 @@ Connecting the dots.
 
 隨著你繼續學習，卡片盒筆記法能夠自然而然地擴展。
 
-![yellow sticky notes on gray wall](http://lennychen.com/wp-content/uploads/2024/03/8rx3w79_ute-1024x683.jpg)
+![yellow sticky notes on gray wall](/wp-content/uploads/2024/03/8rx3w79_ute-1024x683.jpg)
 
 新的卡片可以無縫地添加到現有的體系中，並與其他卡片建立聯繫。
 

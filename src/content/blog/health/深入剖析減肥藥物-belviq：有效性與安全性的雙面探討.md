@@ -17,7 +17,7 @@ tags: ["Belviq副作用", "減重藥物", "肥胖治療", "食慾抑制"]
 
   
 
-![減肥藥 Belviq 不要吃](http://lennychen.com/wp-content/uploads/2024/01/med_files_0_2-1024x585.png)
+![減肥藥 Belviq 不要吃](/wp-content/uploads/2024/01/med_files_0_2-1024x585.png)
 
 ## Belviq 是什麼？哪些人受益？
 

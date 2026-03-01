@@ -23,7 +23,7 @@ OKR代表目標與關鍵結果（Objectives and Key Results），是一種幫助
 
 在《OKR實現淨零排放的行動計劃》中，約翰·杜爾將這一工具運用於全球氣候行動中，將遙遠的淨零排放目標具體化為一系列可衡量的關鍵結果。
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_420-1024x585.jpg)
+![](/wp-content/uploads/2024/02/rp_files_420-1024x585.jpg)
 
 ### OKR在氣候行動中的應用
 
@@ -33,7 +33,7 @@ OKR代表目標與關鍵結果（Objectives and Key Results），是一種幫助
 
 同時，他也強調了組織領導者和投資者在推動這一進程中的重要性。  
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_419.jpg)
+![](/wp-content/uploads/2024/02/rp_files_419.jpg)
 
 ### **交通電氣化**
 
@@ -61,7 +61,7 @@ OKR代表目標與關鍵結果（Objectives and Key Results），是一種幫助
 
 當討論全球氣候危機時，我們經常著眼於國家和企業層面的改變，但個人行動同樣重要。
 
-![leafless tree on desert during daytime](http://lennychen.com/wp-content/uploads/2024/02/ekzf8kikizq-768x1024.jpg)
+![leafless tree on desert during daytime](/wp-content/uploads/2024/02/ekzf8kikizq-768x1024.jpg)
 
 每個人都可以採取行動來對抗**氣候變遷** ，例如改變消費習慣、減少肉類消費、選擇環保的家用電器等。
 
@@ -83,7 +83,7 @@ OKR代表目標與關鍵結果（Objectives and Key Results），是一種幫助
 
 從日常出行選擇到購買決策，個人的每一個選擇都對環境有著直接或間接的影響。
 
-![love our planet signage](http://lennychen.com/wp-content/uploads/2024/02/sp_pcgjpxgi-768x1024.jpg)
+![love our planet signage](/wp-content/uploads/2024/02/sp_pcgjpxgi-768x1024.jpg)
 
 例如，選擇公共交通工具或自行車代替私家車出行，不僅可以減少個人的碳足跡，同時也能促進城市交通的可持續性。
 

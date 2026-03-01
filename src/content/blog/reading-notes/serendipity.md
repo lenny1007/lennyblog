@@ -23,7 +23,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 ## 為什麼需要機緣力？
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_400.jpg)
+![](/wp-content/uploads/2024/02/rp_files_400.jpg)
 
 在面對困難和挑戰時， _機緣力_ 成為了一種特殊的力量，它使得個人能夠在不經意間發現新機會，甚至將逆境轉化為有利的局面。
 
@@ -35,7 +35,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 書中提到，培養 _機緣力_ 首先要有一個開放的心態。
 
-![red and white open neon signage](http://lennychen.com/wp-content/uploads/2024/02/lnwijhuted4-1024x633.jpg)
+![red and white open neon signage](/wp-content/uploads/2024/02/lnwijhuted4-1024x633.jpg)
 
 面對未知和變化，保持好奇和接受新事物的態度是很重要的。
 
@@ -55,7 +55,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 ### 正面心態
 
-![be positive scrabble pieces](http://lennychen.com/wp-content/uploads/2024/02/e3jkbzornts-1024x683.jpg)
+![be positive scrabble pieces](/wp-content/uploads/2024/02/e3jkbzornts-1024x683.jpg)
 
 對待挫折和失敗時，保持正面心態是關鍵。
 

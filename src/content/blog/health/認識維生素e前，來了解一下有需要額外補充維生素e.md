@@ -20,7 +20,7 @@ tags: ["健康補充品", "抗氧化劑", "營養不足", "維生素 E"]
 
 確實，維生素E與維生素D相對於其他維生素，國人的攝取量較建議量為低，但是，這並不代表我們需要額外補充維生素E。
 
-![維生素E攝取量圖](https://lennychen.com/wp-content/uploads/2024/01/vitamin-e-1024x737.png)
+![維生素E攝取量圖](/wp-content/uploads/2024/01/vitamin-e-1024x737.png)
 
 維生素E是脂溶性維生素，存在於包含植物油、榖片、肉、家禽、蛋、水果、蔬菜以及小麥胚芽油中。
 
@@ -38,7 +38,7 @@ tags: ["健康補充品", "抗氧化劑", "營養不足", "維生素 E"]
 
 而市售的維生素E補充劑，劑量往往過高，不適合每日補充。
 
-![維生素E補充](http://lennychen.com/wp-content/uploads/2024/01/med_files_73-1024x585.png)
+![維生素E補充](/wp-content/uploads/2024/01/med_files_73-1024x585.png)
 
 ## 你可以怎麼做來確保飲食中的維生素E是足夠的?
 

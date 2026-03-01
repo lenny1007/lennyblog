@@ -25,7 +25,7 @@ tags: ["主動愛", "創造性取向", "埃里希．佛洛姆", "愛的本質", 
 
 弗洛姆在書中定義愛不是一種被動的情感，而是一種技藝和能力。
 
-![a black and white photo of a man and a woman](http://lennychen.com/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg)
+![a black and white photo of a man and a woman](/wp-content/uploads/2024/03/z9nai0mf1ka-768x1024.jpg)
 
 他認為愛可以被學習，需要培養和練習。
 
@@ -41,7 +41,7 @@ tags: ["主動愛", "創造性取向", "埃里希．佛洛姆", "愛的本質", 
 
 ## 資本主義對愛的物質化影響
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_57.jpg)
+![](/wp-content/uploads/2024/02/rp_files_57.jpg)
 
 弗洛姆批評資本主義社會中，愛的物質化和交易化現象。
 
@@ -55,7 +55,7 @@ tags: ["主動愛", "創造性取向", "埃里希．佛洛姆", "愛的本質", 
 
 這種對愛的理解，促進了人際關係的深度和質量。 
 
-![two person holding papercut heart](http://lennychen.com/wp-content/uploads/2024/03/4le7k9xvyje-1024x644.jpg)
+![two person holding papercut heart](/wp-content/uploads/2024/03/4le7k9xvyje-1024x644.jpg)
 
 ## 愛是一種可學習的能力
 
@@ -75,7 +75,7 @@ tags: ["主動愛", "創造性取向", "埃里希．佛洛姆", "愛的本質", 
 
 這種對愛的詮釋，體現了愛的積極與無私特質。 
 
-![a person holding a baby](http://lennychen.com/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg)
+![a person holding a baby](/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg)
 
 ## 愛與特定對象間的關係
 

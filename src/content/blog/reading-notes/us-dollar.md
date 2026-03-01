@@ -18,7 +18,7 @@ tags: ["全球經濟", "加密貨幣", "國際視野", "新冠疫情", "歐盟",
 
 全球經濟作為一個龐大而複雜的體系，其內部運作涉及無數的活動和參與者。
 
-![desk globe on table](http://lennychen.com/wp-content/uploads/2024/02/nxt5htlmlge-1024x683.jpg)
+![desk globe on table](/wp-content/uploads/2024/02/nxt5htlmlge-1024x683.jpg)
 
 在全球經濟中，貿易自由被視為市場經濟的基石之一。
 
@@ -34,7 +34,7 @@ tags: ["全球經濟", "加密貨幣", "國際視野", "新冠疫情", "歐盟",
 
 然而，貿易自由同時也可能導致某些產業受到外來競爭的沖擊，特別是對於那些無法快速適應國際市場變化的產業或國家。  
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_515.jpg)
+![](/wp-content/uploads/2024/02/rp_files_515.jpg)
 
 **優點：**
 
@@ -42,7 +42,7 @@ tags: ["全球經濟", "加密貨幣", "國際視野", "新冠疫情", "歐盟",
   2. 加強國際合作：自由貿易促成了國家之間的經濟依賴，進一步推動了政治和文化的交流合作。
   3. 消費者受益：消費者可以享受到更多的商品選擇和更低的價格，提高了生活質量。
 
-![blue and red cargo ship on sea during daytime](http://lennychen.com/wp-content/uploads/2024/02/joqjbvo1p9g-1024x683.jpg)
+![blue and red cargo ship on sea during daytime](/wp-content/uploads/2024/02/joqjbvo1p9g-1024x683.jpg)
 
 **缺點：**
 
@@ -56,7 +56,7 @@ tags: ["全球經濟", "加密貨幣", "國際視野", "新冠疫情", "歐盟",
 
 資源分配的不平等導致了世界各地的貧富差距。
 
-![woman in black and purple dress sitting on sidewalk during daytime](http://lennychen.com/wp-content/uploads/2024/02/nyp5wurxoew-683x1024.jpg)
+![woman in black and purple dress sitting on sidewalk during daytime](/wp-content/uploads/2024/02/nyp5wurxoew-683x1024.jpg)
 
 例如，有豐富石油藏量的伊拉克和政治動蕩的奈及利亞，我們可以看到資源豐富並不等同於國家的繁榮與穩定。
 

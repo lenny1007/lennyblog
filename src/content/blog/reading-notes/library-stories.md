@@ -33,7 +33,7 @@ tags: ["公共圖書館", "土庫鎮", "彭冠綸", "教育", "療心圖書館",
 
 ### 閱讀推廣的策略
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg)
+![](/wp-content/uploads/2024/02/rp_files_96.jpg)
 
 在《療心圖書館》中，館長小編透露了許多成功的閱讀推廣策略。
 

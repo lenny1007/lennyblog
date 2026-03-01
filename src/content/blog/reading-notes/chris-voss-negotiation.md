@@ -37,7 +37,7 @@ tags: ["FBI談判協商術", "克里斯．佛斯", "同理心", "談判技巧", 
 
 #### 同理心：建立談判的基石
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg)
+![](/wp-content/uploads/2024/02/rp_files_398.jpg)
 
 同理心，在《FBI談判術》中佔有舉足輕重的地位。
 
@@ -61,7 +61,7 @@ tags: ["FBI談判協商術", "克里斯．佛斯", "同理心", "談判技巧", 
 
 同時，作者也警告讀者避免追求表面的肯定——即虛假的"Yes"。
 
-![four men sitting at the table grayscale photo](http://lennychen.com/wp-content/uploads/2024/02/goe0yhdcwxk-1024x645.jpg)
+![four men sitting at the table grayscale photo](/wp-content/uploads/2024/02/goe0yhdcwxk-1024x645.jpg)
 
 #### 校準型問題：引導對方揭示信息
 

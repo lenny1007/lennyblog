@@ -23,13 +23,13 @@ tags: ["50-50法則", "學習策略", "宏觀計畫", "彼得．霍林斯", "微
 
 ### 自主學習的關鍵：成長心態
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_497.jpg)
+![](/wp-content/uploads/2024/02/rp_files_497.jpg)
 
 赫林斯認為，成長心態是自主學習的關鍵。
 
 **擁有成長心態的人相信自己的能力可以通過努力來提升，這使得他們在面對挑戰時更加堅韌不拔，並且願意從錯誤中學習。**
 
-![low light photography of woman in gray knit sweatshirt writing on desk](http://lennychen.com/wp-content/uploads/2024/02/oxu08sfhpbi-1024x684.jpg)
+![low light photography of woman in gray knit sweatshirt writing on desk](/wp-content/uploads/2024/02/oxu08sfhpbi-1024x684.jpg)
 
 這種心態為自主學習提供了堅實的心理基礎。
 
@@ -43,7 +43,7 @@ tags: ["50-50法則", "學習策略", "宏觀計畫", "彼得．霍林斯", "微
 
 **實際去做、把手弄髒很重要，再多的知識如果沒有實際執行很多時候都是空的。**
 
-![A man with his hands covered with mud](http://lennychen.com/wp-content/uploads/2024/02/idjxbf_stbk-1024x678.jpg)
+![A man with his hands covered with mud](/wp-content/uploads/2024/02/idjxbf_stbk-1024x678.jpg)
 
 ## 自主學習的實際策略
 
@@ -57,7 +57,7 @@ tags: ["50-50法則", "學習策略", "宏觀計畫", "彼得．霍林斯", "微
 
 改變學習環境，比如選擇安靜的圖書館或者舒適的咖啡廳，可以提高集中力，從而提高學習效率。
 
-![man sitting on chair near desk surrounded with books](http://lennychen.com/wp-content/uploads/2024/02/ylpbsjxmpcu-683x1024.jpg)
+![man sitting on chair near desk surrounded with books](/wp-content/uploads/2024/02/ylpbsjxmpcu-683x1024.jpg)
 
 ### 圖像化思考
 
@@ -75,7 +75,7 @@ tags: ["50-50法則", "學習策略", "宏觀計畫", "彼得．霍林斯", "微
 
 學習者需要自行設定目標，規劃時間，並且保持動力。
 
-![three pens on white paper](http://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 這對於自制力較弱的人來說是一大考驗。
 

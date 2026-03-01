@@ -26,7 +26,7 @@ tags: ["理性與感性", "生活哲學", "禪與摩托車維修的藝術", "讀
 
 ## 「質量」的多維解讀
 
-![](http://lennychen.com/wp-content/uploads/2024/01/rp_files_5-1024x585.png)
+![](/wp-content/uploads/2024/01/rp_files_5-1024x585.png)
 
 在《禪與摩托車維修的藝術》中，「質量」是一個核心概念。
 
@@ -44,7 +44,7 @@ tags: ["理性與感性", "生活哲學", "禪與摩托車維修的藝術", "讀
 
 旅行過程的享受勝過達到終點，這個觀點在生活中告訴我們應該欣賞並享受過程本身。
 
-![man with red backpack standing on cliff facing mountains under white sky during daytime](http://lennychen.com/wp-content/uploads/2024/02/hvpb-ucammu-1024x683.jpg)
+![man with red backpack standing on cliff facing mountains under white sky during daytime](/wp-content/uploads/2024/02/hvpb-ucammu-1024x683.jpg)
 
 ## 科技與內心平靜
 

@@ -17,7 +17,7 @@ tags: ["嚴重痤瘡藥物", "異維A酸副作用", "痤瘡治療", "皮膚科"]
   
 **異維A酸 Accutane 是處方藥，必須在皮膚科醫生的指導下使用。**  
 
-![異維A酸 Accutane](http://lennychen.com/wp-content/uploads/2024/01/med_files_110-1024x585.png)
+![異維A酸 Accutane](/wp-content/uploads/2024/01/med_files_110-1024x585.png)
 
 ## 消痘勇士：異維A酸如何發揮魔法
 

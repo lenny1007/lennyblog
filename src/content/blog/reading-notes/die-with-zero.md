@@ -23,7 +23,7 @@ tags: ["人生體驗", "健康功效", "工作與生活平衡", "投資理財", 
 
 《別把你的錢留到死》帶給我們的第一個啟示是，**理財** 的目標應該轉向如何使用金錢去創造更豐富的**人生體驗** 。
 
-![a person swimming in the water near a coral reef](http://lennychen.com/wp-content/uploads/2024/03/d6njmj60b8m-1024x683.jpg)
+![a person swimming in the water near a coral reef](/wp-content/uploads/2024/03/d6njmj60b8m-1024x683.jpg)
 
 柏金斯所提出的九大**金錢法則** ，進一步指引我們如何在時間、健康與金錢之間取得**平衡** 。
 
@@ -33,7 +33,7 @@ tags: ["人生體驗", "健康功效", "工作與生活平衡", "投資理財", 
 
 ## 財富歸零的爭議與哲學
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_142.jpg)
+![](/wp-content/uploads/2024/02/rp_files_142.jpg)
 
 對於柏金斯提出的「財富歸零」理念，不同的人可能有不同的看法。
 
@@ -51,7 +51,7 @@ tags: ["人生體驗", "健康功效", "工作與生活平衡", "投資理財", 
 
 而且，對於希望**通過遺產傳承來影響後代** 的人來說，這種觀點可能也難以接受。
 
-![green plant in clear glass cup](http://lennychen.com/wp-content/uploads/2024/03/sot4-mzhyhe-1024x683.jpg)
+![green plant in clear glass cup](/wp-content/uploads/2024/03/sot4-mzhyhe-1024x683.jpg)
 
 然而，柏金斯的建議並不是一味的揮霍，而是更加注重財富的有效利用。
 
@@ -69,7 +69,7 @@ tags: ["人生體驗", "健康功效", "工作與生活平衡", "投資理財", 
 
 他認為，在晚年繼續節儉，可能意味著錯過了使用這些財富來改善生活的機會。
 
-![side view of man's face](http://lennychen.com/wp-content/uploads/2024/03/ckt0ojl9vmi-1-1024x683.jpg)
+![side view of man's face](/wp-content/uploads/2024/03/ckt0ojl9vmi-1-1024x683.jpg)
 
 這不僅僅是對個人的損失，也可能是對社會的損失，因為這些財富沒有被用來創造更多的價值。
 

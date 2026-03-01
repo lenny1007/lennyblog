@@ -31,7 +31,7 @@ tags: ["人性阻力", "創新", "反彈效應", "心理學", "心理摩擦力",
 
 ## 提升產品和服務的吸引力是否足夠？
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_80.jpg)
+![](/wp-content/uploads/2024/02/rp_files_80.jpg)
 
 **心理摩擦力** 告訴我們，即使產品和服務具有高度的吸引力，也不一定能夠保證人們會接受改變。
 
@@ -45,7 +45,7 @@ tags: ["人性阻力", "創新", "反彈效應", "心理學", "心理摩擦力",
 
 人們往往習慣於現狀，不願意改變。
 
-![a man reading a book with headphones on his head](http://lennychen.com/wp-content/uploads/2024/03/rfoh17_f7f8-1024x683.jpg)
+![a man reading a book with headphones on his head](/wp-content/uploads/2024/03/rfoh17_f7f8-1024x683.jpg)
 
 習慣在我們的生活中扮演著重要角色，它使我們能夠在不消耗太多精力的情況下，完成日常活動。
 
@@ -65,7 +65,7 @@ tags: ["人性阻力", "創新", "反彈效應", "心理學", "心理摩擦力",
 
 這種摩擦力可以通過正面的情感連結、提供安全感或是透過故事講述來減少。
 
-![i love you text on pink and white polka dot background](http://lennychen.com/wp-content/uploads/2024/03/u0wwiy6nrga-1024x756.jpg)
+![i love you text on pink and white polka dot background](/wp-content/uploads/2024/03/u0wwiy6nrga-1024x756.jpg)
 
 ### 反彈摩擦力
 
@@ -103,7 +103,7 @@ tags: ["人性阻力", "創新", "反彈效應", "心理學", "心理摩擦力",
 
 在推動改變時，我們需要找到辦法減少所需的努力，或是提供足夠的激勵來克服這種惰性。
 
-![black pug puppy on brown wooden chair](http://lennychen.com/wp-content/uploads/2024/03/donefhq7ojs-1024x683.jpg)
+![black pug puppy on brown wooden chair](/wp-content/uploads/2024/03/donefhq7ojs-1024x683.jpg)
 
 #### **實踐建議**
 
@@ -131,7 +131,7 @@ tags: ["人性阻力", "創新", "反彈效應", "心理學", "心理摩擦力",
 
 這種時候，讓人們感到他們有選擇的自由和控制權是非常重要的。
 
-![2 men playing basketball in grayscale photography](http://lennychen.com/wp-content/uploads/2024/03/bczrpu9n8f4-576x1024.jpg)
+![2 men playing basketball in grayscale photography](/wp-content/uploads/2024/03/bczrpu9n8f4-576x1024.jpg)
 
 #### **增加自主性**
 

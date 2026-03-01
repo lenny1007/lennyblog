@@ -25,7 +25,7 @@ tags: ["僧人心態", "優雅", "內心平靜", "墜馬意外", "心靈成長",
 
 優雅並不僅僅是外在的裝扮和氣質的展現，更是一種內心的修為。
 
-![woman crossing the street among pigeons](http://lennychen.com/wp-content/uploads/2024/02/53xgbtbiaxk-683x1024.jpg)
+![woman crossing the street among pigeons](/wp-content/uploads/2024/02/53xgbtbiaxk-683x1024.jpg)
 
 林志玲姐姐在書中分享了許多關於如何面對批評與挑戰的心得。
 
@@ -35,7 +35,7 @@ tags: ["僧人心態", "優雅", "內心平靜", "墜馬意外", "心靈成長",
 
 ## 優雅的實踐：面對批評與內心的平靜
 
-![](http://lennychen.com/wp-content/uploads/2024/02/rp_files_408.jpg)
+![](/wp-content/uploads/2024/02/rp_files_408.jpg)
 
 在書中，林志玲姐姐也談到了如何維持內心的平靜。
 
@@ -43,7 +43,7 @@ tags: ["僧人心態", "優雅", "內心平靜", "墜馬意外", "心靈成長",
 
 這不僅是一種優雅的心態，也是一種心靈成長的過程。
 
-![woman in blue denim jacket standing near body of water during daytime](http://lennychen.com/wp-content/uploads/2024/02/01htj6kyvio-1024x682.jpg)
+![woman in blue denim jacket standing near body of water during daytime](/wp-content/uploads/2024/02/01htj6kyvio-1024x682.jpg)
 
 在2005年經歷了驚險的跌馬意外後，林志玲姐姐選擇了“放下”，給予自己從情緒的混亂中解脫的機會。
 
