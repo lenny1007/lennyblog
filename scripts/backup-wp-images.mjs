@@ -1,7 +1,11 @@
 /**
  * backup-wp-images.mjs
  *
- * 從備份的 WordPress 站台下載圖片並更新所有 blog 文章的 heroImage 路徑。
+ * 從備份的 WordPress 站台下載所有圖片，並更新 blog 文章中所有的 WordPress 圖片 URL：
+ *   - frontmatter heroImage 欄位
+ *   - 內文中的 Markdown 圖片語法 ![alt](url)
+ *   - 內文中的 protocol-relative URL（//lennychen.com/...）
+ *   - 內文中的絕對 URL（https://lennychen.com/...）
  *
  * 使用方式：
  *   node scripts/backup-wp-images.mjs
@@ -16,124 +20,127 @@ import https from 'node:https';
 import http from 'node:http';
 
 // ── 設定 ──────────────────────────────────────────────────────────────────
-const BACKUP_IP       = '35.236.161.74';          // 備份 WordPress 站台 IP
-const WP_HOST         = 'lennychen.com';           // 原始 WordPress 網域
-const CONTENT_DIR     = './src/content/blog';      // blog markdown 目錄
-const PUBLIC_IMG_DIR  = './public/wp-images';      // 圖片儲存目錄
-const PUBLIC_IMG_PATH = '/wp-images';              // 網址前綴（Astro public/）
-const CONCURRENCY     = 5;                         // 同時下載數量
+const BACKUP_IP       = '35.236.161.74';     // 備份 WordPress 站台 IP
+const WP_HOST         = 'lennychen.com';     // 原始 WordPress 網域
+const CONTENT_DIR     = './src/content/blog';
+const PUBLIC_IMG_DIR  = './public/wp-images';
+const PUBLIC_IMG_PATH = '/wp-images';
+const CONCURRENCY     = 5;
 // ─────────────────────────────────────────────────────────────────────────
 
-const HERO_RE = /^(heroImage:\s*")https?:\/\/lennychen\.com(\/wp-content\/[^"]+)(")/m;
+// 比對所有 WordPress 圖片 URL，包含 https:// 和 // 開頭
+// 擷取 group 1 = /wp-content/uploads/... 路徑部分
+const WP_URL_RE = /(?:https?:)?\/\/lennychen\.com(\/wp-content\/uploads\/[^\s)"'<>\]]+)/g;
 
-// 遞迴取得所有 md/mdx 檔案
+// ── 工具函式 ──────────────────────────────────────────────────────────────
+
 async function getAllFiles(dir) {
   const entries = await readdir(dir, { withFileTypes: true });
-  const files = await Promise.all(
+  const nested = await Promise.all(
     entries.map(e =>
       e.isDirectory()
         ? getAllFiles(path.join(dir, e.name))
         : [path.join(dir, e.name)]
     )
   );
-  return files.flat().filter(f => /\.(md|mdx)$/.test(f));
+  return nested.flat().filter(f => /\.(md|mdx)$/.test(f));
 }
 
-// 下載單一圖片（透過 Host header 連到備份 IP）
+function wpPathToLocal(wpPath) {
+  // /wp-content/uploads/2024/01/foo.png  →  /wp-images/2024/01/foo.png
+  const relative = wpPath.replace('/wp-content/uploads', '');
+  const destPath = path.join(PUBLIC_IMG_DIR, relative);
+  const newUrl   = `${PUBLIC_IMG_PATH}${relative}`;
+  return { destPath, newUrl };
+}
+
 function downloadImage(wpPath, destPath) {
   return new Promise(async (resolve, reject) => {
-    // 確保目錄存在
     await mkdir(path.dirname(destPath), { recursive: true });
 
-    const url = `http://${BACKUP_IP}${wpPath}`;
-    const req = http.get(url, { headers: { Host: WP_HOST } }, res => {
-      if (res.statusCode === 301 || res.statusCode === 302) {
-        // WordPress 有時會 redirect 到 https
-        const loc = res.headers.location;
-        if (!loc) return reject(new Error(`Redirect without location for ${url}`));
-        const rUrl = new URL(loc);
-        const rReq = https.get(
-          `https://${BACKUP_IP}${rUrl.pathname}${rUrl.search}`,
-          { headers: { Host: WP_HOST }, rejectUnauthorized: false },
-          rRes => {
-            if (rRes.statusCode !== 200)
-              return reject(new Error(`HTTP ${rRes.statusCode} for ${url}`));
+    const tryFetch = (protocol, host, pathname, headers) =>
+      new Promise((res, rej) => {
+        const mod = protocol === 'https' ? https : http;
+        const req = mod.get(
+          { hostname: host, path: pathname, headers, rejectUnauthorized: false },
+          response => {
+            if (response.statusCode === 301 || response.statusCode === 302) {
+              const loc = response.headers.location;
+              if (!loc) return rej(new Error('Redirect missing location'));
+              const u = new URL(loc);
+              // Follow redirect back through the backup IP
+              tryFetch('http', BACKUP_IP, u.pathname + u.search, { Host: WP_HOST })
+                .then(res).catch(rej);
+              return;
+            }
+            if (response.statusCode !== 200)
+              return rej(new Error(`HTTP ${response.statusCode}`));
             const chunks = [];
-            rRes.on('data', c => chunks.push(c));
-            rRes.on('end', async () => {
-              await writeFile(destPath, Buffer.concat(chunks));
-              resolve();
-            });
+            response.on('data', c => chunks.push(c));
+            response.on('end', () => res(Buffer.concat(chunks)));
           }
         );
-        rReq.on('error', reject);
-        return;
-      }
-      if (res.statusCode !== 200)
-        return reject(new Error(`HTTP ${res.statusCode} for ${url}`));
-      const chunks = [];
-      res.on('data', c => chunks.push(c));
-      res.on('end', async () => {
-        await writeFile(destPath, Buffer.concat(chunks));
-        resolve();
+        req.on('error', rej);
       });
-    });
-    req.on('error', reject);
+
+    try {
+      const buf = await tryFetch('http', BACKUP_IP, wpPath, { Host: WP_HOST });
+      await writeFile(destPath, buf);
+      resolve();
+    } catch (e) {
+      reject(e);
+    }
   });
 }
 
-// 並發控制器
 async function* chunkify(arr, size) {
   for (let i = 0; i < arr.length; i += size)
     yield arr.slice(i, i + size);
 }
 
 // ── 主程式 ───────────────────────────────────────────────────────────────
-const files = await getAllFiles(CONTENT_DIR);
-console.log(`找到 ${files.length} 篇文章，掃描 heroImage ...`);
 
-// 第一步：掃描所有需要更新的檔案
-const tasks = []; // { file, wpPath, destPath, newUrl }
+const files = await getAllFiles(CONTENT_DIR);
+console.log(`掃描 ${files.length} 篇文章中的 WordPress 圖片 URL ...\n`);
+
+// 第一步：收集所有需要下載的唯一 wpPath
+const wpPathSet = new Set();
+const fileContents = new Map(); // file → original content
+
 for (const file of files) {
   const content = await readFile(file, 'utf8');
-  const match = content.match(HERO_RE);
-  if (!match) continue;
+  fileContents.set(file, content);
 
-  const wpPath  = match[2];                                           // /wp-content/uploads/...
-  const filename = path.basename(wpPath);
-  const subDir   = path.dirname(wpPath).replace('/wp-content/uploads', '');
-  const destPath = path.join(PUBLIC_IMG_DIR, subDir, filename).replace(/\/\//g, '/');
-  const newUrl   = `${PUBLIC_IMG_PATH}${subDir}/${filename}`.replace(/\/\//g, '/');
-
-  tasks.push({ file, wpPath, destPath, newUrl, content });
+  for (const match of content.matchAll(WP_URL_RE)) {
+    wpPathSet.add(match[1]); // /wp-content/uploads/...
+  }
 }
 
-console.log(`需要備份的圖片：${tasks.length} 張\n`);
+const allWpPaths = [...wpPathSet];
+console.log(`發現 ${allWpPaths.length} 張不重複的 WordPress 圖片\n`);
 
 // 第二步：下載圖片（去重 + 並發）
-const seen = new Set();
-const toDownload = tasks.filter(t => {
-  if (seen.has(t.wpPath)) return false;
-  seen.add(t.wpPath);
-  return true;
-});
-
 let ok = 0, skip = 0, fail = 0;
+const failedPaths = new Set();
 
-for await (const batch of chunkify(toDownload, CONCURRENCY)) {
+for await (const batch of chunkify(allWpPaths, CONCURRENCY)) {
   await Promise.all(
-    batch.map(async ({ wpPath, destPath }) => {
+    batch.map(async wpPath => {
+      const { destPath } = wpPathToLocal(wpPath);
+
       if (existsSync(destPath)) {
         skip++;
         process.stdout.write(`  [skip] ${path.basename(destPath)}\n`);
         return;
       }
+
       try {
         await downloadImage(wpPath, destPath);
         ok++;
         process.stdout.write(`  [ok]   ${path.basename(destPath)}\n`);
       } catch (e) {
         fail++;
+        failedPaths.add(wpPath);
         process.stdout.write(`  [fail] ${path.basename(destPath)}: ${e.message}\n`);
       }
     })
@@ -142,19 +149,32 @@ for await (const batch of chunkify(toDownload, CONCURRENCY)) {
 
 console.log(`\n下載完成：${ok} 成功 / ${skip} 已存在 / ${fail} 失敗\n`);
 
-// 第三步：更新所有文章的 heroImage
-let updated = 0;
-for (const { file, newUrl, content } of tasks) {
-  const newContent = content.replace(
-    HERO_RE,
-    (_, prefix, _wpPath, suffix) => `${prefix}${newUrl}${suffix}`
-  );
-  if (newContent !== content) {
-    await writeFile(file, newContent, 'utf8');
-    updated++;
+// 第三步：替換所有文章中的 WordPress URL（成功下載的才替換）
+let filesUpdated = 0;
+let urlsReplaced = 0;
+
+for (const [file, original] of fileContents) {
+  // 只替換成功下載（或已存在）的圖片
+  const updated = original.replace(WP_URL_RE, (_, wpPath) => {
+    if (failedPaths.has(wpPath)) return _; // 下載失敗的保留原 URL
+    const { newUrl } = wpPathToLocal(wpPath);
+    urlsReplaced++;
+    return newUrl;
+  });
+
+  if (updated !== original) {
+    await writeFile(file, updated, 'utf8');
+    filesUpdated++;
     console.log(`  [updated] ${path.relative('.', file)}`);
   }
 }
 
-console.log(`\n完成！共更新 ${updated} 篇文章的 heroImage 路徑。`);
-console.log(`圖片存放在 public/wp-images/ 目錄，commit 時記得一起加入。`);
+console.log(`\n完成！`);
+console.log(`  更新文章：${filesUpdated} 篇`);
+console.log(`  替換 URL：${urlsReplaced} 個`);
+if (fail > 0) {
+  console.log(`\n  ⚠ ${fail} 張圖片下載失敗，已保留原始 URL。`);
+  console.log(`  失敗清單：`);
+  for (const p of failedPaths) console.log(`    - https://lennychen.com${p}`);
+}
+console.log(`\n圖片存放在 public/wp-images/，commit 時記得一起加入。`);
