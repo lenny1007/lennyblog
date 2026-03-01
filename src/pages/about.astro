@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -6,16 +7,23 @@ import { SITE_TITLE } from '../consts';
 
 const SKILLS = ['閱讀', 'Python', 'AI 應用', '健康科學', '個人理財', 'SEO', '產品思維'];
 
-const FEATURED = [
-	{ title: '地中海飲食：個人推薦給父母的飲食方式', slug: 'health/mediterranean-diet', emoji: '🌿' },
-	{ title: 'AutoEncoder 自動編碼器來建構生成模型', slug: 'ai/autoencoder', emoji: '🤖' },
-	{ title: '如何掌握思考框架：《造局者》', slug: 'ai/decision-maker', emoji: '📖' },
-];
-
 const SOCIAL = [
 	{ label: 'Email', href: 'mailto:lenny0929@gmail.com', icon: '✉️' },
 	{ label: 'RSS', href: '/rss.xml', icon: '📡' },
 ];
+
+const CATEGORY_EMOJI: Record<string, string> = {
+	'閱讀筆記': '📖', '健康': '🌿', '技術': '💻', 'AI': '🤖', '學習': '🧠',
+	'創業': '🚀', '理財': '💰', '數位生活': '📱', '工作': '💼', '生活智慧': '✨',
+	'產品': '🎯', 'Python': '🐍', 'SEO': '🔍', '人際': '👥',
+};
+
+// 精選文章：從 collection 動態查詢，確保 id 正確
+const allPosts = await getCollection('blog');
+const FEATURED_KEYWORDS = ['地中海飲食', 'AutoEncoder', '造局者'];
+const featuredPosts = FEATURED_KEYWORDS
+	.map(kw => allPosts.find(p => p.data.title.includes(kw) || p.id.includes(kw)))
+	.filter(Boolean);
 ---
 
 <!doctype html>
@@ -90,14 +98,17 @@ const SOCIAL = [
 					<div class="sidebar-card">
 						<h3 class="sidebar-heading">精選文章</h3>
 						<ul class="featured-list">
-							{FEATURED.map(f => (
-								<li>
-									<a href={`/blog/${f.slug}/`} class="featured-link">
-										<span class="featured-emoji">{f.emoji}</span>
-										<span>{f.title}</span>
-									</a>
-								</li>
-							))}
+							{featuredPosts.map(p => {
+								const emoji = CATEGORY_EMOJI[p!.data.category ?? ''] ?? '✨';
+								return (
+									<li>
+										<a href={`/blog/${p!.id}/`} class="featured-link">
+											<span class="featured-emoji">{emoji}</span>
+											<span>{p!.data.title}</span>
+										</a>
+									</li>
+								);
+							})}
 						</ul>
 						<a href="/blog" class="all-posts-btn">查看所有文章 →</a>
 					</div>
