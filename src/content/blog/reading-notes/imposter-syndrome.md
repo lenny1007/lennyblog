@@ -5,7 +5,7 @@ pubDate: "2024-09-05"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["內化成功", "冒牌者症候群", "心理狀態", "職場指南", "自我成長"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_16.jpg"
+heroImage: "/wp-images/2024/02/rp_files_16.jpg"
 ---
 
 在這個高壓力、高成就的社會中，「冒牌者症候群」Impostor Syndrome 是一個大家關注的話題。
@@ -51,7 +51,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_16.jpg"
 
 ## 面對冒牌者症候群的職場策略
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_16.jpg)
+![](/wp-images/2024/02/rp_files_16.jpg)
 
 在探討「如何面對冒牌者症候群？」這一問題時，作者提供了一些具體的職場策略。
 
@@ -80,7 +80,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_16.jpg"
 
 學會如何正視自己的不安和懷疑，並透過具體的行動和心態調整，在職場及生活中發光發熱。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_15.jpg)
+![](/wp-images/2024/02/rp_files_15.jpg)
 
 ## 從錯誤中尋找快樂：JOMO 的概念
 
@@ -90,7 +90,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_16.jpg"
 
 JOMO 提倡的是一種態度，即選擇放棄某些事物，不追求所有事情的完美，享受當下和放棄所帶來的自由和寧靜。
 
-![woman spreading her arms](https://lennychen.com/wp-content/uploads/2024/03/r2njpbeyusq-1-1024x925.jpg)
+![woman spreading her arms](/wp-images/2024/03/r2njpbeyusq-1-1024x925.jpg)
 
 對於那些經常感到焦慮和壓力的人來說，這是一個非常有益的觀點。
 

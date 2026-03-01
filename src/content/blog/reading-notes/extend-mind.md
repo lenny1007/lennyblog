@@ -5,7 +5,7 @@ pubDate: "2024-03-08"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["人際關係", "創意工作", "大腦外思考", "學習效率", "工作環境", "科學研究", "記憶力", "身體動作"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/x_weepfp59o-680x1024.jpg"
+heroImage: "/wp-images/2024/03/x_weepfp59o-680x1024.jpg"
 ---
 
 在當今知識俯拾即是的年代，學習效率成為衡量個人競爭力的重要指標。
@@ -40,13 +40,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/x_weepfp59o-680x102
 
 例如，使用手勢記憶語言詞彙時，人們往往能記得更久。
 
-![brown manikin figure on white surface](https://lennychen.com/wp-content/uploads/2024/03/x_weepfp59o-680x1024.jpg)
+![brown manikin figure on white surface](/wp-images/2024/03/x_weepfp59o-680x1024.jpg)
 
 此外，當我們進行物理活動，如漫步或者模擬實驗過程時，我們的學習效率也會隨之提高。  
 
 ### 利用環境進行思考
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_458.jpg)
+![](/wp-images/2024/02/rp_files_458.jpg)
 
 工作環境對於思考能力的影響不容忽視。
 
@@ -58,7 +58,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/x_weepfp59o-680x102
 
 例如，一個開放式的辦公空間可以促進團隊合作，而一間安靜的圖書室則有助於深度思考。
 
-![man sitting on chair near desk surrounded with books](https://lennychen.com/wp-content/uploads/2024/02/ylpbsjxmpcu-683x1024.jpg)
+![man sitting on chair near desk surrounded with books](/wp-images/2024/02/ylpbsjxmpcu-683x1024.jpg)
 
 研究表明，環境中的色彩、光線和布局都能對人們的情緒和認知能力產生影響。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/x_weepfp59o-680x102
 
 教導和學習的過程，能夠促進知識的深化和記憶的鞏固。
 
-![woman and man sitting in front of monitor](https://lennychen.com/wp-content/uploads/2024/02/igur1ix0mqm-1024x683.jpg)
+![woman and man sitting in front of monitor](/wp-images/2024/02/igur1ix0mqm-1024x683.jpg)
 
 在解釋概念給他人聽的同時，我們自己的理解也會得到加強。這種現象在心理學上被稱為“學習者優勢”。
 

@@ -5,7 +5,7 @@ pubDate: "2024-07-15"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["《史丹佛監獄實驗》", "《米倫格爾電擊器實驗》", "《蒼蠅王》", "人性偏見", "人性本善", "歷史翻案", "社會實驗", "羅格·布雷格曼"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_128.jpg"
+heroImage: "/wp-images/2024/02/rp_files_128.jpg"
 ---
 
 你相信人性本善嗎? 
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_128.jpg"
 
 不過，布雷格曼在書中提出了不同的看法，他認為這些實驗的結論過於強調了人性的負面，而忽略了實驗參與者在沒有壓力影響下本能展現的善意。 
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_128.jpg)
+![](/wp-images/2024/02/rp_files_128.jpg)
 
 值得一提的是，作家羅格·布雷格曼是一位歐洲著名的思想家、歷史學家、作家以及記者。
 

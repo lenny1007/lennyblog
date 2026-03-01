@@ -5,7 +5,7 @@ pubDate: "2024-07-04"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["學歷與財富", "富爸爸窮爸爸", "投資理財", "現金流", "理財教育", "破產策略", "羅勃特清崎", "虛構故事", "財務自由", "資產與負債"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_177.jpg"
+heroImage: "/wp-images/2024/02/rp_files_177.jpg"
 ---
 
 金錢是個永恆的話題，而關於金錢的知識，則是許多人終生追求的智慧。
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_177.jpg"
 
 ## 你可能不知道的五大真相
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_177.jpg)
+![](/wp-images/2024/02/rp_files_177.jpg)
 
 然而，在這些吸引人的理念背後，有些事實卻鮮為人知。
 
@@ -55,7 +55,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_177.jpg"
   5. **商業模式的質疑** ： 
      * 清崎通過出版書籍和舉辦講座賺取大量收入，對於他所推崇的理財知識是否真的有助於讀者實現財務自由，有一定的質疑。
 
-![person holding brown leather bifold wallet](https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-2-1024x683.jpg)
+![person holding brown leather bifold wallet](/wp-images/2024/03/3agz7a97qwa-2-1024x683.jpg)
 
 ## 分析與評價
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_177.jpg"
   * **過度簡化** ：一些批評者認為，書中將成功的理財過於簡化，現實世界的財務決策要複雜得多，並非單靠簡單的原則就能成功。
   * **商業利益** ：清崎通過書籍和講座賺錢的方式，可能會讓人懷疑他的動機是否純粹是為了教育大眾，還是更多的為了商業利益。
 
-![](https://lennychen.com/wp-content/uploads/2024/03/6c9a04a7-0c2f-4198-8ae1-2ef11e9a69b9.jpg)
+![](/wp-images/2024/03/6c9a04a7-0c2f-4198-8ae1-2ef11e9a69b9.jpg)
 
 ## 結論
 

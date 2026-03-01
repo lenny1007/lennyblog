@@ -5,7 +5,7 @@ pubDate: "2024-04-12"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人際關係", "心理治療", "接納真實", "自我欺騙", "親子關係"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg"
+heroImage: "/wp-images/2024/02/rp_files_387.jpg"
 ---
 
 在這個快節奏的時代，我們經常在不真實的自我形象和期望中迷失。
@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg"
 
 ## 自我欺騙的識破與克服
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg)
+![](/wp-images/2024/02/rp_files_387.jpg)
 
 面對真實的自己，是一個多層面的過程，它涉及到真誠地檢視自己的行為、動機、情感和思想。
 
 《揭開自己的謊言》指出，自我欺騙往往源自於我們的恐懼和不安全感，而識破這些謊言需要勇氣和堅持。
 
-![grayscale photo of woman covering her face](https://lennychen.com/wp-content/uploads/2024/02/rx84fpdre04-680x1024.jpg)
+![grayscale photo of woman covering her face](/wp-images/2024/02/rx84fpdre04-680x1024.jpg)
 
 要做到這一點，我們必須學會接受自己的脆弱性，並在自我接納的基礎上建立更健康的自我形象。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg"
 
 當我們開始接納自己的不完美，我們就能更好地理解並同情周圍人的不完美，從而在人際關係中建立更真實、更深刻的聯繫。
 
-![gray-scale photo of woman wearing knit cap](https://lennychen.com/wp-content/uploads/2024/02/ffrgegb4y58-1024x683.jpg)
+![gray-scale photo of woman wearing knit cap](/wp-images/2024/02/ffrgegb4y58-1024x683.jpg)
 
 ## 人際關係中的真實與謊言
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg"
 
 每個人都是獨一無二的，有著自己的特質、才能和限制。
 
-![two person wearing crew-neck t-shirt](https://lennychen.com/wp-content/uploads/2024/02/vso5d9wlt7s-768x1024.jpg)
+![two person wearing crew-neck t-shirt](/wp-images/2024/02/vso5d9wlt7s-768x1024.jpg)
 
 《揭開自己的謊言》鼓勵我們不僅要理解自己的獨特性，還要學會肯定和欣賞它。
 

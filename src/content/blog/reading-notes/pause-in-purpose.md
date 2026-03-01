@@ -4,7 +4,7 @@ description: "「繁忙」似乎已經成為許多人生活的常態。"
 pubDate: "2024-02-19"
 category: "閱讀筆記"
 tags: ["人生目標", "倦怠", "全玉杓", "刻意暫停", "學習效率", "忙碌謬誤", "職場經驗", "自我反思", "重啟"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x768.jpg"
+heroImage: "/wp-images/2024/02/fswqzllhc3y-1024x768.jpg"
 ---
 
 「繁忙」似乎已經成為許多人生活的常態。
@@ -23,7 +23,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x76
 
 全玉杓通過自己的職場經驗和觀察，指出許多工作狂並不是真正的勤奮，而往往是一種逃避自我反思和成長的懶惰。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/02/fswqzllhc3y-1024x768.jpg)
 
 他認為，真正的繁忙可能並非效率的象徵，而是一種避免自我反思和追求生活真正價值的借口。
 
@@ -59,7 +59,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x76
 
 ## **刻意暫停** 的社會文化意義
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_534.jpg)
+![](/wp-images/2024/02/rp_files_534.jpg)
 
 **刻意暫停** 不僅對個人有益，它還對社會文化有著深遠的影響。
 

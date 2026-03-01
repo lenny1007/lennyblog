@@ -4,7 +4,7 @@ description: "公開寫作，這個看似傳統的創作行為，正逐漸轉型
 pubDate: "2024-02-20"
 category: "閱讀筆記"
 tags: ["傳遞價值", "公開寫作", "創造價值", "商業模式", "注意力寫作法", "獲取價值", "產品思維", "用戶思維", "社交思維", "自我投資"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_523.jpg"
+heroImage: "/wp-images/2024/02/rp_files_523.jpg"
 ---
 
 公開寫作，這個看似傳統的創作行為，正逐漸轉型為一種全新的自我投資與商業模式。
@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_523.jpg"
 
 ## 公開寫作所需的三種思維：用戶、產品、社交
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_523.jpg)
+![](/wp-images/2024/02/rp_files_523.jpg)
 
 在公開寫作的過程中，作者需要採用三種不同的思維模式：用戶思維、產品思維和社交思維。
 

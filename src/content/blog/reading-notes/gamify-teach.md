@@ -5,7 +5,7 @@ pubDate: "2024-06-29"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["學習參與", "排行榜", "教學技術", "獎勵", "王永福", "積分", "遊戲化教學"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg"
+heroImage: "/wp-images/2024/02/rp_files_196.jpg"
 ---
 
 在當今的教學領域中，**遊戲化教學** 已成為一項創新的策略，旨在激發學生的參與度和學習動機。
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg"
 
 ### 獎勵：學習動機的提升
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg)
+![](/wp-images/2024/02/rp_files_196.jpg)
 
 獎勵制度能夠滿足學生的成就感和自尊心，透過實體或虛擬的獎品，作為對學生學習努力的認可和獎勵。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg"
 
 這種方式使得學生願意主動參與課堂活動，並與同學進行更多的互動與合作。
 
-![selective focus photography of people sitting on chairs while writing on notebooks](https://lennychen.com/wp-content/uploads/2024/03/hb6uwq0i4mi-1024x683.jpg)
+![selective focus photography of people sitting on chairs while writing on notebooks](/wp-images/2024/03/hb6uwq0i4mi-1024x683.jpg)
 
 ### 增強記憶與理解
 
@@ -86,7 +86,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg"
 
 福哥在書中強調，遊戲規則應該是容易理解、公平並且能夠激勵學生積極參與的。
 
-![a group of people playing a game of frisbee](https://lennychen.com/wp-content/uploads/2024/03/cmykdh9gptu-683x1024.jpg)
+![a group of people playing a game of frisbee](/wp-images/2024/03/cmykdh9gptu-683x1024.jpg)
 
 同時，在設計這些規則時，還需要保留專業的教學內容，並注重互動和獎勵機制以保持學生的專注力。
 

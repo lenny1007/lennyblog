@@ -5,7 +5,7 @@ pubDate: "2024-04-06"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "創業"]
 tags: ["信任", "團隊目標", "絕對責任", "謙遜", "領導管理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x682.jpg"
+heroImage: "/wp-images/2024/02/ekyuhd7uwsm-1-1024x682.jpg"
 ---
 
 在充滿競爭的世界中，無論是戰場還是商場，**領導管理** 的能力都是決定成功的關鍵。
@@ -24,19 +24,19 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x
 
 根據這本書的核心精神，**絕對責任** 意味著領導者必須對團隊的成敗承擔全責。
 
-![scrabbled scrabble tiles with words on them](https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x682.jpg)
+![scrabbled scrabble tiles with words on them](/wp-images/2024/02/ekyuhd7uwsm-1-1024x682.jpg)
 
 **這不僅是一種原則，更是一種行動的指南，它要求領導者不推卸責任，而是要主動尋找解決問題的辦法。**  
 
 ### **領導管理** 與絕對責任的關聯
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_427.jpg)
+![](/wp-images/2024/02/rp_files_427.jpg)
 
 在**領導管理** 中，絕對責任是一個強有力的概念。
 
 當領導者接受了這種責任觀念，他們將會更加專注於結果，而不是藉口。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/02/vfgkwon91bc-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/02/vfgkwon91bc-1024x768.jpg)
 
 在商業環境中，這意味著領導者需要確保他們的決策和行動能夠導向組織的成功。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x
 
 在談論**領導管理** 時，我們不得不提到謙卑的重要性。
 
-![man standing on grass field overlooking mountain](https://lennychen.com/wp-content/uploads/2024/02/aq7id0zjew4-820x1024.jpg)
+![man standing on grass field overlooking mountain](/wp-images/2024/02/aq7id0zjew4-820x1024.jpg)
 
 為何領導者需要放下自尊，擁抱謙卑呢？
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x
 
 當他們展現出願意聆聽和學習的態度時，團隊成員也更願意分享自己的想法和見解。
 
-![man holding box](https://lennychen.com/wp-content/uploads/2024/02/u3akt6ryvic-1024x768.jpg)
+![man holding box](/wp-images/2024/02/u3akt6ryvic-1024x768.jpg)
 
 這樣的互動可以促進團隊間的溝通，並最終提升整個團隊的表現。
 
@@ -74,7 +74,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x
 
 在《領導力》一書中，作者提到領導者必須接受建設性的批評並從中改進。這種學習態度不僅能夠幫助領導者成長，也能夠為團隊樹立正面的榜樣。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/02/nd2ffckxwtw-1-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/02/nd2ffckxwtw-1-1024x768.jpg)
 
 ## 明確團隊目標的重要性
 
@@ -82,7 +82,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x
 
 這本書強調了領導者必須清楚地傳達組織的使命和目標，並確保每個成員都明白自己在實現這些目標中所扮演的角色。
 
-![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](/wp-images/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 ### 確保目標一致性
 

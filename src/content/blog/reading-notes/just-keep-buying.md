@@ -5,7 +5,7 @@ pubDate: "2024-08-06"
 category: "閱讀筆記"
 subcategories: ["數位生活", "理財"]
 tags: ["尼克．馬朱利", "投資心態", "投資理財", "投資策略", "持續買進", "理財迷思", "股票投資", "資料分析"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
+heroImage: "/wp-images/2024/02/rp_files_101.jpg"
 ---
 
 投資理財是許多人財富增值的重要途徑，真正有用的投資理財知識是什麼?
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
 
 ### 為何投資股票
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg)
+![](/wp-images/2024/02/rp_files_101.jpg)
 
 《持續買進》進一步解釋了股票作為生財資產的優勢。
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
 
 資料分析的運用，也體現了當代理財策略的一個趨勢——科學化和量化。
 
-![a person holding up a black book with the word buy written on it](https://lennychen.com/wp-content/uploads/2024/03/zbjfbi8h7km-683x1024.jpg)
+![a person holding up a black book with the word buy written on it](/wp-images/2024/03/zbjfbi8h7km-683x1024.jpg)
 
 ### 長期投資的重要性
 

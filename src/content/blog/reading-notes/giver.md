@@ -5,7 +5,7 @@ pubDate: "2024-02-29"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["互利者", "亞當．格蘭特", "人脈經營", "團隊合作", "柔軟溝通", "索取者", "給予者", "職場成功", "辨別人才", "避免精疲力竭"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_527.jpg"
+heroImage: "/wp-images/2024/02/rp_files_527.jpg"
 ---
 
 在現代職場中，一個人的成功不僅取決於個人的努力和才能，更在於他們如何與他人互動和貢獻。
@@ -35,7 +35,7 @@ Give and Take](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw
 
 ## 給予者面臨的挑戰
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_527.jpg)
+![](/wp-images/2024/02/rp_files_527.jpg)
 
 然而，成為一名給予者並非沒有挑戰。
 
@@ -57,7 +57,7 @@ Give and Take](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw
 
 第二種則是實行「塊狀給予」，這意味著在特定時間內集中給予，而不是隨時都敞開門戶，從而避免精疲力竭的風險。
 
-![woman in white crew neck t-shirt holding white and black quote board](https://lennychen.com/wp-content/uploads/2024/03/e77rypfwyba-683x1024.jpg)
+![woman in white crew neck t-shirt holding white and black quote board](/wp-images/2024/03/e77rypfwyba-683x1024.jpg)
 
 ### 經營人脈網絡
 
@@ -73,7 +73,7 @@ Give and Take](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw
 
 這種態度不僅提升了團隊的凝聚力，也使得給予者能夠在團隊中獲得更多的信任和支持。
 
-![people sitting on chair](https://lennychen.com/wp-content/uploads/2024/03/5u_28ojjgms-1024x576.jpg)
+![people sitting on chair](/wp-images/2024/03/5u_28ojjgms-1024x576.jpg)
 
 ### 辨識人才
 

@@ -5,7 +5,7 @@ pubDate: "2024-08-07"
 category: "閱讀筆記"
 subcategories: ["學習", "理財"]
 tags: ["商業演進", "紅利與利潤", "自我連結", "資訊不對稱", "超級節點"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
+heroImage: "/wp-images/2024/02/rp_files_98.jpg"
 ---
 
 你是否曾思考過商業世界的軌跡是如何演化至今日的模樣？
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 ## 商業演進的跨時代之旅
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg)
+![](/wp-images/2024/02/rp_files_98.jpg)
 
 《商業簡史》的作者劉潤是中國知名商業顧問，潤米諮詢創始人，50萬學員《劉潤5分鐘商學院》主理人。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 這些連結不僅僅是地理上的，更是思想和資訊的交流，編織了一個繁榮昌盛的商業世界。
 
-![person in black long sleeve shirt holding persons hand](https://lennychen.com/wp-content/uploads/2024/02/y5bvrlccx8k-683x1024.jpg)
+![person in black long sleeve shirt holding persons hand](/wp-images/2024/02/y5bvrlccx8k-683x1024.jpg)
 
 在書中提到的「超級節點」概念，進一步擴展了「連結」的意義。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 這為商家創造了長期利潤的機會，而不是僅僅依賴於短期的市場優勢。
 
-![person in blue shirt writing on white paper](https://lennychen.com/wp-content/uploads/2024/03/8mikj83lmsq-1024x678.jpg)
+![person in blue shirt writing on white paper](/wp-images/2024/03/8mikj83lmsq-1024x678.jpg)
 
 ## 「紅利」與「利潤」的區分
 

@@ -5,7 +5,7 @@ pubDate: "2024-06-21"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["價值與價格", "全人的幸福", "善待自己", "塔爾．班夏哈", "思維改變", "更快樂的選擇", "正向心理學", "行為習慣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x585.jpg"
+heroImage: "/wp-images/2024/02/rp_files_181-1024x585.jpg"
 ---
 
 當我們在書店的書架間徘徊，尋找能給予內心啟發的書籍時，《更快樂的選擇》總是能吸引那些渴望生活中更多幸福感的讀者。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x5
 
 這些面向並不是孤立存在的，而是相互緊密連結，共同構成了通往更快樂生活的道路。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_181-1024x585.jpg)
 
 ### SPIRE模型：全面理解快樂的五大支柱
 
@@ -52,13 +52,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x5
 
 感恩則是一種能夠即刻提升幸福感的心態，它讓我們對當下所擁有的一切心存感激，從而產生積極的情緒回饋。
 
-![man in pink dress shirt standing on gray concrete pavement near body of water during daytime](https://lennychen.com/wp-content/uploads/2024/03/bworiaxy-mw-703x1024.jpg)
+![man in pink dress shirt standing on gray concrete pavement near body of water during daytime](/wp-images/2024/03/bworiaxy-mw-703x1024.jpg)
 
 **研究表明，定期進行感恩練習的人通常會感到更加幸福和滿足。**  
 
 ### 自我肯定與放下過去
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_222.jpg)
+![](/wp-images/2024/02/rp_files_222.jpg)
 
 自我肯定是幸福的另一個關鍵因素。
 
@@ -96,7 +96,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_181-1024x5
 
 這句話點出了自我關懷的核心。
 
-![person reaching black heart cutout paper](https://lennychen.com/wp-content/uploads/2024/03/xx2wtblr3r8-1024x683.jpg)
+![person reaching black heart cutout paper](/wp-images/2024/03/xx2wtblr3r8-1024x683.jpg)
 
 《更快樂的選擇》也不斷強調自我關懷的重要性，它是實現幸福的基石。
 

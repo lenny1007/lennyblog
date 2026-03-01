@@ -5,7 +5,7 @@ pubDate: "2024-07-22"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["企業分析師", "商業模式", "投資組合", "穩健獲利", "美股投資學", "財報解讀", "財女Jenny"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_118.jpg"
+heroImage: "/wp-images/2024/02/rp_files_118.jpg"
 ---
 
 在充滿不確定性的時代，投資者如何在市場中保持冷靜，並建立一個既穩健又可獲得良好回報的投資組合？
@@ -28,7 +28,7 @@ Jenny認為，將自己視為一名企業分析師而非僅僅是股票分析師
 
 ### 理解商業模式的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_118.jpg)
+![](/wp-images/2024/02/rp_files_118.jpg)
 
 為了深入理解一家企業的商業模式，我們需要從公司賺錢的方式、目標客戶、產品製造過程及成本結構等方面去分析。
 
@@ -56,7 +56,7 @@ Jenny指出，重要的財報指標包括營收成長率、競爭優勢、毛利
 
 她提到，建立投資組合不應單純依靠特定比例或行業配置，而是要基於對個別公司基本面和未來前景的深入分析。
 
-![round brown wooden table](https://lennychen.com/wp-content/uploads/2024/03/ascuvwpmdcq-716x1024.jpg)
+![round brown wooden table](/wp-images/2024/03/ascuvwpmdcq-716x1024.jpg)
 
 此外，投資者可以考慮日常生活中熟悉的品牌，這些品牌的業務模式和市場地位往往更容易被理解和預測。
 

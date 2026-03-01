@@ -5,7 +5,7 @@ pubDate: "2024-07-30"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["Notion", "Obsidian", "卡片盒筆記法", "學習工具", "尼古拉斯．魯曼", "朱騏", "知識整理", "知識複利筆記術"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg"
+heroImage: "/wp-images/2024/02/rp_files_107.jpg"
 ---
 
 看越多書，就遺忘越多。
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg"
 
 ## **《知識複利筆記術》對不同讀者群的適用性**
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg)
+![](/wp-images/2024/02/rp_files_107.jpg)
 
 無論是學生、教師、職場人士還是研究人員，《知識複利筆記術》都有其獨特的價值。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg"
 
 對於教師，它能夠協助他們將教學內容組織得更為系統化；
 
-![man and woman sitting on chairs](https://lennychen.com/wp-content/uploads/2024/03/zfso6bnzjtw-1024x637.jpg)
+![man and woman sitting on chairs](/wp-images/2024/03/zfso6bnzjtw-1024x637.jpg)
 
 對於職場人士，這種筆記法能夠幫助他們在工作中快速索引和應用知識；
 
@@ -58,7 +58,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg"
 
 **通過將知識分割成小塊，並在這些小塊之間建立聯繫** ，學習者能夠更加深刻地理解和記憶知識點。
 
-![person holding ballpoint pen writing on notebook](https://lennychen.com/wp-content/uploads/2024/02/505eectw54k-1-1024x683.jpg)
+![person holding ballpoint pen writing on notebook](/wp-images/2024/02/505eectw54k-1-1024x683.jpg)
 
 這種筆記方式不僅促進了大腦的活動，還能夠隨著時間的推移，實現知識的不斷積累和深化。
 

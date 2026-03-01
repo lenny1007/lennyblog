@@ -5,7 +5,7 @@ pubDate: "2024-03-21"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["商業策略", "心智模式", "投資原則", "查理·蒙格", "終身學習", "美好人生", "跨領域學習"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
+heroImage: "/wp-images/2024/02/rp_files_402.jpg"
 ---
 
 你是否曾經思考過閱讀可以如何影響你的人生哲學、商業策略乃至於投資決策？
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
 
 ## 查理．蒙格的人生與投資哲學
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg)
+![](/wp-images/2024/02/rp_files_402.jpg)
 
 查理．蒙格是波克夏·哈薩威公司的副董事長，他與華倫·巴菲特共同打造了這家公司的輝煌。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
 
 這種結合了多個學科領域的綜合思考方式，使得他在投資上能夠避免常見的認知偏誤，並且在多變的市場中保持清晰的判斷力。
 
-![flat lay photography of eight coffee latte in mugs on round table](https://lennychen.com/wp-content/uploads/2024/02/pmw4jzelqcw-683x1024.jpg)
+![flat lay photography of eight coffee latte in mugs on round table](/wp-images/2024/02/pmw4jzelqcw-683x1024.jpg)
 
 這種決策的心智模型可以盡可能地接近真實的情況，進而為決策提供一個判斷的基礎，可以降低自己的認知偏誤。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
 
 查理．蒙格提倡逆向思考，也就是從問題的反面來思考。
 
-![man in black jacket sitting by the table](https://lennychen.com/wp-content/uploads/2024/02/kliuo2i8ajc-683x1024.jpg)
+![man in black jacket sitting by the table](/wp-images/2024/02/kliuo2i8ajc-683x1024.jpg)
 
 這種思考方式可以幫助我們識別並避開潛在的問題，從而在投資以及人生的其他方面避免重大錯誤。
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_402.jpg"
 
 他認為，隨著時間的推移，不斷學習新知識和技能是保持智慧和活力的關鍵。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/02/ndjauqvb7ue-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/02/ndjauqvb7ue-1024x768.jpg)
 
 這種不斷追求知識的態度對於投資者來說尤為重要，因為市場環境和商業模式總是在變化。
 

@@ -5,7 +5,7 @@ pubDate: "2024-03-20"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["保健食品效能", "個人發展", "工作表現", "布蘭登・布夏德", "生產力", "高成效習慣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg"
+heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 ---
 
 在這個快速變遷的時代，如何提升個人效率與生產力，成為許多人積極追求的目標。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775
 
 具體來說，第一步是透過深呼吸、短暫休息或冥想等方式，幫助自己從先前任務的壓力中解脫出來。
 
-![man wearing black cap with eyes closed under cloudy sky](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
+![man wearing black cap with eyes closed under cloudy sky](/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
 
 第二步則是設定新任務的意圖，這不僅包括完成任務所需的具體動作，也應該包含完成任務後想要達成的情緒狀態或影響力的目標。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775
 
 ## 高成效習慣：追求高品質的產出
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_429.jpg)
+![](/wp-images/2024/02/rp_files_429.jpg)
 
 **高成效人士的第三個特點是他們專注於產出高品質的工作。**
 

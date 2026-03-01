@@ -5,7 +5,7 @@ pubDate: "2024-05-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "數位生活"]
 tags: ["任康磊", "個體崛起", "副業", "商業價值", "成長勢能", "職場發展", "變現能力"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x1024.jpg"
+heroImage: "/wp-images/2024/02/bdpltevpkvw-683x1024.jpg"
 ---
 
 在快速變遷的時代，「成長勢能」已成為職場人士不可或缺的能力。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 在《成長勢能》中，任康碩將勢能定義為一個人在商業市場上的「變現能力」，即將自己的能力和知識轉換為經濟價值的潛力。
 
-![woman in white long sleeve shirt holding white plastic bag](https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x1024.jpg)
+![woman in white long sleeve shirt holding white plastic bag](/wp-images/2024/02/bdpltevpkvw-683x1024.jpg)
 
 勢能是個人在職場發展中的潛在動力，它決定了一個人能夠達到怎樣的職業高度。
 
@@ -42,13 +42,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 ### 1\. 自我品牌建立
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_343.jpg)
+![](/wp-images/2024/02/rp_files_343.jpg)
 
 在個體崛起的時代，擁有一個強大的個人品牌是提升勢能的關鍵。
 
 這意味著你需要在特定領域建立專業形象，並在社交媒體和專業平台上積極展示你的專業知識和見解。
 
-![blue red and green letters illustration](https://lennychen.com/wp-content/uploads/2024/02/mr4jg4syof8-1024x768.jpg)
+![blue red and green letters illustration](/wp-images/2024/02/mr4jg4syof8-1024x768.jpg)
 
 **優點** ：
 
@@ -66,7 +66,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 這包括參加線上課程、研討會，以及獲取相關行業的最新知識。
 
-![two men talking](https://lennychen.com/wp-content/uploads/2024/02/w3jl3jrepdy-1024x683.jpg)
+![two men talking](/wp-images/2024/02/w3jl3jrepdy-1024x683.jpg)
 
 **優點** ：
 
@@ -84,7 +84,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 這不僅僅是為了尋找工作機會，更重要的是通過與他人交流學習，獲得新的觀點和資訊。
 
-![person in black long sleeve shirt holding persons hand](https://lennychen.com/wp-content/uploads/2024/02/y5bvrlccx8k-683x1024.jpg)
+![person in black long sleeve shirt holding persons hand](/wp-images/2024/02/y5bvrlccx8k-683x1024.jpg)
 
 **優點** ：
 
@@ -102,7 +102,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 這不僅包括成功的經驗，也包括失敗的教訓。反思這些經驗，將它們轉化為未來的行動指南。
 
-![person writing on white paper](https://lennychen.com/wp-content/uploads/2024/02/qc2n6rqu4vw-1024x683.jpg)
+![person writing on white paper](/wp-images/2024/02/qc2n6rqu4vw-1024x683.jpg)
 
 **優點** ：
 
@@ -142,7 +142,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x102
 
 記住，成長的過程可能會伴隨挑戰和困難，但正是這些經驗塑造了我們的勢能，讓我們在職場中走得更遠。
 
-![two person wearing crew-neck t-shirt](https://lennychen.com/wp-content/uploads/2024/02/vso5d9wlt7s-1-768x1024.jpg)
+![two person wearing crew-neck t-shirt](/wp-images/2024/02/vso5d9wlt7s-1-768x1024.jpg)
 
 在這個個體崛起的時代，每個人都有機會成為市場上的獨特存在。
 

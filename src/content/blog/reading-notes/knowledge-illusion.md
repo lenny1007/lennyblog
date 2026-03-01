@@ -5,7 +5,7 @@ pubDate: "2024-05-01"
 category: "閱讀筆記"
 subcategories: ["學習", "數位生活"]
 tags: ["同溫層", "無知", "理解的假象", "知識共同體", "知識地圖", "謙卑", "集體智慧"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x598.jpg"
+heroImage: "/wp-images/2024/02/i79wwvfyheq-1024x598.jpg"
 ---
 
 我們每天都被各式各樣的知識所包圍。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x59
 
 當我們過度依賴特定的知識共同體，就有可能形成所謂的「同溫層」，這是一種思想和觀點高度同質化的社群現象。
 
-![selective focus photography of person holding newspaper](https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x598.jpg)
+![selective focus photography of person holding newspaper](/wp-images/2024/02/i79wwvfyheq-1024x598.jpg)
 
 ### 同溫層的影響
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x59
 
 ### 知識地圖的建構
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_354.jpg)
+![](/wp-images/2024/02/rp_files_354.jpg)
 
 為了打破同溫層，作者建議讀者應該建立自己的知識地圖。
 
@@ -44,13 +44,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x59
 
 通過廣泛閱讀和與不同領域的人交流，我們可以拓寬自己的視野，豐富知識地圖的內容。
 
-![maps lying on the floor](https://lennychen.com/wp-content/uploads/2024/02/1-29wyvvlja-1024x683.jpg)
+![maps lying on the floor](/wp-images/2024/02/1-29wyvvlja-1024x683.jpg)
 
 ## 如何克服無知與理解的假象？
 
 無知並不可恥，可恥的是對無知的無覺察。
 
-![man in white long sleeve shirt and black pants jumping on white concrete wall during daytime](https://lennychen.com/wp-content/uploads/2024/02/ift6wpy-jqq-683x1024.jpg)
+![man in white long sleeve shirt and black pants jumping on white concrete wall during daytime](/wp-images/2024/02/ift6wpy-jqq-683x1024.jpg)
 
 《知識的假象》中提到，人們常常受到自己認知範圍的限制，而不自覺地陷入了理解的假象之中。
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/i79wwvfyheq-1024x59
 
 這可以幫助我們從更多角度看待問題，並能夠更深入地理解世界的多樣性。
 
-![group of people sitting on gray concrete stairs](https://lennychen.com/wp-content/uploads/2024/02/xtkxzn_dv8o-683x1024.jpg)
+![group of people sitting on gray concrete stairs](/wp-images/2024/02/xtkxzn_dv8o-683x1024.jpg)
 
 ### 批判性思維的培養
 

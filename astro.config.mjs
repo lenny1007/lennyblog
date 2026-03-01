@@ -1,5 +1,6 @@
 // @ts-check
 
+import react from '@astrojs/react';
 import mdx from '@astrojs/mdx';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
@@ -15,6 +16,7 @@ const devIntegrations = isDev
 export default defineConfig({
 	site: 'https://lennychen.com',
 	integrations: [
+		react(),
 		mdx(),
 		react(),
 		...devIntegrations,

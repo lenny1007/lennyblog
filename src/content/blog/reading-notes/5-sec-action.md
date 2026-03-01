@@ -5,7 +5,7 @@ pubDate: "2024-05-02"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["《被討厭的勇氣》", "七個習慣", "五秒法則", "執行力", "改變人生", "梅爾．羅賓斯", "行動法則", "身分認同"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x1024.jpg"
+heroImage: "/wp-images/2024/02/rimkv_jc0y8-683x1024.jpg"
 ---
 
 當腦中有個想法，如何讓自己立刻行動不拖延？ 具體提升行動力的策略——「五秒法則」。
@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x102
 
 在我們的大腦中有一個古老的區域，通常被稱作「蜥蜴腦」，它負責本能反應，例如戰鬥或逃跑。
 
-![man in brown and black crew neck shirt](https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x1024.jpg)
+![man in brown and black crew neck shirt](/wp-images/2024/02/rimkv_jc0y8-683x1024.jpg)
 
 當我們準備採取行動時，這部分大腦會評估潛在的風險，並可能引發拖延或恐懼，從而阻止我們採取行動。而「五秒法則」通過迅速的倒數動作，創造了一個心理突破口，讓我們趕在「蜥蜴腦」作出反應之前，就開始行動。  
 
 ### 實踐方法：一個簡單的倒數
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_352.jpg)
+![](/wp-images/2024/02/rp_files_352.jpg)
 
 實踐「五秒法則」非常簡單：當你有一個想法或需要採取行動時，你開始倒數5-4-3-2-1，然後立即行動。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x102
 
 這個法則的主要優點在於它的簡易性和即時性，使人能夠迅速克服心理障礙並採取行動。
 
-![clap board roadside Jakob and Ryan](https://lennychen.com/wp-content/uploads/2024/02/ciur8zisx60-1024x692.jpg)
+![clap board roadside Jakob and Ryan](/wp-images/2024/02/ciur8zisx60-1024x692.jpg)
 
 然而，僅有行動的啟動是不夠的，維持長期且有意義的改變還需要更深層次的自我認同和動機的探索。
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rimkv_jc0y8-683x102
 
 其中包括如何應對賴床的問題、如何建立早晨例行程序，以及如何控制自己可以控制的日常規律，比如運動和寫作等活動。
 
-![woman in white t-shirt holding black ceramic mug](https://lennychen.com/wp-content/uploads/2024/02/kf96ldevqwy-1024x683.jpg)
+![woman in white t-shirt holding black ceramic mug](/wp-images/2024/02/kf96ldevqwy-1024x683.jpg)
 
 ### 晨間例行程序的影響
 

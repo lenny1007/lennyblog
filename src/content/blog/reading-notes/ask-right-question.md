@@ -5,7 +5,7 @@ pubDate: "2024-04-02"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "內化成功", "恢復力", "提問", "蘇格拉底式對話"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x1024.jpg"
+heroImage: "/wp-images/2024/02/7esrptt38ni-683x1024.jpg"
 ---
 
 每一天，我們被各式各樣的答案包圍，網路上只需輕輕一搜，幾乎任何問題都能找到答案。
@@ -16,7 +16,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x102
 
 本文將探討為何**提問** 比找答案更加重要，並從**提問** 的角度去思考如何達到個人的成長與成功。
 
-![person catching light bulb](https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x1024.jpg)
+![person catching light bulb](/wp-images/2024/02/7esrptt38ni-683x1024.jpg)
 
 ## 提問的力量：開啟深刻對話的關鍵
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x102
 
 ## 利用外部資源豐富思考
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_414.jpg)
+![](/wp-images/2024/02/rp_files_414.jpg)
 
 在《在大腦外思考》一書中，作家Annie Murphy Paul提倡我們應該突破大腦的局限，善用外部資源來豐富我們的思考過程。
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x102
 
 我們應該學會從批評中提取有用的信息，同時排除那些無益的負面評論。
 
-![white and black typewriter on green grass during daytime](https://lennychen.com/wp-content/uploads/2024/02/jokfw6yfrgs-1024x683.jpg)
+![white and black typewriter on green grass during daytime](/wp-images/2024/02/jokfw6yfrgs-1024x683.jpg)
 
 透過這樣的**提問** 與反思，我們能夠持續進步並保持創造力。
 
@@ -74,7 +74,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x102
 
 文章強調了**恢復力** 的重要性。無論是在職業生涯還是個人生活中，面對挫折的能力和從中學習的態度，是成功不可或缺的一部分。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/02/nd2ffckxwtw-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/02/nd2ffckxwtw-1024x768.jpg)
 
 因此，我們應該重視那些能夠幫助我們培養恢復力的問題。
 

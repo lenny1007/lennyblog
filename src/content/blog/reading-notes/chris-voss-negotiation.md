@@ -5,7 +5,7 @@ pubDate: "2024-03-18"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["FBI談判協商術", "克里斯．佛斯", "同理心", "談判技巧", "談判策略"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg"
+heroImage: "/wp-images/2024/02/rp_files_398.jpg"
 ---
 
 在快節奏且充滿不確定性的現代生活中，談判技巧顯得尤為重要。
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg"
 
 #### 同理心：建立談判的基石
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg)
+![](/wp-images/2024/02/rp_files_398.jpg)
 
 同理心，在《FBI談判術》中佔有舉足輕重的地位。
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg"
 
 同時，作者也警告讀者避免追求表面的肯定——即虛假的"Yes"。
 
-![four men sitting at the table grayscale photo](https://lennychen.com/wp-content/uploads/2024/02/goe0yhdcwxk-1024x645.jpg)
+![four men sitting at the table grayscale photo](/wp-images/2024/02/goe0yhdcwxk-1024x645.jpg)
 
 #### 校準型問題：引導對方揭示信息
 

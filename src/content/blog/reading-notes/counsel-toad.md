@@ -4,7 +4,7 @@ description: "當代生活節奏加快，人們面臨的壓力愈來愈大，心
 pubDate: "2024-02-23"
 category: "閱讀筆記"
 tags: ["EQ", "心理治療", "心理諮商", "溝通分析", "自我狀態", "自我認知", "蛤蟆先生"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg"
+heroImage: "/wp-images/2024/02/rp_files_25.jpg"
 ---
 
 當代生活節奏加快，人們面臨的壓力愈來愈大，心理健康問題逐漸受到重視。
@@ -33,7 +33,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg"
 
 ## 蛤蟆先生與心理諮商：自我治療過程的體會
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg)
+![](/wp-images/2024/02/rp_files_25.jpg)
 
 作為心理治療的一種形式，心理諮商在這本書中被描繪為一個自我治療的過程，而非速效藥。
 

@@ -4,7 +4,7 @@ description: "在當代文學中，東野圭吾無疑是一座耀眼的燈塔，
 pubDate: "2024-06-05"
 category: "閱讀筆記"
 tags: ["《祈念之樹》", "日系推理小說", "東野圭吾", "神社", "秘密", "親情", "記憶"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_268.jpg"
+heroImage: "/wp-images/2024/02/rp_files_268.jpg"
 ---
 
 在當代文學中，東野圭吾無疑是一座耀眼的燈塔，指引著熱愛推理小說的讀者們進入一個又一個精心構築的故事。
@@ -25,13 +25,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_268.jpg"
 
 儘管蓮和阿姨並無直接血緣，但他們之間的情感卻深厚而真摯。這種超越血緣的親情，讓人重新思考家族間的羈絆究竟意味著什麼。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_268.jpg)
+![](/wp-images/2024/02/rp_files_268.jpg)
 
 記憶則是貫穿整部小說的另一重要主題。
 
 小說描繪了人物對於過去記憶的執著，以及記憶消逝帶來的痛苦和不安。
 
-![person opening photo album displaying grayscale photos](https://lennychen.com/wp-content/uploads/2024/03/73ojlcahqhg-1024x683.jpg)
+![person opening photo album displaying grayscale photos](/wp-images/2024/03/73ojlcahqhg-1024x683.jpg)
 
 透過角色的對話和經歷，東野圭吾探討了記憶對於個人身份的重要性，以及破碎記憶中仍可尋找到新意義和連結的可能。
 
@@ -45,7 +45,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_268.jpg"
 
 祈念之樹成為了人們心靈的寄託，也是蓮解開家族秘密的關鍵。
 
-![cards hanging on Christmas tree](https://lennychen.com/wp-content/uploads/2024/03/sj9lxhonnv4-576x1024.jpg)
+![cards hanging on Christmas tree](/wp-images/2024/03/sj9lxhonnv4-576x1024.jpg)
 
 藉由這棵樹的傳說，東野圭吾喚起了讀者對於信仰和迷信之間界線的思考。
 

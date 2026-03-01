@@ -5,7 +5,7 @@ pubDate: "2024-08-01"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["公共圖書館", "土庫鎮", "彭冠綸", "教育", "療心圖書館", "閱讀推廣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg"
+heroImage: "/wp-images/2024/02/rp_files_96.jpg"
 ---
 
 閱讀推廣一直是各個社區和教育機構努力的方向。
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg"
 
 ### 閱讀推廣的策略
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg)
+![](/wp-images/2024/02/rp_files_96.jpg)
 
 在《療心圖書館》中，館長小編透露了許多成功的閱讀推廣策略。
 

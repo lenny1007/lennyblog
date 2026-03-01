@@ -4,7 +4,7 @@ description: "活到老，學到老，現在是一個最好的時代，學習已
 pubDate: "2024-02-28"
 category: "閱讀筆記"
 tags: ["互動學習", "學習原理", "學習指南", "教學實踐", "教學策略", "記憶技巧"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg"
+heroImage: "/wp-images/2024/02/rp_files_467.jpg"
 ---
 
 活到老，學到老，現在是一個最好的時代，學習已不再是學生的專利，而是一種可以終身受益的關鍵能力。
@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg"
 
 ### **多工能力的迷思破解**
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg)
+![](/wp-images/2024/02/rp_files_467.jpg)
 
 多工能力一直被視為現代人必備的技能之一，遺憾的是，**人腦不是電腦，多工反而對於學習不好** 。
 
@@ -55,7 +55,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg"
 
 建議教學者定期安排回顧時間，幫助學生鞏固知識。
 
-![man using laptop beside woman holding pen](https://lennychen.com/wp-content/uploads/2024/03/fznqw-kn5vu-683x1024.jpg)
+![man using laptop beside woman holding pen](/wp-images/2024/03/fznqw-kn5vu-683x1024.jpg)
 
 ### **分散練習的效益**
 
@@ -75,7 +75,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_467.jpg"
 
 從問題跟錯誤中學習，能更好的理解自己知識的盲區與犯錯的地方，只有面對，才能進步。
 
-![brown wooden letter letter letter blocks](https://lennychen.com/wp-content/uploads/2024/03/ehkaeaz5vuu-1024x768.jpg)
+![brown wooden letter letter letter blocks](/wp-images/2024/03/ehkaeaz5vuu-1024x768.jpg)
 
 ### 選擇紙質書進行學習
 

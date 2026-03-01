@@ -5,7 +5,7 @@ pubDate: "2024-03-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["成功祕訣", "窮忙世代", "習慣建立", "艾兒莎", "說故事", "面試技巧"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/4k2lip0zc_k-1024x684.jpg"
+heroImage: "/wp-images/2024/02/4k2lip0zc_k-1024x684.jpg"
 ---
 
 在競爭激烈的職場中，「面試技巧」是求職者必須精熟的重要武器。
@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/4k2lip0zc_k-1024x68
 
 **透過故事讓面試官記住你，留下好的印象，可以提升面是成功的機率。**
 
-![boy sitting on bench while holding a book](https://lennychen.com/wp-content/uploads/2024/02/4k2lip0zc_k-1024x684.jpg)
+![boy sitting on bench while holding a book](/wp-images/2024/02/4k2lip0zc_k-1024x684.jpg)
 
 ### 「說故事」技巧的應用
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/4k2lip0zc_k-1024x68
 
 ## 艾兒莎的成功秘訣與習慣建立
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_509.jpg)
+![](/wp-images/2024/02/rp_files_509.jpg)
 
 艾兒莎在《窮忙世代的翻身準則》中分享了她在新加坡成功找到工作的經歷。
 

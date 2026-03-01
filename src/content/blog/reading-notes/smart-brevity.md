@@ -5,7 +5,7 @@ pubDate: "2024-07-09"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["Axios", "數位時代", "溝通法則", "白話文", "聰明簡潔", "讀者至上"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_145.jpg"
+heroImage: "/wp-images/2024/02/rp_files_145.jpg"
 ---
 
 在數位時代，如何有效地進行溝通是重要的藝術。
@@ -28,7 +28,7 @@ Axios創辦人在《聰明簡潔的溝通》中提出了“讀者至上”的原
 
 ### 白話文的運用
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_145.jpg)
+![](/wp-images/2024/02/rp_files_145.jpg)
 
 在《聰明簡潔的溝通》中推崇使用白話文來進行溝通。
 

@@ -5,7 +5,7 @@ pubDate: "2024-07-08"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人成長", "創新", "快樂", "華特·艾薩克森", "財富心態", "馬斯克傳"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_149.jpg"
+heroImage: "/wp-images/2024/02/rp_files_149.jpg"
 ---
 
 **創新** 是推動社會進步的不竭動力。
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_149.jpg"
 
 ### 跨界整合的實踐
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_149.jpg)
+![](/wp-images/2024/02/rp_files_149.jpg)
 
 馬斯克在**創新** 的實踐中，不僅僅滿足於在一個領域深耕細作。
 
@@ -92,7 +92,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_149.jpg"
 
 他願意將個人財產投入到看似不可能成功的項目中，這種敢於賭注的精神，讓他能夠在眾人都不看好的情況下，實現了許多被認為不可能的創新。
 
-![silhouette of tree during nighttime](https://lennychen.com/wp-content/uploads/2024/03/i5f8nibzuuu-1024x931.jpg)
+![silhouette of tree during nighttime](/wp-images/2024/03/i5f8nibzuuu-1024x931.jpg)
 
 ### 解決問題的專注
 

@@ -5,7 +5,7 @@ pubDate: "2024-04-20"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["不動產投資", "低成本", "合理報酬", "指數型基金", "約翰柏格", "繁體中文版", "股市", "財經書籍", "長期持有"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_358.jpg"
+heroImage: "/wp-images/2024/02/rp_files_358.jpg"
 ---
 
 閱讀《約翰‧博格的投資智慧》後，不難發現其為何能在財經領域中成為不朽的經典。
@@ -34,13 +34,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_358.jpg"
 
 ### 指數型基金與主動型基金的區別
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_358.jpg)
+![](/wp-images/2024/02/rp_files_358.jpg)
 
 《約翰‧博格的投資智慧》中提到的另一個重要概念是指數型基金。
 
 博格先生指出，與主動型基金相比，指數型基金追求的是市場指數的平均表現。
 
-![black and silver laptop computer](https://lennychen.com/wp-content/uploads/2024/02/lp8zlyazjy8-683x1024.jpg)
+![black and silver laptop computer](/wp-images/2024/02/lp8zlyazjy8-683x1024.jpg)
 
 由於指數型基金採取被動管理策略，減少了高頻交易，因此交易成本和管理費用較低。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_358.jpg"
 
 此外，長期持有還能享受複利的威力，這對於資產的增值至關重要。
 
-![person holding green apple](https://lennychen.com/wp-content/uploads/2024/02/qzub8ni3x_c-684x1024.jpg)
+![person holding green apple](/wp-images/2024/02/qzub8ni3x_c-684x1024.jpg)
 
 ### 不同版本的內容差異
 

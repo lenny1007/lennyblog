@@ -5,7 +5,7 @@ pubDate: "2024-08-11"
 category: "閱讀筆記"
 subcategories: ["工作、職場", "數位生活"]
 tags: ["創作習慣", "創作者", "創意工作", "實踐", "寫作熱情", "愛的藝術", "慷慨", "賽斯．高汀", "連結受眾", "類型"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg"
+heroImage: "/wp-images/2024/02/rp_files_92.jpg"
 ---
 
 成功的創意工作並不是由無數點子隨意拼湊而成，而是一段持續實踐、不斷學習與成長的歷程。
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg"
 
 ### 持續創作的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg)
+![](/wp-images/2024/02/rp_files_92.jpg)
 
 賽斯·高汀鼓勵創意工作者建立起持續創作的習慣。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg"
 
 高汀認為，真正的創意不僅在於產出新點子，更在於如何將這些點子轉化為具體的產品或服務，並成功地與**目標受眾建立連結** 。
 
-![photo of bulb artwork](https://lennychen.com/wp-content/uploads/2024/03/82tpeld0_e4-1024x683.jpg)
+![photo of bulb artwork](/wp-images/2024/03/82tpeld0_e4-1024x683.jpg)
 
 ### 創意與類型的關聯
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg"
 
 熱情同時也是與受眾建立情感連結的關鍵因素。
 
-![man in yellow shirt holding black camera](https://lennychen.com/wp-content/uploads/2024/03/yv-2g04skd8-683x1024.jpg)
+![man in yellow shirt holding black camera](/wp-images/2024/03/yv-2g04skd8-683x1024.jpg)
 
 ## 實踐與受眾連結：創意工作的社會意義
 
@@ -82,7 +82,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_92.jpg"
 
 這種連結不僅能夠豐富創意工作的內涵，也能讓創意工作者從中獲得成長與啟發。
 
-![man standing infront of group of people](https://lennychen.com/wp-content/uploads/2024/02/q7wgvnbuwj0-1024x683.jpg)
+![man standing infront of group of people](/wp-images/2024/02/q7wgvnbuwj0-1024x683.jpg)
 
 ### 創意工作的社會責任
 

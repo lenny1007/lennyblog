@@ -5,7 +5,7 @@ pubDate: "2024-06-10"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["哈佛商業評論", "彼得．杜拉克", "管理領導技巧", "經典文章", "自我管理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
+heroImage: "/wp-images/2024/02/rp_files_257.jpg"
 ---
 
 《哈佛商業評論》所收錄的最有影響力的30篇文章，讓你從經典的管理智慧中，尋求靈感。
@@ -18,7 +18,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 
 例如: 彼得·杜拉克（Peter Drucker）的 "自我管理" 一文對全球職場人士產生了深遠的影響，鼓勵人們拓展視野，不受公司文化的限制。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg)
+![](/wp-images/2024/02/rp_files_257.jpg)
 
 閱讀原始的經典文章比起瀏覽眾多評論和解讀更加重要，因為它們提供了最純粹的洞察力和指導原則。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 
 從數據分析到領導力建設，每一篇文章都展現了作者的前瞻性與創新精神。
 
-![person catching light bulb](https://lennychen.com/wp-content/uploads/2024/03/7esrptt38ni-683x1024.jpg)
+![person catching light bulb](/wp-images/2024/03/7esrptt38ni-683x1024.jpg)
 
 ### 深度分析
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 
 文章們提供的實踐建議，使讀者能夠將理論應用於日常工作中，從而實現理論與實踐的完美結合。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_270-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_270-1024x585.jpg)
 
 ## 彼得·杜拉克：管理學之父的不朽影響
 
@@ -68,7 +68,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 
 這種自我管理的概念甚至超越了個人範疇，逐步影響了整個組織的管理方式。
 
-![man sitting on chair and looking laptop computer](https://lennychen.com/wp-content/uploads/2024/03/vggn0xldy8s-683x1024.jpg)
+![man sitting on chair and looking laptop computer](/wp-images/2024/03/vggn0xldy8s-683x1024.jpg)
 
 ### 對現代職場的啟示
 
@@ -90,7 +90,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_257.jpg"
 
 優秀的管理者不僅需要掌握管理學的基本技巧，如預算控制、人力資源分配等，同時還需要具備領導力，能夠激勵團隊追求卓越。
 
-![man standing in front of group of men](https://lennychen.com/wp-content/uploads/2024/03/rxpthowuvge-1024x576.jpg)
+![man standing in front of group of men](/wp-images/2024/03/rxpthowuvge-1024x576.jpg)
 
 這些文章展示了如何將管理與領導相結合，形成一種更加靈活和人性化的管理風格。
 

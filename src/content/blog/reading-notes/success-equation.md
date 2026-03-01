@@ -5,7 +5,7 @@ pubDate: "2024-05-14"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人生決策", "反直覺思考", "專家預測", "心智軟體", "情境影響", "群眾智慧"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ldjlgz0rrva-1024x1024.jpg"
+heroImage: "/wp-images/2024/03/ldjlgz0rrva-1024x1024.jpg"
 ---
 
 在追求效率與正確決策的當代社會，**反直覺思考** 是讓你跳出常見思考偏誤的方法。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ldjlgz0rrva-1024x10
 
 這些設定本來用於處理古代簡單的生存問題，但在現代複雜的環境中卻經常導致判斷失誤。
 
-![a group of blue plastic figures sitting in an office](https://lennychen.com/wp-content/uploads/2024/03/ldjlgz0rrva-1024x1024.jpg)
+![a group of blue plastic figures sitting in an office](/wp-images/2024/03/ldjlgz0rrva-1024x1024.jpg)
 
 **反直覺思考** 的提出，正是為了讓我們意識到這些潛在偏誤，並通過深思熟慮來避免它們。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ldjlgz0rrva-1024x10
 
 ## 群體智慧的發揮
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_321.jpg)
+![](/wp-images/2024/02/rp_files_321.jpg)
 
 **群體智慧** 能否發揮效果，取決於多樣性、獨立性和去中心化的存在。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ldjlgz0rrva-1024x10
 
 因此，在進行決策時，不僅要考慮個人的理性分析，還要留意外部環境可能帶來的影響。
 
-![man in gray shirt looking at city buildings during daytime](https://lennychen.com/wp-content/uploads/2024/03/ljcb7n2f3uq-1024x668.jpg)
+![man in gray shirt looking at city buildings during daytime](/wp-images/2024/03/ljcb7n2f3uq-1024x668.jpg)
 
 ## 「看情況而定」的重要性
 

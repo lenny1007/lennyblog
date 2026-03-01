@@ -5,7 +5,7 @@ pubDate: "2024-03-31"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人發展", "內化成功", "創造好運的環境", "意外好運", "文件準備", "機緣力", "正面心態", "積極決定", "組織營運", "運氣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_400.jpg"
+heroImage: "/wp-images/2024/02/rp_files_400.jpg"
 ---
 
 在這個充滿不確定性的世界中，很多人都在追尋成功的秘訣。
@@ -24,7 +24,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 ## 為什麼需要機緣力？
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_400.jpg)
+![](/wp-images/2024/02/rp_files_400.jpg)
 
 在面對困難和挑戰時， _機緣力_ 成為了一種特殊的力量，它使得個人能夠在不經意間發現新機會，甚至將逆境轉化為有利的局面。
 
@@ -36,7 +36,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 書中提到，培養 _機緣力_ 首先要有一個開放的心態。
 
-![red and white open neon signage](https://lennychen.com/wp-content/uploads/2024/02/lnwijhuted4-1024x633.jpg)
+![red and white open neon signage](/wp-images/2024/02/lnwijhuted4-1024x633.jpg)
 
 面對未知和變化，保持好奇和接受新事物的態度是很重要的。
 
@@ -56,7 +56,7 @@ _機緣力_ （serendipity）是指那些計畫之外的時刻帶來的意外好
 
 ### 正面心態
 
-![be positive scrabble pieces](https://lennychen.com/wp-content/uploads/2024/02/e3jkbzornts-1024x683.jpg)
+![be positive scrabble pieces](/wp-images/2024/02/e3jkbzornts-1024x683.jpg)
 
 對待挫折和失敗時，保持正面心態是關鍵。
 

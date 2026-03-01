@@ -5,7 +5,7 @@ pubDate: "2024-03-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["大局思維", "心得分享", "環境改變", "目標設定", "職場迷茫", "自我提升", "行為科學", "韌性培養"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg"
+heroImage: "/wp-images/2024/02/8xlmu62ii8i-1024x683.jpg"
 ---
 
 **許多人在職場上感到迷茫和疲憊，如何尋找突破口呢 ?**
@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x68
 
 在職場中，目標設定是成功的第一步。
 
-![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](/wp-images/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 然而，Queenie Juang提醒我們，僅僅設定目標是不夠的，我們還需要有策略和行為科學的指導。
 
@@ -40,7 +40,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x68
 
 ## 環境改變：打造有利於成長的空間
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_495.jpg)
+![](/wp-images/2024/02/rp_files_495.jpg)
 
 職場不僅僅是一個工作的地方，它也是一個讓我們成長和發展的環境。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x68
 
 例如，去除那些讓我們分心的物品，創造一個更有組織的辦公環境，或者是調整我們與同事的互動模式，都可以提高工作效率和滿意度。
 
-![turned on gold iphone 6](https://lennychen.com/wp-content/uploads/2024/02/6lct2krpvni-683x1024.jpg)
+![turned on gold iphone 6](/wp-images/2024/02/6lct2krpvni-683x1024.jpg)
 
 作為對數位干擾的解決方案，我們可以通過增加其成本（如從手機中刪除社交媒體應用）來減少其影響。
 

@@ -5,7 +5,7 @@ pubDate: "2024-03-30"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["FIRE", "不動產投資", "創業", "複利效應", "財務自由", "開源節流"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-259027-1024x682.jpeg"
+heroImage: "/wp-images/2024/02/pexels-photo-259027-1024x682.jpeg"
 ---
 
 財務自由（Financial Independence）是許多人夢寐以求的目標，但究竟能如何到達這個看似遙不可及的境地呢？
@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-259027
 
 這種狀態允許人們在不受經濟壓力的情況下，選擇是否工作以及如何利用時間。
 
-![hard cash on a briefcase](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-259027-1024x682.jpeg)Photo by Pixabay on [Pexels.com](<https://www.pexels.com/photo/hard-cash-on-a-briefcase-259027/>)
+![hard cash on a briefcase](/wp-images/2024/02/pexels-photo-259027-1024x682.jpeg)Photo by Pixabay on [Pexels.com](<https://www.pexels.com/photo/hard-cash-on-a-briefcase-259027/>)
 
 Grant Sabatier在他的書《財務自由，提早過你真正想過的生活》中，分享了他從銀行存款僅有2.26美元到五年內累積125萬美元財富的經歷，並最終達到了財務自由。
 
@@ -32,7 +32,7 @@ Sabatier認為，達到財務自由比擁有金錢更重要的是，刷新對於
 
 ### 財務自由需要多少錢？
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_480.jpg)
+![](/wp-images/2024/02/rp_files_480.jpg)
 
 要達到財務自由，你需要累積足夠的資產，使得每年可以從中提取一定比例的金額作為生活費，同時保證剩餘的資產能夠繼續增值。
 
@@ -58,7 +58,7 @@ Sabatier認為，達到財務自由比擁有金錢更重要的是，刷新對於
 
 Grant Sabatier的故事提供了一個具體的例子，展示了實現財務自由是可能的。
 
-![pink pig figurine on white surface](https://lennychen.com/wp-content/uploads/2024/02/pelskgra2nu-1024x683.jpg)
+![pink pig figurine on white surface](/wp-images/2024/02/pelskgra2nu-1024x683.jpg)
 
 他的策略涵蓋了上述提到的每一個支柱。
 

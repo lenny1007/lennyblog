@@ -5,7 +5,7 @@ pubDate: "2024-05-28"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人生有限", "休閒時間", "時間管理", "注意力", "生活意義", "耐心", "選擇與放棄"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
+heroImage: "/wp-images/2024/02/rp_files_292.jpg"
 ---
 
 在快速變化的時代，時間管理成為了許多人提升工作效率、追求事業成功的法寶。
@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
 
 ## 時間管理：一個雙刃劍
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg)
+![](/wp-images/2024/02/rp_files_292.jpg)
 
 時間管理的概念在現代社會中無處不在，它有助於我們更好地組織日常生活，提高工作效率。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
 
 這種接受可以幫助我們創建一個更加實在和有意義的生活。
 
-![photo of mother and child beside body of water](https://lennychen.com/wp-content/uploads/2024/03/ry_sd0p1zl0-1024x683.jpg)
+![photo of mother and child beside body of water](/wp-images/2024/03/ry_sd0p1zl0-1024x683.jpg)
 
 這種思維方式要求我們重新評估我們對時間和生活的態度。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
 
 在探討時間管理時，拖延(Procrastination)經常被視為一種需要克服的負面行為。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/03/uislnuxh7sm-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/03/uislnuxh7sm-1024x768.jpg)
 
 然而，柏克曼認為拖延是一種必要的防禦機制，它可以幫助我們避免被無止盡的任務所淹沒，從而專注於少數真正重要的事情。
 
@@ -74,7 +74,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
 
 他強調，我們應該真正享受休閒時光，而不是將其視為工作之外的另一種形式的生產力。
 
-![person walking towards mountain during daytime](https://lennychen.com/wp-content/uploads/2024/03/biipa5dyyd8-819x1024.jpg)
+![person walking towards mountain during daytime](/wp-images/2024/03/biipa5dyyd8-819x1024.jpg)
 
 這種看法賦予了休閒時間一個新的價值，提醒我們在忙碌的生活中找到平衡，享受生活本身。
 

@@ -5,7 +5,7 @@ pubDate: "2024-04-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人生如戰爭", "個人成長", "商業領導", "孫子兵法", "核心競爭力", "權衡", "經典閱讀", "胡川安", "虛實應用", "認識自己"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x1024.jpg"
+heroImage: "/wp-images/2024/02/0cvhq62gwy8-683x1024.jpg"
 ---
 
 在繁雜多變的世界中，我們經常會遇到各種挑戰和競爭，不論是個人成長、商業領導，還是日常生活中的微妙互動，「權謀」一詞總是不經意地出現在我們的生活中。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x102
 
 胡川安是一位歷史學家，擁有加拿大麥基爾大學的東亞系博士學位，曾任「故事：寫給所有人的歷史」網站主編，現為國立中央大學中國文學系的助理教授。
 
-![grayscale photography of two people raising their hands](https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x1024.jpg)
+![grayscale photography of two people raising their hands](/wp-images/2024/02/0cvhq62gwy8-683x1024.jpg)
 
 他通過《權謀》一書，向我們展示了《孫子兵法》在人生如戰場的當代社會中的實際應用。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-683x102
 
 在商業領導上，學習《孫子兵法》中「兵不厭詐」的思想，能讓領導者學會運用策略和變通，以達到商業競爭中的勝利。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_404.jpg)
+![](/wp-images/2024/02/rp_files_404.jpg)
 
 《孫子兵法》所強調的**順序、明察形勢、應變之道以及自知之明** 等四個主要觀點，對於當代人來說依然具有深刻的指導意義。
 

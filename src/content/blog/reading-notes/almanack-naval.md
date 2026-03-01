@@ -5,7 +5,7 @@ pubDate: "2024-09-02"
 category: "閱讀筆記"
 subcategories: ["創業", "理財"]
 tags: ["Kobo電子書閱讀器", "人生智慧", "人脈網絡", "快樂", "槓桿", "決策", "真誠自我", "納瓦爾．拉維肯", "自主富有", "致富", "複利效應", "財富自由"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x683.jpg"
+heroImage: "/wp-images/2024/03/8lnbxtxfgzw-1-1024x683.jpg"
 ---
 
 當談到人生的智慧、自由、快樂以及財富積累，很少有人能像納瓦爾·拉維坎特（Naval Ravikant）那樣，以其獨到的見解和生活哲學影響了無數人。
@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 納瓦爾認為，金錢僅僅是社會信用的一種表現，而真正的財富是當你在睡夢中，你的事業或資產仍然能為你增值和賺錢。
 
-![1 U.S.A dollar banknotes](https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x683.jpg)
+![1 U.S.A dollar banknotes](/wp-images/2024/03/8lnbxtxfgzw-1-1024x683.jpg)
 
 這種財富的核心在於**創造一個即使在你不工作時也能自動運轉的系統** 。
 
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 關鍵是要建立一個自動化的系統，無論是通過投資、創業還是其他形式的被動收入。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_28.jpg)
+![](/wp-images/2024/02/rp_files_28.jpg)
 
 納瓦爾在書中也提到了新型態的杠桿（leverage）概念。
 
@@ -40,7 +40,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 這種杠桿的美妙之處在於它給予了個體無限的創造和影響力的可能性。
 
-![man operating laptop on top of table](https://lennychen.com/wp-content/uploads/2024/03/c3v88boorom-1024x684.jpg)
+![man operating laptop on top of table](/wp-images/2024/03/c3v88boorom-1024x684.jpg)
 
 此外，納瓦爾對於構建「人脈網絡」的觀點也頗具爭議性。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 因此，我們應該投資在能帶來長期回報的事物上，無論是學習新技能、建立長期的人際關係還是投資於有增值潛力的資產。
 
-![love to learn pencil signage on wall near walking man](https://lennychen.com/wp-content/uploads/2024/03/we_kv_zb1l0-1024x683.jpg)
+![love to learn pencil signage on wall near walking man](/wp-images/2024/03/we_kv_zb1l0-1024x683.jpg)
 
 在談到決策時，納瓦爾提出了一個觀點：在商業或其他高影響力領域中，良好的決策能力變得格外重要。因為好的決策能夠創造巨大的價值和回報。
 
@@ -74,7 +74,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 透過閱讀，我們可以吸收新知識，開闊思維，並激發創造力。
 
-![woman standing between library book shelves](https://lennychen.com/wp-content/uploads/2024/03/gx8kbbvmc6c-684x1024.jpg)
+![woman standing between library book shelves](/wp-images/2024/03/gx8kbbvmc6c-684x1024.jpg)
 
 追求自由和快樂是納瓦爾哲學中的一個重要主題。
 
@@ -88,7 +88,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8lnbxtxfgzw-1-1024x
 
 通過創造和銷售自己獨特的產品或服務，人們可以脫離紛擾的競爭環境，實現真正的自我價值。
 
-![two person wearing crew-neck t-shirt](https://lennychen.com/wp-content/uploads/2024/03/vso5d9wlt7s-768x1024.jpg)
+![two person wearing crew-neck t-shirt](/wp-images/2024/03/vso5d9wlt7s-768x1024.jpg)
 
 《納瓦爾寶典》不僅是一本談論財富和成功的書籍，它更是一本關於如何生活、如何思考和如何實現內在平靜的指導手冊。
 

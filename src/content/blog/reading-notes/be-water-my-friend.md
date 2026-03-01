@@ -5,7 +5,7 @@ pubDate: "2024-07-02"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人生哲學", "似水無形", "李小龍", "生活智慧", "自我表達", "適應挑戰"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x1024.jpg"
+heroImage: "/wp-images/2024/03/7xujizywvve-683x1024.jpg"
 ---
 
 **李小龍的人生哲學** \- **如水無形** 。透過女兒李香凝所著的《似水無形，李小龍的人生哲學》，我們得以一窺這位傳奇人物的思想深度。
@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x102
 
 當葉問要他停止練武，思考「化為水」的意義時，李小龍在拍打海水時領悟到水的柔軟與堅韌能夠給予他功夫原則的啟示。
 
-![ocean waves crashing on shore during sunset](https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x1024.jpg)
+![ocean waves crashing on shore during sunset](/wp-images/2024/03/7xujizywvve-683x1024.jpg)
 
 這也告訴我們，在面對生活中的障礙時，我們可以像水一樣適應形勢，而不是僵硬地抗拒。  
 
 ### 全心投入——李小龍的生活方式
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_179.jpg)
+![](/wp-images/2024/02/rp_files_179.jpg)
 
 李小龍認為即使知道生活有起有落，仍應全心投入。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x102
 
 這種開放心態使我們能夠接納新的想法與不同的觀點，從而不斷成長與進步。
 
-![a tall glass sitting on top of a table](https://lennychen.com/wp-content/uploads/2024/03/fin073jt5l8-1024x768.jpg)
+![a tall glass sitting on top of a table](/wp-images/2024/03/fin073jt5l8-1024x768.jpg)
 
 ### 接受不完美
 
@@ -86,7 +86,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x102
 
 我們可以從李小龍的教導中學習如何聆聽他人、理解他人觀點，並接受每個人都有缺點，這有助於建立更和諧的人際關係。
 
-![](https://lennychen.com/wp-content/uploads/2024/03/image-1-1024x708.jpg)
+![](/wp-images/2024/03/image-1-1024x708.jpg)
 
 ### 自我成長
 

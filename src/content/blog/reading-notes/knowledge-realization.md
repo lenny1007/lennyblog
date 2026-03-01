@@ -5,7 +5,7 @@ pubDate: "2024-06-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人品牌", "內容創作", "專家形象", "知識工作者", "知識累積", "知識複利筆記術", "知識複損", "知識變現", "策略實踐"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x683.jpg"
+heroImage: "/wp-images/2024/03/p2e8rqdz-zg-1024x683.jpg"
 ---
 
 在這個時代，知識不僅是力量，更是塑造個人品牌和實現事業發展的關鍵。
@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x68
 
 何則文與高永祺在《知識複利》中強調，知識複利之所以重要，是因為它能夠幫助個人在專業領域內建立權威地位，打造強有力的個人品牌。
 
-![jack of spade playing card](https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x683.jpg)
+![jack of spade playing card](/wp-images/2024/03/p2e8rqdz-zg-1024x683.jpg)
 
 在後疫情時代，這種能力變得尤為關鍵，畢竟，面對日新月異的市場需求和職場競爭，僅憑一時的知識儲備已無法滿足長期發展的需求。
 
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x68
 
 ## 如何避免知識複損
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_205.jpg)
+![](/wp-images/2024/02/rp_files_205.jpg)
 
 **避免知識複損的關鍵，在於如何管理和組織自己的知識資產。**
 
@@ -40,7 +40,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x68
 
 要避免這一現象，我們需要建立起自己的知識系統，這包括定期整理學習筆記、建立個人知識庫、進行跨學科的知識整合等。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_6-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_6-1024x585.jpg)
 
 [卡片盒筆記](</take-smart-notes>)就是管理自己的知識系統非常好的方法。
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/p2e8rqdz-zg-1024x68
 
 個人品牌不僅是專業形象的體現，更是知識複利效應的放大器。
 
-![black iphone 5 on gray textile](https://lennychen.com/wp-content/uploads/2024/03/lqyqm2icicy-1024x683.jpg)
+![black iphone 5 on gray textile](/wp-images/2024/03/lqyqm2icicy-1024x683.jpg)
 
 通過線上平台、社交媒體等途徑，我們可以展示自己的專業知識和見解，吸引關注，並進一步影響他人。
 
