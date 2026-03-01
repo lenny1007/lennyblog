@@ -4,7 +4,7 @@ description: "Step1. 官網下載cocos2dx 的 SDK 下載連結： http://www.coc
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
-heroImage: "http://user-image.logdown.io/user/1500/blog/12948/post/287805/OwlH843CROyjp6ph8ZCA_terminal.png"
+heroImage: "https://image.pollinations.ai/prompt/Cocos2dx%20%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88%20-%20Mac%20%E7%92%B0%E5%A2%83%E6%90%AD%E5%BB%BA%20technology%20code%20programming%20dark%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 * Step1. 官網下載cocos2dx 的 SDK

@@ -4,7 +4,7 @@ description: "遮罩的實作方式有很多種， 最常見的是下面兩種: 
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
-heroImage: "http://user-image.logdown.io/user/1500/blog/12948/post/292844/eMDXmNHStm6MAAR5Qfwy_Calendar2.png"
+heroImage: "https://image.pollinations.ai/prompt/Cocos2dx%20-%20%E9%81%AE%E7%BD%A9%E7%9A%84%E5%AF%A6%E4%BD%9C%E6%96%B9%E5%BC%8F%20technology%20code%20programming%20dark%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 遮罩的實作方式有很多種， 最常見的是下面兩種: 

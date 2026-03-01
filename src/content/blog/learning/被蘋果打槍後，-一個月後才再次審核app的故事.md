@@ -4,7 +4,7 @@ description: "1. 1 Safety: Objectionable Content 5. 2.1 Legal: Intellectual Prop
 pubDate: "2018-03-01"
 category: "學習"
 tags: []
-heroImage: "http://34.81.115.112/wp-content/uploads/2018/03/被蘋果打槍截圖.png"
+heroImage: "https://image.pollinations.ai/prompt/%E8%A2%AB%E8%98%8B%E6%9E%9C%E6%89%93%E6%A7%8D%E5%BE%8C%EF%BC%8C%20%E4%B8%80%E5%80%8B%E6%9C%88%E5%BE%8C%E6%89%8D%E5%86%8D%E6%AC%A1%E5%AF%A9%E6%A0%B8App%E7%9A%84%E6%95%85%E4%BA%8B%20learning%20education%20study%20growth%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 相信Mobile開發者在送出版本到App Store， 都像是在等一個不知道會因為什麼被打槍的奇幻旅程。 上次送審[呆呆神射手](<https://itunes.apple.com/tw/app/%E5%91%86%E5%91%86%E7%A5%9E%E5%B0%84%E6%89%8B/id1326722985?mt=8>)時， 居然經過了一個月後才重新被審核， 有趣的是， 當我分享這段過程到開發者論壇後， Apple 的人居然回應了我的問題， 並解開了許多審核的秘辛。 讓我分享給大家知道。 ![](http://34.81.115.112/wp-content/uploads/2018/03/被蘋果打槍截圖.png) 當時前一次打槍的理由是這樣的 : 

@@ -4,7 +4,7 @@ description: "範例的 Project : Github 連結 ： https://github.com/lenny0929
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
-heroImage: "http://user-image.logdown.io/user/1500/blog/12948/post/287848/z3dOzCWTDubNKid0Jb6C_%E6%9C%AA%E5%91%BD%E5%90%8D.png"
+heroImage: "https://image.pollinations.ai/prompt/Cocos2dx%20-%20%E4%BD%BF%E7%94%A8%20Parse%20%E4%B8%AD%20Rest%20%E7%9A%84%E6%96%B9%E5%BC%8F%20technology%20code%20programming%20dark%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 範例的 Project : Github 連結 ： <https://github.com/lenny0929/parseRest_WithCocos2dX/>

@@ -4,7 +4,7 @@ description: "private var appDelegate = UIApplication.shared.delegate as! AppDel
 pubDate: "2018-02-24"
 category: "技術"
 tags: ["Swift"]
-heroImage: "http://34.81.115.112/wp-content/uploads/2018/02/entity.png"
+heroImage: "https://image.pollinations.ai/prompt/Swift%20-%20Core%20Data%20%E6%96%B0%E5%A2%9E%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9B%B4%E6%96%B0%20technology%20code%20programming%20dark%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 ## 什麼是 Core Data ?

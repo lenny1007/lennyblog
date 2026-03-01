@@ -4,7 +4,7 @@ description: "快轉到 19:38 的地方， 有關於手滑背單字的介紹。 
 pubDate: "2018-02-08"
 category: "產品"
 tags: ["App宣傳", "手滑背單字"]
-heroImage: "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/26991777_10213500511140705_7884241064156707648_n.jpg?oh=5c053e43a88a502d07fe34941e194ce9&oe=5B1611DD"
+heroImage: "https://image.pollinations.ai/prompt/%E5%A4%A7%E5%AD%B8%E7%94%9F%E4%BA%86%E6%B2%92%20-%20App%E5%A5%BD%E6%A3%92%E6%A3%92%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%20product%20design%20UX%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 [詹益維 （Richard Zenn）](<https://www.facebook.com/luckyzenn>)： 你們 App 在 Appstore 的關鍵字搜尋是怎麼做的啊？ 第一名耶！

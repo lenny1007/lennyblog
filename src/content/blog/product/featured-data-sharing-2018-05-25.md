@@ -4,7 +4,7 @@ description: "5/25 中午與同事吃飯的時候，打開 AppStore 時驚呼了
 pubDate: "2018-06-15"
 category: "產品"
 tags: []
-heroImage: "http://34.81.115.112/wp-content/uploads/2018/06/19.png"
+heroImage: "https://image.pollinations.ai/prompt/%E5%91%86%E5%91%86%E7%AB%A5%E6%9B%B8%E8%A2%AB%E8%98%8B%E6%9E%9C%E6%8E%A8%E8%96%A6%E7%9A%84%E5%A5%87%E5%B9%BB%E6%97%85%E7%A8%8B%20-%20%E6%95%B8%E6%93%9A%E5%88%86%E4%BA%AB%202018/5/25%20product%20design%20UX%20minimal%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 5/25 中午與同事吃飯的時候，打開 AppStore 時驚呼了一聲 喔喔喔！！！ 我們上蘋果推薦了！ ![](http://34.81.115.112/wp-content/uploads/2018/06/19.png) 在這次被蘋果編輯推薦前， 對於 AppStore 的推薦一直抱持著許多好奇以及憧憬， 終於有機會解鎖這個成就， 我們團隊的每個人都感到由衷的開心與喜悅。 ![](http://34.81.115.112/wp-content/uploads/2018/06/33706735_1787363538014129_3743258547597606912_n.jpg) 經過一整個月的數據收集與沈澱， 可以與大家分享一下呆呆童書這次在蘋果推薦後的數據。 

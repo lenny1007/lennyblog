@@ -4,7 +4,7 @@ description: "最近有人問我說: 大家都說要學 Google 的工作環境�
 pubDate: "2018-02-09"
 category: "創業"
 tags: ["團隊"]
-heroImage: "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/26814829_10213542685515038_3121793608702208373_n.jpg?oh=a24f285ff73bc31e815d5742089ad321&oe=5AE1188B"
+heroImage: "https://image.pollinations.ai/prompt/%E8%A6%8F%E7%AF%84%E4%BB%80%E9%BA%BC%E7%9A%84%EF%BC%8C%E5%B0%8D%20Startup%20%E4%BE%86%E8%AA%AA%E9%87%8D%E8%A6%81%E5%97%8E%EF%BC%9F%20startup%20entrepreneurship%20business%20innovation%20high%20quality%20blog%20cover%20photo?width=800&height=450&nologo=true"
 ---
 
 最近有人問我說: 大家都說要學 Google 的工作環境， 遠端、輕鬆、沒有硬式上下班打卡， 但是實際上新創團隊真的做得到嗎？
