@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_326.jpg"
 
 ### 情緒智商(EQ)與重新思考
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_326.jpg)
+![](/wp-images/2024/02/rp_files_326.jpg)
 
 《逆思維》中對於情緒智商(EQ)的討論指出，雖然EQ確實重要，但其實際影響力並不像某些極端主張所說的那麼大。EQ在不同工作和環境中的重要性有所差異。
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/rp_files_326.jpg"
 
 對於有效學習的建議，格蘭特提出我們應避免依賴最佳實例，而是應該持續採用流程問責制，尋找更好的例子，並保持開放的心態去思考未來。
 
-![woman sitting on rock formation while reading book](https://lennychen.com/wp-content/uploads/2024/03/7nafnzzb024-1024x683.jpg)
+![woman sitting on rock formation while reading book](/wp-images/2024/03/7nafnzzb024-1024x683.jpg)
 
 ## 重新思考的益處與挑戰
 
@@ -60,7 +60,7 @@ heroImage: "/wp-images/2024/02/rp_files_326.jpg"
 
 ## 實踐重新思考的策略
 
-![grayscale photo of child in hole](https://lennychen.com/wp-content/uploads/2024/03/5iyjopxtd4o-1024x684.jpg)
+![grayscale photo of child in hole](/wp-images/2024/03/5iyjopxtd4o-1024x684.jpg)
 
 要將**重新思考** 融入日常生活，需要策略和實踐。以下是一些根據《逆思維》建議的策略：
 

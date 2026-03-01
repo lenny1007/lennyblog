@@ -18,7 +18,7 @@ heroImage: "/wp-images/2024/01/med_files_110-1024x585.png"
   
 **異維A酸 Accutane 是處方藥，必須在皮膚科醫生的指導下使用。**  
 
-![異維A酸 Accutane](https://lennychen.com/wp-content/uploads/2024/01/med_files_110-1024x585.png)
+![異維A酸 Accutane](/wp-images/2024/01/med_files_110-1024x585.png)
 
 ## 消痘勇士：異維A酸如何發揮魔法
 

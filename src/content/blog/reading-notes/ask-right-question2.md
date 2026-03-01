@@ -16,7 +16,7 @@ heroImage: "/wp-images/2024/02/0cvhq62gwy8-1-683x1024.jpg"
 
 透過這篇文章，深入探討提問的重要性，並從書中學到的**蘇格拉底式對話** 技巧來看，如何避免**提問陷阱** ，並成為真正的**提問領袖** 而非僅僅是意見領袖。
 
-![grayscale photography of two people raising their hands](https://lennychen.com/wp-content/uploads/2024/02/0cvhq62gwy8-1-683x1024.jpg)
+![grayscale photography of two people raising their hands](/wp-images/2024/02/0cvhq62gwy8-1-683x1024.jpg)
 
 ## **提問** 的力量
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/0cvhq62gwy8-1-683x1024.jpg"
 
 ### **提問領袖** vs 意見領袖
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_377.jpg)
+![](/wp-images/2024/02/rp_files_377.jpg)
 
 在當今社會，意見領袖（KOL）在許多領域扮演重要角色，他們影響著公眾的觀點與態度。
 
@@ -48,7 +48,7 @@ heroImage: "/wp-images/2024/02/0cvhq62gwy8-1-683x1024.jpg"
 
 **蘇格拉底式對話** 是一種以提問為核心的對話方法，其目的是通過反覆的問答來揭示深層真理。
 
-![a statue of a man holding a book](https://lennychen.com/wp-content/uploads/2024/02/phecxzqmtbi-576x1024.jpg)
+![a statue of a man holding a book](/wp-images/2024/02/phecxzqmtbi-576x1024.jpg)
 
 這種對話技巧在《**最強提問力** 》中被詳細解析，它教導我們如何精確地提問，引導對方進行思考，而不是僅僅尋找答案。
 

@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/rp_files_286.jpg"
 
 ### 社會文化因素
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_286.jpg)
+![](/wp-images/2024/02/rp_files_286.jpg)
 
 社會文化是形成隱性偏見的另一大因素。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/02/rp_files_286.jpg"
 
 巴雷斯的故事反映了性別偏見如何深刻地影響一個人的專業認可和社會互動。
 
-![gray scale photo of man wearing eyeglasses](https://lennychen.com/wp-content/uploads/2024/03/zxgwtqvv470-683x1024.jpg)
+![gray scale photo of man wearing eyeglasses](/wp-images/2024/03/zxgwtqvv470-683x1024.jpg)
 
 ### 對社會的影響
 
@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/02/rp_files_286.jpg"
 
 《隱性偏見》書中提供的醫療領域的例子，凸顯了女性和少數族裔在尋求醫療服務時可能遭受的偏見和誤判。
 
-![a woman getting her hair brushed by a hair stylist](https://lennychen.com/wp-content/uploads/2024/03/xjtmjcqc4ne-682x1024.jpg)
+![a woman getting her hair brushed by a hair stylist](/wp-images/2024/03/xjtmjcqc4ne-682x1024.jpg)
 
 ## 克服隱性偏見的途徑
 

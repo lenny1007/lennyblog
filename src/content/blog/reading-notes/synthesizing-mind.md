@@ -22,7 +22,7 @@ heroImage: "/wp-images/2024/02/6w1s7xs6anm-819x1024.jpg"
 
 統合心智不僅僅是知識的積累，更重要的是，它代表了一種能力，即將不同類型的智能結合在一起，形成一種更加全面的思維方式。
 
-![a few young girls in a classroom](https://lennychen.com/wp-content/uploads/2024/02/6w1s7xs6anm-819x1024.jpg)
+![a few young girls in a classroom](/wp-images/2024/02/6w1s7xs6anm-819x1024.jpg)
 
 霍華德·加德納在他的多元智能理論中提到了七種智能：語言、邏輯-數學、音樂、空間、身體動覺、人際和內省。
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/02/6w1s7xs6anm-819x1024.jpg"
 
 ## 心流體驗的重要性與實現途徑
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_373.jpg)
+![](/wp-images/2024/02/rp_files_373.jpg)
 
 心流體驗是指一個人在完全投入並專注於某項活動時所經歷的一種忘我的狀態。
 
@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/02/6w1s7xs6anm-819x1024.jpg"
 
 透過寫作，我們可以與正在變得優秀的自己對話，進一步提升自我認知和表達能力。
 
-![person holding ballpoint pen writing on notebook](https://lennychen.com/wp-content/uploads/2024/02/505eectw54k-1-1024x683.jpg)
+![person holding ballpoint pen writing on notebook](/wp-images/2024/02/505eectw54k-1-1024x683.jpg)
 
 ## 結語
 

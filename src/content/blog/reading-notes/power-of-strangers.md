@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/03/71u2foofi-u-683x1024.jpg"
 
 吉姆·基歐漢在《社交進化》中指出，人類的合作能力是進化的結果，這種能力使我們能夠與陌生人建立聯繫，並創造出社會網絡。
 
-![three person holding mug and glass with beverage inside](https://lennychen.com/wp-content/uploads/2024/03/71u2foofi-u-683x1024.jpg)
+![three person holding mug and glass with beverage inside](/wp-images/2024/03/71u2foofi-u-683x1024.jpg)
 
 「直接互惠」與「間接互惠」是社交進化中的兩個核心概念。
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/03/71u2foofi-u-683x1024.jpg"
 
 ## 與陌生人交流的益處
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_299.jpg)
+![](/wp-images/2024/02/rp_files_299.jpg)
 
 在網路上與陌生人的社交互動，不僅僅是一種社交技能，更是豐富人生的途徑。
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/03/71u2foofi-u-683x1024.jpg"
 
 《社交進化》一書提醒我們，過度強調與陌生人的交流可能帶來的風險包括失去信任能力、缺乏互動意願，甚至損害人們處理人際衝突的能力。
 
-![white samsung android smartphone on brown wooden table](https://lennychen.com/wp-content/uploads/2024/03/klmt1mpgjvg-683x1024.jpg)
+![white samsung android smartphone on brown wooden table](/wp-images/2024/03/klmt1mpgjvg-683x1024.jpg)
 
 因此，平衡社交互動不僅是一門藝術，也是維護心理健康的必要條件。
 
@@ -62,7 +62,7 @@ heroImage: "/wp-images/2024/03/71u2foofi-u-683x1024.jpg"
 
 這種App的出現，不僅強調真實性與共同性，還促進了社交進化在數位時代的發展。
 
-![woman holding red phone](https://lennychen.com/wp-content/uploads/2024/03/m7zkb91brgo-1024x683.jpg)
+![woman holding red phone](/wp-images/2024/03/m7zkb91brgo-1024x683.jpg)
 
 然而，社交App也可能帶來一些負面效果。
 

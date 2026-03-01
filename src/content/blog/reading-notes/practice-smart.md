@@ -30,13 +30,13 @@ heroImage: "/wp-images/2024/03/djsir_azsps-1024x683.jpg"
 
 然而，《刻意練習》中指出，單純的練習一萬小時並不能保證卓越，而是要透過有方法、有技巧的「刻意練習」才是關鍵。
 
-![woman standing in front of women at the field during day](https://lennychen.com/wp-content/uploads/2024/03/djsir_azsps-1024x683.jpg)
+![woman standing in front of women at the field during day](/wp-images/2024/03/djsir_azsps-1024x683.jpg)
 
   
 
 ### 刻意練習的目標
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_451.jpg)
+![](/wp-images/2024/02/rp_files_451.jpg)
 
 **「刻意練習」的目標不是「發掘」潛能，而是「打造」潛能，使不可能的事情變得可能。**
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/03/djsir_azsps-1024x683.jpg"
 
 成人完全有能力通過刻意練習學習和改變。
 
-![brown wooden cross on white surface](https://lennychen.com/wp-content/uploads/2024/02/fp4erdkr5ju-1024x768.jpg)
+![brown wooden cross on white surface](/wp-images/2024/02/fp4erdkr5ju-1024x768.jpg)
 
 ## 刻意練習的實踐方法
 
@@ -60,7 +60,7 @@ heroImage: "/wp-images/2024/03/djsir_azsps-1024x683.jpg"
   2. **高度專注** ：在練習時保持高度專注，避免分心。
   3. **尋求反饋** ：進行練習後要尋求專業的反饋，以便了解自己的進步和需要改進的地方。
 
-![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](/wp-images/2024/03/8xlmu62ii8i-1024x683.jpg)
 
 ### 刻意練習的現實挑戰
 
@@ -76,7 +76,7 @@ heroImage: "/wp-images/2024/03/djsir_azsps-1024x683.jpg"
 
 活到老學到老，如果透過長時間的練習，可以將一件事情好好學好，是很有成就感的。
 
-![woman kneeling beside man](https://lennychen.com/wp-content/uploads/2024/02/r0y_beujiom-1024x683.jpg)
+![woman kneeling beside man](/wp-images/2024/02/r0y_beujiom-1024x683.jpg)
 
 書中的原則可以應用在個人職業發展、學習新知識或技能，甚至是日常生活中的各個方面。
 

@@ -32,7 +32,7 @@ heroImage: "/wp-images/2024/02/rp_files_39.jpg"
 
 這是學習閱讀的第一步，對於兒童和成人初學者來說很重要。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_39.jpg)
+![](/wp-images/2024/02/rp_files_39.jpg)
 
 然而，對於已經掌握基礎閱讀技巧的成年讀者來說，基礎閱讀不再是主要的挑戰。
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/02/rp_files_39.jpg"
 
 然而，它的缺點是可能會忽略掉一些細節和深層次的意義，因此通常需要與其他閱讀層次結合使用。
 
-![woman sitting down near table reading 101 Essays book](https://lennychen.com/wp-content/uploads/2024/03/nbkd_9upsb0-1024x684.jpg)
+![woman sitting down near table reading 101 Essays book](/wp-images/2024/03/nbkd_9upsb0-1024x684.jpg)
 
 ## 分析閱讀：深入透徹的理解
 
@@ -64,7 +64,7 @@ heroImage: "/wp-images/2024/02/rp_files_39.jpg"
 
 缺點則是耗時較多，對於不熟悉或難度較高的書籍，可能會感到困難和挑戰。
 
-![man in brown long sleeve shirt sitting on green plastic chair reading book](https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x1024.jpg)
+![man in brown long sleeve shirt sitting on green plastic chair reading book](/wp-images/2024/03/lqeuajm05ri-819x1024.jpg)
 
 ## 主題閱讀：跨書籍的綜合學習
 
@@ -80,7 +80,7 @@ heroImage: "/wp-images/2024/02/rp_files_39.jpg"
 
 閱讀《如何閱讀一本書》之後，讀者應該進行書寫，因為寫作能夠幫助內化閱讀的知識，並使思路更加清晰有序。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/03/s9cc2skysjm-1-1024x683.jpg)
 
 寫作不僅是知識內化的過程，也是思考的一種形式，它可以幫助讀者進一步消化和理解所讀的內容。
 

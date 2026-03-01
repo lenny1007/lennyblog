@@ -18,7 +18,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 老化是人類共同的命運，每個人都在不斷地老去。
 
-![grayscale picture of person's portrait](https://lennychen.com/wp-content/uploads/2024/03/nlhgkaz3jci-1024x1024.jpg)
+![grayscale picture of person's portrait](/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg)
 
 然而，有沒有可能通過科學的力量來延緩或甚至逆轉老化過程呢？
 
@@ -42,7 +42,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 ### 抗老化的策略
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_243.jpg)
+![](/wp-images/2024/02/rp_files_243.jpg)
 
 隨著對老化機制的深入理解，科學家們開始尋找可能的抗老化策略。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 不僅如此，近年來科學家還在探索利用基因編輯技術，如CRISPR，來修復老化細胞中的DNA損傷，這也為抗老化提供了全新的思路。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_81.jpg)
+![](/wp-images/2024/02/rp_files_81.jpg)
 
 在《可不可以不變老？》一書中，「長壽基因」和「生存迴路」的概念被反覆提及。
 
@@ -68,7 +68,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 除了科學研究，老化與我們的生活方式也息息相關。
 
-![person climbing concrete stairs](https://lennychen.com/wp-content/uploads/2024/03/hsb2hmjyato-684x1024.jpg)
+![person climbing concrete stairs](/wp-images/2024/03/hsb2hmjyato-684x1024.jpg)
 
 生活中的壞習慣，如吸煙、過量飲酒、缺乏運動和不良飲食，都會加速老化過程。
 
@@ -110,7 +110,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 隨著年齡的增長，人們可能會面臨孤獨、失去親人或朋友、退休後的生活空虛等心理壓力。
 
-![greyscale photo of woman standing behind woman sitting on chair](https://lennychen.com/wp-content/uploads/2024/03/iifldqmxpiw-1024x683.jpg)
+![greyscale photo of woman standing behind woman sitting on chair](/wp-images/2024/03/iifldqmxpiw-1024x683.jpg)
 
 這些因素都會對人的心理健康產生負面影響，從而加速老化。
 
@@ -130,7 +130,7 @@ heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 
 老化不僅是身體的變化，它也是一次與自己內心深處的對話。
 
-![man in gray suit standing near body of water during daytime](https://lennychen.com/wp-content/uploads/2024/03/5frmhnkrx1e-683x1024.jpg)
+![man in gray suit standing near body of water during daytime](/wp-images/2024/03/5frmhnkrx1e-683x1024.jpg)
 
 在《流浪者之歌》中，透過達多的流浪之旅，我們看到了人生必經的各種階段，以及面對自己人生課題的勇氣。
 

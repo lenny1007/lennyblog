@@ -21,7 +21,7 @@ heroImage: "/wp-images/2024/02/kliuo2i8ajc-683x1024.jpg"
 
 艾德勒指出，若我們希望從閱讀中獲得更深層次的成長與啟發，就必須掌握一定的閱讀技巧。
 
-![man in black jacket sitting by the table](https://lennychen.com/wp-content/uploads/2024/02/kliuo2i8ajc-683x1024.jpg)
+![man in black jacket sitting by the table](/wp-images/2024/02/kliuo2i8ajc-683x1024.jpg)
 
 ### 閱讀的四個層次
 
@@ -44,13 +44,13 @@ heroImage: "/wp-images/2024/02/kliuo2i8ajc-683x1024.jpg"
 
 ### 教育角度
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_520.jpg)
+![](/wp-images/2024/02/rp_files_520.jpg)
 
 在教育層面上，《如何閱讀一本書》給予了學生和教師深刻的啟示。
 
 它不僅僅是教導閱讀的技巧，更是在指導如何學習。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/02/ndjauqvb7ue-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/02/ndjauqvb7ue-1024x768.jpg)
 
 它告訴我們，理解力的提升不是一蹴而就的，而是需要通過不斷的實踐和反思來達成的。
 

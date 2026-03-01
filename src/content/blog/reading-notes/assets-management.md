@@ -30,7 +30,7 @@ https://www.youtube.com/embed/cry5kllz2bw
 
 ### 多元化投資：穩健與成長並重
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_127.jpg)
+![](/wp-images/2024/02/rp_files_127.jpg)
 
 巴菲特之所以能夠在市場波動中保持穩定，很大程度上得益於他的資產配置策略。
 
@@ -44,7 +44,7 @@ https://www.youtube.com/embed/cry5kllz2bw
 
 他的這種策略避免了頻繁交易帶來的成本和風險，同時也讓投資者有足夠的時間等待市場的波動性和非理性行為自行矯正。
 
-![a person holding up a black book with the word buy written on it](https://lennychen.com/wp-content/uploads/2024/03/zbjfbi8h7km-683x1024.jpg)
+![a person holding up a black book with the word buy written on it](/wp-images/2024/03/zbjfbi8h7km-683x1024.jpg)
 
 ## 投資哲學：穩健與進取的平衡
 

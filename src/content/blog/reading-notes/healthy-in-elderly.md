@@ -21,7 +21,7 @@ heroImage: "/wp-images/2024/03/4shr8qnz1e0-791x1024.jpg"
 
 談到養生時，中醫重視的是整體平衡與調和，這不僅包括飲食調理，還有情緒管理、運動保健及日常生活的節律掌握。
 
-![woman in black sports bra and black shorts holding black round barbell](https://lennychen.com/wp-content/uploads/2024/03/4shr8qnz1e0-791x1024.jpg)
+![woman in black sports bra and black shorts holding black round barbell](/wp-images/2024/03/4shr8qnz1e0-791x1024.jpg)
 
 胡醫師認為，中醫的養生之道能夠幫助現代人在忙碌的生活中，找到一個保持健康的有效途徑。
 
@@ -33,7 +33,7 @@ heroImage: "/wp-images/2024/03/4shr8qnz1e0-791x1024.jpg"
 
 而四神湯這樣的傳統湯品，則能夠幫助消除疲勞，適合工作壓力大的現代人。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_123.jpg)
+![](/wp-images/2024/02/rp_files_123.jpg)
 
 對於眼睛和腸胃的保養，胡醫師指出，眼睛的健康與肝腎的狀況密切相關，**推薦食用枸杞和菊花來滋補肝腎，從而達到保護眼睛的目的** 。
 
@@ -43,7 +43,7 @@ heroImage: "/wp-images/2024/03/4shr8qnz1e0-791x1024.jpg"
 
 胡乃文醫師的職業生涯始於西醫領域，在接觸中醫後，他發現中醫針灸與現代神經學有許多相通之處，這激發了他學習中醫針灸的決心。
 
-![person holding silver and white pen](https://lennychen.com/wp-content/uploads/2024/03/qgcdtm9ra5s-1024x662.jpg)
+![person holding silver and white pen](/wp-images/2024/03/qgcdtm9ra5s-1024x662.jpg)
 
 胡醫師認為，中醫不僅能夠補充西醫的不足，更能提供一種更為全面的治療方法。
 

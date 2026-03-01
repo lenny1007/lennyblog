@@ -24,7 +24,7 @@ heroImage: "/wp-images/2024/03/u33fhrybybu-1-1024x683.jpg"
 
 創作一部**長銷作品** 首先要做的，就是清晰定位目標受眾。
 
-![person writing on white paper](https://lennychen.com/wp-content/uploads/2024/03/u33fhrybybu-1-1024x683.jpg)
+![person writing on white paper](/wp-images/2024/03/u33fhrybybu-1-1024x683.jpg)
 
 作者提到，他將自己的目標受眾定位為和他有著相似工作經驗、心智年齡和生活型態的「一小群人」。
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/03/u33fhrybybu-1-1024x683.jpg"
 
 ## 實用的重要性 : 創作不僅是藝術，更是服務
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_52.jpg)
+![](/wp-images/2024/02/rp_files_52.jpg)
 
 談到**創作策略** 時，作者強調了**實用性** 的重要。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/03/u33fhrybybu-1-1024x683.jpg"
 
 作為一名作者，應該將焦點放在創造出真正有價值的內容上，而非過分依賴廣告或促銷。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/03/s9cc2skysjm-1-1024x683.jpg)
 
 當內容本身足夠吸引人，自然會有讀者願意分享，這樣的行銷效果往往比任何硬性推廣都來得更有效。
 

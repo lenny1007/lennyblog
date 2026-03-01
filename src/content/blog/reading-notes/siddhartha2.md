@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_290.jpg"
 
 ## 探求智慧的旅程
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_290.jpg)
+![](/wp-images/2024/02/rp_files_290.jpg)
 
 悉達多的故事是一個探求智慧的旅程。
 
@@ -44,7 +44,7 @@ heroImage: "/wp-images/2024/02/rp_files_290.jpg"
 
 悉達多的這種態度也許正是當代人在精神追求上的普遍態度。
 
-![silhouette of woman raising her right hand](https://lennychen.com/wp-content/uploads/2024/03/ievazpwq0mw-1024x683.jpg)
+![silhouette of woman raising her right hand](/wp-images/2024/03/ievazpwq0mw-1024x683.jpg)
 
 ## 對《流浪者之歌》的共鳴
 

@@ -26,13 +26,13 @@ heroImage: "/wp-images/2024/02/rp_files_270-1024x585.jpg"
 
 他鼓勵讀者閱讀新書，因為當代學者的思想往往比古典經典更加先進，這有助於我們建立更為現代的思考模式。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_270-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_270-1024x585.jpg)
 
 讀者可以學習到如何避開**奇蹟思維** 和**過度簡化** 的思維陷阱，並且有效運用**類比思考** 來促進思維的發展。  
 
 ## 科學思考者的思維陷阱
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_264.jpg)
+![](/wp-images/2024/02/rp_files_264.jpg)
 
 萬維鋼在書中特別提到了**奇蹟思維** ，這是一種認為好事「可能」也「應該」發生在自己身上的心態。
 
@@ -54,7 +54,7 @@ heroImage: "/wp-images/2024/02/rp_files_270-1024x585.jpg"
 
 萬維鋼提倡在適當的情況下使用類比思考，作為啟發思維的一種手段。
 
-![brown game pieces on white surface](https://lennychen.com/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
+![brown game pieces on white surface](/wp-images/2024/03/qozzjpfz2lg-1024x683.jpg)
 
 透過類比，我們可以將一個領域的解決方案轉移到另一個看似無關的領域，從而發現新的思路和方法。
 
@@ -72,7 +72,7 @@ heroImage: "/wp-images/2024/02/rp_files_270-1024x585.jpg"
 
 這樣做可以避免因迷信名人的言論而接受錯誤觀點。
 
-![magnifying glass near gray laptop computer](https://lennychen.com/wp-content/uploads/2024/03/d9ilr-dbedg-1024x680.jpg)
+![magnifying glass near gray laptop computer](/wp-images/2024/03/d9ilr-dbedg-1024x680.jpg)
 
 作為**科學思考者** ，我們應該基於可靠證據和經過嚴格審查的理論來形成自己的見解。
 

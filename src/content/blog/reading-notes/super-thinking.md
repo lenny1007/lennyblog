@@ -22,7 +22,7 @@ heroImage: "/wp-images/2024/03/ompaz-dn-9i-1024x683.jpg"
 
 它們如同思維的座標系，幫助我們定位、導航並解讀我們所遇到的各種情況和問題。
 
-![silhouette photography of person](https://lennychen.com/wp-content/uploads/2024/03/ompaz-dn-9i-1024x683.jpg)
+![silhouette photography of person](/wp-images/2024/03/ompaz-dn-9i-1024x683.jpg)
 
 正因為如此，**心智模型** 的重要性不言而喻。
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/03/ompaz-dn-9i-1024x683.jpg"
 
 ### 心智模型的局限性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_246.jpg)
+![](/wp-images/2024/02/rp_files_246.jpg)
 
 然而，心智模型也有其局限性。
 
@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/03/ompaz-dn-9i-1024x683.jpg"
 
 例如，「成長思維模式」鼓勵我們面對挑戰和失敗時保持學習和進步的態度；
 
-![woman holding pot of succulent plant](https://lennychen.com/wp-content/uploads/2024/02/atpt0kck-18-683x1024.jpg)
+![woman holding pot of succulent plant](/wp-images/2024/02/atpt0kck-18-683x1024.jpg)
 
 「抗逆力」模型則教會我們在逆境中如何保持堅韌，並從中學習和成長。
 

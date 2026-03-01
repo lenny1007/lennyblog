@@ -18,7 +18,7 @@ heroImage: "/wp-images/2024/01/med_files_0_2-1024x585.png"
 
   
 
-![減肥藥 Belviq 不要吃](https://lennychen.com/wp-content/uploads/2024/01/med_files_0_2-1024x585.png)
+![減肥藥 Belviq 不要吃](/wp-images/2024/01/med_files_0_2-1024x585.png)
 
 ## Belviq 是什麼？哪些人受益？
 

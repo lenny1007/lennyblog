@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/02/rp_files_398.jpg"
 
 #### 同理心：建立談判的基石
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_398.jpg)
+![](/wp-images/2024/02/rp_files_398.jpg)
 
 同理心，在《FBI談判術》中佔有舉足輕重的地位。
 
@@ -62,7 +62,7 @@ heroImage: "/wp-images/2024/02/rp_files_398.jpg"
 
 同時，作者也警告讀者避免追求表面的肯定——即虛假的"Yes"。
 
-![four men sitting at the table grayscale photo](https://lennychen.com/wp-content/uploads/2024/02/goe0yhdcwxk-1024x645.jpg)
+![four men sitting at the table grayscale photo](/wp-images/2024/02/goe0yhdcwxk-1024x645.jpg)
 
 #### 校準型問題：引導對方揭示信息
 

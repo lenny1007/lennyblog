@@ -21,7 +21,7 @@ heroImage: "/wp-images/2024/01/med_files_99-1024x585.png"
   
 **並且限制高糖食物及飲料、紅肉以及添加脂肪的攝取。**  
 
-![DASH 德舒飲食法](https://lennychen.com/wp-content/uploads/2024/01/med_files_99-1024x585.png)
+![DASH 德舒飲食法](/wp-images/2024/01/med_files_99-1024x585.png)
 
 除了對於血壓的效果之外，得舒飲食也是一個設計給社會大眾的均衡飲食模式。
 

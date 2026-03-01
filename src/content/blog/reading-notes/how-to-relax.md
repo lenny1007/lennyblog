@@ -22,7 +22,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 為何成年人容易感到疲憊不堪，如何透過自我覺察找回掌控感，正向思考的真正含義，以及活在當下的意義，都是書中所探討的核心概念。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_54.jpg)
+![](/wp-images/2024/02/rp_files_54.jpg)
 
 書中所說的不僅僅是一種休息的方式，更是一種生活態度的轉變。
 
@@ -34,7 +34,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 然而，真正的生產力是關於價值和質量的，是指能夠創造出最有價值成果的能力。
 
-![man wearing headset drawing](https://lennychen.com/wp-content/uploads/2024/03/88s0zvmlsqc-1024x1024.jpg)
+![man wearing headset drawing](/wp-images/2024/03/88s0zvmlsqc-1024x1024.jpg)
 
 一個人的生產力與其能量水平、專注力、創造力以及情緒狀態息息相關。  
 
@@ -42,7 +42,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 ### 1\. 自我覺察和情緒管理
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_230.jpg)
+![](/wp-images/2024/02/rp_files_230.jpg)
 
 通過**刻意放鬆** 的練習，我們能夠更加覺察自己的身體和情緒，學會在適當的時候放慢腳步，給自己充分的休息和恢復時間。
 
@@ -76,7 +76,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 透過****刻** 意放鬆**，我們可以更好地分配自己的時間和精力，在工作時保持高效，在休息時真正放鬆。
 
-![mindfulness printed paper near window](https://lennychen.com/wp-content/uploads/2024/03/dftjxyd5pto-1024x683.jpg)
+![mindfulness printed paper near window](/wp-images/2024/03/dftjxyd5pto-1024x683.jpg)
 
 #### 活在當下：享受每一刻的意義
 
@@ -100,7 +100,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 健康的飲食、規律的運動和充足的睡眠都是提升**生產力** 的重要因素。
 
-![person lying on bed while covering face with pillow and holding eyeglasses](https://lennychen.com/wp-content/uploads/2024/03/gfkpatimbvm-662x1024.jpg)
+![person lying on bed while covering face with pillow and holding eyeglasses](/wp-images/2024/03/gfkpatimbvm-662x1024.jpg)
 
 透過練習****刻** 意放鬆**，我們可以更加重視這些生活習慣，從而在身體和心理層面提升自己的能量和效能。
 
@@ -128,7 +128,7 @@ heroImage: "/wp-images/2024/02/rp_files_54.jpg"
 
 當我們通過**有意放鬆** 的方法學會了自我照顧，我們的自信和自我效能感也會隨之提升。
 
-![man in black leather jacket](https://lennychen.com/wp-content/uploads/2024/03/9bng6kj4g7i-684x1024.jpg)
+![man in black leather jacket](/wp-images/2024/03/9bng6kj4g7i-684x1024.jpg)
 
 我們會相信自己擁有克服困難和達成目標的能力，這對於提升生產力至關重要。
 

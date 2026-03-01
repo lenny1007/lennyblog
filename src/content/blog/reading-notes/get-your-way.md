@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_19.jpg"
 
 **例如，研究人員發現，在請求時加上 “因為” 並給出任何理由，無論理由多麼薄弱，都能顯著提高人們的合作意願。**  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_19.jpg)
+![](/wp-images/2024/02/rp_files_19.jpg)
 
 為了更好地幫助他人，書中建議我們多使用**名詞** 來建立身份認同，例如將“幫助”轉變為“小幫手”，這能讓人更有意願採取行動。
 
@@ -42,7 +42,7 @@ heroImage: "/wp-images/2024/02/rp_files_19.jpg"
 
 博格教授的寫作風格非常口語化，就像在講述一場偵探故事，將讀者帶入一個個學術理論的謎團中，幫助我們找到實際可行的方法。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/03/s9cc2skysjm-1-1024x683.jpg)
 
 ### **語言影響力** 與社會影響
 
@@ -72,7 +72,7 @@ heroImage: "/wp-images/2024/02/rp_files_19.jpg"
 
 **語言影響力** 背後的心理學效應，例如說服力的提升和認同感的建立，都是基於人類的心理需求和認知偏誤。
 
-![black flat screen tv turned on at the living room](https://lennychen.com/wp-content/uploads/2024/03/ep6_vzhzxm8-1024x768.jpg)
+![black flat screen tv turned on at the living room](/wp-images/2024/03/ep6_vzhzxm8-1024x768.jpg)
 
 例如，人們天生喜歡故事，因此在溝通中運用故事化的表達方式，能夠更加吸引聽眾的注意力和興趣。
 

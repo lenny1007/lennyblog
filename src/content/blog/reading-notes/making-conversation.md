@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_336.jpg"
 
 這就像是我們在對話中使用同一套語言，避免了誤解和混淆。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_336.jpg)
+![](/wp-images/2024/02/rp_files_336.jpg)
 
 另一方面，**對話當下的情境** 也是決定對話質量的重要因素。
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/rp_files_336.jpg"
 
 而把**對話討論的對象** 轉換成第三方媒介的做法，例如透過討論書籍或電影，可以降低對話的壓力，讓人們更願意探索棘手的話題。
 
-![woman in black long sleeve shirt holding black ceramic mug](https://lennychen.com/wp-content/uploads/2024/02/k8xygbw4ahg-1024x683.jpg)
+![woman in black long sleeve shirt holding black ceramic mug](/wp-images/2024/02/k8xygbw4ahg-1024x683.jpg)
 
 ## 2\. 弗雷·達斯特與他的著作《創造對話》
 
@@ -46,7 +46,7 @@ heroImage: "/wp-images/2024/02/rp_files_336.jpg"
 
 在《創造對話》中，達斯特主要探討了在面對對立和衝突時，如何重新找回並創造**對話能力** 。
 
-![penguin walking on gray sand during daytime](https://lennychen.com/wp-content/uploads/2024/02/bsz0jj172vm-1024x683.jpg)
+![penguin walking on gray sand during daytime](/wp-images/2024/02/bsz0jj172vm-1024x683.jpg)
 
 他提出了**7C溝通策略** ，這是七種不同的方式來設計和創造更好的對話框架。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/02/rp_files_336.jpg"
 
 **對話的清晰度** 是**7C溝通策略** 中的第一重點。這意味著在對話中要明確使用關鍵詞彙，並且共享相同的詞彙定義。這樣可以減少誤解，讓對話更加高效。
 
-![two women writing on whiteboard](https://lennychen.com/wp-content/uploads/2024/02/yhq2ymcplze-1024x684.jpg)
+![two women writing on whiteboard](/wp-images/2024/02/yhq2ymcplze-1024x684.jpg)
 
 為了改善**對話當下的情境** ，我們可以調整會議室的布局或選擇一個適合深入對話的地點。
 

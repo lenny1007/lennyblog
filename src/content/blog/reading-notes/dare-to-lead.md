@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/02/rp_files_310.jpg"
 
 ### 勇氣與脆弱的雙面性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_310.jpg)
+![](/wp-images/2024/02/rp_files_310.jpg)
 
 勇氣與脆弱是一體兩面的存在。領導者必須勇於面對自己的不確定性、風險以及情感曝露，這種與脆弱共處的勇氣，才能使領導力更加真實且有影響力。
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/02/rp_files_310.jpg"
 
 有效的領導力建立在清晰的共同願景之上。
 
-![person sitting on top of gray rock overlooking mountain during daytime](https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1024x683.jpg)
+![person sitting on top of gray rock overlooking mountain during daytime](/wp-images/2024/03/z0nvqfroqwa-1024x683.jpg)
 
 領導者需要與團隊成員共同確定組織的目標與願景，並通過有效溝通使每個人都能理解這一願景的意義。
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/02/rp_files_310.jpg"
 
 領導者通過一貫的行為、公正的決策和對團隊成員的關懷，可以建立起信任。
 
-![woman in gold dress holding sword figurine](https://lennychen.com/wp-content/uploads/2024/03/l4ygusg0fxs-683x1024.jpg)
+![woman in gold dress holding sword figurine](/wp-images/2024/03/l4ygusg0fxs-683x1024.jpg)
 
 尊重則是相互的，領導者在尊重團隊成員的同時，也會收獲尊重，這種相互尊重可以進一步增強團隊的向心力。
 
@@ -78,7 +78,7 @@ heroImage: "/wp-images/2024/02/rp_files_310.jpg"
 
 然而，布朗在書中指出，持續性比天賦更為關鍵。
 
-![man standing in front of group of men](https://lennychen.com/wp-content/uploads/2024/03/rxpthowuvge-1024x576.jpg)
+![man standing in front of group of men](/wp-images/2024/03/rxpthowuvge-1024x576.jpg)
 
 天賦雖然可以為個人提供起點，但最終能夠持續進步、不斷學習和適應的人才是真正成功的領導者。
 

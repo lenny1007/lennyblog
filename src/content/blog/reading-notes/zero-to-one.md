@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 而壟斷不是指傳統意義上的市場獨占，而是創造出獨一無二的產品或服務，從而在市場中擁有絕對的競爭優勢。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_283.jpg)
+![](/wp-images/2024/02/rp_files_283.jpg)
 
 提爾指出，成功的公司往往是那些能夠識別獨特商業機會並全力以赴的公司。
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 這種從0到1的創新，不僅為谷歌帶來了商業價值，也改變了人們獲取資訊的方式。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_282.jpg)
+![](/wp-images/2024/02/rp_files_282.jpg)
 
 **在創業的世界裡，最好的競爭就是沒有競爭。**
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 這樣的觀點挑戰了許多傳統商業思維，強調了在市場中創造獨特價值的重要性。
 
-![green and white ceramic figurine](https://lennychen.com/wp-content/uploads/2024/03/1fzyz-bmkbw-1024x683.jpg)
+![green and white ceramic figurine](/wp-images/2024/03/1fzyz-bmkbw-1024x683.jpg)
 
 ## 探索商業價值的多維度影響
 
@@ -68,7 +68,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 彼得·提爾也指出，成功不應僅僅依賴於運氣。
 
-![a white and blue square with a blue and white facebook logo](https://lennychen.com/wp-content/uploads/2024/03/yit9ho8urpa-1024x683.jpg)
+![a white and blue square with a blue and white facebook logo](/wp-images/2024/03/yit9ho8urpa-1024x683.jpg)
 
 他認為，像Facebook這樣的公司之所以成功，是因為它們有長期的計畫和清晰的目標，不是單純依賴於運氣。
 
@@ -78,7 +78,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 這個原則在《從0到1》中被運用來解釋在創業投資中如何尋找和投資那些能夠獲得獨佔地位的企業。
 
-![white and black wooden quote board](https://lennychen.com/wp-content/uploads/2024/03/y_lgxwqex2c-1024x684.jpg)
+![white and black wooden quote board](/wp-images/2024/03/y_lgxwqex2c-1024x684.jpg)
 
 最後，《從0到1》提出了成功公司必須回答的七個問題 : 
 
@@ -96,7 +96,7 @@ heroImage: "/wp-images/2024/02/rp_files_283.jpg"
 
 這種精神不僅能夠幫助他們在商業上取得成功，也能夠促進個人的全面發展。
 
-![person holding pencil near laptop computer](https://lennychen.com/wp-content/uploads/2024/03/5fnmwej4taa-1024x684.jpg)
+![person holding pencil near laptop computer](/wp-images/2024/03/5fnmwej4taa-1024x684.jpg)
 
 **當我們能夠客觀地評估自己的優缺點並從中學習時，我們就能更好地識別商業機會並克服挑戰。**
 

@@ -34,7 +34,7 @@ heroImage: "/wp-images/2024/02/rp_files_109.jpg"
 
 ## 飲食對睡眠品質的影響
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_109.jpg)
+![](/wp-images/2024/02/rp_files_109.jpg)
 
 飲食對睡眠品質的影響很大，健康均衡的飲食有助於提升睡眠品質。
 
@@ -44,7 +44,7 @@ heroImage: "/wp-images/2024/02/rp_files_109.jpg"
 
 晚上應避免攝入過多咖啡因，以免影響睡眠。
 
-![three person holding beverage cups](https://lennychen.com/wp-content/uploads/2024/03/6vhpy27jdps-1024x683.jpg)
+![three person holding beverage cups](/wp-images/2024/03/6vhpy27jdps-1024x683.jpg)
 
 ## 創建合適的睡眠環境
 
@@ -54,7 +54,7 @@ heroImage: "/wp-images/2024/02/rp_files_109.jpg"
 
 床上不應該進行非睡眠活動，以避免對睡眠環境的錯誤聯想。
 
-![white cat sleeps under white comforter](https://lennychen.com/wp-content/uploads/2024/02/uy5t-cjuik4-1024x691.jpg)
+![white cat sleeps under white comforter](/wp-images/2024/02/uy5t-cjuik4-1024x691.jpg)
 
 此外，床鋪和房間的佈置也應該有利於放鬆，避免過度刺激的裝飾和顏色。
 

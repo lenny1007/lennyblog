@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/03/5iyjopxtd4o-1-1024x684.jpg"
 
 對世界的好奇心、向一流人物學習的思考方式，以及對生命態度的**人格培養** 。
 
-![grayscale photo of child in hole](https://lennychen.com/wp-content/uploads/2024/03/5iyjopxtd4o-1-1024x684.jpg)
+![grayscale photo of child in hole](/wp-images/2024/03/5iyjopxtd4o-1-1024x684.jpg)
 
 ### 1\. **閱讀** 與好奇心的培養
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/03/5iyjopxtd4o-1-1024x684.jpg"
 
 ### 2\. **閱讀** 與思考方式的提升
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_136.jpg)
+![](/wp-images/2024/02/rp_files_136.jpg)
 
 通過**閱讀** ，我們能學習到不同領域專家的思考方式。
 
@@ -62,7 +62,7 @@ heroImage: "/wp-images/2024/03/5iyjopxtd4o-1-1024x684.jpg"
 
 這種深度**閱讀** 不僅能夠讓我們吸收知識，還能夠提升我們的批判性思維和創造力。
 
-![man in black jacket sitting by the table](https://lennychen.com/wp-content/uploads/2024/02/kliuo2i8ajc-683x1024.jpg)
+![man in black jacket sitting by the table](/wp-images/2024/02/kliuo2i8ajc-683x1024.jpg)
 
 ## 閱讀如何影響人的性格？
 

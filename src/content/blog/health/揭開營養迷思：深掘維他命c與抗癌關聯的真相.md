@@ -33,7 +33,7 @@ heroImage: "/wp-images/2024/01/pl_files_2.png"
 
 ### 維C的過去與現在
 
-![](https://lennychen.com/wp-content/uploads/2024/01/pl_files_2.png)
+![](/wp-images/2024/01/pl_files_2.png)
 
 維C曾被認為是“抗癌之王”，但這一說法缺乏科學證據支持。隨著時間的推移，科學家們通過更嚴謹的研究，逐步揭示了真相。目前最新的研究和科學文獻回顧均顯示，維C補充劑對於癌症的預防並無明顯幫助。
 

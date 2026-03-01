@@ -22,7 +22,7 @@ heroImage: "/wp-images/2024/03/s9cc2skysjm-1024x683.jpg"
 
 它不僅包括了基礎的語言組織和文字編輯技巧，還涵蓋了對於受眾心理的洞察、市場趨勢的把握以及個人品牌的建立等多個方面。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/03/s9cc2skysjm-1024x683.jpg)
 
 在職場中，無論是撰寫報告、電子郵件、計劃書，還是進行簡報、商務談判，文案力都扮演著至關重要的角色。
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/03/s9cc2skysjm-1024x683.jpg"
 
 ### 著名作家Vista如何論述文案力？
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_275.jpg)
+![](/wp-images/2024/02/rp_files_275.jpg)
 
 Vista，一位經驗豐富的作家和溝通專家，在其著作《文案力就是你的鈔能力》中提出了提升文案力的具體方法。
 
@@ -52,7 +52,7 @@ Vista，一位經驗豐富的作家和溝通專家，在其著作《文案力就
 
 文案的撰寫需基於對目標受眾的深入理解。
 
-![person writing on white paper](https://lennychen.com/wp-content/uploads/2024/03/u33fhrybybu-1024x683.jpg)
+![person writing on white paper](/wp-images/2024/03/u33fhrybybu-1024x683.jpg)
 
 不應僅依賴搜尋引擎帶來的流量，而應透過調查問卷、面對面交流等方式來深入了解受眾的需求和偏好。
 
@@ -68,7 +68,7 @@ Vista，一位經驗豐富的作家和溝通專家，在其著作《文案力就
 
 要想在眾多聲音中脫穎而出，需要有獨到的個人觀點。
 
-![black megaphone pendant](https://lennychen.com/wp-content/uploads/2024/03/kr5vqr3-l9w-1024x768.jpg)
+![black megaphone pendant](/wp-images/2024/03/kr5vqr3-l9w-1024x768.jpg)
 
 這需要我們在日常生活中細心觀察和思考，記錄下有趣的細節並加以分析。
 

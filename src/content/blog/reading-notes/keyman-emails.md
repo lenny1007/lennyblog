@@ -22,7 +22,7 @@ heroImage: "/wp-images/2024/02/rp_files_94.jpg"
 
 過程中，林育聖巧妙地將治療與日常生活中的職場糾結結合起來，觸及到讀者的內心深處。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_94.jpg)
+![](/wp-images/2024/02/rp_files_94.jpg)
 
 ### 治療職場的疲憊
 
@@ -34,7 +34,7 @@ heroImage: "/wp-images/2024/02/rp_files_94.jpg"
 
 ### 電子信的治療傳遞
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_217.jpg)
+![](/wp-images/2024/02/rp_files_217.jpg)
 
 電子信這種即時而又私密的溝通方式，讓文字能夠直達讀者的內心。
 
@@ -67,7 +67,7 @@ heroImage: "/wp-images/2024/02/rp_files_94.jpg"
 
 身為長期訂閱電子報的我來說 ( 2020 年開始 )，這本書推薦給大家。
 
-![](https://lennychen.com/wp-content/uploads/2024/03/image-1024x547.png)
+![](/wp-images/2024/03/image-1024x547.png)
 
 從文案的美到林育聖、純粹文案，我想作者的故事是一杯酒說不完的。
 

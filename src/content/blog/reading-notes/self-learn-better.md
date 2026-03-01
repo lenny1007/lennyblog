@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/02/rp_files_469.jpg"
 
 ## 萬維鋼的學習方法在實踐中的應用
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_469.jpg)
+![](/wp-images/2024/02/rp_files_469.jpg)
 
 根據《高手學習》中的建議，我們可以將這些學習技巧和方法應用到自學實踐中。
 

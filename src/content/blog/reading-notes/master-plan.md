@@ -32,13 +32,13 @@ heroImage: "/wp-images/2024/02/rp_files_220.jpg"
 
 ### 天賦類型的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_220.jpg)
+![](/wp-images/2024/02/rp_files_220.jpg)
 
 天賦類型是指一個人在某方面的天生優勢，可能是創意、邏輯思維、人際交往或是執行力等。
 
 理解自己的天賦類型對於個人職業選擇至關重要，它能夠幫助我們選擇最合適的工作，從而在工作中展現最大的潛力和熱情。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/03/2-t1nizbrr0-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/03/2-t1nizbrr0-1024x768.jpg)
 
 例如，一位具有創意天賦的人可能更適合從事設計或藝術工作，而擁有強大邏輯思維的人則可能在科學或工程領域大放異彩。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/02/rp_files_220.jpg"
 
 這意味著在選擇職業時，我們不應該只考慮薪水的高低，而應該尋找那些能夠激發我們熱情、促進個人成長的職業。
 
-![shallow focus photography of man in suit jacket's back](https://lennychen.com/wp-content/uploads/2024/03/wnz7_5evuwu-1024x681.jpg)
+![shallow focus photography of man in suit jacket's back](/wp-images/2024/03/wnz7_5evuwu-1024x681.jpg)
 
 ### 如何選擇有意義的職業
 
@@ -72,7 +72,7 @@ heroImage: "/wp-images/2024/02/rp_files_220.jpg"
 
 《順流致富GPS》強調，持續學習的態度固然重要，但真正的技能和經驗必須透過實踐來獲得。
 
-![hand tool on wall](https://lennychen.com/wp-content/uploads/2024/03/yvt5af2qm7m-1024x640.jpg)
+![hand tool on wall](/wp-images/2024/03/yvt5af2qm7m-1024x640.jpg)
 
 知識如果不付諸行動，就不會轉化為能力。
 
@@ -86,7 +86,7 @@ heroImage: "/wp-images/2024/02/rp_files_220.jpg"
 
 實踐過程中的失敗和挑戰，往往是學習過程中最好的老師。
 
-![a bucket full of yellow and white golf balls](https://lennychen.com/wp-content/uploads/2024/03/hyblxj14r_8-1024x1024.jpg)
+![a bucket full of yellow and white golf balls](/wp-images/2024/03/hyblxj14r_8-1024x1024.jpg)
 
 而這種學習與實踐相結合的方式，正是「順流致富GPS」所倡導的致富之道。
 

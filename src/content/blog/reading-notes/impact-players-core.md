@@ -42,7 +42,7 @@ heroImage: "/wp-images/2024/02/rp_files_293.jpg"
 
 ## 三、職場影響力的實際運用
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg)
+![](/wp-images/2024/02/rp_files_293.jpg)
 
 在職場中，擁有影響力意味著能夠驅動團隊和組織向前發展。
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/02/rp_files_293.jpg"
 
 在個人發展的不同階段，**專注度** 的培養也至關重要。
 
-![person in blue denim jeans sitting on bed with laptop](https://lennychen.com/wp-content/uploads/2024/03/pmu6-i4iyne-1024x683.jpg)
+![person in blue denim jeans sitting on bed with laptop](/wp-images/2024/03/pmu6-i4iyne-1024x683.jpg)
 
 我們應該先追求經驗的廣度，然後再追求深度，這是一種循序漸進的過程。
 
@@ -72,7 +72,7 @@ heroImage: "/wp-images/2024/02/rp_files_293.jpg"
 
 透過不斷的學習，我們能夠適應變化迅速的工作環境，保持競爭力。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/03/ndjauqvb7ue-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/03/ndjauqvb7ue-1024x768.jpg)
 
 ## 六、結語
 

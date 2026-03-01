@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/02/rp_files_114.jpg"
 
 透過**寫作** ，我們可以更好地理解自己，並向世界展示我們獨特的視角和聲音。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_114.jpg)
+![](/wp-images/2024/02/rp_files_114.jpg)
 
 書中提到的**寫作熱區** 是指將日常所見所聞與喜愛的主題結合，使**寫作** 成為一種享受。
 
@@ -40,7 +40,7 @@ heroImage: "/wp-images/2024/02/rp_files_114.jpg"
 
 這不僅僅是一種智慧的訓練，也是一種生活的藝術。
 
-![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](/wp-images/2024/03/s9cc2skysjm-1024x683.jpg)
 
 至於如何整理**寫作** 素材，我們可以借鑒整理冰箱的方式，將**閱讀** 到的素材進行分類儲存，這樣在**寫作** 時就能夠迅速找到所需的內容。
 

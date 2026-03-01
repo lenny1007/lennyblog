@@ -23,7 +23,7 @@ heroImage: "/wp-images/2024/02/fswqzllhc3y-1024x768.jpg"
 
 全玉杓通過自己的職場經驗和觀察，指出許多工作狂並不是真正的勤奮，而往往是一種逃避自我反思和成長的懶惰。
 
-![brown wooden blocks on white surface](https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x768.jpg)
+![brown wooden blocks on white surface](/wp-images/2024/02/fswqzllhc3y-1024x768.jpg)
 
 他認為，真正的繁忙可能並非效率的象徵，而是一種避免自我反思和追求生活真正價值的借口。
 
@@ -59,7 +59,7 @@ heroImage: "/wp-images/2024/02/fswqzllhc3y-1024x768.jpg"
 
 ## **刻意暫停** 的社會文化意義
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_534.jpg)
+![](/wp-images/2024/02/rp_files_534.jpg)
 
 **刻意暫停** 不僅對個人有益，它還對社會文化有著深遠的影響。
 

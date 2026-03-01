@@ -38,13 +38,13 @@ heroImage: "/wp-images/2024/02/rp_files_139.jpg"
 
 ### 減少反抗（Reactance）
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_139.jpg)
+![](/wp-images/2024/02/rp_files_139.jpg)
 
 減少反抗是指當我們推動改變時，應該避免讓對方感到**被強迫或是被剝奪了選擇的自由** 。
 
 例如，在推動青少年不吸煙的案例中，查克·沃夫（Jack Wolfs）選擇讓青少年參與「煙草高峰會」，自發地認識到煙草公司的操縱手法，從而達成「真相廣告」的效果，成功降低了青少年吸煙的比率。
 
-![woman leaning on top building rail during daytime](https://lennychen.com/wp-content/uploads/2024/03/kefrafky6sk-1024x684.jpg)
+![woman leaning on top building rail during daytime](/wp-images/2024/03/kefrafky6sk-1024x684.jpg)
 
 ### 減輕損失厭惡現象（Endowment）
 
@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/02/rp_files_139.jpg"
 
 不確定性會增加人們對改變的抵抗感。
 
-![man standing in the middle of woods](https://lennychen.com/wp-content/uploads/2024/03/ktpsvecu0xu-819x1024.jpg)
+![man standing in the middle of woods](/wp-images/2024/03/ktpsvecu0xu-819x1024.jpg)
 
 減少不確定性可以通過提供試用機會、退貨保證等方式來實現。
 
@@ -86,7 +86,7 @@ heroImage: "/wp-images/2024/02/rp_files_139.jpg"
 
 這需要我們有同理心，能夠從對方的角度出發，並提供具有說服力的證據和安全感。
 
-![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](/wp-images/2024/03/xmnel_otvws-1-683x1024.jpg)
 
 ## 結論
 

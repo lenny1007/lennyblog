@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_234.jpg"
 
 ## 英文模仿術怎麼實踐呢?
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_234.jpg)
+![](/wp-images/2024/02/rp_files_234.jpg)
 
 英文模仿術與逆向工程學習法有關，透過拆解日常生活中常用的英文句型和高頻率出現的單字來學習，比起從頭學習文法單字更加實際，目標是能在工作或生活中運用英文。
 
@@ -49,7 +49,7 @@ heroImage: "/wp-images/2024/02/rp_files_234.jpg"
 
 ## 書中之驚喜：凱茜女孩的聲音教學
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_90.jpg)
+![](/wp-images/2024/02/rp_files_90.jpg)
 
 凱茜女孩的電子書版本不僅包含文字說明，還包括了她親自錄製的範例音檔，提供了一種類似有聲書或線上課程的學習體驗。
 

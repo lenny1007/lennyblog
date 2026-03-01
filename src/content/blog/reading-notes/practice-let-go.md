@@ -20,7 +20,7 @@ heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 
 「釋放練習」是由劉素珍女士在《當下的釋放》中所提出的方法，其核心理念在於協助讀者識別並解放內在的情緒束縛。
 
-![man wearing black cap with eyes closed under cloudy sky](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
+![man wearing black cap with eyes closed under cloudy sky](/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg)Photo by Kelvin Valerio on [Pexels.com](<https://www.pexels.com/photo/man-wearing-black-cap-with-eyes-closed-under-cloudy-sky-810775/>)
 
 「釋放練習」不僅是一種心理調適手段，更是一種身心靈整合的修復過程。
 
@@ -34,13 +34,13 @@ heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 
 相對於正向思考，劉素珍提倡一種更加真實和平衡的心態，即接受生活中不可避免的負面情緒。
 
-![yellow and white round plastic toy](https://lennychen.com/wp-content/uploads/2024/02/zydyz7jleve-1024x630.jpg)
+![yellow and white round plastic toy](/wp-images/2024/02/zydyz7jleve-1024x630.jpg)
 
 這種觀念的啟發是「釋放練習」的前提，也是實現身心釋放的重要一步。  
 
 ### 自我情緒認知與接納
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_379.jpg)
+![](/wp-images/2024/02/rp_files_379.jpg)
 
 「釋放練習」的第二個階段是自我情緒的認知與接納。
 
@@ -52,7 +52,7 @@ heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 
 書中的核心部分，即實際的「釋放練習」操作，涉及了一系列的步驟和技巧，如深呼吸、冥想、身體感知和情緒釋放句的念誦等。
 
-![person doing yoga on floor](https://lennychen.com/wp-content/uploads/2024/02/xcpdjity5sq-1024x768.jpg)
+![person doing yoga on floor](/wp-images/2024/02/xcpdjity5sq-1024x768.jpg)
 
 這些操作旨在幫助讀者從身體上和心靈上釋放掉那些負面的情緒能量，從而達到一種更輕鬆自在的狀態。
 
@@ -64,7 +64,7 @@ heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 
 透過「釋放練習」，讀者可以學會如何在日常生活中即時地處理和釋放情緒，而不是將其壓抑或忽視，這有助於減少慢性壓力和情緒困擾對身體的影響。
 
-![red yellow and blue kite flying under blue sky during daytime](https://lennychen.com/wp-content/uploads/2024/02/aqwgdilihls-1024x683.jpg)
+![red yellow and blue kite flying under blue sky during daytime](/wp-images/2024/02/aqwgdilihls-1024x683.jpg)
 
 另一方面，「釋放練習」對於提升自我覺察和增加情緒智力也有顯著的效果。
 

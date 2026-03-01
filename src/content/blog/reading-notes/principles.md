@@ -24,7 +24,7 @@ heroImage: "/wp-images/2024/03/zmy3jr27xmq-683x1024.jpg"
 
 這本書不僅有他的人生經歷，更重要的是，它展示了如何透過一系列原則來導航生活和工作。
 
-![black and white textile on white textile](https://lennychen.com/wp-content/uploads/2024/03/zmy3jr27xmq-683x1024.jpg)
+![black and white textile on white textile](/wp-images/2024/03/zmy3jr27xmq-683x1024.jpg)
 
 生活原則和工作原則是達利歐認為能夠達到成功的六個智慧寶石:
 
@@ -45,7 +45,7 @@ heroImage: "/wp-images/2024/03/zmy3jr27xmq-683x1024.jpg"
 
 ### 生活原則：追求真理與個人成長
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_13.jpg)
+![](/wp-images/2024/02/rp_files_13.jpg)
 
 達利歐認為，生活中的滿足感來自於追求目標的過程，而不僅僅是達成目標本身。
 
@@ -53,7 +53,7 @@ heroImage: "/wp-images/2024/03/zmy3jr27xmq-683x1024.jpg"
 
 他同時鼓勵我們保持開放心態，尋求真理，而不是堅持自己的觀點。
 
-![woman spreading her arms](https://lennychen.com/wp-content/uploads/2024/03/r2njpbeyusq-2-1024x925.jpg)
+![woman spreading her arms](/wp-images/2024/03/r2njpbeyusq-2-1024x925.jpg)
 
 這種對知識的渴望和對自我認知的挑戰，是個人成長不可或缺的要素。
 
@@ -65,7 +65,7 @@ heroImage: "/wp-images/2024/03/zmy3jr27xmq-683x1024.jpg"
 
 他的工作原則強調了集體智慧的力量，以及如何透過系統化的方法來解決問題。
 
-![woman placing sticky notes on wall](https://lennychen.com/wp-content/uploads/2024/03/oalh2mojuuk-1024x683.jpg)
+![woman placing sticky notes on wall](/wp-images/2024/03/oalh2mojuuk-1024x683.jpg)
 
 ### 達利歐原則的實踐意義
 

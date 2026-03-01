@@ -32,7 +32,7 @@ heroImage: "/wp-images/2024/02/rp_files_120.jpg"
 
 ## 人際關係的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_120.jpg)
+![](/wp-images/2024/02/rp_files_120.jpg)
 
 在《教練》中，坎貝爾強調了人際關係的重要性。
 

@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/02/iflgwylt2fi-1024x683.jpg"
 
 在《反脆弱》中，塔雷伯強調了不確定性的兩面性。
 
-![a yellow and black sign sitting on the side of a road](https://lennychen.com/wp-content/uploads/2024/02/iflgwylt2fi-1024x683.jpg)
+![a yellow and black sign sitting on the side of a road](/wp-images/2024/02/iflgwylt2fi-1024x683.jpg)
 
 一方面，它伴隨著風險和不可預測的負面後果；
 
@@ -36,7 +36,7 @@ heroImage: "/wp-images/2024/02/iflgwylt2fi-1024x683.jpg"
 
 ### 個人成長與個人品牌的建立
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_381.jpg)
+![](/wp-images/2024/02/rp_files_381.jpg)
 
 《反脆弱》也提到個人成長和品牌建立的重要性。
 
@@ -54,7 +54,7 @@ heroImage: "/wp-images/2024/02/iflgwylt2fi-1024x683.jpg"
 
 ### 閱讀的力量：知識的累積與轉化
 
-![person holding book sitting on brown surface](https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x768.jpg)
+![person holding book sitting on brown surface](/wp-images/2024/02/zmrlzh40kms-1024x768.jpg)
 
 在《反脆弱》中，閱讀被視為一種反脆弱的行為，它可以幫助人們在面對未知和挑戰時，利用已有的知識積累來找到應對之道。
 

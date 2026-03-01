@@ -30,7 +30,7 @@ heroImage: "/wp-images/2024/02/rp_files_53.jpg"
 
 ## 財務報表在資源管理中的角色
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_53.jpg)
+![](/wp-images/2024/02/rp_files_53.jpg)
 
 財務報表是資源管理的一種工具。
 
@@ -38,7 +38,7 @@ heroImage: "/wp-images/2024/02/rp_files_53.jpg"
 
 郝旭烈在書中強調，財務報表的核心並不僅僅在於數字，而是透過數字反映了一個企業或個人財務狀況的全貌，並能夠協助我們做出更為精確的資源調配。
 
-![person holding pencil near laptop computer](https://lennychen.com/wp-content/uploads/2024/03/5fnmwej4taa-1-1024x684.jpg)
+![person holding pencil near laptop computer](/wp-images/2024/03/5fnmwej4taa-1-1024x684.jpg)
 
 ## 資產與負債的新解讀
 
@@ -54,7 +54,7 @@ heroImage: "/wp-images/2024/02/rp_files_53.jpg"
 
 因此，在財務決策時，無論是投資還是開銷，都必須考慮到它們對現金流的影響。
 
-![focus photography of person counting dollar banknotes](https://lennychen.com/wp-content/uploads/2024/03/8a5ej1-mmq-1024x683.jpg)
+![focus photography of person counting dollar banknotes](/wp-images/2024/03/8a5ej1-mmq-1024x683.jpg)
 
 ## 結語
 

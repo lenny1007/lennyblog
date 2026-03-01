@@ -34,7 +34,7 @@ heroImage: "/wp-images/2024/02/rp_files_151.jpg"
 
 ### 正面影響
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_151.jpg)
+![](/wp-images/2024/02/rp_files_151.jpg)
 
 正面的**自我對話** 可以幫助個體在面對壓力時保持冷靜，提高問題解決能力和創造力。
 
@@ -54,7 +54,7 @@ heroImage: "/wp-images/2024/02/rp_files_151.jpg"
 
 透過使用自己的名字而非第一人稱代詞，可以幫助我們更加客觀地審視問題，從而減少情緒反應的強度。
 
-![four markers on table](https://lennychen.com/wp-content/uploads/2024/03/566cgcrsnck-1024x683.jpg)
+![four markers on table](/wp-images/2024/03/566cgcrsnck-1024x683.jpg)
 
 ### 創造時間距離
 
@@ -66,7 +66,7 @@ heroImage: "/wp-images/2024/02/rp_files_151.jpg"
 
 透過書寫來處理內心的對話，不僅可以幫助我們清晰地理解情緒，還能促進情緒的釋放和自我療愈。
 
-![unknown person writing](https://lennychen.com/wp-content/uploads/2024/03/tcyw6im5uug-683x1024.jpg)
+![unknown person writing](/wp-images/2024/03/tcyw6im5uug-683x1024.jpg)
 
 ### 使用自己的名字進行對話
 

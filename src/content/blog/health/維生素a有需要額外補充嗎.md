@@ -19,7 +19,7 @@ heroImage: "/wp-images/2024/01/vitamin-a-1024x706.png"
 > 國人在脂溶性維生素的攝取狀況方面，維生素 A 的攝取狀況大致良好，僅男性 16－18 歲略低，  
 >  達建議攝取量 89% 。
 > 
-> ![台灣人攝取維生素A的攝取量](https://lennychen.com/wp-content/uploads/2024/01/vitamin-a-1024x706.png)
+> ![台灣人攝取維生素A的攝取量](/wp-images/2024/01/vitamin-a-1024x706.png)
 
 需要先認知一件事，微量元素的攝取量本來就很低，缺乏的問題也不常見。
 
@@ -45,7 +45,7 @@ heroImage: "/wp-images/2024/01/vitamin-a-1024x706.png"
   * 魚、海鮮
   * 雞、鴨等家禽類  
 
-![台灣人不缺維生素A](https://lennychen.com/wp-content/uploads/2024/01/med_files_78-1024x585.png)
+![台灣人不缺維生素A](/wp-images/2024/01/med_files_78-1024x585.png)
 
 ## 關於維生素A有哪些事情需要注意呢？
 

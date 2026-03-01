@@ -41,7 +41,7 @@ OGSM的核心元素包括：
 
 ### KPI
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_34.jpg)
+![](/wp-images/2024/02/rp_files_34.jpg)
 
 KPI專注於量化評估績效，但它有時候過於注重結果，而忽視了策略和行動計畫的制定。
 
@@ -65,7 +65,7 @@ OGSM一頁計畫書的最大優勢在於它的簡潔性和實用性。
 
 一頁紙的範本讓任何人都可以快速把握整個計畫的脈絡，這對於溝通和執行都大有幫助。
 
-![person pointing white paper on wall](https://lennychen.com/wp-content/uploads/2024/03/7txa8xwe4w4-1024x683.jpg)
+![person pointing white paper on wall](/wp-images/2024/03/7txa8xwe4w4-1024x683.jpg)
 
 以下是OGSM在實際應用中的一些優勢：
 

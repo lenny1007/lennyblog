@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/03/c6duwascoea-1024x683.jpg"
 
 書中將職業發展分為四個階段：探索與定向、專業成長、舞台展現、多元選擇。
 
-![silhouette of man standing on hill during starry night](https://lennychen.com/wp-content/uploads/2024/03/c6duwascoea-1024x683.jpg)
+![silhouette of man standing on hill during starry night](/wp-images/2024/03/c6duwascoea-1024x683.jpg)
 
 每個階段都有其獨特的挑戰與機遇，要求個人不斷地學習和成長，以適應不斷變化的職場環境。
 
@@ -38,13 +38,13 @@ heroImage: "/wp-images/2024/03/c6duwascoea-1024x683.jpg"
 
 ### 主人思維的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_319.jpg)
+![](/wp-images/2024/02/rp_files_319.jpg)
 
 在職業規劃中，「主人思維」的重要性不言而喻。
 
 它鼓勵我們主動掌握自己的職業發展方向和節奏，成為命運的主人。
 
-![man in black long sleeve shirt smoking cigarette](https://lennychen.com/wp-content/uploads/2024/03/enafqf_0zwq-683x1024.jpg)
+![man in black long sleeve shirt smoking cigarette](/wp-images/2024/03/enafqf_0zwq-683x1024.jpg)
 
 透過持續學習和成長，我們可以不斷提升自我價值，並在職業生涯中取得成功。
 

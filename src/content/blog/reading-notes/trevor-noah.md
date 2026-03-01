@@ -24,7 +24,7 @@ heroImage: "/wp-images/2024/02/q9_zv0ln4ju-1024x902.jpg"
 
 《以母之名》講述了特雷弗·諾亞如何在種族隔離的框架下找到自己生存的空間和方式。
 
-![grayscale photo of woman carrying baby](https://lennychen.com/wp-content/uploads/2024/02/q9_zv0ln4ju-1024x902.jpg)
+![grayscale photo of woman carrying baby](/wp-images/2024/02/q9_zv0ln4ju-1024x902.jpg)
 
 在這個過程中，他的母親扮演了極其重要的角色，她的勇敢和智慧成為了特雷弗·諾亞戰勝困境的重要資源。
 
@@ -32,7 +32,7 @@ heroImage: "/wp-images/2024/02/q9_zv0ln4ju-1024x902.jpg"
 
 ## 從喜劇到反抗：特雷弗·諾亞如何以幽默對抗困境
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_350.jpg)
+![](/wp-images/2024/02/rp_files_350.jpg)
 
 特雷弗·諾亞憑藉自己對生活的深刻觀察和獨特的幽默感，成為了一名成功的喜劇演員和脫口秀主持人。
 
@@ -40,7 +40,7 @@ heroImage: "/wp-images/2024/02/q9_zv0ln4ju-1024x902.jpg"
 
 特雷弗·諾亞的喜劇不僅僅是為了逗樂觀眾，更是一種對種族隔離殘留影響的深刻反思和批判。
 
-![man in white dress shirt and black pants sitting on black chair](https://lennychen.com/wp-content/uploads/2024/02/9q8jfhm7tba-730x1024.jpg)
+![man in white dress shirt and black pants sitting on black chair](/wp-images/2024/02/9q8jfhm7tba-730x1024.jpg)
 
 他的故事告訴我們，即使是在最艱難的時刻，幽默也能成為一種力量，幫助我們面對現實，甚至改變現實。
 

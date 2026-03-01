@@ -32,7 +32,7 @@ heroImage: "/wp-images/2024/02/rp_files_447.jpg"
 
 ### 定錨效應的陷阱
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_447.jpg)
+![](/wp-images/2024/02/rp_files_447.jpg)
 
 定錨效應指的是人們易受先前信息影響，將其作為決策的參考點。
 
@@ -48,7 +48,7 @@ heroImage: "/wp-images/2024/02/rp_files_447.jpg"
 
 沉沒成本是指已經發生且無法回收的成本。
 
-![person holding fan of U.S. dollars banknote](https://lennychen.com/wp-content/uploads/2024/02/ritgz4vquwk-1024x683.jpg)
+![person holding fan of U.S. dollars banknote](/wp-images/2024/02/ritgz4vquwk-1024x683.jpg)
 
 在金錢心理學中，人們經常因為之前的投入而無法客觀評估當前的情況，從而繼續在一個失敗的投資或項目上投入更多資源。
 
@@ -78,7 +78,7 @@ heroImage: "/wp-images/2024/02/rp_files_447.jpg"
 
 ### 識破定錨效應，保持獨立判斷
 
-![close-up photo of assorted coins](https://lennychen.com/wp-content/uploads/2024/02/netpasr-bmq-1024x769.jpg)
+![close-up photo of assorted coins](/wp-images/2024/02/netpasr-bmq-1024x769.jpg)
 
 面對商家的定價策略，我們應該保持警覺，不要輕易被定錨效應所誤導。
 

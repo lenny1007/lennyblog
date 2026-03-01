@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_190.jpg"
 
 ## **管理中的自我成長**
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_190.jpg)
+![](/wp-images/2024/02/rp_files_190.jpg)
 
 在本書中，作者將生活中的父母、學生與子女、社會三個關係層面轉化為職場中的主管、下屬、公司三種關係。
 
@@ -40,7 +40,7 @@ heroImage: "/wp-images/2024/02/rp_files_190.jpg"
 
 **或許有用，但一般來說，哪天反噬了，都會很痛。**
 
-![man in gray crew neck long sleeve shirt standing beside woman in black crew neck shirt](https://lennychen.com/wp-content/uploads/2024/03/mv38tb_ljj8-1024x576.jpg)
+![man in gray crew neck long sleeve shirt standing beside woman in black crew neck shirt](/wp-images/2024/03/mv38tb_ljj8-1024x576.jpg)
 
 領導者應該透過有效的溝通來傳達組織的戰略方向，而不是通過情緒發泄來施加壓力。
 

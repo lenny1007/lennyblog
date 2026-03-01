@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_128.jpg"
 
 不過，布雷格曼在書中提出了不同的看法，他認為這些實驗的結論過於強調了人性的負面，而忽略了實驗參與者在沒有壓力影響下本能展現的善意。 
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_128.jpg)
+![](/wp-images/2024/02/rp_files_128.jpg)
 
 值得一提的是，作家羅格·布雷格曼是一位歐洲著名的思想家、歷史學家、作家以及記者。
 

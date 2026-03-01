@@ -30,7 +30,7 @@ Jay Shetty是一位前僧侶，也是當代知名的心靈導師。
 
 ### 「放下」章節：處理負面情緒的智慧
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_78.jpg)
+![](/wp-images/2024/02/rp_files_78.jpg)
 
 在「放下」章節中，Jay Shetty教導我們如何釋放那些讓我們受困的負面情緒和恐懼。
 
@@ -50,7 +50,7 @@ Jay Shetty是一位前僧侶，也是當代知名的心靈導師。
 
 通過辨識出真正的熱情所在，我們可以找到服務他人和社會的方式，進而實現個人的成長和進步。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/03/oxjvbhxxm4w-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/03/oxjvbhxxm4w-1024x768.jpg)
 
 ### 「付出」章節：建立感恩和服務他人的心態
 
@@ -70,7 +70,7 @@ Jay Shetty是一位前僧侶，也是當代知名的心靈導師。
 
 Shetty提醒我們，即便在這樣的環境下，也可以通過**日常的練習和自我反思** ，逐漸培養出一種能夠抵抗外界干擾的心態。
 
-![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](/wp-images/2024/03/xmnel_otvws-1-683x1024.jpg)
 
 ### 實踐的方法：
 
@@ -84,7 +84,7 @@ Shetty提醒我們，即便在這樣的環境下，也可以通過**日常的練
   2. **社會壓力** ：社會常常強調物質成功和外在成就，這可能與追求內在平靜的目標發生衝突。如何在社會期待和個人追求之間找到平衡，是一個需要不斷探索的課題。
   3. **信息過載** ：在資訊爆炸的時代，學習如何篩選和處理大量的信息，避免感到過度壓力和焦慮，是實踐僧人心態時不可忽視的挑戰。
 
-![a woman laying on a bed next to a coffee cup](https://lennychen.com/wp-content/uploads/2024/03/9umdyiqrvnu-1024x683.jpg)
+![a woman laying on a bed next to a coffee cup](/wp-images/2024/03/9umdyiqrvnu-1024x683.jpg)
 
 ## 結語：僧人心態與現代生活的融合
 

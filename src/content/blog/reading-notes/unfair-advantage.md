@@ -30,7 +30,7 @@ heroImage: "/wp-images/2024/03/c_rnpbsyvfm-1024x683.jpg"
 
 例如，一位出身於醫學世家的人可能會在醫學領域擁有更深厚的背景知識和資源，這便是他的**不平等優勢** 。
 
-![girl and boy reading book sitting between man and woman beside Christmas tree](https://lennychen.com/wp-content/uploads/2024/03/c_rnpbsyvfm-1024x683.jpg)
+![girl and boy reading book sitting between man and woman beside Christmas tree](/wp-images/2024/03/c_rnpbsyvfm-1024x683.jpg)
 
 **換句話說，你的父母、背景、跟背後的資源，你可以好好思考看有沒有可以利用的。**
 
@@ -44,7 +44,7 @@ Ash Ali 提出的成功公式是：成功 = 努力 + 運氣 + **不平等優勢*
 
 ### MILES框架中的五種**不平等優勢**
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_502.jpg)
+![](/wp-images/2024/02/rp_files_502.jpg)
 
   * **財富** （Money）： 
     * 資金充足的創業家可以承擔更大的風險，投資於研發和市場營銷。
@@ -64,7 +64,7 @@ Ash Ali 提出的成功公式是：成功 = 努力 + 運氣 + **不平等優勢*
 
 ## 不平等優勢在實際應用中的優缺點
 
-![white and blue hard rock cafe print round hat](https://lennychen.com/wp-content/uploads/2024/02/m-hz2aex1so-1024x683.jpg)
+![white and blue hard rock cafe print round hat](/wp-images/2024/02/m-hz2aex1so-1024x683.jpg)
 
 ### 優點
 
@@ -80,7 +80,7 @@ Ash Ali 提出的成功公式是：成功 = 努力 + 運氣 + **不平等優勢*
 
 ## 擁抱不平等優勢的五個策略
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_524.jpg)
+![](/wp-images/2024/02/rp_files_524.jpg)
 
 **那麼，如何有效地識別和利用你的不平等優勢呢？**
 

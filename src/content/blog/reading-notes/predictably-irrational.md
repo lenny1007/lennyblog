@@ -34,13 +34,13 @@ heroImage: "/wp-images/2024/02/hnprwoh2z8u-1024x683.jpg"
 
 但是，行為經濟學告訴我們，所謂的「合理」往往並非出於絕對理性的思考。
 
-![person holding black and white electronic device](https://lennychen.com/wp-content/uploads/2024/02/hnprwoh2z8u-1024x683.jpg)
+![person holding black and white electronic device](/wp-images/2024/02/hnprwoh2z8u-1024x683.jpg)
 
 例如，當我們在購物時，常常會因為商品打折而感到划算，這種「相對性」的心理偏差就是非理性決策的體現。  
 
 ### 心理偏差的實際影響
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_421.jpg)
+![](/wp-images/2024/02/rp_files_421.jpg)
 
 錨定效應是一種常見的心理偏差。
 
@@ -48,7 +48,7 @@ heroImage: "/wp-images/2024/02/hnprwoh2z8u-1024x683.jpg"
 
 這種效應在價格評估中尤為常見，比如原價被劃掉，旁邊標註一個更低的價格，即使該商品的真實價值可能並不高，消費者也很容易認為它物有所值。
 
-![person holding red and white love print gift wrapper](https://lennychen.com/wp-content/uploads/2024/02/ktd2pvtqe_o-1024x683.jpg)
+![person holding red and white love print gift wrapper](/wp-images/2024/02/ktd2pvtqe_o-1024x683.jpg)
 
 機會成本則是指為了獲得某項利益所放棄的其他利益。
 
@@ -82,7 +82,7 @@ heroImage: "/wp-images/2024/02/hnprwoh2z8u-1024x683.jpg"
 
 這種非理性的消費行為，實際上可能會導致長期的財務壓力。
 
-![pink pig coin bank on brown wooden table](https://lennychen.com/wp-content/uploads/2024/02/5oumf1mr5pu-1024x683.jpg)
+![pink pig coin bank on brown wooden table](/wp-images/2024/02/5oumf1mr5pu-1024x683.jpg)
 
 ### 健康管理：習慣與自制力的挑戰
 

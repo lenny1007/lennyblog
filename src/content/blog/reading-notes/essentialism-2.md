@@ -24,7 +24,7 @@ heroImage: "/wp-images/2024/02/rp_files_465.jpg"
 
 它教導我們如何精選生活中真正重要的元素，化繁為簡，並確確實實地執行這些少數但重要的事情，**通過有紀律地追求更少，活出更好的人生。**
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_465.jpg)
+![](/wp-images/2024/02/rp_files_465.jpg)
 
 專準主義包含了三個步驟：精選、化繁為簡、準確執行。
 
@@ -46,7 +46,7 @@ heroImage: "/wp-images/2024/02/rp_files_465.jpg"
 
 通過精選，我們能夠鎖定那些對生活品質有著決定性影響的核心要素。
 
-![person holding letters](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-4439421.jpeg)Photo by Vie Studio on [Pexels.com](<https://www.pexels.com/photo/person-holding-letters-4439421/>)
+![person holding letters](/wp-images/2024/02/pexels-photo-4439421.jpeg)Photo by Vie Studio on [Pexels.com](<https://www.pexels.com/photo/person-holding-letters-4439421/>)
 
 ### 2\. 化繁為簡目標 
 
@@ -74,7 +74,7 @@ heroImage: "/wp-images/2024/02/rp_files_465.jpg"
 
 ## 為什麼專準主義如此重要？
 
-![book with sticky notes](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-3832033.jpeg)Photo by cottonbro studio on [Pexels.com](<https://www.pexels.com/photo/book-with-sticky-notes-3832033/>)
+![book with sticky notes](/wp-images/2024/02/pexels-photo-3832033.jpeg)Photo by cottonbro studio on [Pexels.com](<https://www.pexels.com/photo/book-with-sticky-notes-3832033/>)
 
 在當今社會，我們經常面臨信息過載和工作壓力的挑戰。
 
@@ -90,7 +90,7 @@ heroImage: "/wp-images/2024/02/rp_files_465.jpg"
 
 這意味著要不斷評估自己的活動、關係甚至是擁有的物品，並勇於拒絕那些不符合我們核心追求的事物。
 
-![no sign](https://lennychen.com/wp-content/uploads/2024/03/2tzsuqzohe4-768x1024.jpg)
+![no sign](/wp-images/2024/03/2tzsuqzohe4-768x1024.jpg)
 
 例如，在購物時，選擇那些真正能夠帶來快樂和價值的物品，而不是盲目跟隨消費潮流。
 

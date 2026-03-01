@@ -26,7 +26,7 @@ heroImage: "/wp-images/2024/02/rp_files_488.jpg"
 
 定型心態的人認為自己的能力是固定不變的，因此在面對挑戰和批評時往往感到無力和逃避。他們視挑戰為威脅，將批評看作是對自我的否定[^1]。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_488.jpg)
+![](/wp-images/2024/02/rp_files_488.jpg)
 
 **相反的，成長心態的人則相信能力是可以透過努力和學習來改善的。**
 
@@ -56,7 +56,7 @@ heroImage: "/wp-images/2024/02/rp_files_488.jpg"
 
 一個擁有成長心態的家長會鼓勵孩子接受挑戰，並從失敗中學習。
 
-![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/02/nd2ffckxwtw-1-1024x768.jpg)
+![brown wooden blocks on white table](/wp-images/2024/02/nd2ffckxwtw-1-1024x768.jpg)
 
 孩子在這種環境中成長，將更有可能發展出成長心態，並在未來的學習和生活中不斷進步。
 

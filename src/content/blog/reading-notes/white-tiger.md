@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_165.jpg"
 
 ### 從法官到作家：林孟皇的轉型之路
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_165.jpg)
+![](/wp-images/2024/02/rp_files_165.jpg)
 
 在回答 “林孟皇法官為何會從法律人轉型成為書籍作家” 的問題時，我們可以看到一個專業人士對於知識分享的熱情和使命感。
 
@@ -44,7 +44,7 @@ heroImage: "/wp-images/2024/02/rp_files_165.jpg"
 
 透過廣為人知的影劇作品來分析法律議題，不僅可以降低法律概念的學術門檻，還能提高讀者的興趣和參與度。
 
-![selective focus photography of three books beside opened notebook](https://lennychen.com/wp-content/uploads/2024/03/eky2otrpxdw-1024x576.jpg)
+![selective focus photography of three books beside opened notebook](/wp-images/2024/03/eky2otrpxdw-1024x576.jpg)
 
 這種以樂教的方式推廣法普教育，是一種創新的方法。
 

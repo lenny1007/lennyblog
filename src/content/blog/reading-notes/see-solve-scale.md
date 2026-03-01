@@ -34,7 +34,7 @@ heroImage: "/wp-images/2024/02/rp_files_111.jpg"
 
 ### 洞察：發現問題
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg)
+![](/wp-images/2024/02/rp_files_111.jpg)
 
 **洞察** 階段是創業的起點。
 
@@ -50,7 +50,7 @@ heroImage: "/wp-images/2024/02/rp_files_111.jpg"
 
 例如，Tide洗衣粉的故事告訴我們，從用戶的實際行為中觀察，可以揭露出真正的需求。
 
-![man in blue crew neck t-shirt sitting beside woman in black tank top](https://lennychen.com/wp-content/uploads/2024/03/vwlcr5bt4fc-1024x684.jpg)
+![man in blue crew neck t-shirt sitting beside woman in black tank top](/wp-images/2024/03/vwlcr5bt4fc-1024x684.jpg)
 
 ### 擴展：規模化解決方案
 

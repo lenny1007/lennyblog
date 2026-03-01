@@ -28,7 +28,7 @@ heroImage: "/wp-images/2024/02/rp_files_100.jpg"
 
 精準閱讀的目的是獲得書籍中最有價值的思想和資訊，並將其轉化為個人的智識財富。
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_100.jpg)
+![](/wp-images/2024/02/rp_files_100.jpg)
 
 ### **閱讀技巧** 1：精讀與略讀的結合
 
@@ -40,7 +40,7 @@ heroImage: "/wp-images/2024/02/rp_files_100.jpg"
 
 ### **閱讀技巧** 2：主動思考與批判性閱讀
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_215.jpg)
+![](/wp-images/2024/02/rp_files_215.jpg)
 
 **閱讀時，主動思考和問問題是不可或缺的。**
 
@@ -64,7 +64,7 @@ heroImage: "/wp-images/2024/02/rp_files_100.jpg"
 
 作者建議使用原子筆、筆記本和便條紙進行記錄，並透過不同的翻頁方式來標記重點。
 
-![opened book on person's lap with gray socks](https://lennychen.com/wp-content/uploads/2024/03/sqacgmawiam-1024x683.jpg)
+![opened book on person's lap with gray socks](/wp-images/2024/03/sqacgmawiam-1024x683.jpg)
 
 要提高閱讀理解力，我們可以通過練習推理、使用類比和例子來加深理解。
 
@@ -98,7 +98,7 @@ heroImage: "/wp-images/2024/02/rp_files_100.jpg"
 
 對我來說，在沒有時間壓力下的閱讀，技巧其實不怎麼重要，重要的是拿起那本書當下的怦然心動，與持續閱讀。
 
-![a person reading a book and drinking a glass of whiskey](https://lennychen.com/wp-content/uploads/2024/03/kjmgr2lt4rq-768x1024.jpg)
+![a person reading a book and drinking a glass of whiskey](/wp-images/2024/03/kjmgr2lt4rq-768x1024.jpg)
 
 確實，如果要閱讀較為艱澀與某一主題較為深入的內容，技巧是重要的，但對於任性的中年大叔來說，或許一杯威士忌在旁就夠了。
 

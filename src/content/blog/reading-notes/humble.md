@@ -32,7 +32,7 @@ heroImage: "/wp-images/2024/03/aq7id0zjew4-820x1024.jpg"
 
 只有當對自己有了全面的了解，才能夠在日常生活中做出更明智的選擇，並在人際互動中更加謙遜和尊重他人。
 
-![man standing on grass field overlooking mountain](https://lennychen.com/wp-content/uploads/2024/03/aq7id0zjew4-820x1024.jpg)
+![man standing on grass field overlooking mountain](/wp-images/2024/03/aq7id0zjew4-820x1024.jpg)
 
 ## 自我反省：謙遜的內在修煉
 
@@ -46,7 +46,7 @@ heroImage: "/wp-images/2024/03/aq7id0zjew4-820x1024.jpg"
 
 ## 同理心：謙遜的社交紐帶
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_89.jpg)
+![](/wp-images/2024/02/rp_files_89.jpg)
 
 同理心是謙遜的第三大特質，它涉及到對他人情感的理解和共鳴。
 

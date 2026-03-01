@@ -27,7 +27,7 @@ heroImage: "/wp-images/2024/02/rp_files_388.jpg"
 
 ### 問題意識的重要性
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_388.jpg)
+![](/wp-images/2024/02/rp_files_388.jpg)
 
 一個好的問題往往比答案更具啟發性。
 
@@ -41,7 +41,7 @@ heroImage: "/wp-images/2024/02/rp_files_388.jpg"
 
 而垂直思考則是像潛水員深潛，逐層探索問題的深度。
 
-![woman diving underwater](https://lennychen.com/wp-content/uploads/2024/02/td9fntmhu0a-576x1024.jpg)
+![woman diving underwater](/wp-images/2024/02/td9fntmhu0a-576x1024.jpg)
 
 ### 正向提問力的運用
 

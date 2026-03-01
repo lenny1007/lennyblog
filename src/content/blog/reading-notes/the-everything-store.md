@@ -24,7 +24,7 @@ heroImage: "/wp-images/2024/02/rp_files_315-1024x585.jpg"
 
 亞馬遜堅信，若是進入「Day2」，即意味著停滯不前，最終導致企業衰落。  
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_315-1024x585.jpg)
+![](/wp-images/2024/02/rp_files_315-1024x585.jpg)
 
 ### 優點
 
@@ -44,7 +44,7 @@ heroImage: "/wp-images/2024/02/rp_files_315-1024x585.jpg"
 
 公司鼓勵員工使用價格低廉的門板和支架自製辦公桌，這不僅象徵著節約成本的理念，也鼓勵員工保持創業時期的謙虛態度。
 
-![people doing office works](https://lennychen.com/wp-content/uploads/2024/03/qbpzgqemskg-1024x683.jpg)
+![people doing office works](/wp-images/2024/03/qbpzgqemskg-1024x683.jpg)
 
 ### 優點
 
@@ -62,7 +62,7 @@ heroImage: "/wp-images/2024/02/rp_files_315-1024x585.jpg"
 
 「顧客至上」是亞馬遜最核心的價值之一。
 
-![man in grey crew-neck t-shirt smiling to woman on counter](https://lennychen.com/wp-content/uploads/2024/03/ox6sw103ktm-1024x684.jpg)
+![man in grey crew-neck t-shirt smiling to woman on counter](/wp-images/2024/03/ox6sw103ktm-1024x684.jpg)
 
 無論是產品開發還是服務創新，亞馬遜始終將顧客的需求放在第一位。
 
@@ -84,7 +84,7 @@ heroImage: "/wp-images/2024/02/rp_files_315-1024x585.jpg"
 
 亞馬遜在追求創新和不同化的路上，從未停歇。貝索斯提倡的「飛輪效應」（Flywheel Effect）戰略，即通過各業務之間的相互加強，創造出一個自我增強的良性循環，這對推動公司的持續創新和成長至關重要。
 
-![time lapse photography of ferris wheel taken during night time](https://lennychen.com/wp-content/uploads/2024/03/vopqxytjutm-1024x683.jpg)
+![time lapse photography of ferris wheel taken during night time](/wp-images/2024/03/vopqxytjutm-1024x683.jpg)
 
 ### 優點
 

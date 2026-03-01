@@ -24,7 +24,7 @@ LinkedIn創始人雷德·霍夫曼的著作《高成長思維》（The Startup o
 
 這一點是後續能夠實現規模化成長的關鍵。
 
-![a blue block sitting on top of a yellow block](https://lennychen.com/wp-content/uploads/2024/03/hqq_ohvlvvk-768x1024.jpg)
+![a blue block sitting on top of a yellow block](/wp-images/2024/03/hqq_ohvlvvk-768x1024.jpg)
 
 例如，Airbnb的創辦人布萊恩·切斯基（Brian Chesky）在創業初期親自拜訪早期房東，聆聽他們的需求和建議，這種做法雖然無法規模化，但卻為Airbnb奠定了堅實的用戶基礎。
 
@@ -32,7 +32,7 @@ LinkedIn創始人雷德·霍夫曼的著作《高成長思維》（The Startup o
 
 ## 創業故事的深刻印象
 
-![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_255.jpg)
+![](/wp-images/2024/02/rp_files_255.jpg)
 
 在《高成長思維》中，霍夫曼精選了許多啟發人心的創業故事，這些故事不僅讓讀者印象深刻，也提供了寶貴的經驗教訓。
 
@@ -46,7 +46,7 @@ LinkedIn創始人雷德·霍夫曼的著作《高成長思維》（The Startup o
 
 《高成長思維》中，霍夫曼特別提醒讀者要注意「創業者偏差」（Survivorship Bias）。
 
-![man wearing green crew-neck t-shirt looking upwards](https://lennychen.com/wp-content/uploads/2024/03/lkmjcgdzlvs-683x1024.jpg)
+![man wearing green crew-neck t-shirt looking upwards](/wp-images/2024/03/lkmjcgdzlvs-683x1024.jpg)
 
 這種偏差可能會讓人們過度關注那些成功的案例，而忽略了那些失敗的故事。
 
