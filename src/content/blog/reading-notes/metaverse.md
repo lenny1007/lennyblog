@@ -29,7 +29,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 透過VR眼鏡和觸感手套，我們不僅能夠視覺上進入另一個世界，還能在那裡感受到觸覺。
 
-![boy wearing black and white VR headset](/wp-content/uploads/2024/02/deyfdybvqha-1024x682.jpg)
+![boy wearing black and white VR headset](https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x682.jpg)
 
 這讓虛擬世界的體驗變得前所未有的真實。
 
@@ -37,7 +37,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 ### 元宇宙對空間的革命
 
-![](/wp-content/uploads/2024/02/rp_files_503.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_503.jpg)
 
 元宇宙帶來了對空間概念的全新解讀。
 
@@ -45,7 +45,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/deyfdybvqha-1024x68
 
 在《元宇宙》一書中提到的範例，如防彈少年團在遊戲平台《要塞英雄》上的演唱會，以及在虛擬空間舉辦的火人節活動，都顯示了虛擬空間如何打破地理限制，讓參與者無論身在何處都能共享同一時刻的體驗。
 
-![concert photos](/wp-content/uploads/2024/02/ncdg9mk3pby-1024x683.jpg)
+![concert photos](https://lennychen.com/wp-content/uploads/2024/02/ncdg9mk3pby-1024x683.jpg)
 
 ### 元宇宙對時間的革命
 

@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_453.jpg"
 
 ### 溝通的橋樑
 
-![](/wp-content/uploads/2024/02/rp_files_453.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_453.jpg)
 
 視覺筆記不僅是個人思考的產物，它也是一種強有力的溝通工具。
 

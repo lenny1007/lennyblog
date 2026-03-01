@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x76
 
 新聞報導有許多戲劇化的事件，但往往缺乏關聯性，會導致我們的注意力分散，無法進行深度閱讀和有意義的思考。
 
-![silver iphone 6 on brown wooden table](/wp-content/uploads/2024/03/ueqvutrs224-1024x768.jpg)
+![silver iphone 6 on brown wooden table](https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x768.jpg)
 
 ### 看新聞導致的心智影響
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x76
 
 ### 新聞消費與信息過載
 
-![](/wp-content/uploads/2024/02/rp_files_56.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_56.jpg)
 
 **信息過載** 是當代社會的一大問題。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x76
 
 深度閱讀要求我們沉浸在書籍的世界裡，與作者進行心靈上的對話，這種過程有助於提高我們的理解能力和同理心。
 
-![woman sitting down near table reading 101 Essays book](/wp-content/uploads/2024/03/nbkd_9upsb0-1024x684.jpg)
+![woman sitting down near table reading 101 Essays book](https://lennychen.com/wp-content/uploads/2024/03/nbkd_9upsb0-1024x684.jpg)
 
 ### 深度閱讀與個人成長
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ueqvutrs224-1024x76
 
 我們將探討如何實現這一目標，並從深度閱讀的角度出發，提供一些具體的建議。
 
-![no sign](/wp-content/uploads/2024/03/2tzsuqzohe4-768x1024.jpg)
+![no sign](https://lennychen.com/wp-content/uploads/2024/03/2tzsuqzohe4-768x1024.jpg)
 
 ### 建立個人資訊過濾機制
 

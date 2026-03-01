@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/vitamin-c-1024x739.
 近或高於 RDA 建議量，1 歲以上男性在維生素 C 的攝取量達 RDA 建議量的 118－200%，女性則為  
 96－207%。
 
-![台灣人攝取維生素C的攝取量](/wp-content/uploads/2024/01/vitamin-c-1024x739.png)
+![台灣人攝取維生素C的攝取量](https://lennychen.com/wp-content/uploads/2024/01/vitamin-c-1024x739.png)
 
 換句話說，你如果在台灣有正常吃喝，就不需要額外補充維生素C。
 
@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/vitamin-c-1024x739.
 大航海時代，航海者們在航行時，由於缺乏維生素C，導致壞血病，而死亡的情況屢見不鮮。  
 後來，人們發現，如果在航行時，攜帶一些檸檬、橘子，就可以避免壞血病的發生，因此，航海者們開始攜帶檸檬，以防止壞血病的發生。
 
-![](/wp-content/uploads/2024/01/med_files_69-1024x585.png)
+![](https://lennychen.com/wp-content/uploads/2024/01/med_files_69-1024x585.png)
 
 如果你有聽過上面的歷史故事，那麼你就也對維生素C不陌生。
 

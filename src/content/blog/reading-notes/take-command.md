@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg"
 
 ### 建立自信：自我成長的核心動力
 
-![](/wp-content/uploads/2024/02/rp_files_103.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg)
 
 自信是自我成長過程中的核心動力。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg"
 
 這兩種心理狀態都是自我成長不可或缺的要素。
 
-![man praying](/wp-content/uploads/2024/03/optesfuzwoq-1024x683.jpg)
+![man praying](https://lennychen.com/wp-content/uploads/2024/03/optesfuzwoq-1024x683.jpg)
 
 ### 人際互動：自我成長的社會維度
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg"
 
 《超越人性的弱點，遇見更好的自己》鼓勵讀者設定清晰的人生目標，並通過持續的自我提升和努力，使自己的生活更加充實和有意義。
 
-![man standing in the middle of woods](/wp-content/uploads/2024/03/ktpsvecu0xu-819x1024.jpg)
+![man standing in the middle of woods](https://lennychen.com/wp-content/uploads/2024/03/ktpsvecu0xu-819x1024.jpg)
 
 ## 現代社會對自我成長的挑戰與對策
 
@@ -82,7 +82,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_103.jpg"
 
 這樣的互動不僅能增進彼此的理解，還能加深情感的連結。
 
-![two woman standing beside woman sitting in front of table](/wp-content/uploads/2024/03/zrhtqygfg6s-1024x683.jpg)
+![two woman standing beside woman sitting in front of table](https://lennychen.com/wp-content/uploads/2024/03/zrhtqygfg6s-1024x683.jpg)
 
 ### 快節奏生活：尋找平衡點
 

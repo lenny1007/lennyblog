@@ -27,7 +27,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_306.jpg"
 
 如林怡辰老師所提，學會**時間管理** 、管理自己、管理心情是解決時間不足的重要課題。  
 
-![](/wp-content/uploads/2024/02/rp_files_306.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_306.jpg)
 
 人們常常處於反應模式，而不是主動控制自己的時間。
 
@@ -57,7 +57,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_306.jpg"
 
 缺點則是，在極度繁忙的時候，找到時間「先支付給自己」會讓人感到特別有壓力。
 
-![person lying on bed while covering face with pillow and holding eyeglasses](/wp-content/uploads/2024/03/gfkpatimbvm-662x1024.jpg)
+![person lying on bed while covering face with pillow and holding eyeglasses](https://lennychen.com/wp-content/uploads/2024/03/gfkpatimbvm-662x1024.jpg)
 
 我個人認為，在先支付給自己的選項中，**睡眠是最重要卻最常被剝奪的** 。
 
@@ -69,7 +69,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_306.jpg"
 
 有效的方法是設定小目標，逐步達成，從而獲得成就感並逐步提高自控力。
 
-![three pens on white paper](/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
 
 此外，了解自己的意志力高峰期，並在這段時間內安排需要較大意志力的任務，也能幫助提高效率。
 

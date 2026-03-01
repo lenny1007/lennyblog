@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 ### 選擇最適合的投資標的
 
-![](/wp-content/uploads/2024/02/rp_files_441-1024x585.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x585.jpg)
 
 在眾多的投資選項中，找到最適合自己的投資標的十分關鍵。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 因此，對於大多數投資者而言，追求選股技巧可能不如選擇成本較低的指數型基金來得實在。
 
-![black and silver laptop computer](/wp-content/uploads/2024/03/mcauhlgirvs-1024x683.jpg)
+![black and silver laptop computer](https://lennychen.com/wp-content/uploads/2024/03/mcauhlgirvs-1024x683.jpg)
 
 ### 投資股票的策略
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441-1024x5
 
 過度頻繁地檢查投資組合會導致對短期市場波動的過度反應，因此建議投資者應該減少檢查頻率，專注於長期的投資目標。
 
-![Investment Scrabble text](/wp-content/uploads/2024/03/olsgcrlsykw-1024x576.jpg)
+![Investment Scrabble text](https://lennychen.com/wp-content/uploads/2024/03/olsgcrlsykw-1024x576.jpg)
 
 ### 早期投資的重要性
 

@@ -19,7 +19,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/pl_files_3.png"
 
 ### 誤解與過量風險
 
-![](/wp-content/uploads/2024/01/pl_files_3.png)
+![](https://lennychen.com/wp-content/uploads/2024/01/pl_files_3.png)
 
 研究中的抗氧化劑並非來自食物中的微量攝取，而是來自於高劑量的補充品。這是一個重要的區分，因為它涉及到了維生素的使用方式和劑量。在食物中攝取的維生素量通常是安全的，但是當轉為高濃度補充劑時，情況可能完全不同。
 

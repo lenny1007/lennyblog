@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x68
 
 專注力是很重要的能力。
 
-![woman right fist](/wp-content/uploads/2024/02/dgqwuppesrq-1024x684.jpg)
+![woman right fist](https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x684.jpg)
 
 克里斯·貝利在他的書中指出，專注力決定了我們生活的軌跡，是未來成就的預兆。
 
@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x68
 
 ## 極度專注力與分散專注力：專注力的雙刃劍
 
-![](/wp-content/uploads/2024/02/rp_files_351.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_351.jpg)
 
 《極度專注力》一書中介紹了兩種不同的專注力模式：極度專注力和分散專注力。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x68
 
 要實踐極度專注力，我們需要學會**排除分心因素** 。
 
-![white wooden table near brown chair](/wp-content/uploads/2024/02/nvzvopqw0gc-1024x683.jpg)
+![white wooden table near brown chair](https://lennychen.com/wp-content/uploads/2024/02/nvzvopqw0gc-1024x683.jpg)
 
 這包括將手機調至靜音模式、關閉不必要的應用程序通知，以及在工作時避免多任務操作。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x68
 
 這樣做可以幫助我們消化日常生活中的信息，並在不經意間醞釀出新的想法。
 
-![woman in white dress shirt and black pants standing on green grass field during daytime](/wp-content/uploads/2024/02/deelftloaym-1024x683.jpg)
+![woman in white dress shirt and black pants standing on green grass field during daytime](https://lennychen.com/wp-content/uploads/2024/02/deelftloaym-1024x683.jpg)
 
 作者還建議，在睡前設定目標也是一種有效的分散專注力的應用方法，能夠幫助我們整理思路，促進第二天的工作效率。
 

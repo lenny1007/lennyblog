@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_288.jpg"
 
 ### 如何改善
 
-![](/wp-content/uploads/2024/02/rp_files_288.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_288.jpg)
 
 良好溝通的基礎在於，不僅要有良好的聲音技巧，更重要的是要從內心深處出發，讓情感自然流露，這樣的聲音才更具有溫度。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_288.jpg"
 
 有效的溝通建立在真誠和信任之上，而這些都可以通過一個有溫度的聲音來傳達。
 
-![woman in black tank top sitting on couch using macbook](/wp-content/uploads/2024/03/ukyj3rwhnt8-1024x683.jpg)
+![woman in black tank top sitting on couch using macbook](https://lennychen.com/wp-content/uploads/2024/03/ukyj3rwhnt8-1024x683.jpg)
 
 研究表明，當人們感受到講者的情感和真誠時，更容易建立起連接和信任。
 
@@ -68,7 +68,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_288.jpg"
 
 例如，如果你感到緊張，你的聲音可能會顯得急促和尖銳，這時候你需要學會放鬆，讓聲音變得更溫暖、更平和。
 
-![woman wearing gray jacket](/wp-content/uploads/2024/03/lxesi17au6u-1024x683.jpg)
+![woman wearing gray jacket](https://lennychen.com/wp-content/uploads/2024/03/lxesi17au6u-1024x683.jpg)
 
 ### 傾聽他人
 
@@ -80,7 +80,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_288.jpg"
 
 《有溫度的溝通課》教導我們，好的溝通者會用心去感受對方的情緒和需求，並通過自己的聲音和表達來回應這些情感。
 
-![](/wp-content/uploads/2024/02/rp_files_287-1024x585.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_287-1024x585.jpg)
 
 ### 好聲音的思維
 

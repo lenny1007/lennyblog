@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fxvuvchvawg-1024x76
 
 作家透過研究案例闡明，無論是智商或其他天賦，都不是達到卓越的決定性因素，而是透過刻意練習來達成。
 
-![brown wooden blocks on white table](/wp-content/uploads/2024/02/fxvuvchvawg-1024x768.jpg)
+![brown wooden blocks on white table](https://lennychen.com/wp-content/uploads/2024/02/fxvuvchvawg-1024x768.jpg)
 
 書中涵蓋了傳統對於天分的認知，並說明了即使在某技之長上達到「可接受」的程度，如果不進行刻意練習，進步將會停滯。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fxvuvchvawg-1024x76
 ###   
 2\. 大腦的可塑性
 
-![](/wp-content/uploads/2024/02/rp_files_508.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_508.jpg)
 
 **《刻意練習》** 提出大腦和肌肉一樣，是可以被訓練和改變的。
 
@@ -80,7 +80,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fxvuvchvawg-1024x76
 
 ### 1\. 明確目標
 
-![three pens on white paper](/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 明確目標是進行刻意練習的第一步。
 
@@ -96,7 +96,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fxvuvchvawg-1024x76
 
 有效的回饋是刻意練習的另一個關鍵要素。
 
-![man in black crew neck t-shirt and black shorts](/wp-content/uploads/2024/02/xv7rif9vebc-683x1024.jpg)
+![man in black crew neck t-shirt and black shorts](https://lennychen.com/wp-content/uploads/2024/02/xv7rif9vebc-683x1024.jpg)
 
 學習者需要在練習後及時獲得回饋，並根據回饋調整練習方法，以便更有效地改善自己的表現[3]。
 

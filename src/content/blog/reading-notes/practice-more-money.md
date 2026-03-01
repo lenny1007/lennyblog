@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_110.jpg"
 
 ### 記帳的分析意義
 
-![](/wp-content/uploads/2024/02/rp_files_110.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_110.jpg)
 
 記帳的目的並非單純記錄每一筆花銷，而是要透過這些數據分析你的財務狀況。
 
@@ -58,7 +58,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_110.jpg"
 
 隨著時間的推移，即使是小額的定期投資也能夠積累成一筆可觀的財富。
 
-![text, letter](/wp-content/uploads/2024/03/bh6e_xfwe-4-1024x576.jpg)
+![text, letter](https://lennychen.com/wp-content/uploads/2024/03/bh6e_xfwe-4-1024x576.jpg)
 
 ### 複利的魔法
 
@@ -81,7 +81,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_110.jpg"
 
 ## **李柏鋒** 的金融智慧分享
 
-![green and white ceramic figurine](/wp-content/uploads/2024/03/1fzyz-bmkbw-1024x683.jpg)
+![green and white ceramic figurine](https://lennychen.com/wp-content/uploads/2024/03/1fzyz-bmkbw-1024x683.jpg)
 
 **李柏鋒** 作為一位資深的財經專家，他強調的不只是理財技巧，更是理財背後的哲學。
 

@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg"
 
 ### 閱讀推廣的策略
 
-![](/wp-content/uploads/2024/02/rp_files_96.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_96.jpg)
 
 在《療心圖書館》中，館長小編透露了許多成功的閱讀推廣策略。
 

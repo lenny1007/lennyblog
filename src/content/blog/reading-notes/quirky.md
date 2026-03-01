@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 ### 個人與團隊的創新心得
 
-![](/wp-content/uploads/2024/02/rp_files_250.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg)
 
 在創新的路上，個人與團隊都需要有敢於挑戰常規、創建專注環境、建立無畏失敗的自我效能感、激發遠大抱負以及透過自學拓展跨領域知識的能力。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 這種遠離感讓他們可以自由地思考，而不受既有規範的束縛。
 
-![man in gray shirt sits on cliff](/wp-content/uploads/2024/03/ww0buxttumu-1024x683.jpg)
+![man in gray shirt sits on cliff](https://lennychen.com/wp-content/uploads/2024/03/ww0buxttumu-1024x683.jpg)
 
 但這種孤獨也意味著他們經常與傳統觀念格格不入，需要承受外界的質疑與不理解。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 這種自信是他們能夠持續前進、不斷嘗試的核心動力。
 
-![man sitting on top of white wall](/wp-content/uploads/2024/03/uwmj6bdqthk-683x1024.jpg)
+![man sitting on top of white wall](https://lennychen.com/wp-content/uploads/2024/03/uwmj6bdqthk-683x1024.jpg)
 
 正是這份自信，讓他們在遇到困難時仍能保持積極的態度，並堅持自己的創新理念。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 他們不滿足於小的改變，總是朝著革命性的創新努力。
 
-![scrabble letters spelling dream, dream, and blg](/wp-content/uploads/2024/03/pc-hcoupsvg-1024x1024.jpg)
+![scrabble letters spelling dream, dream, and blg](https://lennychen.com/wp-content/uploads/2024/03/pc-hcoupsvg-1024x1024.jpg)
 
 這種野心驅使他們不斷超越自我，突破極限，在他們的領域內創造出前所未有的成就。
 
@@ -92,7 +92,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 他們了解時代的需求，並在適當的時機推出他們的創新成果。
 
-![person holding orange flower petals](/wp-content/uploads/2024/03/5q07ss54d0q-1024x768.jpg)
+![person holding orange flower petals](https://lennychen.com/wp-content/uploads/2024/03/5q07ss54d0q-1024x768.jpg)
 
 ### 善用資源：創新的實現條件
 
@@ -114,7 +114,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 無論是個人還是團隊，都應該努力營造一個適合思考和實驗的空間，減少干擾，提高創造力的發揮。
 
-![Apple MacBook beside computer mouse on table](/wp-content/uploads/2024/03/9l_326fiszk-1024x683.jpg)
+![Apple MacBook beside computer mouse on table](https://lennychen.com/wp-content/uploads/2024/03/9l_326fiszk-1024x683.jpg)
 
 這樣的環境有助於我們深入挖掘潛在的創新點子。
 
@@ -140,7 +140,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
 
 我們應該對各個領域保持好奇心，通過學習來拓寬自己的視野，這樣才能在創新的路上走得更遠。
 
-![MacBook Pro near green potted plant on table](/wp-content/uploads/2024/03/znrite8npqy-1024x683.jpg)
+![MacBook Pro near green potted plant on table](https://lennychen.com/wp-content/uploads/2024/03/znrite8npqy-1024x683.jpg)
 
 ## 結語
 

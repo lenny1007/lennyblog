@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_478.jpg"
 
 ### 紙本書與學習效果的關聯
 
-![](/wp-content/uploads/2024/02/rp_files_478.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_478.jpg)
 
 在電子書普及的今天，賈里德・庫尼・霍維斯仍然建議讀者使用紙本書來學習。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_478.jpg"
 
 當我們翻閱紙本書時，不僅是文字，書的厚度、紙張的觸感、甚至是閱讀時的位置，都會成為記憶的一部分，讓我們更容易回憶起所學的內容。
 
-![open book on top of several stacked books](/wp-content/uploads/2024/02/9daoyuynols-683x1024.jpg)
+![open book on top of several stacked books](https://lennychen.com/wp-content/uploads/2024/02/9daoyuynols-683x1024.jpg)
 
 ## 從教育神經科學的角度提升學習效能
 
@@ -58,7 +58,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_478.jpg"
 
 一次學太多，你忘得更快。
 
-![person writing on brown wooden table near white ceramic mug](/wp-content/uploads/2024/02/s9cc2skysjm-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/02/s9cc2skysjm-1024x683.jpg)
 
 這也是為何你背單字時，一天背一百個單字，跟分五天每天20個，後者更容易記住。
 
@@ -72,7 +72,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_478.jpg"
 
 回顧其實就是複習，你不見得一定要複習全部的內容，可以透過筆記、摘要來複習內容，並思考相關的內容有哪些是重要的。
 
-![a person writing on a piece of paper with a pen](/wp-content/uploads/2024/02/8esrc43qdro-684x1024.jpg)
+![a person writing on a piece of paper with a pen](https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-684x1024.jpg)
 
 《最高學習法》中提到，回顧不僅可以加強記憶，還可以幫助我們發現學習中的盲點。
 

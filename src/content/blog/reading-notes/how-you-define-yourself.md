@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x102
 
 他認為，生活不應該被工作主宰，而是工作應該成為生活的一部分。
 
-![person holding MacBook Pro besides orange power bank](/wp-content/uploads/2024/03/mv4gwtdd8tw-768x1024.jpg)
+![person holding MacBook Pro besides orange power bank](https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x1024.jpg)
 
 在快速變化的社會中，「組合式生活」提供了一種新的思考方式，讓我們不再被一種固定的工作形態所限制，而是可以根據自己的興趣、能力和生活需求，組合出獨特的工作和生活模式。  
 
 ## 「跳蚤工作者」的自由與責任
 
-![](/wp-content/uploads/2024/02/rp_files_261.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_261.jpg)
 
 漢第還提出了「跳蚤工作者」的概念。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x102
 
 這種工作方式，既充滿了挑戰，也充滿了機遇。
 
-![man in gray v neck long sleeve shirt playing brown acoustic guitar](/wp-content/uploads/2024/03/jnl7o-mj2cc-1024x683.jpg)
+![man in gray v neck long sleeve shirt playing brown acoustic guitar](https://lennychen.com/wp-content/uploads/2024/03/jnl7o-mj2cc-1024x683.jpg)
 
 它要求工作者擁有高度的自我管理能力，同時也給予了工作者前所未有的自由，去選擇那些真正能夠發揮自己長處和熱情的工作。
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x102
 
 這種對寫作的理解，體現了他對於知識與智慧的尊重。
 
-![person writing on brown wooden table near white ceramic mug](/wp-content/uploads/2024/03/s9cc2skysjm-1024x683.jpg)
+![person writing on brown wooden table near white ceramic mug](https://lennychen.com/wp-content/uploads/2024/03/s9cc2skysjm-1024x683.jpg)
 
 他通過書寫，與讀者進行思想上的對話，而不是單方面的灌輸。
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/mv4gwtdd8tw-768x102
 
 查爾斯·漢第強調賺錢應該是實現人生目的的手段，而不是目的本身。
 
-![](/wp-content/uploads/2024/03/1zo4o3z0uja-1024x683.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/03/1zo4o3z0uja-1024x683.jpg)
 
 他認為公司賺錢的目的應該是為了做更多、更好的事情，而個人賺錢則應該是為了實現更高的人生價值。
 

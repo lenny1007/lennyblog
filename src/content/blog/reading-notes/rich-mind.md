@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_441.jpg"
 
 ## 致富心態的實踐
 
-![](/wp-content/uploads/2024/02/rp_files_441.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_441.jpg)
 
 在實踐致富心態的過程中，我們需要從以下幾個方面著手：
 

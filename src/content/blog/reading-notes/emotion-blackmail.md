@@ -28,13 +28,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ajmxxhwxw_k-1024x68
 
 情緒勒索的行為模式可以**具體表現為怒吼、威脅、指責、沉默處罰** 等，而被勒索者則常常感到焦慮、罪惡和無力。
 
-![man in black crew neck shirt](/wp-content/uploads/2024/03/ajmxxhwxw_k-1024x683.jpg)
+![man in black crew neck shirt](https://lennychen.com/wp-content/uploads/2024/03/ajmxxhwxw_k-1024x683.jpg)
 
 這種情況長期存在，不僅會侵蝕個人的自尊和自我價值，還會導致人際關係的破裂。  
 
 ## 華人社會中情緒勒索的獨特性
 
-![](/wp-content/uploads/2024/02/rp_files_36.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_36.jpg)
 
 華人社會中的情緒勒索尤為常見，**這與傳統文化中重視家庭和諧、孝順與尊重權威的價值觀有關** 。
 
@@ -63,7 +63,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ajmxxhwxw_k-1024x68
 
 自我價值是指一個人對自己的認同和自我評價。
 
-![person in gray pants on brown and green grass field under white clouds during daytime](/wp-content/uploads/2024/03/a9khttbjpwy-683x1024.jpg)
+![person in gray pants on brown and green grass field under white clouds during daytime](https://lennychen.com/wp-content/uploads/2024/03/a9khttbjpwy-683x1024.jpg)
 
 當我們有著穩固的自我價值時，我們更有能力抵抗外界的負面影響，包括情緒勒索。
 

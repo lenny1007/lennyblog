@@ -24,11 +24,11 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/s4jsvchycos-1024x68
 
 台積電是目前世界上最大的獨立半導體晶圓代工廠，它的成立和崛起對全球半導體產業格局產生了深遠的影響。
 
-![person holding computer cell processor](/wp-content/uploads/2024/03/s4jsvchycos-1024x682.jpg)
+![person holding computer cell processor](https://lennychen.com/wp-content/uploads/2024/03/s4jsvchycos-1024x682.jpg)
 
 在《晶片戰爭》中，米勒詳細地描述了台積電如何從一個小公司成長為半導體界的巨人，以及它的成功如何依賴於持續的技術創新和穩定的國際合作。  
 
-![](/wp-content/uploads/2024/02/rp_files_86.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_86.jpg)
 
 台積電之所以能夠在全球半導體產業中佔據舉足輕重的地位，得益於其高效的管理體系、先進的生產技術，以及對市場需求變化的迅速響應能力。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/s4jsvchycos-1024x68
 
 然而，中國也不甘落後，其「去美國化」的戰略目標是減少對美國技術的依賴，並加速自主研發能力的建設。
 
-![flag of U.S.A.](/wp-content/uploads/2024/03/gox3fmgcwk4-1024x683.jpg)
+![flag of U.S.A.](https://lennychen.com/wp-content/uploads/2024/03/gox3fmgcwk4-1024x683.jpg)
 
 這場科技冷戰的結果將對全球半導體產業的未來走向產生重大影響。
 

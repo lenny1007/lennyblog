@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/quynet9qhkq-1-1024x
 
 ### 水準偏誤（Level）
 
-![brown wooden blocks with number 6](/wp-content/uploads/2024/02/quynet9qhkq-1-1024x768.jpg)
+![brown wooden blocks with number 6](https://lennychen.com/wp-content/uploads/2024/02/quynet9qhkq-1-1024x768.jpg)
 
 水準偏誤通常與我們對事物預期的標準有關。
 
@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/quynet9qhkq-1-1024x
 
 ### 穩定型態偏誤（Pattern）
 
-![](/wp-content/uploads/2024/02/rp_files_490.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_490.jpg)
 
 穩定型態偏誤則源於我們對特定模式的偏好。
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/quynet9qhkq-1-1024x
 
 掌握統計學的基本原理，可以幫助我們識別和避免常見的認知偏誤。
 
-![turned on flat screen monitor](/wp-content/uploads/2024/02/dbi_my696rk-1024x768.jpg)
+![turned on flat screen monitor](https://lennychen.com/wp-content/uploads/2024/02/dbi_my696rk-1024x768.jpg)
 
 ### 3\. 結構化決策過程
 

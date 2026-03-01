@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg"
 
 ## 溝通技巧與傾聽的藝術
 
-![](/wp-content/uploads/2024/02/rp_files_32.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg)
 
 郎祖筠在書中強調了傾聽在溝通中的重要性。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg"
 
 它要求人們需要**放下自己的成見和偏見，全心投入到對方的話語中** ，這對許多人來說是一個挑戰。
 
-![man sitting in front of another man also sitting inside room](/wp-content/uploads/2024/03/h0rxrhzhfxu-1024x683.jpg)
+![man sitting in front of another man also sitting inside room](https://lennychen.com/wp-content/uploads/2024/03/h0rxrhzhfxu-1024x683.jpg)
 
 ## 同理心在表演的應用
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg"
 
 然而，同理心並不等同於無條件的迎合。
 
-![woman in white vest and black bikini with hand on chest](/wp-content/uploads/2024/03/xmnel_otvws-2-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-2-683x1024.jpg)
 
 過度的同理可能會導致個人的界限混淆，甚至在某些情況下可能導致職業倦怠。
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg"
 
 這時候，可能需要尋求專業的心理諮詢或者其他形式的幫助。
 
-![woman in white long sleeve shirt lying on bed](/wp-content/uploads/2024/03/obmyfawozxm-1024x683.jpg)
+![woman in white long sleeve shirt lying on bed](https://lennychen.com/wp-content/uploads/2024/03/obmyfawozxm-1024x683.jpg)
 
 ## 創意在日常生活中的捕捉
 

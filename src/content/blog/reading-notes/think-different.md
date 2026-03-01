@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_439.jpg"
 
 ## 轉念的核心理念
 
-![](/wp-content/uploads/2024/02/rp_files_439.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_439.jpg)
 
 ### 四個提問
 

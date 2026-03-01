@@ -30,13 +30,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
 
 ## 批判性思考的挑戰
 
-![](/wp-content/uploads/2024/02/rp_files_505.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg)
 
 然而，批判性思考在實踐中面臨著諸多挑戰。
 
 其中之一便是「網路暴民」現象的興起。
 
-![man showing thumbs down](/wp-content/uploads/2024/02/pmvbryy9f3s-1024x1024.jpg)
+![man showing thumbs down](https://lennychen.com/wp-content/uploads/2024/02/pmvbryy9f3s-1024x1024.jpg)
 
 網路暴民通常在網絡上對他人進行道德批判，認為強烈譴責對方的錯誤行為可以提高自己的道德地位。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
 
 這包括質疑所呈現的資訊來源、探究論述背後的假設以及尋找支持和反對的證據。
 
-![man in gray button up shirt](/wp-content/uploads/2024/02/b9ybnbaemmi-683x1024.jpg)
+![man in gray button up shirt](https://lennychen.com/wp-content/uploads/2024/02/b9ybnbaemmi-683x1024.jpg)
 
 葛萊姆斯認為，通過檢驗證據和推理，追踪論證的邏輯路徑，我們可以有效地培養理性思考能力。
 

@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_481.jpg"
 
 ## 手機應用如何設計來控制我們？
 
-![](/wp-content/uploads/2024/02/rp_files_481.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_481.jpg)
 
 手機應用程式設計師利用**回饋機制、聲音效果和視覺刺激來吸引用戶** ，這些設計旨在延長用戶的使用時間並增加多巴胺的釋放，這種「期待感」使得用戶不斷回到應用程式來滿足自己。
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_481.jpg"
 
 鎖保險箱也不失為一種極端但有效的做法。
 
-![green and white cactus table decor on gray steel file cabinet](/wp-content/uploads/2024/02/pexels-photo-1228483.jpeg)Photo by Designecologist on [Pexels.com](<https://www.pexels.com/photo/green-and-white-cactus-table-decor-on-gray-steel-file-cabinet-1228483/>)
+![green and white cactus table decor on gray steel file cabinet](https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-1228483.jpeg)Photo by Designecologist on [Pexels.com](<https://www.pexels.com/photo/green-and-white-cactus-table-decor-on-gray-steel-file-cabinet-1228483/>)
 
 #### **專注力**
 
@@ -82,7 +82,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_481.jpg"
 
 如果這時候要純粹靠自己去限制手機，其實是事倍功半的，你已經需要協助了。
 
-![man in black leather jacket](/wp-content/uploads/2024/03/9bng6kj4g7i-684x1024.jpg)
+![man in black leather jacket](https://lennychen.com/wp-content/uploads/2024/03/9bng6kj4g7i-684x1024.jpg)
 
 除了上面的運動和社交活動，還建議你可以透過冥想去增加你對於反射性反應的大腦的彈性。
 

@@ -25,7 +25,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ynasz-e7qss-1024x68
 
 這種思維的轉變對於行銷來說至關重要，因為它將焦點從產品轉移到了客戶身上。
 
-![woman selecting packed food on gondola](/wp-content/uploads/2024/03/ynasz-e7qss-1024x683.jpg)
+![woman selecting packed food on gondola](https://lennychen.com/wp-content/uploads/2024/03/ynasz-e7qss-1024x683.jpg)
 
 當在網站首頁設計時，必須要讓訪問者迅速認知到他們是這個故事的主角，
 
@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/ynasz-e7qss-1024x68
 
 唐納德·米勒在《跟誰行銷都成功》一書中提出了七大黃金法則，這些法則對於打造一個有效的**網站首頁** 至關重要：  
 
-![](/wp-content/uploads/2024/02/rp_files_173-1024x585.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_173-1024x585.jpg)
 
   1. **讓客戶成為英雄** ：
      * 不要讓品牌成為故事的主角，而是要將客戶置於這個位置。

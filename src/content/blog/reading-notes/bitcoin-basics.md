@@ -18,7 +18,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/igyibhdntpe-1024x68
 
 ## 加密貨幣的技術原理
 
-![gold-colored Bitcoin](/wp-content/uploads/2024/02/igyibhdntpe-1024x684.jpg)
+![gold-colored Bitcoin](https://lennychen.com/wp-content/uploads/2024/02/igyibhdntpe-1024x684.jpg)
 
 加密貨幣的核心技術基於區塊鏈，一種去中心化的數據庫技術，能夠在不同參與者間安全地記錄交易。
 
@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/igyibhdntpe-1024x68
 
 ## 投資加密貨幣的風險與挑戰
 
-![](/wp-content/uploads/2024/02/rp_files_456.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_456.jpg)
 
 投資加密貨幣伴隨著高風險和高報酬。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/igyibhdntpe-1024x68
 
 此外，加密貨幣市場缺乏傳統金融市場的監管，使其容易受到市場操縱和欺詐行為的影響。
 
-![a person wearing a mask using a laptop](/wp-content/uploads/2024/02/56cjivg10lo-816x1024.jpg)
+![a person wearing a mask using a laptop](https://lennychen.com/wp-content/uploads/2024/02/56cjivg10lo-816x1024.jpg)
 
 除此之外，加密貨幣礦工的集中程度和持有者的集中度也是不容忽視的問題。
 

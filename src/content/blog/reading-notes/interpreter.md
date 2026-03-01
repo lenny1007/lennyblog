@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg"
 
 而**解讀** 則是在**閱讀** 的基礎上更進一步的思考，它要求讀者對信息進行詮釋、建立觀點，並將其與自己的知識和經驗相結合，從而產生更深層次的理解和創意。  
 
-![](/wp-content/uploads/2024/02/rp_files_79.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg)
 
 換言之，**閱讀** 是獲取原材料的過程，而**解讀** 則是將這些原材料轉化為有用知識的技巧。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg"
 
 在**輸入** 階段，優秀的解讀者需要學會選擇有質量的讀物。
 
-![three white and red labeled boxes](/wp-content/uploads/2024/03/ofzuaeykp3k-1024x683.jpg)
+![three white and red labeled boxes](https://lennychen.com/wp-content/uploads/2024/03/ofzuaeykp3k-1024x683.jpg)
 
 不僅是挑選那些內容豐富、寫作精良的書籍，更是要能夠辨識那些能夠觸發深思和提供不同視角的資料。
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg"
 
 其實對我來說，當讀過的書到一定量的時候，大部分時候閱讀新書的內容，腦中自然會出現與新書內容類似的見解，或者是矛盾的見解。
 
-![man sitting on rock surrounded by water](/wp-content/uploads/2024/03/q_t4scn8c4-1024x680.jpg)
+![man sitting on rock surrounded by water](https://lennychen.com/wp-content/uploads/2024/03/q_t4scn8c4-1024x680.jpg)
 
 透過思考，在閱讀分析的同時，可以針對書中的見解，思考出自己相對認同、或者不認同的想法。
 
@@ -76,7 +76,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg"
 
 在《**解讀者** 》中，黃國珍就展示了如何將解讀技巧應用於教學和設計思考中，並幫助學生和企業發現創新的解決方案。
 
-![unknown person writing](/wp-content/uploads/2024/03/tcyw6im5uug-683x1024.jpg)
+![unknown person writing](https://lennychen.com/wp-content/uploads/2024/03/tcyw6im5uug-683x1024.jpg)
 
 如果思考過後，沒有輸出的步驟，其實很容易就遺忘自己所思考過的想法。
 

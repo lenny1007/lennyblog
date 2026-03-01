@@ -24,7 +24,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-683x102
 
 從科學實驗到古老呼吸法的智慧，都指出了呼吸的正確性對維持身心健康的重要性。
 
-![woman in white vest and black bikini with hand on chest](/wp-content/uploads/2024/03/xmnel_otvws-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-683x1024.jpg)
 
 ### 現代呼吸問題的普遍性
 
@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-683x102
 
 ### 呼吸法的科學實驗支持
 
-![](/wp-content/uploads/2024/02/rp_files_304.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_304.jpg)
 
 詹姆斯·奈斯特在他的作品《3.3秒的呼吸奧秘》中，參與了史丹佛大學的呼吸實驗，並走訪世界各地，學習並實踐古老的呼吸法。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-683x102
 
 在人類演化過程中，由於大腦的發展，我們的臉部結構發生了顯著的變化。
 
-![black Gorilla](/wp-content/uploads/2024/03/igfqapt4n2e-576x1024.jpg)
+![black Gorilla](https://lennychen.com/wp-content/uploads/2024/03/igfqapt4n2e-576x1024.jpg)
 
 這導致了鼻腔和氣道的縮小，從而影響了我們的呼吸能力。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-683x102
 
 長期口呼吸可能會改變面部結構，導致牙齒排列問題和氣道進一步縮小。
 
-![man in black leather jacket](/wp-content/uploads/2024/03/9bng6kj4g7i-684x1024.jpg)
+![man in black leather jacket](https://lennychen.com/wp-content/uploads/2024/03/9bng6kj4g7i-684x1024.jpg)
 
 因此，避免口呼吸，改為鼻呼吸，對健康至關重要。
 

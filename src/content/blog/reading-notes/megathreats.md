@@ -32,13 +32,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-1024x68
 
 公私部門的債務比率持續上升，再加上央行持續升息，對於已經背負重債的國家、企業和家庭來說，這是一個沉重的壓力。
 
-![person holding brown leather bifold wallet](/wp-content/uploads/2024/03/3agz7a97qwa-1024x683.jpg)
+![person holding brown leather bifold wallet](https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-1024x683.jpg)
 
 債務的累積可能導致未來的金融危機，進而影響全球經濟的穩定。  
 
 ### 去全球化
 
-![](/wp-content/uploads/2024/02/rp_files_262.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_262.jpg)
 
 在過去數十年，全球化似乎是不可逆轉的趨勢，然而《大威脅》提到，近年來的一系列政治和經濟事件，如貿易戰、民族主義的興起等，都在促使全球化進程出現逆轉。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-1024x68
 
 隨著生育率下降和平均壽命提高，《大威脅》指出，許多國家面臨人口高齡化的問題。
 
-![man in gray suit standing near body of water during daytime](/wp-content/uploads/2024/03/5frmhnkrx1e-683x1024.jpg)
+![man in gray suit standing near body of water during daytime](https://lennychen.com/wp-content/uploads/2024/03/5frmhnkrx1e-683x1024.jpg)
 
 這不僅會對退休金系統和醫療保險系統造成壓力，還可能導致勞動力市場緊縮，進而影響經濟生產力。
 
@@ -79,7 +79,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/3agz7a97qwa-1024x68
 
 例如，一些專家認為科技進步會創造新的就業機會，而不僅僅是消滅就業崗位。
 
-![person walking holding brown leather bag](/wp-content/uploads/2024/03/6dw3xyqvcye-1-1024x683.jpg)
+![person walking holding brown leather bag](https://lennychen.com/wp-content/uploads/2024/03/6dw3xyqvcye-1-1024x683.jpg)
 
 此外，有觀點認為全球化的逆轉可能不會像《大威脅》所預測的那樣嚴重，因為經濟全球化有其深厚的基礎和廣泛的利益相關方。
 

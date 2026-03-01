@@ -32,7 +32,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_87.jpg"
 
 ## 書中實踐共贏思維的具體案例
 
-![](/wp-content/uploads/2024/02/rp_files_87.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_87.jpg)
 
 在《讓別人贏》中，黃冠華通過多個具體案例，深入講述了共贏思維的實踐。
 
@@ -44,7 +44,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_87.jpg"
 
 這些案例生動展示了共贏思維如何在不同領域中發揮作用，不僅解決了當下的問題，也為未來的發展打下了堅實的基礎。
 
-![man in white dress shirt sitting beside woman in black long sleeve shirt](/wp-content/uploads/2024/03/376kn_isple-1-1024x683.jpg)
+![man in white dress shirt sitting beside woman in black long sleeve shirt](https://lennychen.com/wp-content/uploads/2024/03/376kn_isple-1-1024x683.jpg)
 
 ## 共贏思維在天使投資領域的運用
 

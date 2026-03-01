@@ -28,13 +28,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x102
 
 閱讀不僅是一種逃避現實的手段，更是一種自我教育和成長的過程。
 
-![person holding white ceramic mug with coffee](/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg)
+![person holding white ceramic mug with coffee](https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg)
 
 閱讀的意義在於它如何幫助我們從痛苦和遺憾中學習，從而實現自我成長。  
 
 ### 真正的自我實現
 
-![](/wp-content/uploads/2024/02/rp_files_108.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_108.jpg)
 
 曾寶儀在與藏傳佛教的大寶法王對話時，被告知「**做好妳自己就好** 」。
 
@@ -48,7 +48,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x102
 
 她意識到，不必完全受制於他人的期望，追求內心的自由才是最重要的。
 
-![man in gray shirt sits on cliff](/wp-content/uploads/2024/03/ww0buxttumu-1024x683.jpg)
+![man in gray shirt sits on cliff](https://lennychen.com/wp-content/uploads/2024/03/ww0buxttumu-1024x683.jpg)
 
 這不僅是自我實現的一部分，也是尊重自己的表現。
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x102
 
 自我實現不僅僅是一個目標，它是一個持續的過程，與個人成長緊密相連。
 
-![woman in white vest and black bikini with hand on chest](/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
 
 **我們每個人都有潛在的能力去成為更好的自己。**
 

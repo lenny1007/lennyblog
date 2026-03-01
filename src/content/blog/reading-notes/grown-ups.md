@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg"
 
 ### 突破自我限制的方法
 
-![](/wp-content/uploads/2024/02/rp_files_124.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg)
 
 書中建議，要突破自我限制，首先需要自我認知，然後**設定具體且可實現的目標** 。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg"
 
 書中提到，我們應該學會傾聽他人，表達自己的想法與情感，並適時提供反饋。
 
-![woman in black jacket sitting beside woman in white blazer](/wp-content/uploads/2024/03/ijkioe-2ff4-1024x683.jpg)
+![woman in black jacket sitting beside woman in white blazer](https://lennychen.com/wp-content/uploads/2024/03/ijkioe-2ff4-1024x683.jpg)
 
 同時，非語言溝通也不容忽視，因為身體語言、面部表情和語調等都能傳遞重要的信息。
 
@@ -66,7 +66,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg"
 
 學會情緒調節的技巧，比如深呼吸、正念冥想，能幫助我們在壓力或情緒波動時保持冷靜。
 
-![woman in white vest and black bikini with hand on chest](/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
+![woman in white vest and black bikini with hand on chest](https://lennychen.com/wp-content/uploads/2024/03/xmnel_otvws-1-683x1024.jpg)
 
 ### 建立信任的策略
 
@@ -94,7 +94,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_124.jpg"
 
 劉軒認為，我們應該學會正確使用社群媒體，讓它成為溝通和擴展人際網絡的工具，而不是讓它成為生活的負擔。
 
-![black iphone 5 on gray textile](/wp-content/uploads/2024/03/lqyqm2icicy-1024x683.jpg)
+![black iphone 5 on gray textile](https://lennychen.com/wp-content/uploads/2024/03/lqyqm2icicy-1024x683.jpg)
 
 ### 社群媒體的正負面影響
 

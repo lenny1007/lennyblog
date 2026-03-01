@@ -34,7 +34,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_296.jpg"
 
 ## 「最美五套」的選擇建議
 
-![](/wp-content/uploads/2024/02/rp_files_296.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_296.jpg)
 
 作者在書中提出了關於選擇衣服的建議。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_296.jpg"
 
 例如，一件基本款的連衣裙可以通過搭配不同的項鍊、耳環或是手袋，輕鬆適應從日常工作到晚宴的各種場合。
 
-![woman in black long sleeve shirt and black pants](/wp-content/uploads/2024/03/a3mlea0jtoe-768x1024.jpg)
+![woman in black long sleeve shirt and black pants](https://lennychen.com/wp-content/uploads/2024/03/a3mlea0jtoe-768x1024.jpg)
 
 ## 「最美五套」的核心理念
 
@@ -70,7 +70,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_296.jpg"
 
 再者，它還鼓勵人們投資在質量更好、更能夠代表個人風格的衣物上，從而減少不必要的消費和浪費。
 
-![assorted clothes in wooden hangers](/wp-content/uploads/2024/03/dlxlgiy-2vu-1024x683.jpg)
+![assorted clothes in wooden hangers](https://lennychen.com/wp-content/uploads/2024/03/dlxlgiy-2vu-1024x683.jpg)
 
 ## 「最美五套」的局限性
 

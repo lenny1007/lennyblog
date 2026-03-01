@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_125.jpg"
 
 ### 1\. 明確長期目標
 
-![](/wp-content/uploads/2024/02/rp_files_125.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_125.jpg)
 
 要培養毅力，首先需要有一個清晰且持久的**長期目標** 。
 
@@ -52,7 +52,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_125.jpg"
 
 每當達成一個小目標，就有機會慶祝勝利。
 
-![three pens on white paper](/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg)
 
 這些正向的反饋會增強你的決心，並推動你繼續前行。
 
@@ -76,7 +76,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_125.jpg"
 
 他們不僅能提供鼓勵，還能給出寶貴的建議，幫助你更好地調整策略並堅持下去。
 
-![man in black crew neck t-shirt and black shorts](/wp-content/uploads/2024/03/xv7rif9vebc-683x1024.jpg)
+![man in black crew neck t-shirt and black shorts](https://lennychen.com/wp-content/uploads/2024/03/xv7rif9vebc-683x1024.jpg)
 
 ## 毅力的量化
 

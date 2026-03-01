@@ -26,13 +26,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/qsuou3vatf4-1024x57
 
 然而，當疫情如颶風般席卷全球時，這項技術顯示出其開發速度快、可定制性強的獨特優勢，使得mRNA技術迅速成為開發疫苗的重要手段。
 
-![3 clear glass bottles on table](/wp-content/uploads/2024/02/qsuou3vatf4-1024x576.jpg)
+![3 clear glass bottles on table](https://lennychen.com/wp-content/uploads/2024/02/qsuou3vatf4-1024x576.jpg)
 
 當世界急需找到對抗新冠病毒的有效手段時，mRNA技術的潛力被迅速激活，一躍成為疫苗開發的關鍵。  
 
 ### 疫情前mRNA技術的挑戰
 
-![](/wp-content/uploads/2024/02/rp_files_464.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_464.jpg)
 
 在新冠疫情之前，mRNA技術面臨著眾多挑戰。
 
@@ -56,7 +56,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/qsuou3vatf4-1024x57
 
 《疫苗商戰》中，我們看到了科學家們在面對疑慮和挑戰時的堅持和奮鬥。
 
-![person holding red and white string lights](/wp-content/uploads/2024/02/trnwwgvujum-683x1024.jpg)
+![person holding red and white string lights](https://lennychen.com/wp-content/uploads/2024/02/trnwwgvujum-683x1024.jpg)
 
 他們對mRNA技術的信仰，以及對於科學與創新的執著，最終為人類帶來了希望。
 
@@ -100,7 +100,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/qsuou3vatf4-1024x57
 
 書中的每一個故事都在提醒我們，在面對未知和挑戰時，科學的力量是不可低估的。
 
-![woman standing inside cave](/wp-content/uploads/2024/02/lra_wtczjgw-1024x684.jpg)
+![woman standing inside cave](https://lennychen.com/wp-content/uploads/2024/02/lra_wtczjgw-1024x684.jpg)
 
 同時，它也強調了信念和堅持的重要性，以及在全球化時代，跨國合作對於解決人類面臨的共同問題的必要性。
 

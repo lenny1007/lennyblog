@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_203.jpg"
 
 # 《思考馬達》：引領深度思考的四步驟
 
-![](/wp-content/uploads/2024/02/rp_files_203.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_203.jpg)
 
 《思考馬達》一書的核心理念是透過四個步驟來啟動思考過程，這些步驟不僅幫助我們解決問題，還能夠優化我們的人生策略。這四個步驟具體包括：
 
@@ -47,7 +47,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_203.jpg"
 
 這四個步驟相互依賴，共同構成了一個完整的思考過程，幫助我們在面對複雜問題時，能夠有條不紊地找到出路。
 
-![3 x 3 rubiks cube](/wp-content/uploads/2024/03/lrlyzzx6sws-818x1024.jpg)
+![3 x 3 rubiks cube](https://lennychen.com/wp-content/uploads/2024/03/lrlyzzx6sws-818x1024.jpg)
 
 ## 作家如何克服分享創作時的困難
 
@@ -93,7 +93,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_203.jpg"
 
 曾培祐透過這本書傳達了一個信息：良好的思考習慣是可以培養的，而且這種習慣對於個人成功和幸福至關重要。
 
-![](/wp-content/uploads/2024/02/rp_files_105.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_105.jpg)
 
 《思考馬達》的四步驟模式簡單易懂，且具有高度的實用性。
 

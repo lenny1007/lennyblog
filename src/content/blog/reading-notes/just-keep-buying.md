@@ -36,7 +36,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
 
 ### 為何投資股票
 
-![](/wp-content/uploads/2024/02/rp_files_101.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg)
 
 《持續買進》進一步解釋了股票作為生財資產的優勢。
 
@@ -78,7 +78,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
 
 資料分析的運用，也體現了當代理財策略的一個趨勢——科學化和量化。
 
-![a person holding up a black book with the word buy written on it](/wp-content/uploads/2024/03/zbjfbi8h7km-683x1024.jpg)
+![a person holding up a black book with the word buy written on it](https://lennychen.com/wp-content/uploads/2024/03/zbjfbi8h7km-683x1024.jpg)
 
 ### 長期投資的重要性
 

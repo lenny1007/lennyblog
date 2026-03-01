@@ -13,7 +13,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/image-1024x764.png"
 
 然而，儘管維他命D如此重要，但過量與缺乏的現象仍屢見不鮮。
 
-![台灣人維生素D的攝取情況](/wp-content/uploads/2024/01/image-1024x764.png)
+![台灣人維生素D的攝取情況](https://lennychen.com/wp-content/uploads/2024/01/image-1024x764.png)
 
 在衛服部的[國民營養健康調查](<https://www.hpa.gov.tw/File/Attach/15562/File_18775.pdf>)中，
 
@@ -25,7 +25,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/image-1024x764.png"
 **恩，台灣人缺乏維生素D的情況蠻普遍的。  
 但不要慌，維生素D缺乏的情況，並不是台灣人獨有的問題，全世界都有。**
 
-![台灣人不缺維生素D](/wp-content/uploads/2024/01/med_files_80-1-1024x585.png)
+![台灣人不缺維生素D](https://lennychen.com/wp-content/uploads/2024/01/med_files_80-1-1024x585.png)
 
 ## 為什麼維生素D 在台灣的缺乏情況如此普遍?
 

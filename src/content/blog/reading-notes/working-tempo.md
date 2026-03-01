@@ -25,7 +25,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_516.jpg"
 
 ## 工作節奏的重要性
 
-![](/wp-content/uploads/2024/02/rp_files_516.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_516.jpg)
 
 工作節奏是指一個人在工作中的節奏感，包括工作速度、工作強度以及工作與休息的配比。
 

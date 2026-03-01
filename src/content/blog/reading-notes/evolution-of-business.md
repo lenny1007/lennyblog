@@ -20,7 +20,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 ## 商業演進的跨時代之旅
 
-![](/wp-content/uploads/2024/02/rp_files_98.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg)
 
 《商業簡史》的作者劉潤是中國知名商業顧問，潤米諮詢創始人，50萬學員《劉潤5分鐘商學院》主理人。
 
@@ -42,7 +42,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 這些連結不僅僅是地理上的，更是思想和資訊的交流，編織了一個繁榮昌盛的商業世界。
 
-![person in black long sleeve shirt holding persons hand](/wp-content/uploads/2024/02/y5bvrlccx8k-683x1024.jpg)
+![person in black long sleeve shirt holding persons hand](https://lennychen.com/wp-content/uploads/2024/02/y5bvrlccx8k-683x1024.jpg)
 
 在書中提到的「超級節點」概念，進一步擴展了「連結」的意義。
 
@@ -60,7 +60,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
 
 這為商家創造了長期利潤的機會，而不是僅僅依賴於短期的市場優勢。
 
-![person in blue shirt writing on white paper](/wp-content/uploads/2024/03/8mikj83lmsq-1024x678.jpg)
+![person in blue shirt writing on white paper](https://lennychen.com/wp-content/uploads/2024/03/8mikj83lmsq-1024x678.jpg)
 
 ## 「紅利」與「利潤」的區分
 

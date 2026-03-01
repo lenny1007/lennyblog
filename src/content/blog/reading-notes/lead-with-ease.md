@@ -28,11 +28,11 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x68
 
 賴婷婷強調了信念和目標設定的重要性，認為只有明確的目標才能指引團隊前行。
 
-![three pens on white paper](/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
 
 ### 做事篇：領導力的實踐路徑
 
-![](/wp-content/uploads/2024/02/rp_files_263.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_263.jpg)
 
 領導者的行動和決策直接影響團隊的運行和發展。
 
@@ -54,7 +54,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x68
 
 也談到了領導者如何根據不同成員的特質，選擇合適的引導方式。
 
-![brown game pieces on white surface](/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
+![brown game pieces on white surface](https://lennychen.com/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
 
 ## 領導力的挑戰與對策
 
@@ -68,13 +68,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x68
 
 作為管理者，領導者需要確保團隊的高效運作，為團隊成員提供清晰的指導和標準。
 
-![three men sitting while using laptops and watching man beside whiteboard](/wp-content/uploads/2024/03/wd1lrb9oeeo-1-1024x768.jpg)
+![three men sitting while using laptops and watching man beside whiteboard](https://lennychen.com/wp-content/uploads/2024/03/wd1lrb9oeeo-1-1024x768.jpg)
 
 这需要領導者具備良好的組織和計劃能力，以及在必要時果斷下決策的勇氣。
 
 ### 教練角色：成長與發展
 
-![woman kneeling beside man](/wp-content/uploads/2024/03/r0y_beujiom-1024x683.jpg)
+![woman kneeling beside man](https://lennychen.com/wp-content/uploads/2024/03/r0y_beujiom-1024x683.jpg)
 
 在教練的角色中，領導者更多地扮演著指導和支持的角色。
 
@@ -86,7 +86,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x68
 
 這不僅僅是關於設定目標，更是關於激勵團隊成員，使他們能夠在追求共同目標的過程中，展現創新和創造力。
 
-![](/wp-content/uploads/2024/02/rp_files_260-1024x585.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_260-1024x585.jpg)
 
 ## 實例支持：領導力的現實應用
 

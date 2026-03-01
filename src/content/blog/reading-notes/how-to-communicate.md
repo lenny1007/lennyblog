@@ -18,7 +18,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x68
 
 在《順勢溝通》中，張忘形不僅僅將溝通視為一種技巧，更強調了溝通的本質在於理解與選擇。
 
-![silhouette of two person sitting on chair near tree](/wp-content/uploads/2024/02/m9jrkdxoqou-1024x683.jpg)
+![silhouette of two person sitting on chair near tree](https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x683.jpg)
 
 他認為，溝通並不是單純的語言交換，而是一種情感的共鳴、思想的碰撞和決策的過程。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x68
 
 ### 情緒處理的智慧
 
-![](/wp-content/uploads/2024/02/rp_files_450.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_450.jpg)
 
 **張忘形在《順勢溝通》中提到，處理溝通中的情緒，關鍵在於接納、共感與理解。**
 
@@ -64,7 +64,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x68
 
 傾聽是溝通不可或缺的一部分。真正的傾聽不僅是聽到對方的話，更包括理解對方的意圖和情感。
 
-![brown wooden i love you letter](/wp-content/uploads/2024/02/ms20cgmwapw-1024x768.jpg)
+![brown wooden i love you letter](https://lennychen.com/wp-content/uploads/2024/02/ms20cgmwapw-1024x768.jpg)
 
 張忘形提倡的「主動傾聽」技巧，包括注意對方的非語言信號，回饋信息以確認理解，以及展現出對對方言論的興趣和尊重。
 
@@ -102,7 +102,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/m9jrkdxoqou-1024x68
 
 在解決客戶投訴時，情緒的處理尤為重要。
 
-![man in white button up shirt smiling](/wp-content/uploads/2024/02/wagmkmj2f0y-1024x691.jpg)
+![man in white button up shirt smiling](https://lennychen.com/wp-content/uploads/2024/02/wagmkmj2f0y-1024x691.jpg)
 
 傾聽客戶的不滿，同情他們的處境，並提供合理的解決方案。
 

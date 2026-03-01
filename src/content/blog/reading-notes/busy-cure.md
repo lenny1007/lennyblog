@@ -26,13 +26,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_308.jpg"
 
 ## 繁忙循環的樣貌
 
-![](/wp-content/uploads/2024/02/rp_files_308.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_308.jpg)
 
 首先，讓我們來診斷繁忙循環的特點。
 
 時間管理不當往往導致工作積壓，而這正是繁忙循環的開始。
 
-![person using computer on brown wooden table](/wp-content/uploads/2024/03/by34glow7wa-1024x683.jpg)
+![person using computer on brown wooden table](https://lennychen.com/wp-content/uploads/2024/03/by34glow7wa-1024x683.jpg)
 
 工作效率的低下會使得工作積壓如雪球般越滾越大，而時間又常常被緊急但非重要的任務所佔用。
 
@@ -48,7 +48,7 @@ Everett 提到，要打破這個循環，首先要做的就是停下來，對工
 
 在《瘋狂繁忙救援法》中，提升生產力的策略涵蓋了幾個核心要素：設定清晰的目標、合理分配工作和時間、以及學會拒絕無關緊要的任務。
 
-![three pens on white paper](/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
 
 **Everett 強調，目標的清晰有助於集中注意力和資源，從而提高工作效率。**
 
@@ -66,7 +66,7 @@ Everett 在書中提出，主管應該成為時間管理的榜樣，並且創造
 
 這需要主管不僅要管理好自己的時間，還要幫助團隊成員識別和集中於那些對團隊目標最有貢獻的工作。
 
-![brown game pieces on white surface](/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
+![brown game pieces on white surface](https://lennychen.com/wp-content/uploads/2024/03/qozzjpfz2lg-1024x683.jpg)
 
 透過定期的溝通和反饋，主管可以和團隊成員一起設定清晰的目標和期望。
 
@@ -88,7 +88,7 @@ Everett 在書中提出，主管應該成為時間管理的榜樣，並且創造
 
 通過主動和主管討論哪些工作更為重要，員工可以更有效地安排自己的工作計畫，並且避免陷入不必要的繁忙中。
 
-![man in blue long sleeve shirt holding smartphone](/wp-content/uploads/2024/03/v89zhr0ibfy-1024x683.jpg)
+![man in blue long sleeve shirt holding smartphone](https://lennychen.com/wp-content/uploads/2024/03/v89zhr0ibfy-1024x683.jpg)
 
 《瘋狂繁忙救援法》為我們提供了一套全面的時間管理框架，不僅有助於個人生產力的提升，也為團隊管理提供了指導。
 

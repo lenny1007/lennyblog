@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_85.jpg"
 
 ## 提升演講技巧以達成目標
 
-![](/wp-content/uploads/2024/02/rp_files_85.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_85.jpg)
 
 愛瑞克指出，要通過演講技巧達成目標，我們需要找到觀眾的痛點，使用「先演後講」的方式，並利用鏡像神經元技巧讓聽眾感同身受。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_85.jpg"
 
 這種方式幫助個人更好地組織自己的生活和工作，提高效率和成效。
 
-![man in black long sleeve shirt sitting on black chair](/wp-content/uploads/2024/03/zcb1peosu3m-1024x683.jpg)
+![man in black long sleeve shirt sitting on black chair](https://lennychen.com/wp-content/uploads/2024/03/zcb1peosu3m-1024x683.jpg)
 
 ## 逆向工程的實踐
 

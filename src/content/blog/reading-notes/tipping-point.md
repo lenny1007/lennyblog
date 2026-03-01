@@ -32,13 +32,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_302.jpg"
 
 他們透過分享書單、讀書心得或是引領討論，能夠對他人的閱讀習慣產生顯著的影響。  
 
-![](/wp-content/uploads/2024/02/rp_files_302.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_302.jpg)
 
 例如，當一位受尊敬的作家推薦一本書時，這本書的閱讀率通常會因為這位作家的影響力而上升。
 
 這種由少數人帶動的趨勢，對於點燃閱讀動力具有不可忽視的作用。
 
-![](/wp-content/uploads/2024/03/PXL_20240304_073852718-1024x768.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/03/PXL_20240304_073852718-1024x768.jpg)
 
 ## The Tipping Point - 引爆趨勢英文版
 
@@ -54,7 +54,7 @@ Malcolm Gladwell 的寫作能力很強，用字與段落的安排讓人感到舒
 
 在鼓勵閱讀方面，這意味著光有好書還不夠，我們還需要透過有效的方式來分享和推廣這些書籍。
 
-![person holding white ceramic mug with coffee](/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg)
+![person holding white ceramic mug with coffee](https://lennychen.com/wp-content/uploads/2024/03/8bdrgah3l5q-683x1024.jpg)
 
 這可能包括創建引人入勝的書評、進行書籍討論會，或是在社交媒體上創建閱讀相關的挑戰和活動。
 

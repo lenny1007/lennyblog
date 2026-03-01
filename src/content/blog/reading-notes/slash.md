@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_37.jpg"
 
 這樣的觀點對於斜槓青年來說，是一種更為健康且可持續的成功觀。  
 
-![](/wp-content/uploads/2024/02/rp_files_37.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_37.jpg)
 
 Susan Kuang在書中給出了一些切實可行的建議，比如成為內控者、追求少而精而非多而廣、先追求成品後追求成果、先追求廣度後追求深度等。
 
@@ -42,7 +42,7 @@ Susan Kuang在書中給出了一些切實可行的建議，比如成為內控者
 
 這種觀點為人們提供了一種新的成功模式，不再僅僅以金錢和名聲為導向，而是尋求一種更深層次的滿足感和意義。
 
-![a young boy running through a sprinkle of water](/wp-content/uploads/2024/03/ftzl0r4dzyk-1024x683.jpg)
+![a young boy running through a sprinkle of water](https://lennychen.com/wp-content/uploads/2024/03/ftzl0r4dzyk-1024x683.jpg)
 
 ## 斜槓青年的多重身份與內在快樂
 
@@ -54,7 +54,7 @@ Susan Kuang在書中給出了一些切實可行的建議，比如成為內控者
 
 例如，一個人可能同時是一名作家、一名設計師，還是一名自由攝影師。
 
-![man with pen writing on wall](/wp-content/uploads/2024/03/1lgeog6iulc-683x1024.jpg)
+![man with pen writing on wall](https://lennychen.com/wp-content/uploads/2024/03/1lgeog6iulc-683x1024.jpg)
 
 **這樣的生活方式使得斜槓青年能在不同領域探索自己的興趣和潛力，並從中獲得滿足感和成就感。**
 
@@ -70,7 +70,7 @@ Susan Kuang在書中給出了一些切實可行的建議，比如成為內控者
 
 成為內控者意味著要有意識地去除那些分散注意力的事物，**專注於自己的長期目標和內在價值** 。
 
-![man standing on grass field overlooking mountain](/wp-content/uploads/2024/03/aq7id0zjew4-820x1024.jpg)
+![man standing on grass field overlooking mountain](https://lennychen.com/wp-content/uploads/2024/03/aq7id0zjew4-820x1024.jpg)
 
 這對斜槓青年來說很重要，因為需要在多個領域同時推進目標。
 
@@ -90,7 +90,7 @@ Susan Kuang在書中給出了一些切實可行的建議，比如成為內控者
 
 這種對內在快樂的追求有助於斜槓青年保持正面的心態和積極的生活態度。
 
-![be positive scrabble pieces](/wp-content/uploads/2024/03/e3jkbzornts-1024x683.jpg)
+![be positive scrabble pieces](https://lennychen.com/wp-content/uploads/2024/03/e3jkbzornts-1024x683.jpg)
 
 當人們從內心感到快樂和滿足時，他們更有可能展現出創造力和熱情，並在工作和生活中取得更好的成績。
 

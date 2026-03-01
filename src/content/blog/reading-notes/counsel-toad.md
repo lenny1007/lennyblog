@@ -33,7 +33,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg"
 
 ## 蛤蟆先生與心理諮商：自我治療過程的體會
 
-![](/wp-content/uploads/2024/02/rp_files_25.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_25.jpg)
 
 作為心理治療的一種形式，心理諮商在這本書中被描繪為一個自我治療的過程，而非速效藥。
 

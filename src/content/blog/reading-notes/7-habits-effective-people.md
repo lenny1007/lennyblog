@@ -26,7 +26,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x102
 
 這些習慣強調個人的自我管理和自我責任。
 
-![man in brown long sleeve shirt sitting on green plastic chair reading book](/wp-content/uploads/2024/03/lqeuajm05ri-819x1024.jpg)
+![man in brown long sleeve shirt sitting on green plastic chair reading book](https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x1024.jpg)
 
 只有當個人在內心深處建立了堅實的基礎，才能在外在世界中取得成功。
 
@@ -42,13 +42,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x102
 
 ### 以終為始：明確目標與方向
 
-![](/wp-content/uploads/2024/02/rp_files_236.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_236.jpg)
 
 以終為始意味著在行動前先有清晰的目標和規劃。
 
 高效能人士在做任何事情前，都會先思考最終想要達成的結果，這樣他們才能更有方向地投入努力並測量進度。
 
-![three pens on white paper](/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
+![three pens on white paper](https://lennychen.com/wp-content/uploads/2024/03/8xlmu62ii8i-1024x683.jpg)
 
 ### 不斷更新 : 終身學習、與時俱進
 
@@ -71,7 +71,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x102
 
 雙贏思維推動高效能人士尋求的不僅僅是個人的勝利，而是尋找能夠讓所有人都受益的解決方案。
 
-![man in white dress shirt sitting beside woman in black long sleeve shirt](/wp-content/uploads/2024/03/376kn_isple-1024x683.jpg)
+![man in white dress shirt sitting beside woman in black long sleeve shirt](https://lennychen.com/wp-content/uploads/2024/03/376kn_isple-1024x683.jpg)
 
 在這種思維模式下，人們認為合作比競爭更能帶來長期的成功。
 
@@ -91,7 +91,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x102
 
 要事第一是關於時間管理和優先次序。
 
-![](/wp-content/uploads/2024/03/eisenhower-matrix-1024x956.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/03/eisenhower-matrix-1024x956.jpg)
 
 高效能人士懂得如何區分緊急與重要，他們會優先處理那些對達成長遠目標具有關鍵作用的任務。
 
@@ -107,7 +107,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x102
 
 透過綜合綜效，團隊能夠達成比各自獨立工作時更偉大的成就。
 
-![three men laughing while looking in the laptop inside room](/wp-content/uploads/2024/03/xkkcui44im0-1024x683.jpg)
+![three men laughing while looking in the laptop inside room](https://lennychen.com/wp-content/uploads/2024/03/xkkcui44im0-1024x683.jpg)
 
 這要求每個成員都能夠尊重彼此差異，並在差異中尋找創新與解決方案的機會。
 

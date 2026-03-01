@@ -28,7 +28,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg"
 
 ## 子彈筆記的實踐與工具選擇
 
-![](/wp-content/uploads/2024/02/rp_files_331.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg)
 
 作者選擇了PAPERIDEAS筆記本來進行**子彈筆記** 。
 
@@ -46,7 +46,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_331.jpg"
 
 這種個性化設計使筆記更加高效和符合個人使用習慣。
 
-![blue marker on white printer paper](/wp-content/uploads/2024/02/zeqkumimxmi-1024x685.jpg)
+![blue marker on white printer paper](https://lennychen.com/wp-content/uploads/2024/02/zeqkumimxmi-1024x685.jpg)
 
 ## 子彈筆記六個月實踐的心得與收穫
 

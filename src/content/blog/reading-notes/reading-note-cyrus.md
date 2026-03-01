@@ -21,7 +21,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x76
 
 首先，**閱讀** 並不是一個獨立的過程，它與思考緊密相連。
 
-![person holding book sitting on brown surface](/wp-content/uploads/2024/02/zmrlzh40kms-1024x768.jpg)
+![person holding book sitting on brown surface](https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x768.jpg)
 
 作者朱敬一在書中提出，閱讀不應僅有特定目的，而是應該自然而然地發現應用的方向，同時培養出能看到「問題背後的問題」的**批判性思考** 。
 
@@ -37,7 +37,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x76
 
 ### 《牧羊人讀書筆記》中的主題範疇
 
-![](/wp-content/uploads/2024/02/rp_files_463.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_463.jpg)
 
 這本書的主題範疇十分廣泛，包含了思想、歷史、經濟、政治、貿易、生物、科技以及中國研究等領域。
 
@@ -59,7 +59,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x76
 
 這種思考方式，不僅能夠提升個人的分析能力，也能夠增強對知識的理解和應用。
 
-![selective focus photography of book](/wp-content/uploads/2024/02/cmiqkmpfpmq-1024x768.jpg)
+![selective focus photography of book](https://lennychen.com/wp-content/uploads/2024/02/cmiqkmpfpmq-1024x768.jpg)
 
 ### 閱讀與生活的連結
 

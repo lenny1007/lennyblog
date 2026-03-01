@@ -33,7 +33,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_345.jpg"
 
 ## 班傑明·富蘭克林的智慧如何影響現代人？
 
-![](/wp-content/uploads/2024/02/rp_files_345.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_345.jpg)
 
 班傑明·富蘭克林的智慧不僅影響了他的時代，也遠達現代。
 
@@ -45,7 +45,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_345.jpg"
 
 這種學習方式不僅強化了語言學習，也使讀者能夠深入理解當時社會和文化。
 
-![100 us dollar bill](/wp-content/uploads/2024/02/brl69unxr7g-1024x683.jpg)
+![100 us dollar bill](https://lennychen.com/wp-content/uploads/2024/02/brl69unxr7g-1024x683.jpg)
 
 ## 班傑明·富蘭克林年鑑與財富之路的啟示
 

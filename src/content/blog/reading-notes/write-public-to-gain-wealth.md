@@ -35,7 +35,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_523.jpg"
 
 ## 公開寫作所需的三種思維：用戶、產品、社交
 
-![](/wp-content/uploads/2024/02/rp_files_523.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_523.jpg)
 
 在公開寫作的過程中，作者需要採用三種不同的思維模式：用戶思維、產品思維和社交思維。
 

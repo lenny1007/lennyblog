@@ -24,7 +24,7 @@ progress 進步的必要條件， 是對 process 過程的投入。
 
 ## 改變習慣最有效的方法， 是改變身份認同。
 
-![a person holding a baby](/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg)
+![a person holding a baby](https://lennychen.com/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg)
 
 結果關乎你得到什麼， 過程關乎你做了什麼， **身份認同則關乎你相信什麼** 。
 
@@ -47,7 +47,7 @@ progress 進步的必要條件， 是對 process 過程的投入。
 
 焦點永遠都要放在成為某一種人， 而非得到某一種成果。
 
-![a person swimming in the water near a coral reef](/wp-content/uploads/2024/03/d6njmj60b8m-1024x683.jpg)
+![a person swimming in the water near a coral reef](https://lennychen.com/wp-content/uploads/2024/03/d6njmj60b8m-1024x683.jpg)
 
 ## 行為改變四法則
 

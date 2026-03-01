@@ -72,6 +72,24 @@ const { title, description, pubDate, updatedDate, heroImage, category, subcatego
 					<slot />
 				</div>
 
+				<!-- Broken image handler: hide failed images, show placeholder -->
+				<script>
+				document.querySelectorAll('.prose img').forEach((img) => {
+					const el = img as HTMLImageElement;
+					if (el.complete && el.naturalWidth === 0) {
+						el.replaceWith(makePlaceholder(el.alt));
+					} else {
+						el.addEventListener('error', () => el.replaceWith(makePlaceholder(el.alt)));
+					}
+				});
+				function makePlaceholder(alt: string) {
+					const div = document.createElement('div');
+					div.className = 'broken-img-placeholder';
+					div.innerHTML = `<span class="broken-img-icon">🖼️</span><span class="broken-img-alt">${alt || '圖片無法顯示'}</span>`;
+					return div;
+				}
+				</script>
+
 				<!-- Prev / Next Navigation -->
 				{(prevPost || nextPost) && (
 					<nav class="post-nav">

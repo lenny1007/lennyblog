@@ -29,7 +29,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/01/pl_files_6.png"
 
 ## 脂質體維他命C的真相
 
-![](/wp-content/uploads/2024/01/pl_files_6.png)
+![](https://lennychen.com/wp-content/uploads/2024/01/pl_files_6.png)
 
 脂質體維他命C是一種特殊包裹的形式，它通過脂質體進入血液循環，理論上可以提高維他命C在血液中的濃度而不會造成胃腸道不適。不過，關於脂質體維他命C對癌症治療的研究相對較少，PubMed的搜索結果顯示，目前並沒有相關的臨床研究論文。
 

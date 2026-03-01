@@ -22,7 +22,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_102.jpg"
 
 ## 《孫子兵法》的歷史背景及其核心思想
 
-![](/wp-content/uploads/2024/02/rp_files_102.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_102.jpg)
 
 《孫子兵法》是春秋時代的著作，非戰國時期，當時使用的武器是青銅器。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_102.jpg"
 
 此外，《孫子兵法》的「知己知彼」在商業談判中也極為重要，需要全面了解包括對方的財報、市場狀況等各種資訊，並在談判過程中不斷調整策略。
 
-![two women soccer players stretching legs on lawn](/wp-content/uploads/2024/03/ionbjbw39oc-1024x683.jpg)
+![two women soccer players stretching legs on lawn](https://lennychen.com/wp-content/uploads/2024/03/ionbjbw39oc-1024x683.jpg)
 
 ## 《孫子兵法》在商業談判中的應用
 

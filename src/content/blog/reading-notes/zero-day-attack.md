@@ -18,13 +18,13 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/w7zyugynprq-1024x76
 
 零時差漏洞指的是在軟體或硬體中尚未被發現且修補的安全缺陷，這使得攻擊者可以利用這些漏洞進行攻擊，而製造者和用戶則毫無防備。
 
-![closeup photo of eyeglasses](/wp-content/uploads/2024/02/w7zyugynprq-1024x768.jpg)
+![closeup photo of eyeglasses](https://lennychen.com/wp-content/uploads/2024/02/w7zyugynprq-1024x768.jpg)
 
 文章會分成以下幾個部分：**零時差攻擊** 的定義與運作、實際案例分析、對社會的影響、如何保護自己免受攻擊，以及結論。  
 
 ## 零時差攻擊的定義與運作
 
-![](/wp-content/uploads/2024/02/rp_files_518.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_518.jpg)
 
 **零時差攻擊** 是指攻擊者利用尚未公開的軟體漏洞進行攻擊，這種漏洞稱為零時差漏洞，因為軟體開發者和用戶在攻擊發生時有「零天」的時間來進行防範。
 
@@ -38,7 +38,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/w7zyugynprq-1024x76
 
 《零時差攻擊》一書中提到了幾個著名的**零時差攻擊** 案例，其中包括了對伊朗核計劃的震網病毒攻擊。
 
-![MacBook Pro turned-on](/wp-content/uploads/2024/02/jjpqavjby_k-1024x706.jpg)
+![MacBook Pro turned-on](https://lennychen.com/wp-content/uploads/2024/02/jjpqavjby_k-1024x706.jpg)
 
 震網病毒利用了數個零時差漏洞，破壞了伊朗的核離心機，有效延緩了其核武器計劃。
 
@@ -50,7 +50,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/w7zyugynprq-1024x76
 
 NotPetya攻擊則是一次毀滅性的全球攻擊，其對烏克蘭政府和企業的影響尤其嚴重，造成了巨額的經濟損失。
 
-![person holding brown leather bifold wallet](/wp-content/uploads/2024/02/3agz7a97qwa-1024x683.jpg)
+![person holding brown leather bifold wallet](https://lennychen.com/wp-content/uploads/2024/02/3agz7a97qwa-1024x683.jpg)
 
 這次攻擊證明了**零時差攻擊** 不僅是國家安全的威脅，更是全球經濟穩定的隱憂。
 
@@ -72,7 +72,7 @@ NotPetya攻擊則是一次毀滅性的全球攻擊，其對烏克蘭政府和企
 
 其次，定期更新軟體和系統可以修補已知的安全漏洞。
 
-![black and white laptop computer](/wp-content/uploads/2024/02/jcy4oema3o-1024x768.jpg)
+![black and white laptop computer](https://lennychen.com/wp-content/uploads/2024/02/jcy4oema3o-1024x768.jpg)
 
 此外，對於可疑的電子郵件或連結保持警惕，避免輕易點擊，也是預防個人電腦被感染的有效方式。
 

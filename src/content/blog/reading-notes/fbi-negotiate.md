@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=q8CHXefn7B4
 
 ## 《轉念的力量》：思維轉換在談判中的應用
 
-![](/wp-content/uploads/2024/02/rp_files_397.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_397.jpg)
 
 在《轉念的力量》中，作者提供了「四個提問、一個反轉」的步驟，幫助人們解開困惑，找到面對現實的力量。
 

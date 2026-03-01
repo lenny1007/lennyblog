@@ -30,7 +30,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_294.jpg"
   4. **尋求反饋並調整** ：接受他人的意見，並以此改善自己。
   5. **讓工作變輕松** ：找到方法提高效率，使任務更加輕鬆完成。
 
-![](/wp-content/uploads/2024/02/rp_files_294.jpg)
+![](https://lennychen.com/wp-content/uploads/2024/02/rp_files_294.jpg)
 
 這些心態不僅幫助影響力成員在職場中脫穎而出，也為日常工作帶來正面影響。
 
@@ -62,7 +62,7 @@ heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_294.jpg"
 
 在《影響力習慣》中，莉茲．懷斯曼強調要從主管角度思考問題的重要性。
 
-![man in black long sleeve shirt sitting on black chair](/wp-content/uploads/2024/03/zcb1peosu3m-1024x683.jpg)
+![man in black long sleeve shirt sitting on black chair](https://lennychen.com/wp-content/uploads/2024/03/zcb1peosu3m-1024x683.jpg)
 
 要在職場建立影響力，最有效的方式就是從主管的角度去思考，做那些在他們心目中具有影響力的事情。
 
