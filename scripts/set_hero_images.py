@@ -11,8 +11,9 @@ from pathlib import Path
 
 CONTENT = Path(__file__).parent.parent / 'src' / 'content' / 'blog'
 
-# Regex to find Markdown images in body (skip frontmatter)
-IMG_RE   = re.compile(r'!\[[^\]]*\]\(([^\s\)]+)\)')
+# Regex to find Markdown images in body.
+# Allows escaped parens \( \) inside URLs: matches \X as a unit before stopping at bare )
+IMG_RE   = re.compile(r'!\[[^\]]*\]\(((?:[^\s\)\\]|\\.)+)\)')
 FRONT_RE = re.compile(r'^---\s*\n(.*?)\n---', re.DOTALL)
 
 # ---------- Pollinations prompts per category ----------
@@ -54,9 +55,13 @@ def pollinations_url(title: str, category: str, seed_str: str) -> str:
         f"?width=1200&height=630&seed={seed}&model=flux&nologo=true"
     )
 
+def sanitize_url(url: str) -> str:
+    """Remove Markdown backslash escapes from a URL (e.g. \( → ()."""
+    return re.sub(r'\\(.)', r'\1', url)
+
 def find_best_image(body: str) -> str | None:
     """Return best image URL from post body: prefer /wp-content/, fallback external."""
-    imgs = IMG_RE.findall(body)
+    imgs = [sanitize_url(i) for i in IMG_RE.findall(body)]
     wp   = [i for i in imgs if i.startswith('/wp-content/')]
     ext  = [i for i in imgs if i.startswith('http')]
     return (wp or ext or [None])[0]
