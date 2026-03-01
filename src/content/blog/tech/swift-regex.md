@@ -4,6 +4,7 @@ description: "func Matches(for regex: String, in text: String) -&gt; [String] { 
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["Swift"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Swift%20%E2%80%94%20Regex?width=1200&height=630&seed=5850&model=flux&nologo=true"
 ---
 
 func Matches(for regex: String, in text: String) -> [String] {

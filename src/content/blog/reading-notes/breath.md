@@ -5,6 +5,7 @@ pubDate: "2024-05-22"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["健康功效", "呼吸", "呼吸法", "打呼", "文明病", "睡眠呼吸中止", "科學實驗", "詹姆斯．奈斯特", "鼻塞"]
+heroImage: "/wp-content/uploads/2024/03/xmnel_otvws-683x1024.jpg"
 ---
 
 呼吸早已是每日生活的日常，還需要學嗎 ? 

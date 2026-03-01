@@ -4,6 +4,7 @@ description: "import CoreBluetooth Step2. 實現&nbsp;CBPeripheralManagerDelegat
 pubDate: "2018-03-09"
 category: "技術"
 tags: ["IOS", "Swift"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Swift%20-%20CoreBluetooth?width=1200&height=630&seed=3906&model=flux&nologo=true"
 ---
 
 iOS 的藍牙開發主要是透過 CoreBluetooth 框架來實現的。 

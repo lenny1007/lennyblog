@@ -5,6 +5,7 @@ pubDate: "2024-03-15"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["FIRE理財族", "不動產投資", "摩根．豪瑟", "致富心態", "行為財經學"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_441.jpg"
 ---
 
 當我們談論到理財和投資，許多人往往關注於即時的技術分析或最新的市場趨勢，但《致富心態》一書的作者摩根·豪賽爾（Morgan Housel）卻提出了另一種思維方式。

@@ -4,6 +4,7 @@ description: "最近在整理以前的網誌， 發現手滑背單字已經是 2
 pubDate: "2018-03-01"
 category: "創業"
 tags: []
+heroImage: "https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/26734453_10213497791712721_1359905655131432727_n.jpg?oh=119ca3a852011750641a833ed381abb7&oe=5B4CA98E"
 ---
 
 最近在整理以前的網誌， 發現手滑背單字已經是 2013年的產品了，2018我們在同一個領域再次挑戰推出了 [呆呆神射手](<https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lirise.shooter&h=ATPFSt8PYBDwqMk2ZIK91QDjduDj_NK9X5YQzm8yy_qUU_9XtQsenT241hl0Z6otQvuLtrjQnlGcOwXl9kGte61ccQhSsofdSRWtYQN_JkV4ImExiKEdm7qo>)， 跟大家分享下這幾年觀察到的一些教育市場的變化好了。

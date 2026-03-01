@@ -5,6 +5,7 @@ pubDate: "2024-08-03"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["4P模型", "故事九宮格", "敘事技巧", "洪震宇", "溝通策略", "真實故事", "精準敘事"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_104.jpg"
 ---
 
 閱讀《精準敘事》這本書後，我們不禁會對於如何娓娓道來真實故事感到著迷。

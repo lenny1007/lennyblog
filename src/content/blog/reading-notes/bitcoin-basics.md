@@ -5,6 +5,7 @@ pubDate: "2024-04-26"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["不動產投資", "以太坊", "加密貨幣", "區塊鏈", "技術原理", "數位貨幣", "比特幣"]
+heroImage: "/wp-content/uploads/2024/02/igyibhdntpe-1024x684.jpg"
 ---
 
 加密貨幣作為金融科技革命的前沿，吸引了無數投資者和科技愛好者的關注。

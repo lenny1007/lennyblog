@@ -4,6 +4,7 @@ description: "如果要取得 Parse 中物件的時候， 一般Cocos2dx 使用 
 pubDate: "2018-02-09"
 category: "技術"
 tags: []
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Cocos2dx%20Parse%20Rest%20Pointer?width=1200&height=630&seed=8208&model=flux&nologo=true"
 ---
 
 如果要取得 Parse 中物件的時候， 一般[Cocos2dx 使用 Parse 中 Rest 的方式](<http://cocos2dx.logdown.com/posts/287848-cocos2dx-use-parse-in-the-rest-of-the-way>) 就可以取得物件中的資料， 除了 Parse 中得 Pointer資料。 Pointer 通常使用在物件 1 對 1 的關係， 像是建立資料時， 有一部車的基本資料Table {車子型號， 車牌 Pointer， 顏色 ...}, 以及車牌 {縣市， 車牌號碼}， 就可以使用Pointer 將兩個資料欄位 用Pointer 做連結。 上述的連結所使用的方式在取得 Pointer 欄位什僅會回傳最基本的資料 {__type: Pointer, objectId: id }， 若要回傳完整的資料需要新增 include 對應的 Pointer。 

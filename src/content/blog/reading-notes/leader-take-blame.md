@@ -5,6 +5,7 @@ pubDate: "2024-04-06"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "創業"]
 tags: ["信任", "團隊目標", "絕對責任", "謙遜", "領導管理"]
+heroImage: "/wp-content/uploads/2024/02/ekyuhd7uwsm-1-1024x682.jpg"
 ---
 
 在充滿競爭的世界中，無論是戰場還是商場，**領導管理** 的能力都是決定成功的關鍵。

@@ -5,6 +5,7 @@ pubDate: "2024-06-04"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["寫作瓶頸", "文案力", "溝通表達", "獨到觀點", "產品特色", "目標受眾", "職場競爭力", "行銷自己"]
+heroImage: "/wp-content/uploads/2024/03/s9cc2skysjm-1024x683.jpg"
 ---
 
 在後疫情時代，職場競爭更為激烈。

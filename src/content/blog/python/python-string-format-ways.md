@@ -4,6 +4,7 @@ description: "Python 有三種格式化字串的方式，其中一種與 C++ 類
 pubDate: "2022-02-21"
 category: "Python"
 tags: ["python", "string"]
+heroImage: "https://image.pollinations.ai/prompt/Python%20programming%20snake%20symbol%20code%20blue%20minimalist%20clean%20background%20Python%20-?width=1200&height=630&seed=4120&model=flux&nologo=true"
 ---
 
 Python 有三種格式化字串的方式，其中一種與 C++ 類似，使用 % 算符來格式化字串，是 Python 早期版本的標準。

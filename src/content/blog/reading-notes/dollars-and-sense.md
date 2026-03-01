@@ -5,6 +5,7 @@ pubDate: "2024-03-16"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "理財"]
 tags: ["消費行為", "用錢錯誤", "行為經濟學", "金錢心理學", "金錢決策"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_447.jpg"
 ---
 
 在消費主義盛行的社會，金錢不僅是交易的媒介，更是影響我們日常決策的重要因素。

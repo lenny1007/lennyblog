@@ -5,6 +5,7 @@ pubDate: "2024-05-16"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["員工剝削", "寫作熱情", "社會學研究", "職場不平等", "職涯策略", "艾琳・賽克", "雇主"]
+heroImage: "/wp-content/uploads/2024/03/ueecyjamlnc-683x1024.jpg"
 ---
 
 熱情，一個在職場中極富爭議的詞匯。

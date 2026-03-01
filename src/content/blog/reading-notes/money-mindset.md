@@ -5,6 +5,7 @@ pubDate: "2024-08-25"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["現金流", "財務報表", "財務思維", "財務決策", "資源管理", "資產與負債"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_53.jpg"
 ---
 
 想要富有，就要理財。

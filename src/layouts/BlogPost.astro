@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -23,7 +22,7 @@ const { title, description, pubDate, updatedDate, heroImage, category, subcatego
 				<!-- Hero Image -->
 				{heroImage && (
 					<div class="hero-image">
-						<Image width={900} height={450} src={heroImage} alt={title} />
+						<img src={heroImage} alt={title} loading="eager" />
 					</div>
 				)}
 

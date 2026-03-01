@@ -4,6 +4,7 @@ description: "基礎物件的型別決定了物件能夠存放的值。"
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5B%20C%2B%2B%20%5D?width=1200&height=630&seed=3269&model=flux&nologo=true"
 ---
 
 基礎物件的型別決定了物件能夠存放的值。

@@ -4,6 +4,7 @@ description: "Python 的程式撰寫風格慣例詳細被記載在 PEP8 (Python 
 pubDate: "2022-02-09"
 category: "Python"
 tags: ["python"]
+heroImage: "https://image.pollinations.ai/prompt/Python%20programming%20snake%20symbol%20code%20blue%20minimalist%20clean%20background%20Python%20-?width=1200&height=630&seed=4587&model=flux&nologo=true"
 ---
 
 Python 的程式撰寫風格慣例詳細被記載在 PEP8 (Python Enhancement Proposal) 這份文件中，PEPs 還有許多不同的提議，包含之前的Bug fix release、Python語言演進的 Guidelines、但最需要被詳細閱讀跟使用的就是這個 [PEP8 - Style Guide for Python Code ](<https://www.python.org/dev/peps/pep-0008/>) 。

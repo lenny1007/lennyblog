@@ -4,6 +4,7 @@ description: "範例的 Project : Github 連結 ： https://github.com/lenny0929
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "http://user-image.logdown.io/user/1500/blog/12948/post/287848/z3dOzCWTDubNKid0Jb6C_%E6%9C%AA%E5%91%BD%E5%90%8D.png"
 ---
 
 範例的 Project : Github 連結 ： <https://github.com/lenny0929/parseRest_WithCocos2dX/>

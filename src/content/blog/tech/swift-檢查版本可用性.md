@@ -4,6 +4,7 @@ description: "Swift 內建支援檢查版本的功能。"
 pubDate: "2018-02-09"
 category: "技術"
 tags: []
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Swift%20%E2%80%94?width=1200&height=630&seed=9122&model=flux&nologo=true"
 ---
 
 Swift 內建支援檢查版本的功能。

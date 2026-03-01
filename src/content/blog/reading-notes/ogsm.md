@@ -5,6 +5,7 @@ pubDate: "2024-01-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["KPI", "OGSM", "OKR", "企業變革", "目標管理", "策略實現", "變革領導"]
+heroImage: "/wp-content/uploads/2024/01/rp_files_2.png"
 ---
 
 企業面臨著前所未有的挑戰，從科技進步到市場競爭，每一個因素都可能在短時間內顛覆整個產業。

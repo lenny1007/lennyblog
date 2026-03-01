@@ -5,6 +5,7 @@ pubDate: "2024-09-05"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["內化成功", "冒牌者症候群", "心理狀態", "職場指南", "自我成長"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_16.jpg"
 ---
 
 在這個高壓力、高成就的社會中，「冒牌者症候群」Impostor Syndrome 是一個大家關注的話題。

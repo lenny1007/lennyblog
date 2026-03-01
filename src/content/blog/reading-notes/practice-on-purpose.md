@@ -5,6 +5,7 @@ pubDate: "2024-02-21"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["刻意練習", "創作天賦", "學習法", "恆久卓越的修煉", "情緒智商", "持續進步", "突破瓶頸"]
+heroImage: "/wp-content/uploads/2024/02/fxvuvchvawg-1024x768.jpg"
 ---
 
 人們總是對「天賦」二字充滿了無限的嚮往和迷信，往往忽略了後天的努力和刻意練習的重要性。 

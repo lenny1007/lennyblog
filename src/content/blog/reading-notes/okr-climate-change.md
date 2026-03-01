@@ -5,6 +5,7 @@ pubDate: "2024-04-29"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["OKR", "全球氣候危機", "氣候變遷", "淨零排放", "約翰．杜爾"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_420-1024x585.jpg"
 ---
 
 在全球氣候危機迫在眉睫的當下，每一個人都在尋求解決之道。

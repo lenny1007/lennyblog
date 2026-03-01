@@ -4,6 +4,7 @@ description: "在這個資訊爆炸的時代，越來越少人閱讀。"
 pubDate: "2024-02-19"
 category: "閱讀筆記"
 tags: ["主題閱讀", "分析閱讀", "基礎閱讀", "檢視閱讀", "理解力", "莫提默·艾德勒", "閱讀技巧"]
+heroImage: "/wp-content/uploads/2024/02/kliuo2i8ajc-683x1024.jpg"
 ---
 
 在這個資訊爆炸的時代，越來越少人閱讀。

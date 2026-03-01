@@ -5,6 +5,7 @@ pubDate: "2024-05-14"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人生決策", "反直覺思考", "專家預測", "心智軟體", "情境影響", "群眾智慧"]
+heroImage: "/wp-content/uploads/2024/03/ldjlgz0rrva-1024x1024.jpg"
 ---
 
 在追求效率與正確決策的當代社會，**反直覺思考** 是讓你跳出常見思考偏誤的方法。

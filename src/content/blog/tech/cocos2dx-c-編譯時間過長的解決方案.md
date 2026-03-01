@@ -4,6 +4,7 @@ description: "好吧， 萬一真的很懶散， 隨便寫程式， 要用什麼
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5B%20Cocos2dx%20-%20C%2B%2B%5D?width=1200&height=630&seed=4303&model=flux&nologo=true"
 ---
 
 在遊戲專案進行一段時間後， 隨著檔案數量的增加， 往往會發現專案的編譯時間會越來越長。 而 C++ 的特性也使得原始碼檔案會隨著時間而暴漲。

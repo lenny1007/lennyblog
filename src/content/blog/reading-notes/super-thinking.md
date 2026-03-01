@@ -5,6 +5,7 @@ pubDate: "2024-06-13"
 category: "閱讀筆記"
 subcategories: ["工作、職場", "數位生活"]
 tags: ["Gabriel Weinberg", "Lauren McCann", "人生決策", "個人成長", "商業思考", "心智模式", "查理．蒙格", "職場工作"]
+heroImage: "/wp-content/uploads/2024/03/ompaz-dn-9i-1024x683.jpg"
 ---
 
 **心智模型** 不僅僅是一套決策工具，它更是一個人探索世界、理解萬象的基石。

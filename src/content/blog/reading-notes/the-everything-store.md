@@ -5,6 +5,7 @@ pubDate: "2024-05-10"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["亞馬遜", "創新", "創業", "在職創業", "朴鼎浚", "節儉", "貝佐斯", "顧客至上"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_315-1024x585.jpg"
 ---
 
 在這個數位轉型的時代，亞馬遜（Amazon）以其創新的商業模式和絕佳的顧客體驗，成為全球電子商務的巨擘。

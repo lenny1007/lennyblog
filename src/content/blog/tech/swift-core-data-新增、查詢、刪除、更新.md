@@ -4,6 +4,7 @@ description: "private var appDelegate = UIApplication.shared.delegate as! AppDel
 pubDate: "2018-02-24"
 category: "技術"
 tags: ["Swift"]
+heroImage: "http://34.81.115.112/wp-content/uploads/2018/02/entity.png"
 ---
 
 ## 什麼是 Core Data ?

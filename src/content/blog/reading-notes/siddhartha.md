@@ -5,6 +5,7 @@ pubDate: "2024-05-29"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["創造對話", "問題解決", "心理治療", "悉達多", "流浪者之歌", "讀書會", "赫曼．赫塞"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_291.jpg"
 ---
 
 當代的閱讀不僅是一種單純的娛樂活動，它更是一個深入探討自我與世界的過程。

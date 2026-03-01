@@ -5,6 +5,7 @@ pubDate: "2024-07-22"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["企業分析師", "商業模式", "投資組合", "穩健獲利", "美股投資學", "財報解讀", "財女Jenny"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_118.jpg"
 ---
 
 在充滿不確定性的時代，投資者如何在市場中保持冷靜，並建立一個既穩健又可獲得良好回報的投資組合？

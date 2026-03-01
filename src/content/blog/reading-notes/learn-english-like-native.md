@@ -5,6 +5,7 @@ pubDate: "2024-06-16"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["Kobo電子書閱讀器", "人生指引", "成功學", "社交媒體", "自我認識", "英文模仿術"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_234.jpg"
 ---
 
 在全球化的時代，英文不僅僅是一門語言，更是一把開啟世界的鑰匙。

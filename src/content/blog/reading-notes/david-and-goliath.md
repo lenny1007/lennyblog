@@ -5,6 +5,7 @@ pubDate: "2024-03-29"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["Malcolm Gladwell", "以小勝大", "優勢與陷阱", "劣勢與機會", "大衛與歌利亞", "翻轉強弱優劣"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_434.jpg"
 ---
 
 在我們的生活中，似乎總存在著一種普遍的信念，即大的總是比小的強大，強者總能輕易戰勝弱者。

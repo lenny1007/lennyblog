@@ -5,6 +5,7 @@ pubDate: "2024-03-09"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["一萬小時定律", "刻意練習", "天賦", "學習方法", "安德斯‧艾瑞克森", "專家形象", "技能提升"]
+heroImage: "/wp-content/uploads/2024/03/djsir_azsps-1024x683.jpg"
 ---
 
 在當今這個快速變遷的社會中，不斷提升自我已經成為許多人的終身追求。

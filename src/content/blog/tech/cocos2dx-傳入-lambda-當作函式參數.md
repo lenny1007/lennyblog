@@ -4,6 +4,7 @@ description: "自從 C++ 11 全面在 Cocos2dx 中使用後， 使得原本的Co
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Cocos2dx%20-%20Lambda?width=1200&height=630&seed=758&model=flux&nologo=true"
 ---
 
 自從 C++ 11 全面在 Cocos2dx 中使用後， 使得原本的Cocos2dx 更為強大， 其中筆者覺得造成改變最大的因素， 就有 Lambda 語法。 

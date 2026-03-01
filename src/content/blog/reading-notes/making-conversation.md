@@ -5,6 +5,7 @@ pubDate: "2024-05-06"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["7C 溝通策略", "IDEO", "對話當下的情境", "對話的清晰度", "對話能力", "對話談論的對象", "弗雷．達斯特"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_336.jpg"
 ---
 
 良好的溝通技巧越來越受到大家的重視。

@@ -5,6 +5,7 @@ pubDate: "2024-08-09"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["MBTI", "人格類型", "人際關係", "心理學", "自我接納", "自我認識", "雪力"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_99.jpg"
 ---
 
 在追求自我認知和個人成長的道路上，MBTI（Myers-Briggs Type Indicator）以其獨特的分類方式，幫助許多人洞悉自己的個性和潛力。

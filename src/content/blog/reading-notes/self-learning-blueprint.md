@@ -5,6 +5,7 @@ pubDate: "2024-02-20"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["50-50法則", "學習策略", "宏觀計畫", "彼得．霍林斯", "微觀計畫", "自主學習"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_497.jpg"
 ---
 
 在這個時代，自主學習已經成為一種必要的能力。

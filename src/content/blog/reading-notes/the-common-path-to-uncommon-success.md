@@ -5,6 +5,7 @@ pubDate: "2024-02-21"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["Apple Podcasts", "內化成功", "內容創作者", "品格", "專注力", "挑戰活動", "財富自由"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_174-1024x585.jpg"
 ---
 
 在內容創作者需要不斷尋求創新的時代，《普通人的財富自由之道》是專為那些渴望尋得自己一席之地的內容創作者們量身打造的指南。

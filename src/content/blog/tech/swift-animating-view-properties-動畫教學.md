@@ -4,6 +4,7 @@ description: "func fade( toImage: UIImage, showEffects: Bool ) { //Create &amp; 
 pubDate: "2018-03-06"
 category: "技術"
 tags: ["Swift"]
+heroImage: "http://34.81.115.112/wp-content/uploads/2018/03/未命名.png"
 ---
 
 Swift 中可用來做動畫的屬性主要分成三大類別 : 

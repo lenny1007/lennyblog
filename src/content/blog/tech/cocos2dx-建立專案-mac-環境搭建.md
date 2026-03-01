@@ -4,6 +4,7 @@ description: "Step1. 官網下載cocos2dx 的 SDK 下載連結： http://www.coc
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "http://user-image.logdown.io/user/1500/blog/12948/post/287805/OwlH843CROyjp6ph8ZCA_terminal.png"
 ---
 
 * Step1. 官網下載cocos2dx 的 SDK

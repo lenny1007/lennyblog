@@ -4,6 +4,7 @@ description: "Lambda expression 是一種匿名函數的表示方式，它可以
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5BC%2B%2B%5D%20Lambda?width=1200&height=630&seed=7303&model=flux&nologo=true"
 ---
 
 > Lambda expression 是一種匿名函數的表示方式，它可以讓程式設計師將函數的內容直接以 inline 的方式寫在一般的程式碼之中，省去另外定義函數的麻煩，使用時機跟 functor 與 function pointer 類似，一般的狀況都是使用 lambda expression 定義一個匿名的函數，然後再將此函數當作另外一個函數的傳入參數來使用。

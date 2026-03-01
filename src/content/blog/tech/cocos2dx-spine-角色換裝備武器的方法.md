@@ -4,6 +4,7 @@ description: "前幾天遊戲想要開發一個紙娃娃換裝備衣服的系統
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Cocos2dx%20-%20Spine?width=1200&height=630&seed=5840&model=flux&nologo=true"
 ---
 
 前幾天遊戲想要開發一個紙娃娃換裝備衣服的系統， 開始研究Spine的具體作法。 將心得整理如下： 技巧1. 關閉 or 隱藏關鍵的 Attachment 

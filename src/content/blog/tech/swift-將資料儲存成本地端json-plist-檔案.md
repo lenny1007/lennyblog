@@ -4,6 +4,7 @@ description: "Swift 4簡化了Swift 3中使用的整個JSON壓縮和序列化過
 pubDate: "2018-02-11"
 category: "技術"
 tags: ["Swift"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Swift%20-%20Json%20/%20Plist?width=1200&height=630&seed=3652&model=flux&nologo=true"
 ---
 
 Swift 4簡化了Swift 3中使用的整個`JSON`壓縮和序列化過程。現在你只需要使自定義類型實現`Codable`協定 – 它會將`Encodable`和`Decodable`兩者結合 – 這樣會讓你的工作更便利 。 機器設定 : Swift4 + iOS11 + Xcode9 

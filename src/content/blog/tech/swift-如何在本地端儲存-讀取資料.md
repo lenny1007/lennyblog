@@ -4,6 +4,7 @@ description: "本地端儲存以及讀取資料， Swift 是透過FileManager來
 pubDate: "2018-02-10"
 category: "技術"
 tags: ["Swift"]
+heroImage: "http://34.81.115.112/wp-content/uploads/2018/02/Resources.png"
 ---
 
 本地端儲存以及讀取資料， Swift 是透過FileManager來做存取以及讀取的動作，本機端資料因為iOS 採用 Sandbox架構的緣故， 可使用來作為讀/存檔案的資料夾為Document。 所以第一步 

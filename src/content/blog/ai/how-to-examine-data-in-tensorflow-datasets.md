@@ -4,6 +4,7 @@ description: "如果是 Tensorflow Datasets 的資料集可以利用內建的 in
 pubDate: "2022-03-11"
 category: "AI"
 tags: []
+heroImage: "http://34.81.115.112/wp-content/uploads/2022/03/image-27-1024x636.png"
 ---
 
 如果是 Tensorflow Datasets 的資料集可以利用內建的 info 功能去顯示資料集的範例。 

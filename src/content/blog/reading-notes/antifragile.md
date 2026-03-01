@@ -5,6 +5,7 @@ pubDate: "2024-04-14"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["不確定性", "個人品牌", "個人成長", "創意工作", "反脆弱", "持續學習", "閱讀的力量"]
+heroImage: "/wp-content/uploads/2024/02/iflgwylt2fi-1024x683.jpg"
 ---
 
 在充滿不確定性的世界，如何在動蕩中不僅生存下來，而且還能茁壯成長？

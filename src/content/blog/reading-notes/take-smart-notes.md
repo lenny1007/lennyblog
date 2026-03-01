@@ -5,6 +5,7 @@ pubDate: "2024-01-24"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["Niklas Luhmann", "Sönke Ahrens", "卡片盒筆記", "寫作技巧", "知識管理", "筆記方法", "線上課程"]
+heroImage: "/wp-content/uploads/2024/01/rp_files_6-1024x585.jpg"
 ---
 
 我們每天都暴露在海量的知識與資訊，卻往往在面對真正的創作與思考時感到無從下手。

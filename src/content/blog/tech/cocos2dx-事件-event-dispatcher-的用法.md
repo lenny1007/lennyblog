@@ -4,6 +4,7 @@ description: "事件分發器 (Event Dispatcher) 的機制是什麼？ Event Dis
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Cocos2dx%20-%20Event%20Dispatcher?width=1200&height=630&seed=1326&model=flux&nologo=true"
 ---
 
 ## 事件分發器 (Event Dispatcher) 的機制是什麼？

@@ -5,6 +5,7 @@ pubDate: "2024-09-03"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["儲蓄", "投資問答", "投資理財", "投資金律", "指數型基金", "提早退休", "股票投資", "複利效應"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_441-1024x585.jpg"
 ---
 
 投資理財是追求財富自由的人的必備技能。

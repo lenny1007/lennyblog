@@ -4,6 +4,7 @@ description: "Cocos Studio 在目前的 Cocos2dx 的開發環境中， 扮演著
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["cocos2d-x"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Cocos2dx%20-%20Cocos%20Studio?width=1200&height=630&seed=6844&model=flux&nologo=true"
 ---
 
 Cocos Studio 在目前的 Cocos2dx 的開發環境中， 扮演著相當重要的工具角色， 主要是在處理畫面上的細節， 像是擺放的位置、 簡單的動畫等。 一般會輸出做好的檔案為 .csb檔 或者 .json檔。 

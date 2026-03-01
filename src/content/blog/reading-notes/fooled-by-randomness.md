@@ -5,6 +5,7 @@ pubDate: "2024-04-30"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "理財"]
 tags: ["Nassim Nicholas Taleb", "投資績效", "斯多葛哲學", "機率", "資訊過載", "隨機性"]
+heroImage: "/wp-content/uploads/2024/02/sb17zlg8vyg-819x1024.jpg"
 ---
 
 在這個充滿不確定性的時代，如何面對生活中的隨機性成為了一個值得深思的課題。

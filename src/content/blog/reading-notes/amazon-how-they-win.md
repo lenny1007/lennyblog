@@ -4,6 +4,7 @@ description: "網路購物的興起，加上消費者重視的價值和消費習
 pubDate: "2021-06-07"
 category: "閱讀筆記"
 tags: []
+heroImage: "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/57/0010865735.jpg"
 ---
 
 ![](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/57/0010865735.jpg)

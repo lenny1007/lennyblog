@@ -4,6 +4,7 @@ description: "TED上很紅的一段關於黃金圈的演講，在行銷學領域
 pubDate: "2018-02-09"
 category: "學習"
 tags: []
+heroImage: "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/26904203_10213542665994550_3610453315788786839_n.jpg?oh=e90e9f2156fd41a81bbb77f6558d48ed&oe=5B160B3B"
 ---
 
 [TED上很紅的一段關於黃金圈的演講](<http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action>)，在行銷學領域講「黃金圈」理論，在三重圈圈裡最外圈是What，第二圈是How，而中心的圈圈裡則是Why。為什麼大家都做同樣的產品，但有些公司的產品就賣得特別好？通常的原因都是來自於Why。在What中只談產品規格，在How中談產品可以做什麼，但是在Why中告訴顧客我們為什麼要這樣做？背後有沒有向顧客開啟一個更大的想像？ by [Esor Huang](<https://www.facebook.com/esorhjy>)

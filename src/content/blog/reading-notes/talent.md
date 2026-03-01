@@ -5,6 +5,7 @@ pubDate: "2024-08-10"
 category: "閱讀筆記"
 subcategories: ["AI", "工作、職場"]
 tags: ["人才辨識", "創造力", "提升抱負", "耐力", "長期潛力", "面試策略"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_95.jpg"
 ---
 
 隨著人工智慧技術的迅速發展，如何**辨識**人才**** 與培養變得與以往不同。

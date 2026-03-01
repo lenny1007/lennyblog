@@ -5,6 +5,7 @@ pubDate: "2024-07-06"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人權", "劇透人性", "司法", "影劇", "林孟皇", "法官", "法律文化", "法普教育", "社會議題"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_165.jpg"
 ---
 
 在當今社會，法律與人性的關係引人深思。

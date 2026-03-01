@@ -5,6 +5,7 @@ pubDate: "2024-04-24"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["三幕劇架構", "使命故事", "價值故事", "創辦人故事", "故事的力量", "顧客故事", "顧客溝通"]
+heroImage: "/wp-content/uploads/2024/02/5difvvwe6wk-683x1024.jpg"
 ---
 
 說故事的力量，是人類從動物脫穎而出的超能力。

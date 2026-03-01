@@ -4,6 +4,7 @@ description: "string 的 size 操作和 empty 操作 常使用的 c++ 函式庫�
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20C%2B%2B%20string?width=1200&height=630&seed=3214&model=flux&nologo=true"
 ---
 
 ## string 的 size 操作和 empty 操作

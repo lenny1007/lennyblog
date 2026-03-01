@@ -4,6 +4,7 @@ description: "由於各個版本會衝突，導致許多時候環境的設置會
 pubDate: "2024-12-23"
 category: "Uncategorized"
 tags: []
+heroImage: "https://image.pollinations.ai/prompt/blog%20article%20concept%20clean%20professional%20Transformer%20%2B%20Keras%20%2B%20Tensorflow?width=1200&height=630&seed=9895&model=flux&nologo=true"
 ---
 
 由於各個版本會衝突，導致許多時候環境的設置會讓版本失效。

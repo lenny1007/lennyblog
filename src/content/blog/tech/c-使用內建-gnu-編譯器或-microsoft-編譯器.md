@@ -4,6 +4,7 @@ description: "在不同的編譯器和作業系統上， 叫出 C++ 編譯器的
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["C++"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20C%2B%2B%20GNU%20Microsoft?width=1200&height=630&seed=771&model=flux&nologo=true"
 ---
 
 在不同的編譯器和作業系統上， 叫出 C++ 編譯器的指令都不同。 GNU 編譯器的預設指令是 g++ Mac: 在 Terminal環境下 $ g++ prog1.cpp -o prog1 $ 為系統提示號。 這個指令會生成一個 prog1 或 prog1.exe $ ./prog1 這指令可以執行對應生成的檔案 

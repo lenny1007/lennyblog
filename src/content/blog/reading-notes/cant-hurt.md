@@ -5,6 +5,7 @@ pubDate: "2024-01-23"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["大衛．哥金斯", "心靈勵志", "教學理念", "讀書筆記", "魚油"]
+heroImage: "/wp-content/uploads/2024/01/rp_files_4.png"
 ---
 
 閱讀不僅是一種休閒娛樂，更是一種心靈的食糧，能夠給予我們力量和靈感。

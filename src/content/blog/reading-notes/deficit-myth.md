@@ -5,6 +5,7 @@ pubDate: "2024-07-03"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["現代貨幣理論", "職場技巧", "財務報表", "財政赤字", "道德倫理", "閱讀心得"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_178.jpg"
 ---
 
 **現代貨幣理論** （Modern Monetary Theory, MMT）是近年來討論最熱烈的經濟話題之一。

@@ -5,6 +5,7 @@ pubDate: "2024-05-26"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["七個習慣", "僧人心態", "影響力成員", "影響力習慣", "職場成功", "莉茲．懷斯曼", "領導力"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_294.jpg"
 ---
 
 在快速變遷的現代職場，如何從平凡員工躍升為具有深遠影響力的領導者？

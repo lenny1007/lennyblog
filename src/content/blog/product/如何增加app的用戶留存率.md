@@ -4,6 +4,7 @@ description: "最近在工作時, 經常在思考一個問題, 為什麼我的Ap
 pubDate: "2018-02-08"
 category: "產品"
 tags: ["手滑背單字"]
+heroImage: "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/26230107_10213498222163482_7626940257859800222_n.jpg?oh=6730d7d0f2bed27f0fba4a9d4fc019b7&oe=5B15616C"
 ---
 
 最近在工作時, 經常在思考一個問題, 為什麼我的App用戶走的總是比留下的人還多？ 有什麼辦法可以讓我的用戶能留下來的比走得多, 成為Lenny這陣子的工作重點。

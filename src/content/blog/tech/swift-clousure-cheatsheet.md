@@ -4,6 +4,7 @@ description: "Note: if the passed-in closure is going to outlive the scope of th
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["Swift"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20%5BSwift%5D%20-%20Clousure%20cheatsheet?width=1200&height=630&seed=5985&model=flux&nologo=true"
 ---
 
 ## As a **variable** :

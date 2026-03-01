@@ -5,6 +5,7 @@ pubDate: "2024-04-16"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["公益計畫", "多元智能", "心流", "統合心智", "莫守成規", "霍華德·加德納"]
+heroImage: "/wp-content/uploads/2024/02/6w1s7xs6anm-819x1024.jpg"
 ---
 
 我們不斷地尋求提升自我能力與實現個人潛力的方式。

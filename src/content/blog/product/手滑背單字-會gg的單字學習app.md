@@ -4,6 +4,7 @@ description: "人生只有一次, 不能重來, 所以要活得精彩！"
 pubDate: "2018-02-09"
 category: "產品"
 tags: ["手滑背單字"]
+heroImage: "https://image.pollinations.ai/prompt/product%20design%20app%20interface%20clean%20modern%20flat%20design%20-%20GG%20App?width=1200&height=630&seed=5358&model=flux&nologo=true"
 ---
 
 人生只有一次, 不能重來, 所以要活得精彩！

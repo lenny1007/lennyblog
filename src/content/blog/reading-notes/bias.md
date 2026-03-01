@@ -5,6 +5,7 @@ pubDate: "2024-06-01"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["克服偏見", "潔西卡．諾黛兒", "社會文化", "神經科學", "行為科學", "隱性偏見"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_286.jpg"
 ---
 
 《隱性偏見》是一個探討人類心理與社會文化的重要窗口。

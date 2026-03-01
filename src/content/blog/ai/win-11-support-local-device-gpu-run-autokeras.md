@@ -4,6 +4,7 @@ description: "目前使用 AutoKeras 最方便快速的方式除了雲端的 Goo
 pubDate: "2022-02-23"
 category: "AI"
 tags: ["AI"]
+heroImage: "http://34.81.115.112/wp-content/uploads/2022/02/image-1024x663.png"
 ---
 
 目前使用 AutoKeras 最方便快速的方式除了雲端的 Google Colaboratory 外，就是在本機端安裝 Jupyter Notebook 來跑簡單的機器學習的範例。

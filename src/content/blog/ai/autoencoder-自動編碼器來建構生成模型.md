@@ -4,6 +4,7 @@ description: "對於像是把一個數字變成一個影像的作法，通常是
 pubDate: "2022-03-23"
 category: "AI"
 tags: []
+heroImage: "http://34.81.115.112/wp-content/uploads/2022/03/autoencoder-architecture-1024x477.png"
 ---
 
 對於像是把一個數字變成一個影像的作法，通常是透過生成模型來達成， AutoEncoder 自動編碼器則是深度學習中常見最簡易的生成模型。

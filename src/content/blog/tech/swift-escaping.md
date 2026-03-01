@@ -4,6 +4,7 @@ description: "在 Swift 3 中, closures 預設為 ＠noescape 的形式, 並將 
 pubDate: "2018-02-09"
 category: "技術"
 tags: ["Swift"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Swift%20%E2%80%94%20%40escaping?width=1200&height=630&seed=4695&model=flux&nologo=true"
 ---
 
 在 Swift 3 中, closures 預設為 ＠noescape 的形式, 並將 Swift 2中的 noescape 關鍵字 deprecated。

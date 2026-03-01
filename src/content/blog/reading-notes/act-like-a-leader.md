@@ -5,6 +5,7 @@ pubDate: "2024-05-30"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["人際關係網路", "先行動後思考", "破框能力", "能力陷阱", "舒適圈", "轉變過程", "領導者"]
+heroImage: "/wp-content/uploads/2024/03/eervj2rhkw0-1024x616.jpg"
 ---
 
 成為一名優秀的領導者不僅僅需要專業技能或豐富經驗，還需要「破框力」。

@@ -5,6 +5,7 @@ pubDate: "2024-02-20"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["7C 溝通策略", "不敗學習力", "傑里德．庫尼．霍維斯", "教育神經科學", "紙本書", "腦科學研究", "記憶"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_478.jpg"
 ---
 
 **如何學習最有效?**

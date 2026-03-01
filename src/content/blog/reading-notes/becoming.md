@@ -5,6 +5,7 @@ pubDate: "2024-04-23"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["Netflix紀錄片", "回憶錄", "教育", "知識啟發", "第一夫人", "蜜雪兒·歐巴馬"]
+heroImage: "/wp-content/uploads/2024/02/8cqdvpuo_ki-1024x683.jpg"
 ---
 
 瞬息萬變的時代中，個人故事的力量經常成為啟發和驅動變革的關鍵。

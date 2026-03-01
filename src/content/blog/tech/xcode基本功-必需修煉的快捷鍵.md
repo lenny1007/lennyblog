@@ -4,6 +4,7 @@ description: "在Swift開發中 Xcode 的使用佔了大部分的開發時間，
 pubDate: "2018-03-10"
 category: "技術"
 tags: ["Xcode"]
+heroImage: "https://image.pollinations.ai/prompt/software%20programming%20code%20dark%20terminal%20clean%20minimalist%20technology%20Xcode%20-?width=1200&height=630&seed=2303&model=flux&nologo=true"
 ---
 
 在Swift開發中 Xcode 的使用佔了大部分的開發時間， 想要節省開發時間， 快捷鍵的使用是需要修煉的， 習慣快捷鍵的使用後，累積起來節省的時間是相當可觀。 Xcode -> Preferences->Key Bindings會列出所有的快捷鍵。 下面列出我個人覺得最常用到且需要刻意練習的快捷鍵。 

@@ -5,6 +5,7 @@ pubDate: "2024-03-01"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["Email問題", "卡爾．紐波特", "工作流改造", "效率提升", "數位工具", "深度工作", "淺薄忙碌", "知識工作者"]
+heroImage: "/wp-content/uploads/2024/02/rp_files_498.jpg"
 ---
 
 Email 是職場人士每日必須面對的重要通訊工具。
