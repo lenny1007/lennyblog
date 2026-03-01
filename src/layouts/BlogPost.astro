@@ -8,79 +8,202 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, subcategories, tags } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="zh-TW">
 	<head>
 		<BaseHead title={title} description={description} />
-		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
-			.hero-image {
-				width: 100%;
-			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
-			}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
-			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
-			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
-			}
-			.last-updated-on {
-				font-style: italic;
-			}
-		</style>
 	</head>
 
 	<body>
 		<Header />
 		<main>
 			<article>
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
-				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-						<h1>{title}</h1>
-						<hr />
+				<!-- Hero Image -->
+				{heroImage && (
+					<div class="hero-image">
+						<Image width={900} height={450} src={heroImage} alt={title} />
 					</div>
+				)}
+
+				<!-- Title Section -->
+				<div class="title-section">
+					<!-- Meta badges -->
+					<div class="meta-badges">
+						{category && (
+							<span class="badge badge-cat">{category}</span>
+						)}
+						{subcategories && subcategories.map((sub) => (
+							<span class="badge badge-sub">{sub}</span>
+						))}
+					</div>
+
+					<h1>{title}</h1>
+
+					<div class="date-row">
+						<span class="date">
+							📅 <FormattedDate date={pubDate} />
+						</span>
+						{updatedDate && (
+							<span class="date updated">
+								・ 更新於 <FormattedDate date={updatedDate} />
+							</span>
+						)}
+					</div>
+
+					{tags && tags.length > 0 && (
+						<div class="tag-row">
+							{tags.map((tag) => (
+								<span class="badge badge-tag">{tag}</span>
+							))}
+						</div>
+					)}
+				</div>
+
+				<!-- Post Body -->
+				<div class="prose">
 					<slot />
+				</div>
+
+				<!-- Back link -->
+				<div class="back-row">
+					<a href="/blog" class="back-link">← 回到文章列表</a>
 				</div>
 			</article>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+main {
+	max-width: 860px;
+	margin: 0 auto;
+	padding: 3rem 1.5rem 5rem;
+}
+
+article {
+	display: flex;
+	flex-direction: column;
+	gap: 0;
+}
+
+/* ── Hero Image ─────────────────────────────────────────────────── */
+.hero-image {
+	width: 100%;
+	margin-bottom: 2.5rem;
+	border-radius: 16px;
+	overflow: hidden;
+}
+.hero-image img {
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 0;
+	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+@media (prefers-color-scheme: dark) {
+	.hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
+}
+
+/* ── Title Section ──────────────────────────────────────────────── */
+.title-section {
+	text-align: center;
+	margin-bottom: 3rem;
+	padding-bottom: 2.5rem;
+	border-bottom: 1px solid var(--color-border);
+}
+
+.meta-badges {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0.5rem;
+	margin-bottom: 1.25rem;
+}
+
+.badge {
+	display: inline-block;
+	font-size: 0.8rem;
+	font-weight: 700;
+	padding: 0.3rem 0.9rem;
+	border-radius: 9999px;
+}
+.badge-cat {
+	background: var(--color-accent-light);
+	color: #2563eb;
+	border: 1px solid var(--color-accent-border);
+}
+@media (prefers-color-scheme: dark) {
+	.badge-cat { color: #60a5fa; }
+}
+.badge-sub {
+	background: #f0fdf4;
+	color: #16a34a;
+	border: 1px solid #bbf7d0;
+}
+@media (prefers-color-scheme: dark) {
+	.badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
+}
+.badge-tag {
+	background: #f1f5f9;
+	color: #475569;
+	font-weight: 500;
+	font-size: 0.78rem;
+}
+@media (prefers-color-scheme: dark) {
+	.badge-tag { background: #334155; color: #cbd5e1; }
+}
+
+.title-section h1 {
+	font-size: clamp(1.8rem, 4vw, 2.6rem);
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	line-height: 1.2;
+	color: var(--color-text-primary);
+	margin: 0 0 1rem;
+}
+
+.date-row {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+	margin-bottom: 1rem;
+}
+.date {
+	font-size: 0.875rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+}
+.date.updated { font-style: italic; }
+
+.tag-row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0.4rem;
+	margin-top: 0.5rem;
+}
+
+/* ── Prose ──────────────────────────────────────────────────────── */
+.prose {
+	width: 100%;
+}
+
+/* ── Back Link ──────────────────────────────────────────────────── */
+.back-row {
+	margin-top: 4rem;
+	padding-top: 2rem;
+	border-top: 1px solid var(--color-border);
+}
+.back-link {
+	font-size: 0.9rem;
+	font-weight: 600;
+	color: var(--color-accent);
+	text-decoration: none;
+	transition: var(--transition);
+}
+.back-link:hover { text-decoration: underline; }
+</style>
