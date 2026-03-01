@@ -5,7 +5,7 @@ import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import Pagination from '../../components/Pagination.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { CATEGORY_EMOJI, SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const PAGE_SIZE = 18;
 
@@ -14,22 +14,6 @@ const allPosts = (await getCollection('blog')).sort(
 );
 const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
 const posts = allPosts.slice(0, PAGE_SIZE);
-
-const CATEGORY_EMOJI: Record<string, string> = {
-	'閱讀筆記': '📖',
-	'健康':     '🌿',
-	'技術':     '💻',
-	'AI':       '🤖',
-	'學習':     '🧠',
-	'創業':     '🚀',
-	'理財':     '💰',
-	'數位生活': '📱',
-	'工作、職場': '💼',
-	'人生智慧': '✨',
-	'產品':     '🎯',
-	'Python':   '🐍',
-	'SEO':      '🔍',
-};
 ---
 
 <!doctype html>

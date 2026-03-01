@@ -54,9 +54,16 @@ const statusEl = document.getElementById('search-status') as HTMLParagraphElemen
 let fuse: Fuse<PostEntry> | null = null;
 let allPosts: PostEntry[] = [];
 
+function esc(str: string) {
+	return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
 // Load search index
 fetch('/search-index.json')
-	.then((r) => r.json())
+	.then((r) => {
+		if (!r.ok) throw new Error(`HTTP ${r.status}`);
+		return r.json();
+	})
 	.then((data: PostEntry[]) => {
 		allPosts = data;
 		fuse = new Fuse(data, {
@@ -77,21 +84,24 @@ fetch('/search-index.json')
 			input.value = q;
 			doSearch(q);
 		}
+	})
+	.catch(() => {
+		statusEl.textContent = '搜尋索引載入失敗，請重新整理頁面。';
 	});
 
 function renderPost(post: PostEntry) {
 	return `
 		<li>
-			<a href="${post.url}" class="post-card">
+			<a href="${esc(post.url)}" class="post-card">
 				<div class="card-body">
 					<div class="card-badges">
-						${post.category ? `<span class="badge badge-cat">${post.category}</span>` : ''}
-						${post.tags.slice(0, 2).map((t) => `<span class="badge badge-tag">${t}</span>`).join('')}
+						${post.category ? `<span class="badge badge-cat">${esc(post.category)}</span>` : ''}
+						${post.tags.slice(0, 2).map((t) => `<span class="badge badge-tag">${esc(t)}</span>`).join('')}
 					</div>
-					<h2 class="card-title">${post.title}</h2>
-					<p class="card-desc">${post.description}</p>
+					<h2 class="card-title">${esc(post.title)}</h2>
+					<p class="card-desc">${esc(post.description)}</p>
 					<div class="card-meta">
-						<span class="card-date">📅 ${post.pubDate}</span>
+						<span class="card-date">📅 ${esc(post.pubDate)}</span>
 					</div>
 				</div>
 			</a>

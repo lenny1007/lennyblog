@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { SITE_TITLE } from '../consts';
+import { CATEGORY_EMOJI, SITE_TITLE } from '../consts';
 
 const SKILLS = ['閱讀', 'Python', 'AI 應用', '健康科學', '個人理財', 'SEO', '產品思維'];
 
@@ -11,12 +11,6 @@ const SOCIAL = [
 	{ label: 'Email', href: 'mailto:lenny0929@gmail.com', icon: '✉️' },
 	{ label: 'RSS', href: '/rss.xml', icon: '📡' },
 ];
-
-const CATEGORY_EMOJI: Record<string, string> = {
-	'閱讀筆記': '📖', '健康': '🌿', '技術': '💻', 'AI': '🤖', '學習': '🧠',
-	'創業': '🚀', '理財': '💰', '數位生活': '📱', '工作': '💼', '生活智慧': '✨',
-	'產品': '🎯', 'Python': '🐍', 'SEO': '🔍', '人際': '👥',
-};
 
 // 精選文章：從 collection 動態查詢，確保 id 正確
 const allPosts = await getCollection('blog');
