@@ -5,7 +5,7 @@ pubDate: "2024-08-12"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "數位生活"]
 tags: ["人際關係", "同理心", "戴瑞．凡．湯格蘭", "焦慮", "社會心理學", "美德", "自戀", "自我反省", "自知之明", "謙遜"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/aq7id0zjew4-820x1024.jpg"
+heroImage: "/wp-images/2024/03/aq7id0zjew4-820x1024.jpg"
 ---
 
 現代社會自信與樂觀的態度往往比謙遜更容易讓人信任，也更受青睞。

@@ -5,7 +5,7 @@ pubDate: "2024-03-27"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人性偏見", "忙碌謬誤", "批判思考", "理性思考", "網路暴民", "虛假平衡", "虛幻優越感", "邏輯缺陷", "陰謀論"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_505.jpg"
+heroImage: "/wp-images/2024/02/rp_files_505.jpg"
 ---
 
 在假訊息當道的現在，「批判性思考」已成為我們在信息洪流中辨別真偽、抵禦謬誤與偏見侵襲的重要技能。

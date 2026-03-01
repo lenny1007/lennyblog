@@ -5,7 +5,7 @@ pubDate: "2024-07-27"
 category: "閱讀筆記"
 subcategories: ["理財"]
 tags: ["不動產投資", "小資族", "投資理財", "李柏鋒", "記帳", "財務目標"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_110.jpg"
+heroImage: "/wp-images/2024/02/rp_files_110.jpg"
 ---
 
 想活得好，就得理好財。

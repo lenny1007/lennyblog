@@ -5,7 +5,7 @@ pubDate: "2024-03-19"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["先行動後思考", "即時取得書籍", "希望", "心理學", "談判技巧", "轉念", "金錢法則"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_397.jpg"
+heroImage: "/wp-images/2024/02/rp_files_397.jpg"
 ---
 
 當我們提到「談判技巧」，許多人可能會聯想到企業合約、政治協商，甚至是犯罪劇中的人質談判情節。

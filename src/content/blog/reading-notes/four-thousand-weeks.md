@@ -5,7 +5,7 @@ pubDate: "2024-05-28"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["人生有限", "休閒時間", "時間管理", "注意力", "生活意義", "耐心", "選擇與放棄"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_292.jpg"
+heroImage: "/wp-images/2024/02/rp_files_292.jpg"
 ---
 
 在快速變化的時代，時間管理成為了許多人提升工作效率、追求事業成功的法寶。

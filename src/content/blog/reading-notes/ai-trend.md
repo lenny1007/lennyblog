@@ -5,7 +5,7 @@ pubDate: "2024-07-23"
 category: "閱讀筆記"
 subcategories: ["AI"]
 tags: ["AI應用領域", "AI轉型", "企業經營", "哈佛商業評論", "在職學習", "策略制定", "職場工作", "道德倫理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hpjsku2uysu-1024x730.jpg"
+heroImage: "/wp-images/2024/03/hpjsku2uysu-1024x730.jpg"
 ---
 
 隨著人工智慧（AI）的快速發展，它已經成為影響當代企業經營和職場工作的重要趨勢。

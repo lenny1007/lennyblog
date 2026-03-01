@@ -4,7 +4,7 @@ description: "在這個時代，思維模型對於渴望建立強大思考框架
 pubDate: "2024-02-19"
 category: "閱讀筆記"
 tags: ["夏恩．派瑞許", "多元思維模型框架", "思維模型", "思考盲區", "查理．蒙格", "決策成功率"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/w7e2zctlq3a-1024x683.jpg"
+heroImage: "/wp-images/2024/02/w7e2zctlq3a-1024x683.jpg"
 ---
 
 在這個時代，**思維模型** 對於渴望建立強大思考框架的讀者來說，無疑是盞指引光明的燈塔。

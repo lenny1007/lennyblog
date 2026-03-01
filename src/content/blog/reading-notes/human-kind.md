@@ -5,7 +5,7 @@ pubDate: "2024-07-15"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["《史丹佛監獄實驗》", "《米倫格爾電擊器實驗》", "《蒼蠅王》", "人性偏見", "人性本善", "歷史翻案", "社會實驗", "羅格·布雷格曼"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_128.jpg"
+heroImage: "/wp-images/2024/02/rp_files_128.jpg"
 ---
 
 你相信人性本善嗎? 

@@ -5,7 +5,7 @@ pubDate: "2024-04-12"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人際關係", "心理治療", "接納真實", "自我欺騙", "親子關係"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_387.jpg"
+heroImage: "/wp-images/2024/02/rp_files_387.jpg"
 ---
 
 在這個快節奏的時代，我們經常在不真實的自我形象和期望中迷失。

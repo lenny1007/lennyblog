@@ -5,7 +5,7 @@ pubDate: "2024-05-29"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["主動愛", "人生智慧", "悉達多", "教義", "流浪者之歌", "真理", "赫曼．赫塞"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_290.jpg"
+heroImage: "/wp-images/2024/02/rp_files_290.jpg"
 ---
 
 當我們在閱讀的道路上前行時，偶爾會遇到一些作品，它們不僅僅是文字的組合，而是充滿智慧與哲理的寶藏。

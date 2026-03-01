@@ -5,7 +5,7 @@ pubDate: "2024-05-27"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["學習經驗", "專注度", "影響力習慣", "職場影響力", "自我學習"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_293.jpg"
+heroImage: "/wp-images/2024/02/rp_files_293.jpg"
 ---
 
 在當今競爭激烈的職場環境中，擁有強大的**職場影響力** 是每位職場人士期望達成的目標。

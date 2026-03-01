@@ -5,7 +5,7 @@ pubDate: "2024-06-06"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["奇蹟思維", "寫作技巧", "科學思考者", "萬維鋼", "過度簡化", "閱讀新書", "類比思考", "高手決斷"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_270-1024x585.jpg"
+heroImage: "/wp-images/2024/02/rp_files_270-1024x585.jpg"
 ---
 
 成為一名**科學思考者** 是現代知識社會中的一項重要技能。

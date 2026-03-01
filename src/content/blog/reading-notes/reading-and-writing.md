@@ -5,7 +5,7 @@ pubDate: "2024-07-24"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["AI寫作", "Kobo電子書閱讀器", "刻意練習", "創作過程", "寫作熱區", "素材整理", "自我表現"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_114.jpg"
+heroImage: "/wp-images/2024/02/rp_files_114.jpg"
 ---
 
 閱讀與寫作，兩者常被視為知識的獲得與表達的兩端。

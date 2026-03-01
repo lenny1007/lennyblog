@@ -5,7 +5,7 @@ pubDate: "2024-04-15"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "學習"]
 tags: ["劉素珍", "情緒勒索", "正向思考", "身心靈釋放", "釋放練習"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg"
+heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 ---
 
 在紛擾不休的當代社會，「情緒」成為了我們每個人不可或缺的部分，它影響著我們的心情、決策甚至是人際關係。

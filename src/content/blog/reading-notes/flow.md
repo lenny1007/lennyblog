@@ -5,7 +5,7 @@ pubDate: "2024-04-19"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["AI寫作", "人生挑戰", "專注力", "幸福感", "心流", "目標受眾", "米哈里·奇克森特米海伊", "職場技能"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8esrc43qdro-1-684x1024.jpg"
+heroImage: "/wp-images/2024/02/8esrc43qdro-1-684x1024.jpg"
 ---
 
 在快速變化的社會中，人們不斷尋求提升個人幸福感和生產力的方法。

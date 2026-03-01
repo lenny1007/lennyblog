@@ -5,7 +5,7 @@ pubDate: "2024-02-25"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["創造力", "化輸入為輸出", "學習方法", "樺澤紫苑", "行動力", "記憶", "輸出比重"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/hcfwew744z4-1024x683.jpg"
+heroImage: "/wp-images/2024/03/hcfwew744z4-1024x683.jpg"
 ---
 
 學習新知識很重要。

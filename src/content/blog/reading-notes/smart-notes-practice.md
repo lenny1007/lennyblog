@@ -5,7 +5,7 @@ pubDate: "2024-07-30"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["Notion", "Obsidian", "卡片盒筆記法", "學習工具", "尼古拉斯．魯曼", "朱騏", "知識整理", "知識複利筆記術"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_107.jpg"
+heroImage: "/wp-images/2024/02/rp_files_107.jpg"
 ---
 
 看越多書，就遺忘越多。

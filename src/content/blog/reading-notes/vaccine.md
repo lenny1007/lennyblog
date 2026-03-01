@@ -5,7 +5,7 @@ pubDate: "2024-04-09"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["BNT合作", "mRNA技術", "偽科學", "政治大學", "新冠疫情", "疫苗開發", "艾伯特．博爾拉", "輝瑞"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/magznecmcug-819x1024.jpg"
+heroImage: "/wp-images/2024/02/magznecmcug-819x1024.jpg"
 ---
 
 全球疫情肆虐過後，《輝瑞登月任務》這本書由輝瑞藥廠的董事長阿爾伯特·布爾拉親自執筆，紀錄了輝瑞在極短時間內開發新冠疫苗的挑戰與成功。

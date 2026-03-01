@@ -5,7 +5,7 @@ pubDate: "2024-05-25"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人風格", "時尚哲學", "最美五套", "簡約生活", "衣物管理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_296.jpg"
+heroImage: "/wp-images/2024/02/rp_files_296.jpg"
 ---
 
 在快速變化的時尚圈，「最美五套」穿搭法則已經成為許多追求簡約生活與時尚感的人士的選擇。

@@ -5,7 +5,7 @@ pubDate: "2024-03-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["大局思維", "心得分享", "環境改變", "目標設定", "職場迷茫", "自我提升", "行為科學", "韌性培養"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/8xlmu62ii8i-1024x683.jpg"
+heroImage: "/wp-images/2024/02/8xlmu62ii8i-1024x683.jpg"
 ---
 
 **許多人在職場上感到迷茫和疲憊，如何尋找突破口呢 ?**

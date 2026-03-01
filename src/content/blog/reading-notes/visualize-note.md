@@ -5,7 +5,7 @@ pubDate: "2024-03-10"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "7C 溝通策略", "DRAW四步驟", "創作天賦", "口語表達", "好問題", "筆記效率", "視覺化筆記", "視覺框架", "邱奕霖"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_457.jpg"
+heroImage: "/wp-images/2024/02/rp_files_457.jpg"
 ---
 
 閱讀越多、看的書越多，如何有效整理書中資訊和傳達自己的想法就成為一項挑戰。

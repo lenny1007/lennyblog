@@ -5,7 +5,7 @@ pubDate: "2024-07-01"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["創造力", "同理心", "社交媒體", "耐力", "聆聽", "閉嘴的藝術"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/1grn4afhiee-819x1024.jpg"
+heroImage: "/wp-images/2024/03/1grn4afhiee-819x1024.jpg"
 ---
 
 在社交媒體的時代，學會在適當時機保持沉默，或許是一種與眾不同的智慧。

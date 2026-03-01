@@ -4,7 +4,7 @@ description: "好的問題，往往能帶出好的見解與答案。"
 pubDate: "2024-04-01"
 category: "閱讀筆記"
 tags: ["人際溝通", "問題意識", "提問技巧", "正向提問力", "精準提問"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_388.jpg"
+heroImage: "/wp-images/2024/02/rp_files_388.jpg"
 ---
 
 **好的問題，往往能帶出好的見解與答案。**

@@ -5,7 +5,7 @@ pubDate: "2024-06-15"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["七個習慣", "信任", "個人成長", "內化成功", "團隊合作", "領導管理", "高效能人士"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/lqeuajm05ri-819x1024.jpg"
+heroImage: "/wp-images/2024/03/lqeuajm05ri-819x1024.jpg"
 ---
 
 在快速變化的時代，如何在個人成長與團隊合作中找到成功的平衡點，成為了許多人追尋的目標。

@@ -4,7 +4,7 @@ description: "閱讀可以是一種消遣的活動，也可以是種深度的智
 pubDate: "2024-03-11"
 category: "閱讀筆記"
 tags: ["Kobo電子書閱讀器", "批判性思考", "朱敬一", "涵養", "產業政策", "自由貿易", "讀書筆記"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/zmrlzh40kms-1024x768.jpg"
+heroImage: "/wp-images/2024/02/zmrlzh40kms-1024x768.jpg"
 ---
 
 閱讀可以是一種消遣的活動，也可以是種深度的智慧體驗。

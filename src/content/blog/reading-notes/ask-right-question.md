@@ -5,7 +5,7 @@ pubDate: "2024-04-02"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "內化成功", "恢復力", "提問", "蘇格拉底式對話"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/7esrptt38ni-683x1024.jpg"
+heroImage: "/wp-images/2024/02/7esrptt38ni-683x1024.jpg"
 ---
 
 每一天，我們被各式各樣的答案包圍，網路上只需輕輕一搜，幾乎任何問題都能找到答案。

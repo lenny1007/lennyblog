@@ -5,7 +5,7 @@ pubDate: "2024-04-22"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["克里斯．貝利", "分心", "分散注意力", "創造力", "專注力", "心流", "注意力", "生產力", "管理注意力"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/dgqwuppesrq-1024x684.jpg"
+heroImage: "/wp-images/2024/02/dgqwuppesrq-1024x684.jpg"
 ---
 
 在這個時代，專注力不僅是個人生產力的基石，更是培養創造力的重要因素。

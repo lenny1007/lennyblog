@@ -5,7 +5,7 @@ pubDate: "2024-03-31"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["個人發展", "內化成功", "創造好運的環境", "意外好運", "文件準備", "機緣力", "正面心態", "積極決定", "組織營運", "運氣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_400.jpg"
+heroImage: "/wp-images/2024/02/rp_files_400.jpg"
 ---
 
 在這個充滿不確定性的世界中，很多人都在追尋成功的秘訣。

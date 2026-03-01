@@ -5,7 +5,7 @@ pubDate: "2024-08-24"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["工作與生活平衡", "忙碌謬誤", "時間管理", "生產力", "過勞崇拜"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_55.jpg"
+heroImage: "/wp-images/2024/02/rp_files_55.jpg"
 ---
 
 Work Life Balance.「工作與生活平衡」已成為許多人的渴求。

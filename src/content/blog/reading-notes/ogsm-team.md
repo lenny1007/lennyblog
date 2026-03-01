@@ -5,7 +5,7 @@ pubDate: "2024-09-01"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["OGSM", "一頁計畫書", "團隊管理", "實際應用", "營銷策略", "目標管理", "衡量", "願景", "顧問"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_34.jpg"
+heroImage: "/wp-images/2024/02/rp_files_34.jpg"
 ---
 
 在當代業界，「OGSM」已成為許多高效率團隊管理的秘訣。

@@ -5,7 +5,7 @@ pubDate: "2024-06-12"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["創新", "奇才", "學習心得", "梅麗莎‧席林", "特質", "自學", "變革領導"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_250.jpg"
+heroImage: "/wp-images/2024/02/rp_files_250.jpg"
 ---
 
 在閱讀了《奇才：揭開擁有非凡創造力的祕密》後，我們不難發現創新者們共享的一些特質，以及這些特質如何幫助他們在各自的領域內取得了顛覆性的創新。

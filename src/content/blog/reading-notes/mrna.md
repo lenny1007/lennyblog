@@ -5,7 +5,7 @@ pubDate: "2024-04-10"
 category: "閱讀筆記"
 subcategories: ["健康", "工作、職場"]
 tags: ["mRNA技術", "新冠疫情", "疫苗開發", "科學家堅持", "藥廠競爭"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/qsuou3vatf4-1024x576.jpg"
+heroImage: "/wp-images/2024/02/qsuou3vatf4-1024x576.jpg"
 ---
 
 在這場全球範圍內的新冠疫情中，mRNA技術不再是醫學界的冷門話題，而是成為了疫苗開發的明星技術。

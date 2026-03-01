@@ -5,7 +5,7 @@ pubDate: "2024-08-29"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["人生意義", "內化成功", "內控者", "多重職業", "快樂", "斜槓青年", "自我實現"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_37.jpg"
+heroImage: "/wp-images/2024/02/rp_files_37.jpg"
 ---
 
 **斜槓青年** 成為一種新興的生活態度和工作方式。

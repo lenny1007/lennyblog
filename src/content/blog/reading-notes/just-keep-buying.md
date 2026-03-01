@@ -5,7 +5,7 @@ pubDate: "2024-08-06"
 category: "閱讀筆記"
 subcategories: ["數位生活", "理財"]
 tags: ["尼克．馬朱利", "投資心態", "投資理財", "投資策略", "持續買進", "理財迷思", "股票投資", "資料分析"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_101.jpg"
+heroImage: "/wp-images/2024/02/rp_files_101.jpg"
 ---
 
 投資理財是許多人財富增值的重要途徑，真正有用的投資理財知識是什麼?

@@ -5,7 +5,7 @@ pubDate: "2024-07-11"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["催化劑", "內容策略", "心理障礙", "減少阻力", "生活方式改變", "約拿·博格", "華頓商學院"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_139.jpg"
+heroImage: "/wp-images/2024/02/rp_files_139.jpg"
 ---
 
 讀過許多關於改變的書籍後，我們會發現，推動改變往往不是一件容易的事。

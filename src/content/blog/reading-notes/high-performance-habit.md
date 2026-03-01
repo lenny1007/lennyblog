@@ -5,7 +5,7 @@ pubDate: "2024-03-20"
 category: "閱讀筆記"
 subcategories: ["學習", "工作、職場"]
 tags: ["保健食品效能", "個人發展", "工作表現", "布蘭登・布夏德", "生產力", "高成效習慣"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/pexels-photo-810775-1024x682.jpeg"
+heroImage: "/wp-images/2024/02/pexels-photo-810775-1024x682.jpeg"
 ---
 
 在這個快速變遷的時代，如何提升個人效率與生產力，成為許多人積極追求的目標。

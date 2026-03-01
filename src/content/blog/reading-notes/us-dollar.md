@@ -4,7 +4,7 @@ description: "要真正理解全球經濟的運作機制，僅僅從表面的新
 pubDate: "2024-04-07"
 category: "閱讀筆記"
 tags: ["全球經濟", "加密貨幣", "國際視野", "新冠疫情", "歐盟", "貿易自由", "資源分配"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/nxt5htlmlge-1024x683.jpg"
+heroImage: "/wp-images/2024/02/nxt5htlmlge-1024x683.jpg"
 ---
 
 要真正理解全球經濟的運作機制，僅僅從表面的新聞報導或是一些數據分析並不能完全洞悉其複雜性。

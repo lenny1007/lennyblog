@@ -5,7 +5,7 @@ pubDate: "2024-07-02"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["人生哲學", "似水無形", "李小龍", "生活智慧", "自我表達", "適應挑戰"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/7xujizywvve-683x1024.jpg"
+heroImage: "/wp-images/2024/03/7xujizywvve-683x1024.jpg"
 ---
 
 **李小龍的人生哲學** \- **如水無形** 。透過女兒李香凝所著的《似水無形，李小龍的人生哲學》，我們得以一窺這位傳奇人物的思想深度。

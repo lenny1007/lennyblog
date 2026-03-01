@@ -5,7 +5,7 @@ pubDate: "2024-05-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "數位生活"]
 tags: ["任康磊", "個體崛起", "副業", "商業價值", "成長勢能", "職場發展", "變現能力"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/bdpltevpkvw-683x1024.jpg"
+heroImage: "/wp-images/2024/02/bdpltevpkvw-683x1024.jpg"
 ---
 
 在快速變遷的時代，「成長勢能」已成為職場人士不可或缺的能力。

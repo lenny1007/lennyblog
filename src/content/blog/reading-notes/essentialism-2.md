@@ -5,7 +5,7 @@ pubDate: "2024-03-04"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["Essentialism", "執行策略", "專準主義", "拒絕策略", "最小可行產品", "生活品質", "簡化目標", "葛瑞格．麥基昂"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_465.jpg"
+heroImage: "/wp-images/2024/02/rp_files_465.jpg"
 ---
 
 **《少，但是更好》是我個人很喜歡的一本書，也是我定期會再閱讀一遍的書籍。**

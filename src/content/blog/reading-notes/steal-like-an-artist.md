@@ -5,7 +5,7 @@ pubDate: "2024-03-25"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["AI寫作", "Austin Kleon", "創作方法", "創作靈感", "創意工作", "模仿學習", "藝術創作"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/mdu-53qrvr4-1024x684.jpg"
+heroImage: "/wp-images/2024/02/mdu-53qrvr4-1024x684.jpg"
 ---
 
 創意，一個在藝術與文化領域被反覆討論的話題。

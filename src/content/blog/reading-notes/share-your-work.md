@@ -5,7 +5,7 @@ pubDate: "2024-03-28"
 category: "閱讀筆記"
 subcategories: ["創業", "數位生活"]
 tags: ["人際關係網路", "內容創作", "公開分享", "業餘愛好者", "知識分享", "社群平台"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_417.jpg"
+heroImage: "/wp-images/2024/02/rp_files_417.jpg"
 ---
 
 在秀自己的時代，「公開分享」已經成為了連接人與人之間，傳遞知識與創意的一座重要橋樑。

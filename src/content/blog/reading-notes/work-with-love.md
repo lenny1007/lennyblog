@@ -4,7 +4,7 @@ description: "你知道怎麼找到一份集熱情、收入與意義於一體的
 pubDate: "2024-06-03"
 category: "閱讀筆記"
 tags: ["個人品牌", "寫作熱情", "理想生活", "設計思考", "遠距工作"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_276.jpg"
+heroImage: "/wp-images/2024/02/rp_files_276.jpg"
 ---
 
 你知道怎麼找到一份集熱情、收入與意義於一體的工作嗎?

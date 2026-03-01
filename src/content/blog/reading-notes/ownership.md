@@ -5,7 +5,7 @@ pubDate: "2024-04-27"
 category: "閱讀筆記"
 subcategories: ["創業"]
 tags: ["個人成長", "創造力", "寫作技巧", "模仿學習", "海豹部隊", "自學", "領導管理"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_426.jpg"
+heroImage: "/wp-images/2024/02/rp_files_426.jpg"
 ---
 
 在競爭激烈的時代，**領導管理** 的藝術比以往任何時候都顯得更為重要。

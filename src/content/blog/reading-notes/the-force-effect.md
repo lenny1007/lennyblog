@@ -5,7 +5,7 @@ pubDate: "2024-08-15"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["一人公司", "利他共贏", "原力效應", "愛瑞克", "溝通技巧", "演說", "逆向工程"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_85.jpg"
+heroImage: "/wp-images/2024/02/rp_files_85.jpg"
 ---
 
 愛瑞克不僅是一位作家，也是溝通與個人效能的專家。

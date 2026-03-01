@@ -4,7 +4,7 @@ description: "「繁忙」似乎已經成為許多人生活的常態。"
 pubDate: "2024-02-19"
 category: "閱讀筆記"
 tags: ["人生目標", "倦怠", "全玉杓", "刻意暫停", "學習效率", "忙碌謬誤", "職場經驗", "自我反思", "重啟"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/fswqzllhc3y-1024x768.jpg"
+heroImage: "/wp-images/2024/02/fswqzllhc3y-1024x768.jpg"
 ---
 
 「繁忙」似乎已經成為許多人生活的常態。

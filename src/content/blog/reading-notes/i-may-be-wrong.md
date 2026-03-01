@@ -4,7 +4,7 @@ description: "我們常常在尋找生活中的意義與方向。"
 pubDate: "2024-02-07"
 category: "閱讀筆記"
 tags: ["人生挑戰", "心靈成長", "智慧錦囊", "比約恩．納提科．林德布勞", "自我反思"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/a9khttbjpwy-683x1024.jpg"
+heroImage: "/wp-images/2024/02/a9khttbjpwy-683x1024.jpg"
 ---
 
 **我們常常在尋找生活中的意義與方向。**

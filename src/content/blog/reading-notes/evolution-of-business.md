@@ -5,7 +5,7 @@ pubDate: "2024-08-07"
 category: "閱讀筆記"
 subcategories: ["學習", "理財"]
 tags: ["商業演進", "紅利與利潤", "自我連結", "資訊不對稱", "超級節點"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_98.jpg"
+heroImage: "/wp-images/2024/02/rp_files_98.jpg"
 ---
 
 你是否曾思考過商業世界的軌跡是如何演化至今日的模樣？

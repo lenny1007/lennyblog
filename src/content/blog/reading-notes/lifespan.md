@@ -5,7 +5,7 @@ pubDate: "2024-06-14"
 category: "閱讀筆記"
 subcategories: ["健康"]
 tags: ["人生課題", "人際溝通", "保養品", "抗皺", "朵茉麗蔻", "淨斑", "老化"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/nlhgkaz3jci-1024x1024.jpg"
+heroImage: "/wp-images/2024/03/nlhgkaz3jci-1024x1024.jpg"
 ---
 
 在當今社會，「老化」一詞不再僅僅指年紀的增長，它也成為了生物學、醫學、心理學等多學科交叉研究的熱門話題。

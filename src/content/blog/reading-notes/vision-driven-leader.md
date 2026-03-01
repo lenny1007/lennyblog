@@ -5,7 +5,7 @@ pubDate: "2024-08-22"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["內容策略", "激勵人心", "管理者", "領導者", "願景", "願景劇本", "麥可．海亞特"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/z0nvqfroqwa-1-1024x683.jpg"
+heroImage: "/wp-images/2024/03/z0nvqfroqwa-1-1024x683.jpg"
 ---
 
 在商業世界中，**領導者的願景** 不僅是引導團隊前進的方向燈塔，更是激發部屬共鳴與創造力的核心力量。

@@ -5,7 +5,7 @@ pubDate: "2024-03-05"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["RAIN", "七個習慣", "好奇心", "正念", "焦慮", "獎勵機制", "賈德森．布魯爾"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/6x2ikgi6spu-1024x683.jpg"
+heroImage: "/wp-images/2024/03/6x2ikgi6spu-1024x683.jpg"
 ---
 
 閱讀對許多人來說是一種放鬆和豐富心靈的活動，然而，在當今快節奏和高壓力的生活中，即便是愛書人也可能會被焦慮所困擾。

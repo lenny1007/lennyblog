@@ -5,7 +5,7 @@ pubDate: "2024-06-29"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["學習參與", "排行榜", "教學技術", "獎勵", "王永福", "積分", "遊戲化教學"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_196.jpg"
+heroImage: "/wp-images/2024/02/rp_files_196.jpg"
 ---
 
 在當今的教學領域中，**遊戲化教學** 已成為一項創新的策略，旨在激發學生的參與度和學習動機。

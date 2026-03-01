@@ -5,7 +5,7 @@ pubDate: "2024-03-20"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["不敗學習力", "劉軒", "學習力", "專注力", "恆毅力", "情緒管理", "拖延症", "時間管理", "筆記力", "複習力", "記憶力", "閱讀力", "高成長思維"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_433.jpg"
+heroImage: "/wp-images/2024/02/rp_files_433.jpg"
 ---
 
 **學霸是怎麼練成的?**

@@ -5,7 +5,7 @@ pubDate: "2024-02-24"
 category: "閱讀筆記"
 subcategories: ["人生智慧"]
 tags: ["優勢與陷阱", "史考特．蓋洛威", "失敗模式", "幸福人生", "成功公式"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_492.jpg"
+heroImage: "/wp-images/2024/02/rp_files_492.jpg"
 ---
 
 在追尋幸福人生的道路上，我們經常面臨各式各樣的選擇和挑戰。

@@ -5,7 +5,7 @@ pubDate: "2024-03-23"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["成功祕訣", "窮忙世代", "習慣建立", "艾兒莎", "說故事", "面試技巧"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/4k2lip0zc_k-1024x684.jpg"
+heroImage: "/wp-images/2024/02/4k2lip0zc_k-1024x684.jpg"
 ---
 
 在競爭激烈的職場中，「面試技巧」是求職者必須精熟的重要武器。

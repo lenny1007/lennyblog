@@ -5,7 +5,7 @@ pubDate: "2024-05-13"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "創業"]
 tags: ["《人生給的答案2》", "《被討厭的勇氣》", "創業", "商業模式", "心理復原", "職場經驗", "離職"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/PXL_20240301_040448195-1024x768.jpg"
+heroImage: "/wp-images/2024/03/PXL_20240301_040448195-1024x768.jpg"
 ---
 
 我們都曾在人生的十字路口猶豫不決，尤其當面對職場轉換或創業決策時，這種不確定性更是如影隨形。

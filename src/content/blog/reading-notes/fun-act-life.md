@@ -5,7 +5,7 @@ pubDate: "2024-08-31"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "工作、職場"]
 tags: ["創意發想", "同理心", "情緒管理", "日系推理小說", "溝通技巧", "生活哲學", "表演心法", "認識自我", "郎祖筠"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_32.jpg"
+heroImage: "/wp-images/2024/02/rp_files_32.jpg"
 ---
 
 《郎祖筠的FUN演生活學》用郎姊的視角來看待日常生活，還教授了如何透過表演心法來突破自我與人心的深層次交流。

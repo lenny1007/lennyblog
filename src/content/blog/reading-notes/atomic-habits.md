@@ -5,7 +5,7 @@ pubDate: "2024-08-02"
 category: "閱讀筆記"
 subcategories: ["工作、職場", "數位生活"]
 tags: ["習慣養成"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/3orzref1vgc-768x1024.jpg"
+heroImage: "/wp-images/2024/02/3orzref1vgc-768x1024.jpg"
 ---
 
 ### 別管目標， 專注於系統就好。

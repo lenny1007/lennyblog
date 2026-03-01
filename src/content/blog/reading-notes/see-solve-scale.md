@@ -5,7 +5,7 @@ pubDate: "2024-07-26"
 category: "閱讀筆記"
 subcategories: ["創業", "工作、職場"]
 tags: ["丹尼．沃謝", "企業家精神", "創業", "商業思考", "問題解決", "擴展", "案例分析", "洞察", "結構化進程"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_111.jpg"
+heroImage: "/wp-images/2024/02/rp_files_111.jpg"
 ---
 
 談論**創業** 時，很容易聯想到那些天才型的企業家，如喬布斯或馬斯克，他們似乎憑藉著與生俱來的直覺和創造力，將創意轉化為了革命性的產品和服務。

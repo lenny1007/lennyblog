@@ -5,7 +5,7 @@ pubDate: "2024-08-26"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["內容行銷", "創作策略", "實用性", "目標受眾", "長銷作品"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/u33fhrybybu-1-1024x683.jpg"
+heroImage: "/wp-images/2024/03/u33fhrybybu-1-1024x683.jpg"
 ---
 
 什麼樣的內容可以讓人一讀再讀，成為經典? 

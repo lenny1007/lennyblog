@@ -5,7 +5,7 @@ pubDate: "2024-07-10"
 category: "閱讀筆記"
 subcategories: ["人生智慧", "理財"]
 tags: ["人生體驗", "健康功效", "工作與生活平衡", "投資理財", "時間管理", "比爾．柏金斯", "財富管理", "財產歸零", "金錢法則"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/d6njmj60b8m-1024x683.jpg"
+heroImage: "/wp-images/2024/03/d6njmj60b8m-1024x683.jpg"
 ---
 
 賺更多錢? 還是花更多錢，讓你過得更精彩? 

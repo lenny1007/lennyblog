@@ -5,7 +5,7 @@ pubDate: "2024-08-19"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["IDEO", "Kobo電子書閱讀器", "品學堂", "解讀", "解讀者", "設計思考", "閱讀素養", "黃國珍"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_79.jpg"
+heroImage: "/wp-images/2024/02/rp_files_79.jpg"
 ---
 
 我們每天都在接收大量的文字資料。

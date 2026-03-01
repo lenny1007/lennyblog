@@ -5,7 +5,7 @@ pubDate: "2024-03-13"
 category: "閱讀筆記"
 subcategories: ["學習"]
 tags: ["《子彈思考整理術》", "7C 溝通策略", "DRAW", "圖像", "模板", "知識體系", "視覺化", "視覺筆記"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_453.jpg"
+heroImage: "/wp-images/2024/02/rp_files_453.jpg"
 ---
 
 **你知道如何有效地處理並傳達知識嗎?**

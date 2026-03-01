@@ -5,7 +5,7 @@ pubDate: "2024-07-17"
 category: "閱讀筆記"
 subcategories: ["工作、職場"]
 tags: ["AI寫作", "內化成功", "刻意練習", "寫作熱情", "恆毅力", "目標受眾"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/02/rp_files_125.jpg"
+heroImage: "/wp-images/2024/02/rp_files_125.jpg"
 ---
 
 在追尋成功的路途上，“毅力”一詞經常被提及，被視為達成目標不可或缺的要素。

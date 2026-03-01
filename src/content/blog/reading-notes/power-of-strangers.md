@@ -5,7 +5,7 @@ pubDate: "2024-05-24"
 category: "閱讀筆記"
 subcategories: ["數位生活"]
 tags: ["人類合作", "信任", "孤獨感", "社交App", "社交進化", "陌生人交談"]
-heroImage: "https://lennychen.com/wp-content/uploads/2024/03/71u2foofi-u-683x1024.jpg"
+heroImage: "/wp-images/2024/03/71u2foofi-u-683x1024.jpg"
 ---
 
 網友，是朋友還是陌生人?
