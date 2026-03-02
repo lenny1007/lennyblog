@@ -1,0 +1,270 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+
+// 推薦 3 篇精選文章
+const allPosts = await getCollection('blog');
+const featured = allPosts
+	.filter(p => p.data.featured)
+	.slice(0, 3);
+
+const recommended = featured.length >= 3
+	? featured
+	: allPosts
+		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+		.slice(0, 3);
+---
+
+<!doctype html>
+<html lang="zh-TW">
+	<head>
+		<BaseHead
+			title={`訂閱成功！ | ${SITE_TITLE}`}
+			description="感謝你訂閱懶泥陳的電子報，期待與你分享每週的閱讀心得與思考。"
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="thanks-hero">
+				<div class="thanks-icon">📬</div>
+				<h1>訂閱成功，謝謝你！</h1>
+				<p class="thanks-desc">
+					我已經收到你的訂閱申請。<br />
+					之後每當有新文章或電子報，就會第一時間送到你的信箱。<br />
+					<span class="thanks-note">不定期，但每封都有誠意。</span>
+				</p>
+				<div class="thanks-actions">
+					<a href="/" class="btn-primary">回到首頁</a>
+					<a href="/blog" class="btn-secondary">瀏覽所有文章</a>
+				</div>
+			</div>
+
+			<!-- 推薦文章 -->
+			{recommended.length > 0 && (
+				<section class="rec-section">
+					<h2 class="rec-title">趁等信的時候，先讀這幾篇？</h2>
+					<ul class="rec-grid">
+						{recommended.map(post => (
+							<li>
+								<a href={`/blog/${post.id}/`} class="rec-card">
+									{post.data.heroImage ? (
+										<img
+											src={post.data.heroImage}
+											alt={post.data.title}
+											class="rec-img"
+											loading="lazy"
+											onerror={`this.style.display='none'`}
+										/>
+									) : (
+										<div class="rec-img-placeholder">📖</div>
+									)}
+									<div class="rec-body">
+										{post.data.category && <span class="rec-cat">{post.data.category}</span>}
+										<h3 class="rec-post-title">{post.data.title}</h3>
+										<p class="rec-desc">{post.data.description}</p>
+									</div>
+								</a>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+main {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 4rem 1.5rem 6rem;
+}
+
+/* ── Hero ────────────────────────────────────────────────────────── */
+.thanks-hero {
+	text-align: center;
+	padding: 4rem 2rem;
+	margin-bottom: 4rem;
+	background: linear-gradient(135deg, var(--color-accent-light), var(--color-bg-card));
+	border: 1px solid var(--color-accent-border);
+	border-radius: 24px;
+}
+
+.thanks-icon {
+	font-size: 4rem;
+	line-height: 1;
+	margin-bottom: 1.5rem;
+	animation: bounce 1.5s ease infinite;
+}
+
+@keyframes bounce {
+	0%, 100% { transform: translateY(0); }
+	50% { transform: translateY(-8px); }
+}
+
+.thanks-hero h1 {
+	font-size: clamp(1.8rem, 4vw, 2.6rem);
+	font-weight: 900;
+	letter-spacing: -0.03em;
+	color: var(--color-text-primary);
+	margin: 0 0 1rem;
+}
+
+.thanks-desc {
+	font-size: 1.05rem;
+	color: var(--color-text-secondary);
+	line-height: 1.8;
+	margin: 0 0 0.75rem;
+}
+
+.thanks-note {
+	display: block;
+	margin-top: 0.5rem;
+	font-size: 0.9rem;
+	color: var(--color-text-muted);
+	font-style: italic;
+}
+
+.thanks-actions {
+	display: flex;
+	gap: 0.75rem;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin-top: 2rem;
+}
+
+.btn-primary {
+	padding: 0.7rem 1.75rem;
+	background: var(--color-accent);
+	color: #fff;
+	border-radius: 9999px;
+	font-size: 0.95rem;
+	font-weight: 700;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.btn-primary:hover {
+	background: #1d4ed8;
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+
+.btn-secondary {
+	padding: 0.7rem 1.75rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	color: var(--color-text-secondary);
+	border-radius: 9999px;
+	font-size: 0.95rem;
+	font-weight: 700;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.btn-secondary:hover {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+	text-decoration: none;
+}
+
+/* ── 推薦文章 ────────────────────────────────────────────────────── */
+.rec-section { }
+
+.rec-title {
+	font-size: 1.25rem;
+	font-weight: 800;
+	letter-spacing: -0.02em;
+	color: var(--color-text-primary);
+	margin: 0 0 1.5rem;
+}
+
+.rec-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	gap: 1.25rem;
+}
+
+.rec-card {
+	display: flex;
+	flex-direction: column;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 16px;
+	overflow: hidden;
+	text-decoration: none;
+	transition: all 0.25s ease;
+}
+.rec-card:hover {
+	border-color: #93c5fd;
+	transform: translateY(-4px);
+	box-shadow: 0 8px 20px rgba(37, 99, 235, 0.1);
+	text-decoration: none;
+}
+[data-theme="dark"] .rec-card:hover { border-color: #3b82f6; }
+
+.rec-img {
+	width: 100%;
+	height: 140px;
+	object-fit: cover;
+	display: block;
+}
+.rec-img-placeholder {
+	width: 100%;
+	height: 140px;
+	background: var(--color-bg-secondary);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 2.5rem;
+}
+
+.rec-body {
+	padding: 1rem 1.25rem 1.25rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.35rem;
+}
+
+.rec-cat {
+	font-size: 0.72rem;
+	font-weight: 700;
+	color: var(--color-accent);
+	letter-spacing: 0.03em;
+}
+[data-theme="dark"] .rec-cat { color: #60a5fa; }
+
+.rec-post-title {
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: var(--color-text-primary);
+	line-height: 1.4;
+	margin: 0;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+.rec-card:hover .rec-post-title { color: var(--color-accent); }
+
+.rec-desc {
+	font-size: 0.82rem;
+	color: var(--color-text-secondary);
+	line-height: 1.55;
+	margin: 0;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+@media (max-width: 640px) {
+	.rec-grid { grid-template-columns: 1fr; }
+}
+</style>

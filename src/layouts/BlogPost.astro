@@ -13,6 +13,7 @@ type Props = CollectionEntry<'blog'>['data'] & {
 	readingTime?: number;
 	wordCount?: number;
 	relatedPosts?: CollectionEntry<'blog'>[];
+	seriesPosts?: CollectionEntry<'blog'>[];
 };
 
 const {
@@ -29,13 +30,18 @@ const {
 	readingTime,
 	wordCount,
 	relatedPosts,
+	seriesPosts,
 } = Astro.props;
+
+// 動態 OG 圖：/og/<category>/<slug>.png（格式與 post.id 一致）
+const postSlug = Astro.url.pathname.replace(/^\/blog\//, '').replace(/\/$/, '');
+const ogImage = `/og/${postSlug}.png`;
 
 ---
 
 <html lang="zh-TW">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage} pubDate={pubDate} updatedDate={updatedDate} />
+		<BaseHead title={title} description={description} image={ogImage} pubDate={pubDate} updatedDate={updatedDate} />
 	</head>
 
 	<body>
@@ -58,6 +64,35 @@ const {
 					{heroImage && (
 						<div class="hero-image">
 							<img src={heroImage} alt={title} loading="eager" />
+						</div>
+					)}
+
+					<!-- 系列文章導覽 -->
+					{seriesPosts && seriesPosts.length > 1 && (
+						<div class="series-nav">
+							<div class="series-header">
+								<span class="series-icon">📚</span>
+								<span class="series-label">系列文章</span>
+								<span class="series-title">{Astro.props.series}</span>
+							</div>
+							<ol class="series-list">
+								{seriesPosts.map((p) => {
+									const isCurrent = p.data.title === title;
+									return (
+										<li class={isCurrent ? 'series-item current' : 'series-item'}>
+											{isCurrent ? (
+												<span class="series-link current-indicator">
+													▶ {p.data.title}
+												</span>
+											) : (
+												<a href={`/blog/${p.id}/`} class="series-link">
+													{p.data.title}
+												</a>
+											)}
+										</li>
+									);
+								})}
+							</ol>
 						</div>
 					)}
 
@@ -275,7 +310,7 @@ const {
 		})();
 		</script>
 
-		<!-- TOC 生成 JS -->
+		<!-- TOC 生成 + Heading 錨點複製 JS -->
 		<script>
 		(function () {
 			const nav = document.getElementById('toc-nav');
@@ -285,12 +320,19 @@ const {
 			const headings = Array.from(document.querySelectorAll('.prose h2, .prose h3')) as HTMLElement[];
 			if (headings.length < 2) {
 				sidebar.style.display = 'none';
+				// 仍然加錨點按鈕
+				addAnchorButtons(headings);
 				return;
 			}
 
+			// 進度指示器
+			const progressEl = document.createElement('p');
+			progressEl.className = 'toc-progress';
+			progressEl.textContent = `0 / ${headings.length} 個章節`;
+			nav.before(progressEl);
+
 			const ul = document.createElement('ul');
 			headings.forEach(h => {
-				// 確保 heading 有 id
 				if (!h.id) {
 					h.id = h.textContent?.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fff-]/g, '') ?? '';
 				}
@@ -309,15 +351,26 @@ const {
 			});
 			nav.appendChild(ul);
 
-			// IntersectionObserver 高亮目前段落
+			addAnchorButtons(headings);
+
+			// IntersectionObserver 高亮 + 進度更新
 			const links = Array.from(nav.querySelectorAll('a')) as HTMLAnchorElement[];
+			let currentIndex = -1;
 			const observer = new IntersectionObserver(
 				(entries) => {
 					entries.forEach(entry => {
 						if (entry.isIntersecting) {
 							links.forEach(l => l.classList.remove('active'));
-							const link = nav.querySelector(`a[href="#${entry.target.id}"]`);
+							const link = nav.querySelector(`a[href="#${entry.target.id}"]`) as HTMLElement;
 							link?.classList.add('active');
+							// 滾動 TOC 讓 active 可見
+							link?.scrollIntoView({ block: 'nearest' });
+							// 更新進度
+							const idx = headings.indexOf(entry.target as HTMLElement);
+							if (idx !== -1) {
+								currentIndex = idx;
+								progressEl.textContent = `第 ${idx + 1} / ${headings.length} 個章節`;
+							}
 						}
 					});
 				},
@@ -325,6 +378,30 @@ const {
 			);
 			headings.forEach(h => observer.observe(h));
 		})();
+
+		function addAnchorButtons(headings: HTMLElement[]) {
+			headings.forEach(h => {
+				if (!h.id) {
+					h.id = h.textContent?.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fff-]/g, '') ?? '';
+				}
+				const btn = document.createElement('button');
+				btn.className = 'heading-anchor-btn';
+				btn.setAttribute('aria-label', '複製段落連結');
+				btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>';
+				btn.addEventListener('click', async () => {
+					const url = `${window.location.origin}${window.location.pathname}#${h.id}`;
+					try {
+						await navigator.clipboard.writeText(url);
+						btn.classList.add('copied');
+						setTimeout(() => btn.classList.remove('copied'), 2000);
+					} catch {
+						// 靜默失敗
+					}
+				});
+				h.style.position = 'relative';
+				h.appendChild(btn);
+			});
+		}
 		</script>
 
 		<!-- 分享按鈕 JS -->
@@ -380,6 +457,21 @@ const {
 				);
 			});
 			observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+		})();
+		</script>
+
+		<!-- 記錄最近瀏覽 -->
+		<script define:vars={{ _title: title, _category: category }}>
+		(function () {
+			const KEY = 'recently-read';
+			const MAX = 10;
+			try {
+				const items = JSON.parse(localStorage.getItem(KEY) ?? '[]');
+				const url = window.location.pathname;
+				const filtered = items.filter((i) => i.url !== url);
+				filtered.unshift({ title: _title, category: _category, url, date: Date.now() });
+				localStorage.setItem(KEY, JSON.stringify(filtered.slice(0, MAX)));
+			} catch { /* 靜默失敗 */ }
 		})();
 		</script>
 
@@ -802,6 +894,92 @@ article {
 }
 .back-link:hover { text-decoration: underline; }
 
+/* ── 系列文章 ───────────────────────────────────────────────────── */
+.series-nav {
+	margin-bottom: 2rem;
+	padding: 1.25rem 1.5rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-accent-border);
+	border-left: 4px solid var(--color-accent);
+	border-radius: 12px;
+}
+
+.series-header {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	margin-bottom: 0.85rem;
+	font-size: 0.82rem;
+}
+
+.series-icon { font-size: 1rem; }
+
+.series-label {
+	font-weight: 800;
+	font-size: 0.72rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	padding: 0.15rem 0.5rem;
+	border-radius: 9999px;
+}
+
+.series-title {
+	font-weight: 700;
+	color: var(--color-text-primary);
+	font-size: 0.88rem;
+}
+
+.series-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.3rem;
+	counter-reset: series-counter;
+}
+
+.series-item {
+	counter-increment: series-counter;
+}
+
+.series-link {
+	display: flex;
+	align-items: baseline;
+	gap: 0.5rem;
+	font-size: 0.875rem;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	padding: 0.3rem 0.5rem;
+	border-radius: 6px;
+	transition: all 0.15s ease;
+}
+.series-link::before {
+	content: counter(series-counter) ".";
+	font-size: 0.75rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	flex-shrink: 0;
+}
+a.series-link:hover {
+	background: var(--color-accent-light);
+	color: var(--color-accent);
+	text-decoration: none;
+}
+
+.series-item.current .series-link {
+	font-weight: 700;
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+}
+.series-item.current .series-link::before {
+	color: var(--color-accent);
+}
+
+.current-indicator { cursor: default; }
+
 /* ── Giscus 留言 ────────────────────────────────────────────────── */
 .giscus-section {
 	margin-top: 3rem;
@@ -814,6 +992,46 @@ article {
 	letter-spacing: -0.02em;
 	color: var(--color-text-primary);
 	margin: 0 0 1.5rem;
+}
+
+/* ── Heading 錨點複製按鈕 ───────────────────────────────────────── */
+.heading-anchor-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 0.5rem;
+	padding: 0.2rem;
+	background: none;
+	border: none;
+	cursor: pointer;
+	color: var(--color-text-muted);
+	border-radius: 4px;
+	opacity: 0;
+	transition: opacity 0.15s ease, color 0.15s ease;
+	vertical-align: middle;
+}
+.prose h2:hover .heading-anchor-btn,
+.prose h3:hover .heading-anchor-btn {
+	opacity: 1;
+}
+.heading-anchor-btn:hover {
+	color: var(--color-accent);
+}
+.heading-anchor-btn.copied {
+	color: #16a34a;
+	opacity: 1;
+}
+
+/* ── TOC 進度 ───────────────────────────────────────────────────── */
+.toc-progress {
+	font-size: 0.72rem;
+	font-weight: 700;
+	color: var(--color-accent);
+	margin: 0 0 0.75rem;
+	padding: 0.25rem 0.6rem;
+	background: var(--color-accent-light);
+	border-radius: 9999px;
+	display: inline-block;
 }
 
 /* ── TOC 側邊欄 ─────────────────────────────────────────────────── */

@@ -65,6 +65,14 @@ export default config({
 					label: '封面圖片 URL',
 					validation: { isRequired: false },
 				}),
+				series: fields.text({
+					label: '系列名稱（選填，如「地中海飲食系列」）',
+					validation: { isRequired: false },
+				}),
+				seriesOrder: fields.integer({
+					label: '在系列中的順序（第幾篇）',
+					validation: { min: 1 },
+				}),
 				rating: fields.select({
 					label: '評分（僅閱讀筆記）',
 					options: [

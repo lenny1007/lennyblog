@@ -178,7 +178,7 @@ const categories = Object.entries(categoryCounts)
 					action="https://buttondown.com/api/emails/embed-subscribe/lennychen"
 					method="post"
 					target="popupwindow"
-					onsubmit="window.open('https://buttondown.com/lennychen', 'popupwindow')"
+					onsubmit="window.open('https://buttondown.com/lennychen', 'popupwindow'); setTimeout(function(){ window.location.href='/thanks'; }, 1500);"
 				>
 					<input type="hidden" name="embed" value="1" />
 					<div class="newsletter-input-group">

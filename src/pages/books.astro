@@ -54,16 +54,29 @@ const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
 				))}
 			</nav>
 
+			<!-- 篩選列 -->
+			<div class="filter-bar" aria-label="篩選書單">
+				<div class="filter-group">
+					<span class="filter-label">評分篩選</span>
+					<button class="filter-btn active" data-filter-rating="all">全部</button>
+					<button class="filter-btn" data-filter-rating="5">⭐⭐⭐⭐⭐</button>
+					<button class="filter-btn" data-filter-rating="4">⭐⭐⭐⭐ 以上</button>
+					<button class="filter-btn" data-filter-rating="3">⭐⭐⭐ 以上</button>
+				</div>
+			</div>
+
+			<p class="no-results" id="no-results" hidden>沒有符合條件的書籍</p>
+
 			<!-- 按年份列出 -->
 			{years.map((year) => (
-				<section id={`year-${year}`} class="year-section">
+				<section id={`year-${year}`} class="year-section" data-year={year}>
 					<h2 class="year-heading">{year}</h2>
 					<ul class="book-grid">
 						{byYear[year].map((post) => {
 							const bookTitle = extractBookTitle(post.data.title);
 							const hasBookName = /《[^》]+》/.test(post.data.title);
 							return (
-								<li>
+								<li data-rating={post.data.rating ?? 0}>
 									<a href={`/blog/${post.id}/`} class="book-card">
 										<div class="book-cover-wrap">
 											{post.data.heroImage ? (
@@ -107,6 +120,41 @@ const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
 		<Footer />
 	</body>
 </html>
+
+<script>
+// 書單評分篩選
+const filterBtns = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+const sections = document.querySelectorAll<HTMLElement>('.year-section');
+const noResults = document.getElementById('no-results');
+
+filterBtns.forEach(btn => {
+	btn.addEventListener('click', () => {
+		filterBtns.forEach(b => b.classList.remove('active'));
+		btn.classList.add('active');
+
+		const minRating = btn.dataset.filterRating === 'all'
+			? 0
+			: parseInt(btn.dataset.filterRating ?? '0', 10);
+
+		let totalVisible = 0;
+
+		sections.forEach(section => {
+			const items = section.querySelectorAll<HTMLElement>('li[data-rating]');
+			let sectionVisible = 0;
+			items.forEach(item => {
+				const rating = parseInt(item.dataset.rating ?? '0', 10);
+				const show = minRating === 0 || rating >= minRating;
+				item.style.display = show ? '' : 'none';
+				if (show) sectionVisible++;
+			});
+			section.style.display = sectionVisible > 0 ? '' : 'none';
+			totalVisible += sectionVisible;
+		});
+
+		if (noResults) noResults.hidden = totalVisible > 0;
+	});
+});
+</script>
 
 <style>
 main {
@@ -294,5 +342,54 @@ main {
 @media (max-width: 480px) {
 	.book-cover-wrap { width: 60px; height: 75px; }
 	.book-cover, .book-cover-placeholder { width: 60px; height: 75px; }
+}
+
+/* ── 篩選列 ──────────────────────────────────────────────────────── */
+.filter-bar {
+	margin-bottom: 2rem;
+	padding: 0.75rem 1rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 14px;
+}
+.filter-group {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	flex-wrap: wrap;
+}
+.filter-label {
+	font-size: 0.78rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	margin-right: 0.25rem;
+}
+.filter-btn {
+	padding: 0.35rem 0.9rem;
+	border-radius: 9999px;
+	border: 1px solid var(--color-border);
+	background: var(--color-bg-secondary);
+	color: var(--color-text-secondary);
+	font-size: 0.82rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.18s ease;
+}
+.filter-btn:hover {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+}
+.filter-btn.active {
+	background: var(--color-accent);
+	border-color: var(--color-accent);
+	color: #fff;
+}
+.no-results {
+	text-align: center;
+	padding: 3rem 1rem;
+	color: var(--color-text-muted);
+	font-size: 1rem;
 }
 </style>
