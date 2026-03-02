@@ -86,6 +86,11 @@ const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
 											)}
 											<h3 class="book-article-title">{post.data.title}</h3>
 											<p class="book-desc">{post.data.description}</p>
+											{post.data.rating && (
+												<div class="book-rating" aria-label={`評分 ${post.data.rating} 星`}>
+													{'⭐'.repeat(post.data.rating)}{'☆'.repeat(5 - post.data.rating)}
+												</div>
+											)}
 											<time class="book-date" datetime={post.data.pubDate.toISOString()}>
 												{post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
 											</time>
@@ -272,6 +277,12 @@ main {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 }
+.book-rating {
+	font-size: 0.85rem;
+	letter-spacing: 0.05em;
+	color: var(--color-text-muted);
+}
+
 .book-date {
 	font-size: 0.78rem;
 	color: var(--color-text-muted);

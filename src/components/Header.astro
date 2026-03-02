@@ -13,9 +13,9 @@ import { SITE_TITLE } from '../consts';
 			<a href="/blog" class="nav-link">文章</a>
 			<a href="/books" class="nav-link">書單</a>
 			<a href="/about" class="nav-link">關於</a>
-			<a href="/search" class="nav-link icon-btn" aria-label="搜尋文章">
+			<button id="search-btn" class="nav-link icon-btn" aria-label="搜尋文章" aria-haspopup="dialog">
 				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-			</a>
+			</button>
 			<button id="theme-toggle" class="nav-link icon-btn" aria-label="切換深色/淺色模式">
 				<svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
 				<svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -31,6 +31,26 @@ import { SITE_TITLE } from '../consts';
 
 <!-- Mobile overlay -->
 <div id="nav-overlay" class="nav-overlay" aria-hidden="true"></div>
+
+<!-- 搜尋 Modal -->
+<div id="search-modal" class="search-modal" role="dialog" aria-modal="true" aria-label="搜尋文章" hidden>
+	<div class="search-modal-backdrop" id="search-backdrop"></div>
+	<div class="search-modal-panel">
+		<div class="search-input-wrap">
+			<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+			<input
+				id="search-input"
+				type="search"
+				class="search-input"
+				placeholder="搜尋文章..."
+				autocomplete="off"
+				spellcheck="false"
+			/>
+			<kbd class="search-esc-hint">ESC</kbd>
+		</div>
+		<div id="search-results" class="search-results" role="listbox" aria-label="搜尋結果"></div>
+	</div>
+</div>
 
 <style>
 	header {
@@ -243,6 +263,110 @@ import { SITE_TITLE } from '../consts';
 			width: 100%;
 		}
 	}
+
+	/* ── 搜尋 Modal ─────────────────────────────────────────────── */
+	.search-modal {
+		position: fixed;
+		inset: 0;
+		z-index: 500;
+		display: flex;
+		align-items: flex-start;
+		justify-content: center;
+		padding-top: 6rem;
+	}
+	.search-modal[hidden] { display: none; }
+
+	.search-modal-backdrop {
+		position: absolute;
+		inset: 0;
+		background: rgba(0, 0, 0, 0.5);
+		backdrop-filter: blur(4px);
+	}
+
+	.search-modal-panel {
+		position: relative;
+		width: 100%;
+		max-width: 600px;
+		margin: 0 1rem;
+		background: #fff;
+		border-radius: 16px;
+		box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+		overflow: hidden;
+		animation: modal-in 0.2s ease;
+	}
+	@media (prefers-color-scheme: dark) {
+		:root:not([data-theme="light"]) .search-modal-panel {
+			background: #1e293b;
+			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+		}
+	}
+	[data-theme="dark"] .search-modal-panel {
+		background: #1e293b;
+		box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+	}
+
+	@keyframes modal-in {
+		from { opacity: 0; transform: translateY(-12px) scale(0.97); }
+		to { opacity: 1; transform: translateY(0) scale(1); }
+	}
+
+	.search-input-wrap {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 1rem 1.25rem;
+		border-bottom: 1px solid #e2e8f0;
+	}
+	@media (prefers-color-scheme: dark) {
+		:root:not([data-theme="light"]) .search-input-wrap { border-bottom-color: #334155; }
+	}
+	[data-theme="dark"] .search-input-wrap { border-bottom-color: #334155; }
+
+	.search-icon {
+		flex-shrink: 0;
+		color: #94a3b8;
+	}
+
+	.search-input {
+		flex: 1;
+		font-size: 1rem;
+		font-weight: 500;
+		color: #0f172a;
+		background: transparent;
+		border: none;
+		outline: none;
+	}
+	.search-input::placeholder { color: #94a3b8; }
+	@media (prefers-color-scheme: dark) {
+		:root:not([data-theme="light"]) .search-input { color: #f1f5f9; }
+	}
+	[data-theme="dark"] .search-input { color: #f1f5f9; }
+
+	.search-esc-hint {
+		flex-shrink: 0;
+		font-size: 0.7rem;
+		font-weight: 700;
+		color: #94a3b8;
+		border: 1px solid #e2e8f0;
+		border-radius: 5px;
+		padding: 0.2rem 0.45rem;
+		font-family: inherit;
+		letter-spacing: 0.05em;
+	}
+	@media (prefers-color-scheme: dark) {
+		:root:not([data-theme="light"]) .search-esc-hint { border-color: #334155; }
+	}
+	[data-theme="dark"] .search-esc-hint { border-color: #334155; }
+
+	.search-results {
+		max-height: 420px;
+		overflow-y: auto;
+		padding: 0.5rem;
+	}
+	/* scrollbar */
+	.search-results::-webkit-scrollbar { width: 4px; }
+	.search-results::-webkit-scrollbar-track { background: transparent; }
+	.search-results::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 9999px; }
 </style>
 
 <script>
@@ -290,13 +414,175 @@ menuBtn?.addEventListener('click', () => {
 
 overlay?.addEventListener('click', closeMenu);
 
-// 點擊連結後關閉選單
 navLinks?.querySelectorAll('a').forEach(link => {
 	link.addEventListener('click', closeMenu);
 });
 
-// 按 Esc 關閉
+// ── 搜尋 Modal ────────────────────────────────────────────────────
+const searchBtn = document.getElementById('search-btn');
+const searchModal = document.getElementById('search-modal') as HTMLElement;
+const searchBackdrop = document.getElementById('search-backdrop');
+const searchInput = document.getElementById('search-input') as HTMLInputElement;
+const searchResults = document.getElementById('search-results') as HTMLElement;
+
+let searchIndex: Array<{ id: string; title: string; description: string; category?: string; tags?: string[]; url: string }> = [];
+let searchIndexLoaded = false;
+
+async function loadSearchIndex() {
+	if (searchIndexLoaded) return;
+	try {
+		const res = await fetch('/search-index.json');
+		searchIndex = await res.json();
+		searchIndexLoaded = true;
+	} catch {
+		// 靜默失敗
+	}
+}
+
+function openSearch() {
+	searchModal.hidden = false;
+	document.body.style.overflow = 'hidden';
+	searchInput.focus();
+	loadSearchIndex();
+}
+
+function closeSearch() {
+	searchModal.hidden = true;
+	document.body.style.overflow = '';
+	searchInput.value = '';
+	searchResults.innerHTML = '';
+}
+
+searchBtn?.addEventListener('click', () => {
+	closeMenu();
+	openSearch();
+});
+
+searchBackdrop?.addEventListener('click', closeSearch);
+
 document.addEventListener('keydown', (e) => {
-	if (e.key === 'Escape') closeMenu();
+	if (e.key === 'Escape') {
+		closeSearch();
+		closeMenu();
+	}
+	// Cmd+K / Ctrl+K 開啟搜尋
+	if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+		e.preventDefault();
+		searchModal.hidden ? openSearch() : closeSearch();
+	}
+});
+
+// 搜尋邏輯（簡易 fuzzy，不依賴額外 library）
+function simpleSearch(query: string) {
+	if (!query.trim() || searchIndex.length === 0) return [];
+	const q = query.toLowerCase();
+	return searchIndex
+		.map(item => {
+			const titleScore = item.title.toLowerCase().includes(q) ? 3 : 0;
+			const descScore = (item.description ?? '').toLowerCase().includes(q) ? 1 : 0;
+			const catScore = (item.category ?? '').toLowerCase().includes(q) ? 2 : 0;
+			const tagScore = (item.tags ?? []).some(t => t.toLowerCase().includes(q)) ? 1 : 0;
+			return { item, score: titleScore + descScore + catScore + tagScore };
+		})
+		.filter(r => r.score > 0)
+		.sort((a, b) => b.score - a.score)
+		.slice(0, 8)
+		.map(r => r.item);
+}
+
+function renderResults(results: typeof searchIndex, query: string) {
+	if (!query.trim()) {
+		searchResults.innerHTML = '<p class="search-hint">輸入關鍵字開始搜尋...</p>';
+		return;
+	}
+	if (results.length === 0) {
+		searchResults.innerHTML = `<p class="search-hint">找不到「${query}」的相關文章</p>`;
+		return;
+	}
+	const q = query.toLowerCase();
+	searchResults.innerHTML = results.map(r => {
+		const highlight = (text: string) => {
+			const idx = text.toLowerCase().indexOf(q);
+			if (idx === -1) return text;
+			return text.slice(0, idx) + `<mark>${text.slice(idx, idx + q.length)}</mark>` + text.slice(idx + q.length);
+		};
+		return `
+			<a href="${r.url}" class="search-result-item">
+				${r.category ? `<span class="sr-cat">${r.category}</span>` : ''}
+				<span class="sr-title">${highlight(r.title)}</span>
+				<span class="sr-desc">${highlight((r.description ?? '').slice(0, 80))}...</span>
+			</a>
+		`;
+	}).join('');
+}
+
+searchInput?.addEventListener('input', () => {
+	const q = searchInput.value;
+	const results = simpleSearch(q);
+	renderResults(results, q);
+});
+
+// 初始提示
+searchInput?.addEventListener('focus', () => {
+	if (!searchInput.value) {
+		searchResults.innerHTML = '<p class="search-hint">輸入關鍵字開始搜尋...</p>';
+	}
 });
 </script>
+
+<style is:global>
+/* 搜尋結果樣式（需要 global 因為是動態生成的 DOM） */
+.search-result-item {
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+	padding: 0.75rem 1rem;
+	border-radius: 10px;
+	text-decoration: none;
+	transition: background 0.15s ease;
+	cursor: pointer;
+}
+.search-result-item:hover {
+	background: #f1f5f9;
+	text-decoration: none;
+}
+[data-theme="dark"] .search-result-item:hover,
+:root:not([data-theme="light"]) .search-result-item:hover {
+	background: #334155;
+}
+.sr-cat {
+	font-size: 0.7rem;
+	font-weight: 700;
+	color: #2563eb;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+[data-theme="dark"] .sr-cat { color: #60a5fa; }
+.sr-title {
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: #0f172a;
+	line-height: 1.35;
+}
+[data-theme="dark"] .sr-title { color: #f1f5f9; }
+.sr-desc {
+	font-size: 0.8rem;
+	color: #64748b;
+	line-height: 1.5;
+}
+[data-theme="dark"] .sr-desc { color: #94a3b8; }
+.search-result-item mark {
+	background: #fef08a;
+	color: inherit;
+	border-radius: 2px;
+	padding: 0 1px;
+}
+[data-theme="dark"] .search-result-item mark { background: rgba(234, 179, 8, 0.3); }
+.search-hint {
+	text-align: center;
+	font-size: 0.875rem;
+	color: #94a3b8;
+	padding: 1.5rem 1rem;
+	margin: 0;
+}
+</style>
