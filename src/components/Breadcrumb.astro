@@ -1,0 +1,82 @@
+---
+type BreadcrumbItem = {
+	label: string;
+	href?: string;
+};
+
+type Props = {
+	items: BreadcrumbItem[];
+};
+
+const { items } = Astro.props;
+---
+
+<nav class="breadcrumb" aria-label="麵包屑導覽">
+	<ol>
+		{items.map((item, i) => (
+			<li>
+				{i < items.length - 1 ? (
+					<a href={item.href}>{item.label}</a>
+				) : (
+					<span aria-current="page">{item.label}</span>
+				)}
+				{i < items.length - 1 && (
+					<span class="sep" aria-hidden="true">›</span>
+				)}
+			</li>
+		))}
+	</ol>
+</nav>
+
+<style>
+.breadcrumb {
+	margin-bottom: 1.5rem;
+}
+
+.breadcrumb ol {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.1rem;
+}
+
+.breadcrumb li {
+	display: flex;
+	align-items: center;
+	gap: 0.1rem;
+}
+
+.breadcrumb a {
+	font-size: 0.82rem;
+	font-weight: 500;
+	color: var(--color-text-muted);
+	text-decoration: none;
+	transition: color 0.15s ease;
+}
+
+.breadcrumb a:hover {
+	color: var(--color-accent);
+}
+
+.breadcrumb span[aria-current="page"] {
+	font-size: 0.82rem;
+	font-weight: 600;
+	color: var(--color-text-secondary);
+	max-width: 28ch;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.sep {
+	font-size: 0.82rem;
+	color: var(--color-text-muted);
+	margin: 0 0.2rem;
+	user-select: none;
+}
+</style>

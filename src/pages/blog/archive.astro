@@ -45,35 +45,49 @@ const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
 				))}
 			</nav>
 
-			<!-- 依年份列出 -->
-			{years.map(year => (
-				<section id={`year-${year}`} class="year-section">
-					<h2 class="year-heading">
-						<span class="year-num">{year}</span>
-						<span class="year-badge">{byYear[year].length} 篇</span>
-					</h2>
-					<ul class="post-list">
-						{byYear[year].map(post => {
-							const emoji = CATEGORY_EMOJI[post.data.category ?? ''] ?? '✨';
-							return (
-								<li class="post-row">
-									<span class="post-date-col">
-										<FormattedDate date={post.data.pubDate} />
-									</span>
-									<span class="post-cat-col">
-										<a href={`/blog/category/${encodeURIComponent(post.data.category ?? '')}`} class="cat-chip">
-											{emoji} {post.data.category}
-										</a>
-									</span>
-									<a href={`/blog/${post.id}/`} class="post-title-link">
-										{post.data.title}
-									</a>
-								</li>
-							);
-						})}
-					</ul>
-				</section>
-			))}
+			<!-- 時間軸 -->
+			<div class="timeline">
+				{years.map(year => (
+					<section id={`year-${year}`} class="timeline-year">
+						<!-- 年份標記 -->
+						<div class="year-marker">
+							<div class="year-dot"></div>
+							<div class="year-label">
+								<span class="year-num">{year}</span>
+								<span class="year-badge">{byYear[year].length} 篇</span>
+							</div>
+						</div>
+
+						<!-- 文章列表 -->
+						<ul class="timeline-posts">
+							{byYear[year].map(post => {
+								const emoji = CATEGORY_EMOJI[post.data.category ?? ''] ?? '✨';
+								const month = post.data.pubDate.toLocaleDateString('zh-TW', { month: 'short' });
+								const day = post.data.pubDate.getDate();
+								return (
+									<li class="timeline-item">
+										<div class="timeline-dot"></div>
+										<div class="timeline-content">
+											<div class="timeline-date">
+												<span class="tl-month">{month}</span>
+												<span class="tl-day">{day}</span>
+											</div>
+											<div class="timeline-body">
+												<a href={`/blog/category/${encodeURIComponent(post.data.category ?? '')}`} class="tl-cat">
+													{emoji} {post.data.category}
+												</a>
+												<a href={`/blog/${post.id}/`} class="tl-title">
+													{post.data.title}
+												</a>
+											</div>
+										</div>
+									</li>
+								);
+							})}
+						</ul>
+					</section>
+				))}
+			</div>
 		</main>
 		<Footer />
 	</body>
@@ -81,7 +95,7 @@ const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
 
 <style>
 main {
-	max-width: 900px;
+	max-width: 800px;
 	margin: 0 auto;
 	padding: 3rem 1.5rem 6rem;
 }
@@ -102,6 +116,7 @@ main {
 	color: var(--color-text-muted);
 	margin: 0;
 }
+.subtitle strong { color: var(--color-accent); }
 
 /* ── Year Nav ───────────────────────────────────────────────────── */
 .year-nav {
@@ -132,29 +147,64 @@ main {
 	color: var(--color-text-muted);
 }
 
-/* ── Year Section ───────────────────────────────────────────────── */
-.year-section {
-	margin-bottom: 3rem;
+/* ── Timeline ───────────────────────────────────────────────────── */
+.timeline {
+	position: relative;
 }
 
-.year-heading {
+/* 左側垂直線 */
+.timeline::before {
+	content: '';
+	position: absolute;
+	left: 2.25rem;
+	top: 0;
+	bottom: 0;
+	width: 2px;
+	background: linear-gradient(to bottom, var(--color-accent) 0%, var(--color-border) 100%);
+}
+
+/* ── 年份標記 ───────────────────────────────────────────────────── */
+.timeline-year {
+	margin-bottom: 2.5rem;
+	position: relative;
+}
+
+.year-marker {
 	display: flex;
 	align-items: center;
-	gap: 0.75rem;
-	margin: 0 0 1rem;
-	padding-bottom: 0.75rem;
-	border-bottom: 2px solid var(--color-border);
+	gap: 1rem;
+	margin-bottom: 1rem;
+	position: relative;
+}
+
+.year-dot {
+	width: 1.25rem;
+	height: 1.25rem;
+	border-radius: 50%;
+	background: var(--color-accent);
+	border: 3px solid var(--color-bg);
+	box-shadow: 0 0 0 2px var(--color-accent);
+	flex-shrink: 0;
+	margin-left: 1.625rem; /* (2.25rem - 1.25rem/2) to center on the line */
+	z-index: 1;
+}
+
+.year-label {
+	display: flex;
+	align-items: center;
+	gap: 0.6rem;
+	margin-left: 0.5rem;
 }
 
 .year-num {
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	font-weight: 900;
 	color: var(--color-text-primary);
 	letter-spacing: -0.03em;
 }
 
 .year-badge {
-	font-size: 0.8rem;
+	font-size: 0.75rem;
 	font-weight: 700;
 	color: var(--color-text-muted);
 	background: var(--color-bg-secondary);
@@ -163,8 +213,8 @@ main {
 	border-radius: 9999px;
 }
 
-/* ── Post List ──────────────────────────────────────────────────── */
-.post-list {
+/* ── 時間軸文章列表 ──────────────────────────────────────────────── */
+.timeline-posts {
 	list-style: none;
 	padding: 0;
 	margin: 0;
@@ -173,65 +223,128 @@ main {
 	gap: 0;
 }
 
-.post-row {
-	display: grid;
-	grid-template-columns: 100px 130px 1fr;
+.timeline-item {
+	display: flex;
+	align-items: flex-start;
+	gap: 0;
+	position: relative;
+	padding: 0.5rem 0;
+}
+
+.timeline-dot {
+	width: 0.6rem;
+	height: 0.6rem;
+	border-radius: 50%;
+	background: var(--color-border);
+	border: 2px solid var(--color-bg);
+	flex-shrink: 0;
+	margin-top: 0.45rem;
+	margin-left: 1.975rem; /* center on the 2px line: 2.25rem - 0.3rem offset */
+	transition: background 0.15s;
+	z-index: 1;
+}
+
+.timeline-item:hover .timeline-dot {
+	background: var(--color-accent);
+}
+
+.timeline-content {
+	display: flex;
+	align-items: flex-start;
 	gap: 1rem;
-	align-items: center;
-	padding: 0.65rem 0.5rem;
-	border-bottom: 1px solid var(--color-border);
+	margin-left: 1.5rem;
+	flex: 1;
+	padding: 0.5rem 0.75rem;
+	border-radius: 10px;
 	transition: background 0.15s ease;
 }
-.post-row:hover {
+
+.timeline-item:hover .timeline-content {
 	background: var(--color-bg-secondary);
-	border-radius: 8px;
 }
 
-.post-date-col {
-	font-size: 0.8rem;
+.timeline-date {
+	flex-shrink: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 2.25rem;
+	padding-top: 0.1rem;
+}
+
+.tl-month {
+	font-size: 0.65rem;
+	font-weight: 700;
+	text-transform: uppercase;
 	color: var(--color-text-muted);
-	font-weight: 500;
-	white-space: nowrap;
+	letter-spacing: 0.05em;
 }
 
-.cat-chip {
-	font-size: 0.75rem;
+.tl-day {
+	font-size: 1.1rem;
+	font-weight: 800;
+	color: var(--color-text-muted);
+	line-height: 1.2;
+}
+
+.timeline-body {
+	flex: 1;
+	min-width: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+}
+
+.tl-cat {
+	font-size: 0.72rem;
 	font-weight: 700;
 	color: var(--color-accent);
-	background: var(--color-accent-light);
-	border: 1px solid var(--color-accent-border);
-	padding: 0.2rem 0.6rem;
-	border-radius: 9999px;
 	text-decoration: none;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	display: block;
+	display: inline-flex;
+	align-items: center;
+	gap: 0.2rem;
+	transition: opacity 0.15s;
 }
-.cat-chip:hover { text-decoration: underline; }
+.tl-cat:hover {
+	text-decoration: underline;
+	opacity: 0.8;
+}
 @media (prefers-color-scheme: dark) {
-	.cat-chip { color: #60a5fa; }
+	.tl-cat { color: #60a5fa; }
 }
+[data-theme="dark"] .tl-cat { color: #60a5fa; }
 
-.post-title-link {
+.tl-title {
 	font-size: 0.95rem;
 	font-weight: 600;
 	color: var(--color-text-primary);
 	text-decoration: none;
 	line-height: 1.4;
 	transition: color 0.15s;
+	display: block;
 }
-.post-title-link:hover {
+.tl-title:hover {
 	color: var(--color-accent);
-	text-decoration: underline;
+	text-decoration: none;
 }
 
+/* ── 手機版 ─────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
-	.post-row {
-		grid-template-columns: 1fr;
-		gap: 0.25rem;
-		padding: 0.75rem 0.5rem;
+	.timeline::before {
+		left: 1.25rem;
 	}
-	.post-date-col { font-size: 0.75rem; }
+	.year-dot {
+		margin-left: 0.625rem;
+	}
+	.timeline-dot {
+		margin-left: 0.975rem;
+	}
+	.timeline-content {
+		gap: 0.75rem;
+	}
+	.timeline-date {
+		width: 2rem;
+	}
+	.tl-day { font-size: 1rem; }
 }
 </style>

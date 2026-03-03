@@ -31,6 +31,7 @@ const body = post.body ?? '';
 const chineseChars = (body.match(/[\u4e00-\u9fff\u3400-\u4dbf]/g) ?? []).length;
 const englishWords = (body.replace(/[\u4e00-\u9fff\u3400-\u4dbf]/g, '').match(/\b\w+\b/g) ?? []).length;
 const readingTime = Math.max(1, Math.ceil(chineseChars / 350 + englishWords / 200));
+const wordCount = chineseChars + englishWords;
 
 // 相關文章：同分類 +3 分，每個共同 tag +2 分，取前 4 篇
 const allPosts = await getCollection('blog');
@@ -46,8 +47,15 @@ const relatedPosts = allPosts
 	.sort((a, b) => b.score - a.score)
 	.slice(0, 4)
 	.map(({ post }) => post);
+
+// 系列文章：若有 series 欄位，取出同系列所有文章依 seriesOrder 排列
+const seriesPosts = post.data.series
+	? allPosts
+			.filter(p => p.data.series === post.data.series)
+			.sort((a, b) => (a.data.seriesOrder ?? 99) - (b.data.seriesOrder ?? 99))
+	: [];
 ---
 
-<BlogPost {...post.data} prevPost={prevPost} nextPost={nextPost} readingTime={readingTime} relatedPosts={relatedPosts}>
+<BlogPost {...post.data} prevPost={prevPost} nextPost={nextPost} readingTime={readingTime} wordCount={wordCount} relatedPosts={relatedPosts} seriesPosts={seriesPosts}>
 	<Content />
 </BlogPost>

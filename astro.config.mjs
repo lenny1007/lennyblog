@@ -5,19 +5,16 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
+import keystatic from '@keystatic/astro';
 
-// Keystatic 只在開發時啟動（生產 build 保持純靜態）
-const isDev = process.env.NODE_ENV !== 'production';
-const devIntegrations = isDev
-	? [await import('@keystatic/astro').then((m) => m.default())]
-	: [];
+const isProd = process.env.NODE_ENV === 'production';
 
 export default defineConfig({
 	site: 'https://lennychen.com',
 	integrations: [
 		mdx(),
 		react(),
-		...devIntegrations,
+		...(!isProd ? [keystatic()] : []),
 		sitemap({
 			filter: (page) => !page.includes('/search'),
 			serialize(item) {

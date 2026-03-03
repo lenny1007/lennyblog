@@ -65,6 +65,25 @@ export default config({
 					label: '封面圖片 URL',
 					validation: { isRequired: false },
 				}),
+				series: fields.text({
+					label: '系列名稱（選填，如「地中海飲食系列」）',
+					validation: { isRequired: false },
+				}),
+				seriesOrder: fields.integer({
+					label: '在系列中的順序（第幾篇）',
+					validation: { min: 1 },
+				}),
+				rating: fields.select({
+					label: '評分（僅閱讀筆記）',
+					options: [
+						{ label: '⭐ 1 — 普通', value: '1' },
+						{ label: '⭐⭐ 2 — 還行', value: '2' },
+						{ label: '⭐⭐⭐ 3 — 不錯', value: '3' },
+						{ label: '⭐⭐⭐⭐ 4 — 很好', value: '4' },
+						{ label: '⭐⭐⭐⭐⭐ 5 — 強烈推薦', value: '5' },
+					],
+					defaultValue: '4',
+				}),
 				content: fields.document({
 					label: '內容',
 					formatting: true,

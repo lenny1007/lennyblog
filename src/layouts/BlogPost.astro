@@ -1,16 +1,23 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { CATEGORY_EMOJI } from '../consts';
 
+const giscusRepoId = import.meta.env.PUBLIC_GISCUS_REPO_ID ?? '';
+const giscusCategoryId = import.meta.env.PUBLIC_GISCUS_CATEGORY_ID ?? '';
+const giscusEnabled = giscusRepoId !== '' && giscusCategoryId !== '';
+
 type Props = CollectionEntry<'blog'>['data'] & {
 	prevPost?: CollectionEntry<'blog'> | null;
 	nextPost?: CollectionEntry<'blog'> | null;
 	readingTime?: number;
+	wordCount?: number;
 	relatedPosts?: CollectionEntry<'blog'>[];
+	seriesPosts?: CollectionEntry<'blog'>[];
 };
 
 const {
@@ -25,14 +32,20 @@ const {
 	prevPost,
 	nextPost,
 	readingTime,
+	wordCount,
 	relatedPosts,
+	seriesPosts,
 } = Astro.props;
+
+// 動態 OG 圖：/og/<category>/<slug>.png（格式與 post.id 一致）
+const postSlug = Astro.url.pathname.replace(/^\/blog\//, '').replace(/\/$/, '');
+const ogImage = `/og/${postSlug}.png`;
 
 ---
 
 <html lang="zh-TW">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage} pubDate={pubDate} updatedDate={updatedDate} />
+		<BaseHead title={title} description={description} image={ogImage} pubDate={pubDate} updatedDate={updatedDate} />
 	</head>
 
 	<body>
@@ -43,10 +56,47 @@ const {
 		<main>
 			<div class="post-layout">
 				<article>
+					<!-- Breadcrumb -->
+					<Breadcrumb items={[
+						{ label: '首頁', href: '/' },
+						{ label: '文章', href: '/blog' },
+						...(category ? [{ label: category, href: `/blog/category/${encodeURIComponent(category)}` }] : []),
+						{ label: title },
+					]} />
+
 					<!-- Hero Image -->
 					{heroImage && (
 						<div class="hero-image">
 							<img src={heroImage} alt={title} loading="eager" />
+						</div>
+					)}
+
+					<!-- 系列文章導覽 -->
+					{seriesPosts && seriesPosts.length > 1 && (
+						<div class="series-nav">
+							<div class="series-header">
+								<span class="series-icon">📚</span>
+								<span class="series-label">系列文章</span>
+								<span class="series-title">{Astro.props.series}</span>
+							</div>
+							<ol class="series-list">
+								{seriesPosts.map((p) => {
+									const isCurrent = p.data.title === title;
+									return (
+										<li class={isCurrent ? 'series-item current' : 'series-item'}>
+											{isCurrent ? (
+												<span class="series-link current-indicator">
+													▶ {p.data.title}
+												</span>
+											) : (
+												<a href={`/blog/${p.id}/`} class="series-link">
+													{p.data.title}
+												</a>
+											)}
+										</li>
+									);
+								})}
+							</ol>
 						</div>
 					)}
 
@@ -74,6 +124,9 @@ const {
 							)}
 							{readingTime && (
 								<span class="reading-time">・ 約 {readingTime} 分鐘閱讀</span>
+							)}
+						{wordCount && wordCount > 0 && (
+								<span class="word-count">・ {wordCount.toLocaleString()} 字</span>
 							)}
 						</div>
 
@@ -128,7 +181,38 @@ const {
 					}
 					</script>
 
-					<!-- 相關文章 -->
+					<!-- 程式碼複製按鈕 -->
+				<script>
+				(function () {
+					document.querySelectorAll('.prose pre').forEach((pre) => {
+						const btn = document.createElement('button');
+						btn.className = 'copy-btn';
+						btn.setAttribute('aria-label', '複製程式碼');
+						btn.textContent = '複製';
+						pre.style.position = 'relative';
+						pre.appendChild(btn);
+
+						btn.addEventListener('click', async () => {
+							const code = pre.querySelector('code');
+							const text = code?.textContent ?? '';
+							try {
+								await navigator.clipboard.writeText(text);
+								btn.textContent = '已複製！';
+								btn.classList.add('copied');
+								setTimeout(() => {
+									btn.textContent = '複製';
+									btn.classList.remove('copied');
+								}, 2000);
+							} catch {
+								btn.textContent = '失敗';
+								setTimeout(() => { btn.textContent = '複製'; }, 2000);
+							}
+						});
+					});
+				})();
+				</script>
+
+				<!-- 相關文章 -->
 					{relatedPosts && relatedPosts.length > 0 && (
 						<section class="related-posts">
 							<h3 class="related-title">相關文章</h3>
@@ -189,6 +273,14 @@ const {
 					<div class="back-row">
 						<a href="/blog" class="back-link">← 回到文章列表</a>
 					</div>
+
+					<!-- Giscus 留言系統（需設定 PUBLIC_GISCUS_REPO_ID + PUBLIC_GISCUS_CATEGORY_ID）-->
+					{giscusEnabled && (
+						<section class="giscus-section">
+							<h3 class="giscus-heading">留言討論</h3>
+							<div id="giscus-container"></div>
+						</section>
+					)}
 				</article>
 
 				<!-- TOC 側邊欄 -->
@@ -202,6 +294,11 @@ const {
 		</main>
 
 		<Footer />
+
+		<!-- 回到頂部按鈕 -->
+		<button id="back-to-top" aria-label="回到頂部" title="回到頂部">
+			<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg>
+		</button>
 
 		<!-- 閱讀進度條 JS -->
 		<script>
@@ -219,7 +316,7 @@ const {
 		})();
 		</script>
 
-		<!-- TOC 生成 JS -->
+		<!-- TOC 生成 + Heading 錨點複製 JS -->
 		<script>
 		(function () {
 			const nav = document.getElementById('toc-nav');
@@ -229,12 +326,19 @@ const {
 			const headings = Array.from(document.querySelectorAll('.prose h2, .prose h3')) as HTMLElement[];
 			if (headings.length < 2) {
 				sidebar.style.display = 'none';
+				// 仍然加錨點按鈕
+				addAnchorButtons(headings);
 				return;
 			}
 
+			// 進度指示器
+			const progressEl = document.createElement('p');
+			progressEl.className = 'toc-progress';
+			progressEl.textContent = `0 / ${headings.length} 個章節`;
+			nav.before(progressEl);
+
 			const ul = document.createElement('ul');
 			headings.forEach(h => {
-				// 確保 heading 有 id
 				if (!h.id) {
 					h.id = h.textContent?.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fff-]/g, '') ?? '';
 				}
@@ -253,15 +357,26 @@ const {
 			});
 			nav.appendChild(ul);
 
-			// IntersectionObserver 高亮目前段落
+			addAnchorButtons(headings);
+
+			// IntersectionObserver 高亮 + 進度更新
 			const links = Array.from(nav.querySelectorAll('a')) as HTMLAnchorElement[];
+			let currentIndex = -1;
 			const observer = new IntersectionObserver(
 				(entries) => {
 					entries.forEach(entry => {
 						if (entry.isIntersecting) {
 							links.forEach(l => l.classList.remove('active'));
-							const link = nav.querySelector(`a[href="#${entry.target.id}"]`);
+							const link = nav.querySelector(`a[href="#${entry.target.id}"]`) as HTMLElement;
 							link?.classList.add('active');
+							// 滾動 TOC 讓 active 可見
+							link?.scrollIntoView({ block: 'nearest' });
+							// 更新進度
+							const idx = headings.indexOf(entry.target as HTMLElement);
+							if (idx !== -1) {
+								currentIndex = idx;
+								progressEl.textContent = `第 ${idx + 1} / ${headings.length} 個章節`;
+							}
 						}
 					});
 				},
@@ -269,6 +384,30 @@ const {
 			);
 			headings.forEach(h => observer.observe(h));
 		})();
+
+		function addAnchorButtons(headings: HTMLElement[]) {
+			headings.forEach(h => {
+				if (!h.id) {
+					h.id = h.textContent?.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fff-]/g, '') ?? '';
+				}
+				const btn = document.createElement('button');
+				btn.className = 'heading-anchor-btn';
+				btn.setAttribute('aria-label', '複製段落連結');
+				btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>';
+				btn.addEventListener('click', async () => {
+					const url = `${window.location.origin}${window.location.pathname}#${h.id}`;
+					try {
+						await navigator.clipboard.writeText(url);
+						btn.classList.add('copied');
+						setTimeout(() => btn.classList.remove('copied'), 2000);
+					} catch {
+						// 靜默失敗
+					}
+				});
+				h.style.position = 'relative';
+				h.appendChild(btn);
+			});
+		}
 		</script>
 
 		<!-- 分享按鈕 JS -->
@@ -282,6 +421,78 @@ const {
 			if (twitter) twitter.href = `https://twitter.com/intent/tweet?url=${url}&text=${text}`;
 			if (facebook) facebook.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
 			if (line) line.href = `https://social-plugins.line.me/lineit/share?url=${url}`;
+		})();
+		</script>
+
+		<!-- Giscus 留言系統 JS（由環境變數控制啟用）-->
+		{giscusEnabled && (
+			<script define:vars={{ _giscusRepoId: giscusRepoId, _giscusCategoryId: giscusCategoryId }}>
+			(function () {
+				const container = document.getElementById('giscus-container');
+				if (!container) return;
+
+				const isDark = document.documentElement.getAttribute('data-theme') === 'dark'
+					|| (!document.documentElement.getAttribute('data-theme') && window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+				const script = document.createElement('script');
+				script.src = 'https://giscus.app/client.js';
+				script.setAttribute('data-repo', 'lenny1007/lennyblog');
+				script.setAttribute('data-repo-id', _giscusRepoId);
+				script.setAttribute('data-category', 'General');
+				script.setAttribute('data-category-id', _giscusCategoryId);
+				script.setAttribute('data-mapping', 'pathname');
+				script.setAttribute('data-strict', '0');
+				script.setAttribute('data-reactions-enabled', '1');
+				script.setAttribute('data-emit-metadata', '0');
+				script.setAttribute('data-input-position', 'bottom');
+				script.setAttribute('data-theme', isDark ? 'dark' : 'light');
+				script.setAttribute('data-lang', 'zh-TW');
+				script.setAttribute('data-loading', 'lazy');
+				script.crossOrigin = 'anonymous';
+				script.async = true;
+				container.appendChild(script);
+
+				// 跟隨深色模式切換
+				const observer = new MutationObserver(() => {
+					const nowDark = document.documentElement.getAttribute('data-theme') === 'dark'
+						|| (!document.documentElement.getAttribute('data-theme') && window.matchMedia('(prefers-color-scheme: dark)').matches);
+					const iframe = document.querySelector('iframe.giscus-frame');
+					iframe?.contentWindow?.postMessage(
+						{ giscus: { setConfig: { theme: nowDark ? 'dark' : 'light' } } },
+						'https://giscus.app'
+					);
+				});
+				observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+			})();
+			</script>
+		)}
+
+		<!-- 記錄最近瀏覽 -->
+		<script define:vars={{ _title: title, _category: category }}>
+		(function () {
+			const KEY = 'recently-read';
+			const MAX = 10;
+			try {
+				const items = JSON.parse(localStorage.getItem(KEY) ?? '[]');
+				const url = window.location.pathname;
+				const filtered = items.filter((i) => i.url !== url);
+				filtered.unshift({ title: _title, category: _category, url, date: Date.now() });
+				localStorage.setItem(KEY, JSON.stringify(filtered.slice(0, MAX)));
+			} catch { /* 靜默失敗 */ }
+		})();
+		</script>
+
+		<!-- 回到頂部 JS -->
+		<script>
+		(function () {
+			const btn = document.getElementById('back-to-top') as HTMLButtonElement;
+			if (!btn) return;
+			window.addEventListener('scroll', () => {
+				btn.classList.toggle('visible', window.scrollY > 400);
+			}, { passive: true });
+			btn.addEventListener('click', () => {
+				window.scrollTo({ top: 0, behavior: 'smooth' });
+			});
 		})();
 		</script>
 	</body>
@@ -345,8 +556,9 @@ article {
 	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 @media (prefers-color-scheme: dark) {
-	.hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
+	:root:not([data-theme="light"]) .hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
 }
+[data-theme="dark"] .hero-image img { box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5); }
 
 /* ── Title Section ──────────────────────────────────────────────── */
 .title-section {
@@ -378,16 +590,18 @@ article {
 	border: 1px solid var(--color-accent-border);
 }
 @media (prefers-color-scheme: dark) {
-	.badge-cat { color: #60a5fa; }
+	:root:not([data-theme="light"]) .badge-cat { color: #60a5fa; }
 }
+[data-theme="dark"] .badge-cat { color: #60a5fa; }
 .badge-sub {
 	background: #f0fdf4;
 	color: #16a34a;
 	border: 1px solid #bbf7d0;
 }
 @media (prefers-color-scheme: dark) {
-	.badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
+	:root:not([data-theme="light"]) .badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
 }
+[data-theme="dark"] .badge-sub { background: rgba(22, 163, 74, 0.1); color: #4ade80; border-color: rgba(22, 163, 74, 0.2); }
 .badge-tag {
 	background: #f1f5f9;
 	color: #475569;
@@ -400,9 +614,11 @@ article {
 	color: var(--color-accent);
 }
 @media (prefers-color-scheme: dark) {
-	.badge-tag { background: #334155; color: #cbd5e1; }
-	.badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
+	:root:not([data-theme="light"]) .badge-tag { background: #334155; color: #cbd5e1; }
+	:root:not([data-theme="light"]) .badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
 }
+[data-theme="dark"] .badge-tag { background: #334155; color: #cbd5e1; }
+[data-theme="dark"] .badge-tag:hover { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
 
 .title-section h1 {
 	font-size: clamp(1.8rem, 4vw, 2.6rem);
@@ -429,6 +645,12 @@ article {
 .date.updated { font-style: italic; }
 
 .reading-time {
+	font-size: 0.875rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+}
+
+.word-count {
 	font-size: 0.875rem;
 	color: var(--color-text-muted);
 	font-weight: 500;
@@ -511,9 +733,11 @@ article {
 	text-decoration: none;
 }
 @media (prefers-color-scheme: dark) {
-	.share-twitter { background: #fff; color: #000; }
-	.share-twitter:hover { background: #e2e8f0; }
+	:root:not([data-theme="light"]) .share-twitter { background: #fff; color: #000; }
+	:root:not([data-theme="light"]) .share-twitter:hover { background: #e2e8f0; }
 }
+[data-theme="dark"] .share-twitter { background: #fff; color: #000; }
+[data-theme="dark"] .share-twitter:hover { background: #e2e8f0; }
 
 /* ── 相關文章 ───────────────────────────────────────────────────── */
 .related-posts {
@@ -556,8 +780,9 @@ article {
 	text-decoration: none;
 }
 @media (prefers-color-scheme: dark) {
-	.related-card:hover { border-color: #3b82f6; }
+	:root:not([data-theme="light"]) .related-card:hover { border-color: #3b82f6; }
 }
+[data-theme="dark"] .related-card:hover { border-color: #3b82f6; }
 
 .related-img-wrap {
 	position: relative;
@@ -633,8 +858,9 @@ article {
 	transform: translateY(-2px);
 }
 @media (prefers-color-scheme: dark) {
-	.post-nav-link:hover { border-color: #3b82f6; }
+	:root:not([data-theme="light"]) .post-nav-link:hover { border-color: #3b82f6; }
 }
+[data-theme="dark"] .post-nav-link:hover { border-color: #3b82f6; }
 
 .nav-label {
 	font-size: 0.78rem;
@@ -674,6 +900,146 @@ article {
 	transition: var(--transition);
 }
 .back-link:hover { text-decoration: underline; }
+
+/* ── 系列文章 ───────────────────────────────────────────────────── */
+.series-nav {
+	margin-bottom: 2rem;
+	padding: 1.25rem 1.5rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-accent-border);
+	border-left: 4px solid var(--color-accent);
+	border-radius: 12px;
+}
+
+.series-header {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	margin-bottom: 0.85rem;
+	font-size: 0.82rem;
+}
+
+.series-icon { font-size: 1rem; }
+
+.series-label {
+	font-weight: 800;
+	font-size: 0.72rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+	padding: 0.15rem 0.5rem;
+	border-radius: 9999px;
+}
+
+.series-title {
+	font-weight: 700;
+	color: var(--color-text-primary);
+	font-size: 0.88rem;
+}
+
+.series-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.3rem;
+	counter-reset: series-counter;
+}
+
+.series-item {
+	counter-increment: series-counter;
+}
+
+.series-link {
+	display: flex;
+	align-items: baseline;
+	gap: 0.5rem;
+	font-size: 0.875rem;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	padding: 0.3rem 0.5rem;
+	border-radius: 6px;
+	transition: all 0.15s ease;
+}
+.series-link::before {
+	content: counter(series-counter) ".";
+	font-size: 0.75rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	flex-shrink: 0;
+}
+a.series-link:hover {
+	background: var(--color-accent-light);
+	color: var(--color-accent);
+	text-decoration: none;
+}
+
+.series-item.current .series-link {
+	font-weight: 700;
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+}
+.series-item.current .series-link::before {
+	color: var(--color-accent);
+}
+
+.current-indicator { cursor: default; }
+
+/* ── Giscus 留言 ────────────────────────────────────────────────── */
+.giscus-section {
+	margin-top: 3rem;
+	padding-top: 2.5rem;
+	border-top: 1px solid var(--color-border);
+}
+.giscus-heading {
+	font-size: 1.15rem;
+	font-weight: 800;
+	letter-spacing: -0.02em;
+	color: var(--color-text-primary);
+	margin: 0 0 1.5rem;
+}
+
+/* ── Heading 錨點複製按鈕 ───────────────────────────────────────── */
+.heading-anchor-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 0.5rem;
+	padding: 0.2rem;
+	background: none;
+	border: none;
+	cursor: pointer;
+	color: var(--color-text-muted);
+	border-radius: 4px;
+	opacity: 0;
+	transition: opacity 0.15s ease, color 0.15s ease;
+	vertical-align: middle;
+}
+.prose h2:hover .heading-anchor-btn,
+.prose h3:hover .heading-anchor-btn {
+	opacity: 1;
+}
+.heading-anchor-btn:hover {
+	color: var(--color-accent);
+}
+.heading-anchor-btn.copied {
+	color: #16a34a;
+	opacity: 1;
+}
+
+/* ── TOC 進度 ───────────────────────────────────────────────────── */
+.toc-progress {
+	font-size: 0.72rem;
+	font-weight: 700;
+	color: var(--color-accent);
+	margin: 0 0 0.75rem;
+	padding: 0.25rem 0.6rem;
+	background: var(--color-accent-light);
+	border-radius: 9999px;
+	display: inline-block;
+}
 
 /* ── TOC 側邊欄 ─────────────────────────────────────────────────── */
 .toc-sidebar {
@@ -739,4 +1105,40 @@ article {
 .toc-sidebar::-webkit-scrollbar { width: 4px; }
 .toc-sidebar::-webkit-scrollbar-track { background: transparent; }
 .toc-sidebar::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 9999px; }
+
+/* ── 回到頂部按鈕 ───────────────────────────────────────────────── */
+#back-to-top {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+	width: 2.75rem;
+	height: 2.75rem;
+	border-radius: 9999px;
+	background: var(--color-accent);
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(8px);
+	transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.25s ease, background 0.2s ease;
+	z-index: 150;
+}
+#back-to-top.visible {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
+}
+#back-to-top:hover {
+	background: #1d4ed8;
+	transform: translateY(-2px);
+	box-shadow: 0 6px 16px rgba(37, 99, 235, 0.5);
+}
+@media (max-width: 640px) {
+	#back-to-top { bottom: 1.25rem; right: 1.25rem; width: 2.5rem; height: 2.5rem; }
+}
 </style>

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseHead from '../../../components/BaseHead.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
 import Footer from '../../../components/Footer.astro';
 import FormattedDate from '../../../components/FormattedDate.astro';
 import Header from '../../../components/Header.astro';
@@ -40,6 +41,11 @@ const { tag, posts } = Astro.props;
 	<body>
 		<Header />
 		<main>
+			<Breadcrumb items={[
+				{ label: '首頁', href: '/' },
+				{ label: '文章', href: '/blog' },
+				{ label: `#${tag}` },
+			]} />
 			<div class="page-header">
 				<div class="tag-icon">#</div>
 				<h1 class="page-title">{tag}</h1>
@@ -47,7 +53,7 @@ const { tag, posts } = Astro.props;
 				<a href="/blog" class="back-link">← 所有文章</a>
 			</div>
 
-			<ul class="post-grid">
+			<ul class="post-grid" id="post-grid">
 				{posts.map((post) => {
 					const emoji = CATEGORY_EMOJI[post.data.category ?? ''] ?? '📝';
 					return (
@@ -85,10 +91,61 @@ const { tag, posts } = Astro.props;
 					);
 				})}
 			</ul>
+
+			<!-- 分頁控制 -->
+			{posts.length > 12 && (
+				<div class="pagination" id="pagination" aria-label="分頁導覽"></div>
+			)}
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<script>
+const POSTS_PER_PAGE = 12;
+const grid = document.getElementById('post-grid');
+const paginationEl = document.getElementById('pagination');
+if (grid && paginationEl) {
+	const items = Array.from(grid.children) as HTMLElement[];
+	const total = items.length;
+	if (total > POSTS_PER_PAGE) {
+		let currentPage = 1;
+		const totalPages = Math.ceil(total / POSTS_PER_PAGE);
+
+		function renderPage(page: number) {
+			items.forEach((item, i) => {
+				(item as HTMLElement).style.display = (i >= (page - 1) * POSTS_PER_PAGE && i < page * POSTS_PER_PAGE) ? '' : 'none';
+			});
+			renderPagination(page);
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+		}
+
+		function renderPagination(page: number) {
+			paginationEl!.innerHTML = '';
+			const prev = document.createElement('button');
+			prev.className = 'page-btn';
+			prev.textContent = '← 上一頁';
+			prev.disabled = page === 1;
+			prev.addEventListener('click', () => { currentPage--; renderPage(currentPage); });
+			paginationEl!.appendChild(prev);
+
+			const info = document.createElement('span');
+			info.className = 'page-info';
+			info.textContent = `第 ${page} / ${totalPages} 頁`;
+			paginationEl!.appendChild(info);
+
+			const next = document.createElement('button');
+			next.className = 'page-btn';
+			next.textContent = '下一頁 →';
+			next.disabled = page === totalPages;
+			next.addEventListener('click', () => { currentPage++; renderPage(currentPage); });
+			paginationEl!.appendChild(next);
+		}
+
+		renderPage(1);
+	}
+}
+</script>
 
 <style>
 main {
@@ -205,4 +262,40 @@ main {
 .card-date { font-size: 0.8rem; color: var(--color-text-muted); font-weight: 500; }
 
 @media (max-width: 640px) { .post-grid { grid-template-columns: 1fr; } }
+
+/* ── 分頁 ─────────────────────────────────────────────────────────── */
+.pagination {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+	margin-top: 3rem;
+	padding-top: 2rem;
+	border-top: 1px solid var(--color-border);
+}
+:global(.page-btn) {
+	padding: 0.5rem 1.25rem;
+	border-radius: 9999px;
+	border: 1px solid var(--color-border);
+	background: var(--color-bg-card);
+	color: var(--color-text-secondary);
+	font-size: 0.875rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+:global(.page-btn:hover:not(:disabled)) {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+	background: var(--color-accent-light);
+}
+:global(.page-btn:disabled) {
+	opacity: 0.4;
+	cursor: not-allowed;
+}
+:global(.page-info) {
+	font-size: 0.875rem;
+	font-weight: 600;
+	color: var(--color-text-muted);
+}
 </style>

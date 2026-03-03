@@ -1,0 +1,395 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+
+// 只取閱讀筆記分類
+const allPosts = await getCollection('blog');
+const readingNotes = allPosts
+	.filter((p) => p.data.category === '閱讀筆記')
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// 從標題擷取書名（取 《》 中間的文字）
+function extractBookTitle(title: string): string {
+	const match = title.match(/《([^》]+)》/);
+	return match ? match[1] : title;
+}
+
+// 按年份分組
+const byYear: Record<string, typeof readingNotes> = {};
+readingNotes.forEach((p) => {
+	const year = p.data.pubDate.getFullYear().toString();
+	if (!byYear[year]) byYear[year] = [];
+	byYear[year].push(p);
+});
+const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
+---
+
+<!doctype html>
+<html lang="zh-TW">
+	<head>
+		<BaseHead
+			title="書單 | 懶泥陳的閱讀書房"
+			description={`共 ${readingNotes.length} 本閱讀筆記，記錄每一本帶來收穫的好書。`}
+		/>
+	</head>
+	<body>
+		<Header />
+
+		<main>
+			<div class="page-header">
+				<h1>📚 書單</h1>
+				<p class="page-desc">
+					共 <strong>{readingNotes.length}</strong> 本讀書筆記，持續更新中。
+				</p>
+			</div>
+
+			<!-- 年份快速跳轉 -->
+			<nav class="year-nav" aria-label="按年份跳轉">
+				{years.map((y) => (
+					<a href={`#year-${y}`} class="year-chip">
+						{y} <span class="year-count">({byYear[y].length})</span>
+					</a>
+				))}
+			</nav>
+
+			<!-- 篩選列 -->
+			<div class="filter-bar" aria-label="篩選書單">
+				<div class="filter-group">
+					<span class="filter-label">評分篩選</span>
+					<button class="filter-btn active" data-filter-rating="all">全部</button>
+					<button class="filter-btn" data-filter-rating="5">⭐⭐⭐⭐⭐</button>
+					<button class="filter-btn" data-filter-rating="4">⭐⭐⭐⭐ 以上</button>
+					<button class="filter-btn" data-filter-rating="3">⭐⭐⭐ 以上</button>
+				</div>
+			</div>
+
+			<p class="no-results" id="no-results" hidden>沒有符合條件的書籍</p>
+
+			<!-- 按年份列出 -->
+			{years.map((year) => (
+				<section id={`year-${year}`} class="year-section" data-year={year}>
+					<h2 class="year-heading">{year}</h2>
+					<ul class="book-grid">
+						{byYear[year].map((post) => {
+							const bookTitle = extractBookTitle(post.data.title);
+							const hasBookName = /《[^》]+》/.test(post.data.title);
+							return (
+								<li data-rating={post.data.rating ?? 0}>
+									<a href={`/blog/${post.id}/`} class="book-card">
+										<div class="book-cover-wrap">
+											{post.data.heroImage ? (
+												<img
+													class="book-cover"
+													src={post.data.heroImage}
+													alt={bookTitle}
+													loading="lazy"
+													decoding="async"
+													onerror={`this.style.display='none';this.nextElementSibling.style.display='flex'`}
+												/>
+											) : null}
+											<div class="book-cover-placeholder" style={post.data.heroImage ? 'display:none' : ''}>
+												<span class="book-emoji">📖</span>
+											</div>
+										</div>
+										<div class="book-info">
+											{hasBookName && (
+												<p class="book-name">《{bookTitle}》</p>
+											)}
+											<h3 class="book-article-title">{post.data.title}</h3>
+											<p class="book-desc">{post.data.description}</p>
+											{post.data.rating && (
+												<div class="book-rating" aria-label={`評分 ${post.data.rating} 星`}>
+													{'⭐'.repeat(post.data.rating)}{'☆'.repeat(5 - post.data.rating)}
+												</div>
+											)}
+											<time class="book-date" datetime={post.data.pubDate.toISOString()}>
+												{post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+											</time>
+										</div>
+									</a>
+								</li>
+							);
+						})}
+					</ul>
+				</section>
+			))}
+		</main>
+
+		<Footer />
+	</body>
+</html>
+
+<script>
+// 書單評分篩選
+const filterBtns = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+const sections = document.querySelectorAll<HTMLElement>('.year-section');
+const noResults = document.getElementById('no-results');
+
+filterBtns.forEach(btn => {
+	btn.addEventListener('click', () => {
+		filterBtns.forEach(b => b.classList.remove('active'));
+		btn.classList.add('active');
+
+		const minRating = btn.dataset.filterRating === 'all'
+			? 0
+			: parseInt(btn.dataset.filterRating ?? '0', 10);
+
+		let totalVisible = 0;
+
+		sections.forEach(section => {
+			const items = section.querySelectorAll<HTMLElement>('li[data-rating]');
+			let sectionVisible = 0;
+			items.forEach(item => {
+				const rating = parseInt(item.dataset.rating ?? '0', 10);
+				const show = minRating === 0 || rating >= minRating;
+				item.style.display = show ? '' : 'none';
+				if (show) sectionVisible++;
+			});
+			section.style.display = sectionVisible > 0 ? '' : 'none';
+			totalVisible += sectionVisible;
+		});
+
+		if (noResults) noResults.hidden = totalVisible > 0;
+	});
+});
+</script>
+
+<style>
+main {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 3rem 1.5rem 5rem;
+}
+
+/* ── 頁面標題 ───────────────────────────────────────────────────── */
+.page-header {
+	text-align: center;
+	margin-bottom: 2.5rem;
+}
+.page-header h1 {
+	font-size: clamp(2rem, 5vw, 3rem);
+	font-weight: 900;
+	letter-spacing: -0.04em;
+	margin: 0 0 0.75rem;
+	color: var(--color-text-primary);
+}
+.page-desc {
+	font-size: 1.05rem;
+	color: var(--color-text-secondary);
+	margin: 0;
+}
+.page-desc strong { color: var(--color-accent); }
+
+/* ── 年份導覽 ───────────────────────────────────────────────────── */
+.year-nav {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	justify-content: center;
+	margin-bottom: 3rem;
+}
+.year-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.25rem;
+	padding: 0.35rem 1rem;
+	background: var(--color-bg-secondary);
+	border: 1px solid var(--color-border);
+	border-radius: 9999px;
+	font-size: 0.875rem;
+	font-weight: 600;
+	color: var(--color-text-secondary);
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.year-chip:hover {
+	background: var(--color-accent-light);
+	border-color: var(--color-accent-border);
+	color: var(--color-accent);
+	text-decoration: none;
+}
+.year-count {
+	font-size: 0.75rem;
+	font-weight: 400;
+	color: var(--color-text-muted);
+}
+
+/* ── 年份區段 ───────────────────────────────────────────────────── */
+.year-section {
+	margin-bottom: 3.5rem;
+}
+.year-heading {
+	font-size: 1.4rem;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	color: var(--color-text-primary);
+	margin: 0 0 1.5rem;
+	padding-bottom: 0.75rem;
+	border-bottom: 2px solid var(--color-accent);
+	display: inline-block;
+}
+
+/* ── 書單 Grid ──────────────────────────────────────────────────── */
+.book-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.book-card {
+	display: flex;
+	gap: 1.25rem;
+	align-items: flex-start;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 14px;
+	padding: 1.25rem;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+.book-card:hover {
+	border-color: #93c5fd;
+	transform: translateX(4px);
+	box-shadow: 0 4px 12px rgba(37, 99, 235, 0.08);
+	text-decoration: none;
+}
+[data-theme="dark"] .book-card:hover { border-color: #3b82f6; }
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme="light"]) .book-card:hover { border-color: #3b82f6; }
+}
+
+.book-cover-wrap {
+	flex-shrink: 0;
+	width: 80px;
+	height: 100px;
+	border-radius: 8px;
+	overflow: hidden;
+}
+.book-cover {
+	width: 80px;
+	height: 100px;
+	object-fit: cover;
+	display: block;
+	border-radius: 8px;
+}
+.book-cover-placeholder {
+	width: 80px;
+	height: 100px;
+	background: var(--color-bg-secondary);
+	border: 1px solid var(--color-border);
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.book-emoji { font-size: 2rem; }
+
+.book-info {
+	flex: 1;
+	min-width: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.35rem;
+}
+.book-name {
+	font-size: 1rem;
+	font-weight: 800;
+	color: var(--color-accent);
+	margin: 0;
+	line-height: 1.3;
+}
+.book-article-title {
+	font-size: 0.88rem;
+	font-weight: 600;
+	color: var(--color-text-primary);
+	margin: 0;
+	line-height: 1.4;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+.book-card:hover .book-article-title { color: var(--color-accent); }
+.book-desc {
+	font-size: 0.82rem;
+	color: var(--color-text-secondary);
+	margin: 0;
+	line-height: 1.5;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+.book-rating {
+	font-size: 0.85rem;
+	letter-spacing: 0.05em;
+	color: var(--color-text-muted);
+}
+
+.book-date {
+	font-size: 0.78rem;
+	color: var(--color-text-muted);
+	font-weight: 500;
+	margin-top: auto;
+	padding-top: 0.25rem;
+}
+
+@media (max-width: 480px) {
+	.book-cover-wrap { width: 60px; height: 75px; }
+	.book-cover, .book-cover-placeholder { width: 60px; height: 75px; }
+}
+
+/* ── 篩選列 ──────────────────────────────────────────────────────── */
+.filter-bar {
+	margin-bottom: 2rem;
+	padding: 0.75rem 1rem;
+	background: var(--color-bg-card);
+	border: 1px solid var(--color-border);
+	border-radius: 14px;
+}
+.filter-group {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	flex-wrap: wrap;
+}
+.filter-label {
+	font-size: 0.78rem;
+	font-weight: 700;
+	color: var(--color-text-muted);
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	margin-right: 0.25rem;
+}
+.filter-btn {
+	padding: 0.35rem 0.9rem;
+	border-radius: 9999px;
+	border: 1px solid var(--color-border);
+	background: var(--color-bg-secondary);
+	color: var(--color-text-secondary);
+	font-size: 0.82rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.18s ease;
+}
+.filter-btn:hover {
+	border-color: var(--color-accent);
+	color: var(--color-accent);
+}
+.filter-btn.active {
+	background: var(--color-accent);
+	border-color: var(--color-accent);
+	color: #fff;
+}
+.no-results {
+	text-align: center;
+	padding: 3rem 1rem;
+	color: var(--color-text-muted);
+	font-size: 1rem;
+}
+</style>

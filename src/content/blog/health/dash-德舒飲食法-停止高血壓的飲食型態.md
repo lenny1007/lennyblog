@@ -3,6 +3,7 @@ title: "DASH 德舒飲食法 : 停止高血壓的飲食型態"
 description: "美國糖尿病協會認可DASH飲食有助於控制血糖，類似於低碳水化合物和地中海飲食。它連續八年被《美國新聞與世界報導》評為最佳飲食方法。DASH（Dietary Approaches to Stop Hypertension）飲食法於1997年開發，旨在透過飲食手段改善高血壓，而不僅僅限制鈉攝取和酒精消費。研究表明，素食飲食可以降低血壓，這得益於蔬菜中的礦物質和膳食纖維。DASH飲食干預計劃涉及459名"
 pubDate: "2024-01-04"
 category: "健康"
+featured: true
 tags: ["DASH飲食", "糖尿病管理", "高血壓"]
 heroImage: "/wp-images/2024/01/med_files_99-1024x585.png"
 ---
