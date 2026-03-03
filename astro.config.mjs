@@ -1,7 +1,7 @@
 // @ts-check
 
-import react from '@astrojs/react';
 import mdx from '@astrojs/mdx';
+import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
@@ -12,8 +12,8 @@ const isProd = process.env.NODE_ENV === 'production';
 export default defineConfig({
 	site: 'https://lennychen.com',
 	integrations: [
-		react(),
 		mdx(),
+		react(),
 		...(!isProd ? [keystatic()] : []),
 		sitemap({
 			filter: (page) => !page.includes('/search'),
