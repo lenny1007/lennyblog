@@ -165,35 +165,46 @@ const categories = Object.entries(categoryCounts)
 		</main>
 
 		<!-- Newsletter 訂閱 -->
-		<section class="newsletter-section">
-			<div class="newsletter-inner">
-				<div class="newsletter-icon">✉️</div>
-				<h2 class="newsletter-title">訂閱電子報</h2>
-				<p class="newsletter-desc">
-					每週精選閱讀心得與人生思考，直接送到你的信箱。
-					<br />不定期，但每封都有誠意。
-				</p>
-				<form
-					class="newsletter-form"
-					action="https://buttondown.com/api/emails/embed-subscribe/lenny0929"
-					method="post"
-					target="popupwindow"
-					onsubmit="window.open('https://buttondown.com/lenny0929', 'popupwindow'); setTimeout(function(){ window.location.href='/thanks'; }, 1500);"
-				>
-					<input type="hidden" name="embed" value="1" />
-					<div class="newsletter-input-group">
+		<section class="nl-section">
+			<div class="nl-blob nl-blob-1"></div>
+			<div class="nl-blob nl-blob-2"></div>
+			<div class="nl-inner">
+				<!-- 左側：文案 -->
+				<div class="nl-copy">
+					<span class="nl-badge">📬 每週電子報</span>
+					<h2 class="nl-title">
+						把閱讀變成<br />
+						<span class="nl-accent">你的競爭力</span>
+					</h2>
+					<p class="nl-desc">精選閱讀心得與人生思考，直接送進你的信箱。<br />不追流量，只寫有誠意的內容。</p>
+					<ul class="nl-perks">
+						<li><span class="nl-perk-icon">📖</span>閱讀精華 &amp; 書單推薦</li>
+						<li><span class="nl-perk-icon">🧠</span>值得思考的觀點與框架</li>
+						<li><span class="nl-perk-icon">✨</span>不定期，但每封都用心寫</li>
+					</ul>
+				</div>
+				<!-- 右側：表單卡片 -->
+				<div class="nl-card">
+					<p class="nl-card-lead">加入讀者行列</p>
+					<form
+						class="nl-form"
+						action="https://buttondown.com/api/emails/embed-subscribe/lenny0929"
+						method="post"
+						target="popupwindow"
+						onsubmit="window.open('https://buttondown.com/lenny0929', 'popupwindow'); setTimeout(function(){ window.location.href='/thanks'; }, 1500);"
+					>
+						<input type="hidden" name="embed" value="1" />
 						<input
 							type="email"
 							name="email"
-							id="newsletter-email"
-							class="newsletter-input"
-							placeholder="你的 Email"
+							class="nl-input"
+							placeholder="your@email.com"
 							required
 						/>
-						<button type="submit" class="newsletter-btn">訂閱</button>
-					</div>
-					<p class="newsletter-note">免費訂閱，隨時可取消</p>
-				</form>
+						<button type="submit" class="nl-btn">免費訂閱 →</button>
+						<p class="nl-note">🔒 零垃圾信，隨時取消，完全免費</p>
+					</form>
+				</div>
 			</div>
 		</section>
 
@@ -623,85 +634,154 @@ main {
 }
 
 /* ── Newsletter ─────────────────────────────────────────────────── */
-.newsletter-section {
-	background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #1d4ed8 100%);
+.nl-section {
+	position: relative;
+	overflow: hidden;
+	background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #1e3a8a 100%);
 	padding: 5rem 1.5rem;
-	text-align: center;
 }
-.newsletter-inner {
-	max-width: 560px;
+.nl-blob {
+	position: absolute;
+	border-radius: 50%;
+	filter: blur(72px);
+	opacity: 0.25;
+	pointer-events: none;
+}
+.nl-blob-1 {
+	width: 480px; height: 480px;
+	background: #6366f1;
+	top: -160px; left: -120px;
+}
+.nl-blob-2 {
+	width: 380px; height: 380px;
+	background: #3b82f6;
+	bottom: -120px; right: -80px;
+}
+.nl-inner {
+	position: relative;
+	max-width: 900px;
 	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 3.5rem;
+	align-items: center;
 }
-.newsletter-icon {
-	font-size: 3rem;
-	margin-bottom: 1rem;
-	line-height: 1;
+/* 左側文案 */
+.nl-badge {
+	display: inline-block;
+	background: rgba(99, 102, 241, 0.3);
+	border: 1px solid rgba(99, 102, 241, 0.5);
+	color: #a5b4fc;
+	font-size: 0.78rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	padding: 0.3rem 0.9rem;
+	border-radius: 9999px;
+	margin-bottom: 1.25rem;
 }
-.newsletter-title {
-	font-size: clamp(1.6rem, 4vw, 2.2rem);
+.nl-title {
+	font-size: clamp(1.8rem, 3.5vw, 2.6rem);
 	font-weight: 900;
-	letter-spacing: -0.03em;
-	color: #ffffff;
-	margin: 0 0 1rem;
+	letter-spacing: -0.04em;
+	line-height: 1.2;
+	color: #f1f5f9;
+	margin: 0 0 1.25rem;
 }
-.newsletter-desc {
+.nl-accent {
+	background: linear-gradient(90deg, #818cf8, #38bdf8);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+.nl-desc {
 	font-size: 1rem;
-	color: #bfdbfe;
-	line-height: 1.7;
-	margin: 0 0 2rem;
+	color: #94a3b8;
+	line-height: 1.75;
+	margin: 0 0 1.75rem;
 }
-.newsletter-form {
+.nl-perks {
+	list-style: none;
+	padding: 0;
+	margin: 0;
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	gap: 0.75rem;
+	gap: 0.65rem;
 }
-.newsletter-input-group {
+.nl-perks li {
 	display: flex;
-	width: 100%;
-	max-width: 440px;
-	gap: 0.5rem;
+	align-items: center;
+	gap: 0.6rem;
+	font-size: 0.9rem;
+	color: #cbd5e1;
 }
-.newsletter-input {
-	flex: 1;
-	padding: 0.75rem 1.25rem;
-	border-radius: 9999px;
-	border: 2px solid rgba(255, 255, 255, 0.2);
-	background: rgba(255, 255, 255, 0.1);
-	color: #ffffff;
+.nl-perk-icon {
+	font-size: 1rem;
+	flex-shrink: 0;
+}
+/* 右側卡片 */
+.nl-card {
+	background: rgba(255, 255, 255, 0.05);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(12px);
+	border-radius: 1.5rem;
+	padding: 2.25rem 2rem;
+	box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255,255,255,0.08);
+}
+.nl-card-lead {
+	font-size: 1.05rem;
+	font-weight: 700;
+	color: #f1f5f9;
+	margin: 0 0 1.5rem;
+	text-align: center;
+}
+.nl-form {
+	display: flex;
+	flex-direction: column;
+	gap: 0.875rem;
+}
+.nl-input {
+	width: 100%;
+	padding: 0.875rem 1.25rem;
+	border-radius: 0.75rem;
+	border: 1.5px solid rgba(255, 255, 255, 0.15);
+	background: rgba(255, 255, 255, 0.07);
+	color: #f1f5f9;
 	font-size: 0.95rem;
 	outline: none;
-	transition: border-color 0.2s ease, background 0.2s ease;
+	transition: border-color 0.2s, background 0.2s;
+	box-sizing: border-box;
 }
-.newsletter-input::placeholder { color: #93c5fd; }
-.newsletter-input:focus {
-	border-color: rgba(255, 255, 255, 0.6);
-	background: rgba(255, 255, 255, 0.15);
+.nl-input::placeholder { color: #64748b; }
+.nl-input:focus {
+	border-color: #6366f1;
+	background: rgba(255, 255, 255, 0.1);
 }
-.newsletter-btn {
-	padding: 0.75rem 1.75rem;
-	border-radius: 9999px;
-	background: #ffffff;
-	color: #1e40af;
-	font-size: 0.95rem;
+.nl-btn {
+	width: 100%;
+	padding: 0.9rem 1.5rem;
+	border-radius: 0.75rem;
+	background: linear-gradient(135deg, #6366f1, #3b82f6);
+	color: #ffffff;
+	font-size: 1rem;
 	font-weight: 700;
 	border: none;
 	cursor: pointer;
 	transition: all 0.2s ease;
-	white-space: nowrap;
+	letter-spacing: 0.01em;
 }
-.newsletter-btn:hover {
-	background: #e0f2fe;
-	transform: translateY(-1px);
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+.nl-btn:hover {
+	background: linear-gradient(135deg, #4f46e5, #2563eb);
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(99, 102, 241, 0.45);
 }
-.newsletter-note {
-	font-size: 0.8rem;
-	color: #93c5fd;
+.nl-note {
+	font-size: 0.78rem;
+	color: #475569;
+	text-align: center;
 	margin: 0;
 }
-@media (max-width: 480px) {
-	.newsletter-input-group { flex-direction: column; }
-	.newsletter-input, .newsletter-btn { width: 100%; border-radius: 12px; }
+@media (max-width: 680px) {
+	.nl-inner { grid-template-columns: 1fr; gap: 2.5rem; }
+	.nl-title { font-size: 1.9rem; }
 }
 </style>
