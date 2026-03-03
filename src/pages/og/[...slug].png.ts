@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import satori from 'satori';
 import sharp from 'sharp';
 import { CATEGORY_EMOJI, SITE_TITLE } from '../../consts';
@@ -13,8 +14,8 @@ export async function getStaticPaths() {
 	}));
 }
 
-// Load CJK font once (IPA Gothic supports CJK/Chinese characters)
-const fontData = readFileSync('/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf');
+// Load CJK font from project root (cross-platform: works on Linux/Windows/Vercel)
+const fontData = readFileSync(join(process.cwd(), 'src/fonts/ipag.ttf'));
 
 export const GET: APIRoute = async ({ props }) => {
 	const { post } = props;
