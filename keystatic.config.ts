@@ -29,7 +29,7 @@ export default config({
 		blog: collection({
 			label: '文章',
 			slugField: 'title',
-			path: 'src/content/blog/**/*',
+			path: 'src/content/blog/**',
 			format: { contentField: 'content' },
 			entryLayout: 'content',
 			schema: {
