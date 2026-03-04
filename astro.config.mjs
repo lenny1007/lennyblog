@@ -5,16 +5,12 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
-import keystatic from '@keystatic/astro';
-
-const isProd = process.env.NODE_ENV === 'production';
 
 export default defineConfig({
 	site: 'https://lennychen.com',
 	integrations: [
 		mdx(),
 		react(),
-		...(!isProd ? [keystatic()] : []),
 		sitemap({
 			filter: (page) => !page.includes('/search'),
 			serialize(item) {
